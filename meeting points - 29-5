@@ -1,0 +1,37 @@
+Python tools:
+
+1. Newspaper 3k : 
+					to extract features, mainly for summarising the article.
+					cant be used directly as we dont require summary
+					has nlp tools to fetch keywords but we cant use them directly
+
+					sample output:
+
+[uArticle Written, uK S Kuppusamy]
+Article Publication Date:
+2016-02-14 12:25:28+00:00
+Major Image in the article:
+http://opensourceforu.com/wp-content/uploads/2016/01/ionic-html-and-Angular-js-visual2.jpg
+Keywords in the article
+[udevelopment, usmartphone, usimplify, umobile, uapps, uapp, uhybrid, uframework, uui, ubrowser, uionic, unative]
+ 
+ 
+Article Summary
+To assist developers in increasing the speed of app development, there are various app development frameworks.
+Native app testing (device): Another method to test the app is as the native app in the device. Ionic is a promising open source mobile UI framework that makes the hybrid app development process swifter and smoother. This article presents Ionic, which is a framework for hybrid mobile app development.
+So native app development requires specialized development teams.
+
+
+2. html2text :
+				extracts plain text from html pages
+				but if we use it then we will not be able to make use of html tags to classify data
+
+3. Other crawlers :
+
+news-please, boilerplate, Goose, readability
+
+
+
+Ques. Shall we parallely start info collection and visualisation
+
+***again show scrapy output and discuss possible direction where we should modify the scrapy output.
