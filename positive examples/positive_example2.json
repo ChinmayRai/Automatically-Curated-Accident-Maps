@@ -1,9 +1,4 @@
-import scrapy
-
-class HeadingSpider(scrapy.Spider):
-    name = "heading function"
-
-    start_urls = [
+[
 "http://timesofindia.indiatimes.com//city/chennai/two-cops-suffer-fracture-in-accidents/articleshow/62319936.cms",
 "http://timesofindia.indiatimes.com//city/rajkot/two-women-child-killed-in-accident/articleshow/62320008.cms",
 "http://timesofindia.indiatimes.com//city/chandigarh/7-killed-in-two-accidents/articleshow/62318662.cms",
@@ -90,32 +85,3 @@ class HeadingSpider(scrapy.Spider):
 "http://timesofindia.indiatimes.com/city/indore/tn-accident-main/articleshow/62561004.cms?",
 "http://timesofindia.indiatimes.com/city/ahmedabad/car-crashes-into-house-60-year-old-woman-killed/articleshow/62546542.cms?"
 ]
-
-    def parse(self, response):
-            title = response.xpath('//div[@class="main-content"]/section/h1/arttitle/text()').extract_first()
-            # title = response.xpath('//td[@align="left"]/span/a/text()').extract()
-            # location = response.xpath('//div[@id="artLocation"]/div/text()').extract_first()
-            # source = response.xpath('//div[@id="artSource"]/div/text()').extract_first()
-            # top_line = response.xpath('//div[@id="divArticleContent"]/text()').extract_first()
-            # lines = response.xpath('//div[@id="divArticleContent"]/p/text()').extract()
-        
-            yield {
-            'title' : title
-            }
-
-            # yield {
-            # 'title' : title,
-            # 'location' : location,
-            # 'source' : source,
-            # 'top-line':  top_line,
-            # 'lines':  lines,
-        # }
-
-    # def parse(self, response):
-    #         yield {
-    #         'title' : response.xpath('//div[@id="divTitle"]/text()').extract_first(),
-    #         'location' : response.xpath('//div[@id="artLocation"]/div/text()').extract_first(),
-    #         'source' : response.xpath('//div[@id="artSource"]/div/text()').extract_first(),
-    #         'top-line':  response.xpath('//div[@id="divArticleContent"]/text()').extract_first(),
-    #         'lines':  response.xpath('//div[@id="divArticleContent"]/p/text()').extract(),
-    #     }
