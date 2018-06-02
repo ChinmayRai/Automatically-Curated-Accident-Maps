@@ -11,3 +11,6 @@ Non ML Approach :
 1. Key word extraction
 2. Score Assignment
 3. Threshold guessing
+
+scrapy runspider news.py -o article.json
+scrapy runspider news.py -o article.jl
