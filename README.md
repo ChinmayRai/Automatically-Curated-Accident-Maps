@@ -14,3 +14,7 @@ Non ML Approach :
 
 scrapy runspider news.py -o article.json
 scrapy runspider news.py -o article.jl
+
+
+25may:
+"46-year-old cyclist dies in hit-and-run",
