@@ -1,0 +1,8 @@
+1. ML approach accuracy for diff approaches
+2. nonML subtraction approach
+3. common testing not done
+4. how else to experiment?
+5. how to remove prepositions, other common words from both approaches?
+
+6. Next step - key feature extraction from body of titles.
+			- want ML but how to influence ML to extract only accident related info?
