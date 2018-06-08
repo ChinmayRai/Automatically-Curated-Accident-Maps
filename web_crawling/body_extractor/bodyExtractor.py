@@ -9,13 +9,11 @@ class BodyExtractor(scrapy.Spider):
     j = json.loads(input)
     file_object.close()
 
-    urls = j[0]['urls']
-
     # start_urls = [
     #     'http://epaperbeta.timesofindia.com//Article.aspx?eid=31805&articlexml=Three-bikers-who-chased-lions-nabbed-10112017005029',
     # ]
-
-    start_urls = urls
+    
+    start_urls = j
 
     def parse(self, response):
         title = response.xpath('//div[@class="main-content"]/section/h1/arttitle/text()').extract_first()

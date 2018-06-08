@@ -2,6 +2,7 @@ import json
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import HashingVectorizer
 from sklearn.model_selection import GridSearchCV
+from sklearn.pipeline import Pipeline
 from nltk import word_tokenize          
 from nltk.stem import WordNetLemmatizer 
 from sklearn.datasets import fetch_20newsgroups
@@ -32,7 +33,7 @@ for i in k:
 stop= frozenset(["a", "the","all","up","at","to","by","of","for","as","from","our","held","\u","written","update","govt","Jan","January","Feb","March","April","May","June","July","aug","August","sept","oct","october","Nov","November","Dec","December",
 					"get","against","city","lakh","arrested","day","court","family","kapoor","government","khan","crore","BJP","PM","congress","modi","cbse","singh","first","here","delhi","mumbai","world","fire","schools"])
 #stop_words=stop,tokenizer=LemmaTokenizer()
-
+"""
 # create the transform
 vectorizer = CountVectorizer(ngram_range=(1, 2),token_pattern=r'\b\w+\b',stop_words=stop,tokenizer=LemmaTokenizer())
 #vectorizer=HashingVectorizer(n_features=2**12)
@@ -56,13 +57,27 @@ for x in range(1583,1937):
 
 
 clf = svm.SVC(C=58.25,gamma=0.0009)
+"""
 
-clf.fit(a,b)  
+#creating the array of labels
+b=[0]*(len(l))
+for x in range(1583,1937):
+	b[x]=1;
+
+
+
+text_clf = Pipeline([('vectorizer', CountVectorizer(ngram_range=(1, 2),token_pattern=r'\b\w+\b',stop_words=stop)),('clf', svm.SVC(C=58.25,gamma=0.0009))])
+
+
+text_clf.fit(l,b)  
+
+filename = 'finalized_model.sav'
+pickle.dump(text_clf, open(filename, 'wb'))
 
 """
-x=["Accident-prone Bypass back on Lalbazar radar"]
+x=["Two killed in an accident"]
 
-print(clf.predict((vectorizer.transform(x)).toarray()))
+print(text_clf.predict(x))
 
 """
 #test set
@@ -76,12 +91,7 @@ t=[]
 for i in p:
 	t.append(i)
 
-print(len(t))
-vec = vectorizer.transform(t)
-c=vec.toarray()
-
-b=clf.predict(c);
-
+b=text_clf.predict(t);
 
 h=[0]*(len(t))
 for x in range(888,1001):
@@ -111,5 +121,3 @@ f1=Fraction((pre*rec),(pre+rec))
 print("precision="+str(float(pre)))
 print("recall="+str(float(rec)))
 print("f1 score="+str(float(f1)))
-
-#print(metrics.classification_report(h, b,target_names=['accident news','non_accident news']))
