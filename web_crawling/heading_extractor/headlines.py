@@ -2,14 +2,14 @@ import os
 import json
 
 def extract(s):
-	# shell_command = 'scrapy runspider headings_spider.py -a ip=\"'
-	# shell_command += s
-	# shell_command += '\" -o headlines.json'
+	shell_command = 'scrapy runspider headings_spider.py -a ip=\"'
+	shell_command += s
+	shell_command += '\" -o headlines.json'
 
 	# print shell_command
 	# print "=============================================================================="
 
-	# os.system(shell_command)
+	os.system(shell_command)
 
 	file_object = open(r"headlines.json","r")
 	heads = file_object.read()
