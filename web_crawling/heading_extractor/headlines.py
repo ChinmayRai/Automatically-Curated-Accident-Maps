@@ -2,7 +2,7 @@ import os
 import json
 
 def extract(s):
-	shell_command = 'scrapy runspider headings_spider.py -a ip=\"'
+	shell_command = 'scrapy runspider headings_spider.py --nolog -a ip=\"'
 	shell_command += s
 	shell_command += '\" -o headlines.json'
 

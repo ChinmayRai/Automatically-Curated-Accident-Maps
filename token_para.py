@@ -8,5 +8,6 @@
 # print(nltk.sent_tokenize(data))
 
 from nltk import sent_tokenize
-
-sent_tokenize
+ 
+sentence = "My friend holds a Msc. in Computer Science."
+print sent_tokenize(sentence)
