@@ -20,17 +20,19 @@ def extract(s):
 	# print j[0]['url']
 	# print j[0]['title']
 	
+	return j[0]
 
-	l=[]
-	length = len(j[0]['url'])
-	for i in range(length):
-		d = dict()
-		d['url'] = j[0]['url'][i]
-		d['title'] = j[0]['title'][i]
+# uncomment if you want array of dictionaries where each dictionary has 'url' and 'title'
+	# l=[]
+	# length = len(j[0]['url'])
+	# for i in range(length):
+	# 	d = dict()
+	# 	d['url'] = j[0]['url'][i]
+	# 	d['title'] = j[0]['title'][i]
 
-		if(d['title']):
-			l.append(d)
+	# 	if(d['title']):
+	# 		l.append(d)
 
-	return l
+	# return l
 
 # os.system('scrapy runspider sp.py -a ip="2018/5/26/archivelist/year-2018,month-5,starttime-43246.cms" -o a.json')
