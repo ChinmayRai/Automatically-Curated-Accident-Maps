@@ -21,19 +21,3 @@ class QuotesSpider(scrapy.Spider):
             'url' : url
             }
 
-            # yield {
-            # 'title' : title,
-            # 'location' : location,
-            # 'source' : source,
-            # 'top-line':  top_line,
-            # 'lines':  lines,
-        # }
-
-    # def parse(self, response):
-    #         yield {
-    #         'title' : response.xpath('//div[@id="divTitle"]/text()').extract_first(),
-    #         'location' : response.xpath('//div[@id="artLocation"]/div/text()').extract_first(),
-    #         'source' : response.xpath('//div[@id="artSource"]/div/text()').extract_first(),
-    #         'top-line':  response.xpath('//div[@id="divArticleContent"]/text()').extract_first(),
-    #         'lines':  response.xpath('//div[@id="divArticleContent"]/p/text()').extract(),
-    #     }
