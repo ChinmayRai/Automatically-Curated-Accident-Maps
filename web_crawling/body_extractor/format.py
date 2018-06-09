@@ -37,7 +37,7 @@ for i in range(len(l)):
 data = {"body" : body}
 
 jsonData = json.dumps(data)
-print jsonData
+# print jsonData
 
 with open('paragraphs.json','w') as f:
 	json.dump(jsonData,f)
