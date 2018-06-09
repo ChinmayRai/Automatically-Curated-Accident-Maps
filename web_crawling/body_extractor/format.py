@@ -29,5 +29,17 @@ for i in range(len(l)):
 		s += line
 	body[i] = remove_newlines(s)
 
-for i in body:
-	print i
+# for i in body:
+# 	print i
+
+data = {"body" : body}
+
+jsonData = json.dumps(data)
+print jsonData
+
+with open('paragraphs.json','w') as f:
+	json.dump(jsonData,f)
+
+# file_object = open("paragraphs.json","w")
+# file_object.write(json.dumps(data,ensure_acsii=False))
+# file_object.close()
