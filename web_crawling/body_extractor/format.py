@@ -19,7 +19,9 @@ file_object.close()
 
 l=[]
 for i in j:
-	l.append(i['lines'])
+	lines = i['lines']
+	if(len(lines)>0):
+		l.append(lines)
 
 body = ['']*len(l)
 
