@@ -3,9 +3,7 @@
 TO DOs:
 1. make list of list of (title,body)
 2. Parsing paragraph into Sentences
-3. improvise ML approach by including negative examples
-4. nonML approach accuracy test using ml approach training set
-
+3. nonML approach accuracy test using ml approach training set
 
 
 Non ML Approach :

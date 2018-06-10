@@ -1,5 +1,6 @@
 import os
 import json
+import time
 
 def extract(s):
 	shell_command = 'scrapy runspider body_spider.py --nolog -a ip=\"'
@@ -9,25 +10,40 @@ def extract(s):
 	print shell_command
 	print "=============================================================================="
 
-	# file_object = open("body.json","w+").close
-	# os.system(shell_command)
+	file_object = open("body.json","w+").close
+	os.system(shell_command)
+
+	# i=0
+	# while(os.stat("body.json").st_size == 0):
+	# 	time.sleep(1)
+	# 	i+=1
+	# 	print i
 
 	file_object = open(r"body.json","r")
 	body = file_object.read()
+	file_object.close()
+	# print (os.stat("body.json").st_size == 0)
 
-	try:
+	if(len(body)>0):
 		j = json.loads(body)
 		return j[0]
-	except ValueError as e:
-		print e
-		print body
-		print "================"
+	else:
+		return []
+
+	# try:
+	# 	j = json.loads(body)
+	# 	return j[0]
+	# except ValueError as e:
+	# 	print e
+	# 	print body
+	# 	print len(body)
+	# 	print "================"
 
 
 	# j = json.loads(body)
 	# return j[0]
 
-	file_object.close()
+
 
 	# print len(j[0]['title'])
 	# print j[0]['url']

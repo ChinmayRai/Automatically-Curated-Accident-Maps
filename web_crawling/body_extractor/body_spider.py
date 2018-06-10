@@ -40,3 +40,10 @@ class BodyExtractor(scrapy.Spider):
 
 
 # os.system('scrapy runspider sp.py -a ip="2018/5/26/archivelist/year-2018,month-5,starttime-43246.cms" -o a.json')
+
+    # def closed( self, reason ):
+    #     # will be called when the crawler process ends
+    #     # any code 
+    #     # do something with collected data 
+    #     for i in self.spider_attr: 
+    #         print i
