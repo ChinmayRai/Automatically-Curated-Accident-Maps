@@ -6,22 +6,33 @@ def extract(s):
 	shell_command += s
 	shell_command += '\" -o body.json'
 
-	# print shell_command
-	# print "=============================================================================="
+	print shell_command
+	print "=============================================================================="
 
-	file_object = open("body.json","w+").close
-	os.system(shell_command)
+	# file_object = open("body.json","w+").close
+	# os.system(shell_command)
 
 	file_object = open(r"body.json","r")
 	body = file_object.read()
-	j = json.loads(body)
+
+	try:
+		j = json.loads(body)
+		return j[0]
+	except ValueError as e:
+		print e
+		print body
+		print "================"
+
+
+	# j = json.loads(body)
+	# return j[0]
+
 	file_object.close()
 
 	# print len(j[0]['title'])
 	# print j[0]['url']
 	# print j[0]['title']
 	
-	return j[0]
 
 # uncomment if you want array of dictionaries where each dictionary has 'url' and 'title'
 	# l=[]

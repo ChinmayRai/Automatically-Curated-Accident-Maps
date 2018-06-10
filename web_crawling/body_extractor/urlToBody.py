@@ -1,6 +1,9 @@
 import bodyFormator
 import format
 import json
+import time
+
+start = time.time()
 
 file_object = open(r"june_2017.json","r")
 urls = file_object.read()
@@ -31,3 +34,7 @@ for date in range(len(urls)):
 
 with open('june_2017_output.json', 'w+') as outfile:
     json.dump(month, outfile)
+
+
+end = time.time()
+print "total time = " + str(round(end - start,2)) + " sec"
