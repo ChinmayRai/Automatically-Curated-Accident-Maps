@@ -28,7 +28,7 @@ def extract(s):
 		j = json.loads(body)
 		return j[0]
 	else:
-		return []
+		return {}
 
 	# try:
 	# 	j = json.loads(body)

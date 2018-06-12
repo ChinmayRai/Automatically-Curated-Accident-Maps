@@ -2,7 +2,6 @@ import bodyFormator
 import format
 import json
 import time
-# import pdb
 
 start = time.time()
 
@@ -19,10 +18,11 @@ for date in range(len(urls)):
 	day = []
 	for url in urls[date]:
 		b = bodyFormator.extract(url)
-		d = dict()
-		d['title'] = b['title']
-		d['body'] = format.remove_newlines(b['lines'])
-		day.append(d)
+		if (b!={}):
+			d = dict()
+			d['title'] = b['title']
+			d['body'] = format.remove_newlines(b['lines'])
+			day.append(d)
 
 	print "day " + str(date+1) + " over"
 	month.append(day)
