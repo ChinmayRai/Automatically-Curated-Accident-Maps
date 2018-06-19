@@ -1,0 +1,48 @@
+
+1) NLTK sentence tokeniser:
+
+input : 
+"Ponda: Vithu Betkikar, 60, from Kulkarniwada in Betki, died on Friday morning when the scooter he was riding was hit by an oncoming car at Mardol, Ponda. Betkikar was proceeding towards Kundaim.Another scooterist, 32-year-old Maruti Polekar from Usgao, too, was knocked down in the accident and severely injured. He was rushed to the sub district hospital in Ponda, police said.The driver of the car, Suresh Biradar, 30, from Usgao, was arrested late Friday evening and booked for causing death, injury, and endangering lives due to rash and negligent driving."
+
+output : 
+Ponda: Vithu Betkikar, 60, from Kulkarniwada in Betki, died on Friday morning when the scooter he was riding was hit by an oncoming car at Mardol, Ponda.
+
+Betkikar was proceeding towards Kundaim.Another scooterist, 32-year-old Maruti Polekar from Usgao, too, was knocked down in the accident and severely injured.
+
+He was rushed to the sub district hospital in Ponda, police said.The driver of the car, Suresh Biradar, 30, from Usgao, was arrested late Friday evening and booked for causing death, injury, and endangering lives due to rash and negligent driving.
+
+
+-> No space after 3rd sentence so 3rd and 4th sentence are not seperated. If we introduce space, then they are seperated. 
+====== no soln right now
+
+
+3) Tricky things to watch out : no direct reference
+
+ Implied container reference: “The state of Maryland is a place of history. The capital, Annapolis, was founded in 1649.”
+
+ 4) N-grams - take continuous words only so are always O(n)
+
+ 5) problem with POS using predefined vocab - same word can occur as noun/verb
+
+ Micro-Understanding - POS tagging - 3 approaches : 
+ a) Top Down : understand and diagram the sentence, complex ,
+ b) bottom up : we provide lots of rules and tags based on them
+ c) Statistical : we provide tagged examples, ML , requires training corpus -  "Brown University Standard Corpus of Present-Day American English (or just the Brown Corpus)"
+
+ 6) Conditional Random Field :
+ 	- training complexity is very high
+ 	- doesn't work with unknown words (that are not present in training set)
+
+ 	- Stanford NER is based on CRF
+ 	- pyStruct - python lib
+ 	- not good for keyword extraction bcoz fails on new words
+ 	- good for NER - F1 : 0.7 to 0.85 - high
+
+
+
+
+
+====================================
+seperate the reporting location
+identify locations using NER
+categorize locations into countries, city or street
