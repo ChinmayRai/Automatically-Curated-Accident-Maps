@@ -1,7 +1,7 @@
 import scrapy
 
 class QuotesSpider(scrapy.Spider):
-    name = "news"
+    name = "headings"
 
     start_urls = [
         'https://timesofindia.indiatimes.com/2018/5/26/archivelist/year-2018,month-5,starttime-43246.cms',
