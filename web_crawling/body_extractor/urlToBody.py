@@ -5,7 +5,7 @@ import time
 
 start = time.time()
 
-file_object = open(r"may_2017.json","r")
+file_object = open(r"june_2017.json","r")
 urls = file_object.read()
 urls = json.loads(urls)
 file_object.close()
@@ -34,7 +34,7 @@ for date in range(len(urls)):
 # file_object.write(month)
 # file_object.close()
 
-with open('may_2017_output.json', 'w+') as outfile:
+with open('june_2017_output.json', 'w+') as outfile:
     json.dump(month, outfile)
 
 
