@@ -20,10 +20,12 @@ class BodyExtractor(scrapy.Spider):
     def parse(self, response):
         title = response.xpath('//div[@class="main-content"]/section/h1/arttitle/text()').extract_first()
         lines = response.xpath('//div[@class="Normal"]/text()').extract()
-    
+    	links = response.xpath('//div[@class="Normal"]/a/text()').extract()
+
         yield {
         'title' : title,
-        'lines':  lines,
+        'lines' :  lines,
+        'links' : links,
     }
 
 
