@@ -21,7 +21,8 @@ for date in range(len(urls)):
 		if (b!={}):
 			d = dict()
 			d['title'] = b['title']
-			d['body'] = format.remove_newlines(b['lines'])
+			withLinks = z=format.add_links(b['lines'],b['links'])
+			d['body'] = format.remove_newlines(withLinks)
 			day.append(d)
 
 	print "day " + str(date+1) + " over"

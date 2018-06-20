@@ -1,9 +1,21 @@
 import json
 
-def remove_newlines(l):
+def add_links(lines,links):
+	i=0;
 	s=""
-	for line in l:
+	for line in lines:
 		s += line
+		if(len(links)>i and line[len(line)-1]!='\n'):
+			s+=links[i]
+			i+=1
+
+	return s 
+
+
+def remove_newlines(s):
+	# s=""
+	# for line in l:
+	# 	s += line
 		
 	s2 = ""
 	for i in range(len(s)):
