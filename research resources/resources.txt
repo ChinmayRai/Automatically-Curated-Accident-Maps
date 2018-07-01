@@ -1,0 +1,38 @@
+some links for gazetteer:
+
+http://www.fallingrain.com/world/IN/
+
+http://worldpostmarks.net/HTML%20Countries/IndiaandStates.htm
+
+https://wiki.fibis.org/w/Gazetteers
+
+http://dsal.uchicago.edu/reference/gazetteer/
+
+https://www.familysearch.org/wiki/en/India_Gazetteers
+
+https://github.com/halolimat/LNEx
+
+https://github.com/kiselev-dv/gazetteer
+
+some reasearch paper:
+
+https://arxiv.org/pdf/1708.03105.pdf
+http://www.aclweb.org/anthology/I08-7002
+
+
+some tools:
+https://github.com/halolimat/LNEx
+Geolocator 3.0
+geoparsepy
+OpenNLP
+DBpedia spotlight
+Google NLP
+
+Summarizer:
+https://open.blockspring.com/jjangsangy/summarize-text
+https://smmry.com/
+https://www.textcompactor.com/
+https://www.tools4noobs.com/summarize/
+http://autosummarizer.com/
+
+
