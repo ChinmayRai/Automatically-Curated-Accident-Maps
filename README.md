@@ -23,6 +23,7 @@ Issues:
 
 Negative Examples(May 2017):
 1. day12, art1
+4-year-old girl maimed in truck mishap gets Rs 6 lakh compensation.
 
 
 
