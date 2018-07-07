@@ -25,7 +25,8 @@ Negative Examples(May 2017):
 1. Woman who lost kin in road accident made Swachh ambassador
 2. Man claims his car was stolen on SG Road
 3. On the road: Prevent a car blaze, get vehicle serviced at right place
-4. 
+4. 4-year-old girl maimed in truck mishap gets Rs 6 lakh compensation.
+5. 
 
 	
 Postponed for fine-tuning afterwards:
