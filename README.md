@@ -3,7 +3,6 @@
 TO DOs:
 
 keshav mail - detailed mail, how to build our system, get advice,	ask about word shapes features
-prachi mail - confirm meeting
 mausam search 	- word shape, does stanNER has it
 				- regarding indan NER datasets
 
@@ -17,6 +16,15 @@ mausam search 	- word shape, does stanNER has it
 
 
 how to filter out sentences on which to run NER - summarization tools filter out sentences containing facts
+
+Issues:
+1. body output - may 2017 - day11, article 0 - body has numbers 1 to 6 in it.
+2. 
+
+Negative Examples(May 2017):
+1. day12, art1
+
+
 
 Postponed for fine-tuning afterwards:
 1. nonML approach accuracy test using ml approach training set
