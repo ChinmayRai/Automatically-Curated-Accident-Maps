@@ -22,10 +22,12 @@ Issues:
 2. 
 
 Negative Examples(May 2017):
-1. day12, art1
+1. Woman who lost kin in road accident made Swachh ambassador
+2. Man claims his car was stolen on SG Road
+3. On the road: Prevent a car blaze, get vehicle serviced at right place
+4. 
 
-
-
+	
 Postponed for fine-tuning afterwards:
 1. nonML approach accuracy test using ml approach training set
 2.	Non ML Approach :
