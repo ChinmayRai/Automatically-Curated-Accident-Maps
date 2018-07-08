@@ -26,8 +26,11 @@ Negative Examples(May 2017):
 2. Man claims his car was stolen on SG Road
 3. On the road: Prevent a car blaze, get vehicle serviced at right place
 4. 4-year-old girl maimed in truck mishap gets Rs 6 lakh compensation.
-5. 
-
+5. Retired colonel told to pay 14 lakh relief to accident victim's kin
+6. HC raises relief to family of Vizag accident victim
+7. Drunk crane driver falls into nala, dies
+8. Chemical accident: 1 dead, 4 critical
+9.
 	
 Postponed for fine-tuning afterwards:
 1. nonML approach accuracy test using ml approach training set
