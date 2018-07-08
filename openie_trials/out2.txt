@@ -1,0 +1,1057 @@
+was crushed  ->  be crush  ->  crush
+hit  ->  hit  ->  hit
+died  ->  die  ->  die
+were admitted  ->  be admit  ->  admit
+suffered  ->  suffer  ->  suffer
+rammed  ->  ram  ->  ram
+sustained  ->  sustain  ->  sustain
+was killed  ->  be kill  ->  kill
+-------------------------
+was hit  ->  be hit  ->  hit
+died  ->  die  ->  die
+after dropping  ->  after drop  ->  after drop
+was  ->  be  -> 
+identified  ->  identify  ->  identify
+took  ->  take  ->  take
+-------------------------
+after being mowed down  ->  after be mow down  ->  mow down
+was killed  ->  be kill  ->  kill
+happened  ->  happen  ->  happen
+happened  ->  happen  ->  happen
+-------------------------
+received  ->  receive  ->  receive
+died  ->  die  ->  die
+attending  ->  attend  ->  attend
+carrying  ->  carry  ->  carry
+hit  ->  hit  ->  hit
+turned  ->  turn  ->  turn
+-------------------------
+plunged  ->  plunge  ->  plunge
+were injured  ->  be injure  ->  injure
+rammed  ->  ram  ->  ram
+were injured  ->  be injure  ->  injure
+died  ->  die  ->  die
+-------------------------
+landing  ->  land  ->  land
+ended  ->  end  ->  end
+ended abruptly  ->  end abruptly  ->  end
+were headed towards  ->  be head towards  ->  head towards
+met  ->  meet  ->  meet
+were headed  ->  be head  ->  head
+had cut  ->  have cut  ->  have cut
+had cut  ->  have cut  ->  have cut
+crammed  ->  cram  ->  cram
+-------------------------
+was fatally knocked down  ->  be fatally knock down  ->  knock down
+said  ->  say  ->  say
+was riding  ->  be rid  ->  rid
+said  ->  say  ->  say
+occurred  ->  occur  ->  occur
+became  ->  become  ->  become
+-------------------------
+ploughed  ->  plough  ->  plough
+were critically injured  ->  be critically injure  ->  injure
+died  ->  die  ->  die
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+occurred  ->  occur  ->  occur
+occurred  ->  occur  ->  occur
+were injured  ->  be injure  ->  injure
+was killed  ->  be kill  ->  kill
+was run over  ->  be run over  ->  run over
+fell off  ->  fell off  ->  fell off
+skid  ->  skid  ->  skid
+fell off  ->  fell off  ->  fell off
+took  ->  take  ->  take
+overtaking  ->  overtake  ->  overtake
+rammed  ->  ram  ->  ram
+took  ->  take  ->  take
+-------------------------
+suffered  ->  suffer  ->  suffer
+before falling  ->  before fall  ->  before fall
+skidded  ->  skid  ->  skid
+suffered  ->  suffer  ->  suffer
+suffered  ->  suffer  ->  suffer
+before turning  ->  before turn  ->  before turn
+skidded  ->  skid  ->  skid
+suffered  ->  suffer  ->  suffer
+-------------------------
+were travelling  ->  be travel  ->  travel
+sustained  ->  sustain  ->  sustain
+was killed  ->  be kill  ->  kill
+-------------------------
+torched  ->  torch  ->  torch
+went  ->  go  ->  go
+enraged  ->  enrage  ->  enrage
+-------------------------
+fell  ->  fell  ->  fell
+landed  ->  land  ->  land
+along rammed  ->  along ram  ->  along ram
+-------------------------
+were hit  ->  be hit  ->  hit
+suffered  ->  suffer  ->  suffer
+died  ->  die  ->  die
+standing  ->  stand  ->  stand
+rammed  ->  ram  ->  ram
+driven  ->  drive  ->  drive
+-------------------------
+fell  ->  fell  ->  fell
+were travelling  ->  be travel  ->  travel
+were killed  ->  be kill  ->  kill
+returning  ->  return  ->  return
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+met  ->  meet  ->  meet
+were travelling  ->  be travel  ->  travel
+were injured late  ->  be injure late  ->  injure late
+-------------------------
+was crossing  ->  be cross  ->  cross
+hit  ->  hit  ->  hit
+was killed  ->  be kill  ->  kill
+-------------------------
+were  ->  be  -> 
+collided  ->  collide  ->  collide
+was killed  ->  be kill  ->  kill
+-------------------------
+rammed  ->  ram  ->  ram
+were injured  ->  be injure  ->  injure
+-------------------------
+rammed  ->  ram  ->  ram
+were injured  ->  be injure  ->  injure
+-------------------------
+crashed  ->  crash  ->  crash
+were seriously injured  ->  be seriously injure  ->  injure
+died  ->  die  ->  die
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+died  ->  die  ->  die
+was orphaned  ->  be orphan  ->  orphan
+died  ->  die  ->  die
+was orphaned  ->  be orphan  ->  orphan
+slowed  ->  slow  ->  slow
+took  ->  take  ->  take
+was suffering  ->  be suffer  ->  suffer
+to buy  ->  to buy  ->  to buy
+stopped  ->  stop  ->  stop
+-------------------------
+succumbed  ->  succumb  ->  succumb
+was injured  ->  be injure  ->  injure
+hired  ->  hire  ->  hire
+was returning  ->  be return  ->  return
+was severely injured  ->  be severely injure  ->  injure
+collided  ->  collide  ->  collide
+-------------------------
+died  ->  die  ->  die
+turned  ->  turn  ->  turn
+plunged  ->  plunge  ->  plunge
+were travelling  ->  be travel  ->  travel
+were returning  ->  be return  ->  return
+-------------------------
+hit  ->  hit  ->  hit
+were travelling  ->  be travel  ->  travel
+were killed  ->  be kill  ->  kill
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+were travelling  ->  be travel  ->  travel
+was seriously injured  ->  be seriously injure  ->  injure
+were killed  ->  be kill  ->  kill
+-------------------------
+was killed  ->  be kill  ->  kill
+carrying  ->  carry  ->  carry
+walking  ->  walk  ->  walk
+was hit  ->  be hit  ->  hit
+died  ->  die  ->  die
+walking  ->  walk  ->  walk
+was hit  ->  be hit  ->  hit
+died  ->  die  ->  die
+-------------------------
+took  ->  take  ->  take
+ferrying  ->  ferry  ->  ferry
+drove  ->  drive  ->  drive
+was returning  ->  be return  ->  return
+carrying  ->  carry  ->  carry
+-------------------------
+hit median  ->  hit median  ->  hit median
+injured  ->  injure  ->  injure
+was killed  ->  be kill  ->  kill
+-------------------------
+rammed a motorcyclist killing  ->  ram a motorcyclist kill  ->  ram a motorcyclist kill
+rammed  ->  ram  ->  ram
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+lost  ->  lose  ->  lose
+-------------------------
+injured respectively  ->  injure respectively  ->  injure
+injured respectively  ->  injure respectively  ->  injure
+injured respectively  ->  injure respectively  ->  injure
+injured respectively  ->  injure respectively  ->  injure
+were killed  ->  be kill  ->  kill
+rammed into a renault duster near iffco chowk carrying  ->  ram into a renault duster near iffco chowk carry  ->  ram into a renault duster near iffco chowk carry
+rammed  ->  ram  ->  ram
+said  ->  say  ->  say
+crashed  ->  crash  ->  crash
+-------------------------
+was killed  ->  be kill  ->  kill
+were injured in  ->  be injure in  ->  injure in
+took  ->  take  ->  take
+were injured  ->  be injure  ->  injure
+-------------------------
+hit  ->  hit  ->  hit
+died  ->  die  ->  die
+-------------------------
+fell  ->  fell  ->  fell
+died  ->  die  ->  die
+-------------------------
+rammed  ->  ram  ->  ram
+were travelling  ->  be travel  ->  travel
+injured  ->  injure  ->  injure
+rammed  ->  ram  ->  ram
+-------------------------
+was hit  ->  be hit  ->  hit
+was riding  ->  be rid  ->  rid
+-------------------------
+took  ->  take  ->  take
+died  ->  die  ->  die
+-------------------------
+caved in  ->  cave in  ->  cave in
+developed  ->  develop  ->  develop
+was injured  ->  be injure  ->  injure
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+were sleeping  ->  be sleep  ->  sleep
+were run over  ->  be run over  ->  run over
+-------------------------
+smashed  ->  smash  ->  smash
+lost  ->  lose  ->  lose
+were hospitalized  ->  be hospitalize  ->  hospitalize
+were hit  ->  be hit  ->  hit
+-------------------------
+was mowed  ->  be mow  ->  mow
+-------------------------
+rammed  ->  ram  ->  ram
+were injured  ->  be injure  ->  injure
+died  ->  die  ->  die
+-------------------------
+fell  ->  fell  ->  fell
+had  ->  have  ->  have
+was killed  ->  be kill  ->  kill
+running  ->  run  ->  run
+took  ->  take  ->  take
+-------------------------
+made  ->  make  ->  make
+am causing  ->  be cause  ->  cause
+resulted  ->  result  ->  result
+am causing  ->  be cause  ->  cause
+collided  ->  collide  ->  collide
+-------------------------
+fell  ->  fell  ->  fell
+were travelling  ->  be travel  ->  travel
+injured  ->  injure  ->  injure
+were killed  ->  be kill  ->  kill
+began  ->  begin  ->  begin
+-------------------------
+were travelling plunged  ->  be travel plunge  ->  travel plunge
+suffered  ->  suffer  ->  suffer
+was killed  ->  be kill  ->  kill
+-------------------------
+overturned  ->  overturn  ->  overturn
+were travelling  ->  be travel  ->  travel
+were injured  ->  be injure  ->  injure
+were killed  ->  be kill  ->  kill
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+hit  ->  hit  ->  hit
+sustained  ->  sustain  ->  sustain
+sustained  ->  sustain  ->  sustain
+hit  ->  hit  ->  hit
+sustained  ->  sustain  ->  sustain
+were killed  ->  be kill  ->  kill
+-------------------------
+received  ->  receive  ->  receive
+received  ->  receive  ->  receive
+died  ->  die  ->  die
+identified  ->  identify  ->  identify
+was hit  ->  be hit  ->  hit
+was travelling  ->  be travel  ->  travel
+took  ->  take  ->  take
+sustained  ->  sustain  ->  sustain
+-------------------------
+was deliberately run over  ->  be deliberately run over  ->  run over
+was smashed  ->  be smash  ->  smash
+was dragged  ->  be drag  ->  drag
+was allegedly beaten up  ->  be allegedly beat up  ->  beat up
+spiraled  ->  spiral  ->  spiral
+-------------------------
+crashed  ->  crash  ->  crash
+spilt  ->  spill  ->  spill
+skidded  ->  skid  ->  skid
+were injured  ->  be injure  ->  injure
+were killed  ->  be kill  ->  kill
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+were injured  ->  be injure  ->  injure
+died  ->  die  ->  die
+-------------------------
+got entangled  ->  get entangle  ->  get entangle
+got  ->  get  ->  get
+fell  ->  fell  ->  fell
+died  ->  die  ->  die
+riding  ->  rid  ->  rid
+occurred  ->  occur  ->  occur
+-------------------------
+occurred  ->  occur  ->  occur
+occurred  ->  occur  ->  occur
+rammed into a hyundai xcent injuring  ->  ram into a hyundai xcent injure  ->  ram into a hyundai xcent injure
+occurred  ->  occur  ->  occur
+mowed down  ->  mow down  ->  mow down
+injuring  ->  injure  ->  injure
+occurred  ->  occur  ->  occur
+occurred  ->  occur  ->  occur
+headed  ->  head  ->  head
+rammed into a hyundai xcent injuring  ->  ram into a hyundai xcent injure  ->  ram into a hyundai xcent injure
+rammed  ->  ram  ->  ram
+was hit  ->  be hit  ->  hit
+occurred  ->  occur  ->  occur
+was driving  ->  be drive  ->  drive
+mowed down  ->  mow down  ->  mow down
+-------------------------
+killed  ->  kill  ->  kill
+ended tragically  ->  end tragically  ->  end
+was  ->  be  -> 
+was  ->  be  -> 
+-------------------------
+rammed  ->  ram  ->  ram
+injured  ->  injure  ->  injure
+were killed  ->  be kill  ->  kill
+-------------------------
+overturned subsequent  ->  overturn subsequent  ->  overturn subsequent
+injured  ->  injure  ->  injure
+were killed  ->  be kill  ->  kill
+-------------------------
+succumbed  ->  succumb  ->  succumb
+said  ->  say  ->  say
+succumbed  ->  succumb  ->  succumb
+said  ->  say  ->  say
+was hit  ->  be hit  ->  hit
+-------------------------
+were riding  ->  be rid  ->  rid
+dragged  ->  drag  ->  drag
+suffered  ->  suffer  ->  suffer
+died  ->  die  ->  die
+-------------------------
+got engulfed  ->  get engulf  ->  get engulf
+got  ->  get  ->  get
+died  ->  die  ->  die
+died  ->  die  ->  die
+died got engulfed  ->  die get engulf  ->  die get engulf
+got  ->  get  ->  get
+overturned  ->  overturn  ->  overturn
+died  ->  die  ->  die
+-------------------------
+turned  ->  turn  ->  turn
+had crashed  ->  have crash  ->  have crash
+killed  ->  kill  ->  kill
+killed  ->  kill  ->  kill
+severely injured  ->  severely injure  ->  injure
+was  ->  be  -> 
+left  ->  leave  ->  leave
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+crashed  ->  crash  ->  crash
+lost  ->  lose  ->  lose
+dozed off  ->  doze off  ->  doze off
+took  ->  take  ->  take
+-------------------------
+were killed  ->  be kill  ->  kill
+were killed  ->  be kill  ->  kill
+-------------------------
+died  ->  die  ->  die
+died  ->  die  ->  die
+died  ->  die  ->  die
+died  ->  die  ->  die
+was hit  ->  be hit  ->  hit
+was returning  ->  be return  ->  return
+identified  ->  identify  ->  identify
+happened  ->  happen  ->  happen
+rammed  ->  ram  ->  ram
+was killed  ->  be kill  ->  kill
+-------------------------
+injured  ->  injure  ->  injure
+injured  ->  injure  ->  injure
+-------------------------
+were killed  ->  be kill  ->  kill
+being driven  ->  be drive  ->  drive
+rammed  ->  ram  ->  ram
+were killed  ->  be kill  ->  kill
+-------------------------
+were killed  ->  be kill  ->  kill
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+collided  ->  collide  ->  collide
+was injured  ->  be injure  ->  injure
+died  ->  die  ->  die
+-------------------------
+rammed  ->  ram  ->  ram
+died  ->  die  ->  die
+rammed  ->  ram  ->  ram
+was returning  ->  be return  ->  return
+lost  ->  lose  ->  lose
+was returning  ->  be return  ->  return
+-------------------------
+fell off  ->  fell off  ->  fell off
+were travelling  ->  be travel  ->  travel
+injured  ->  injure  ->  injure
+were killed  ->  be kill  ->  kill
+took  ->  take  ->  take
+were travelling  ->  be travel  ->  travel
+died  ->  die  ->  die
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+was followed  ->  be follow  ->  follow
+to reach  ->  to reach  ->  to reach
+was  ->  be  -> 
+had  ->  have  ->  have
+'s  ->  's  ->  's
+killed  ->  kill  ->  kill
+'s  ->  's  ->  's
+was  ->  be  -> 
+was  ->  be  -> 
+could be heard  ->  could be hear  ->  hear
+was woken up  ->  be wake up  ->  wake up
+-------------------------
+was crushed  ->  be crush  ->  crush
+-------------------------
+being hit  ->  be hit  ->  hit
+died  ->  die  ->  die
+hit  ->  hit  ->  hit
+suffered  ->  suffer  ->  suffer
+took  ->  take  ->  take
+-------------------------
+was crushed  ->  be crush  ->  crush
+pelted  ->  pelt  ->  pelt
+set  ->  set  ->  set
+-------------------------
+decided to eclare  ->  decide to eclare  ->  decide to eclare
+decided  ->  decide  ->  decide
+aused  ->  aused  ->  aused
+was killed  ->  be kill  ->  kill
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+died  ->  die  ->  die
+-------------------------
+died  ->  die  ->  die
+-------------------------
+died rammed  ->  die ram  ->  die ram
+lost  ->  lose  ->  lose
+died  ->  die  ->  die
+-------------------------
+were  ->  be  -> 
+were  ->  be  -> 
+were  ->  be  -> 
+seek  ->  seek  ->  seek
+pray  ->  pray  ->  pray
+were  ->  be  -> 
+were speeding down  ->  be speed down  ->  speed down
+-------------------------
+were killed  ->  be kill  ->  kill
+-------------------------
+crashed  ->  crash  ->  crash
+were severely injured  ->  be severely injure  ->  injure
+was killed  ->  be kill  ->  kill
+-------------------------
+rammed  ->  ram  ->  ram
+were critically injured  ->  be critically injure  ->  injure
+were killed  ->  be kill  ->  kill
+-------------------------
+to attend  ->  to attend  ->  to attend
+were  ->  be  -> 
+suffered  ->  suffer  ->  suffer
+died  ->  die  ->  die
+employed  ->  employ  ->  employ
+lost  ->  lose  ->  lose
+-------------------------
+were killed  ->  be kill  ->  kill
+were killed  ->  be kill  ->  kill
+were travelling rammed  ->  be travel ram  ->  travel ram
+grievously injured  ->  grievously injure  ->  injure
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+was hit  ->  be hit  ->  hit
+were travelling  ->  be travel  ->  travel
+seriously injured  ->  seriously injure  ->  injure
+died  ->  die  ->  die
+-------------------------
+suffered  ->  suffer  ->  suffer
+died  ->  die  ->  die
+took  ->  take  ->  take
+-------------------------
+occurred  ->  occur  ->  occur
+collided  ->  collide  ->  collide
+died  ->  die  ->  die
+was rushed  ->  be rush  ->  rush
+was also injured  ->  be also injure  ->  also injure
+identified  ->  identify  ->  identify
+-------------------------
+were killed  ->  be kill  ->  kill
+turned  ->  turn  ->  turn
+lost  ->  lose  ->  lose
+said  ->  say  ->  say
+burst  ->  burst  ->  burst
+said  ->  say  ->  say
+-------------------------
+was killed  ->  be kill  ->  kill
+was hit  ->  be hit  ->  hit
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+were cycling  ->  be cycle  ->  cycle
+after coming  ->  after come  ->  after come
+critically injured  ->  critically injure  ->  injure
+was killed  ->  be kill  ->  kill
+-------------------------
+crashed  ->  crash  ->  crash
+were travelling  ->  be travel  ->  travel
+injured  ->  injure  ->  injure
+were killed  ->  be kill  ->  kill
+belonging  ->  belong  ->  belong
+-------------------------
+were allegedly killed  ->  be allegedly kill  ->  kill
+has ordered  ->  have order  ->  have order
+-------------------------
+crashed  ->  crash  ->  crash
+were hurt  ->  be hurt  ->  hurt
+died  ->  die  ->  die
+-------------------------
+were killed  ->  be kill  ->  kill
+-------------------------
+rolled down  ->  roll down  ->  roll down
+were travelling  ->  be travel  ->  travel
+injured  ->  injure  ->  injure
+were killed  ->  be kill  ->  kill
+-------------------------
+was killed  ->  be kill  ->  kill
+was hit  ->  be hit  ->  hit
+has been identified  ->  have be identify  ->  identify
+-------------------------
+injured a bus carrying  ->  injure a bus carry  ->  injure a bus carry
+injured  ->  injure  ->  injure
+tumbled  ->  tumble  ->  tumble
+overturned  ->  overturn  ->  overturn
+tumbled  ->  tumble  ->  tumble
+were killed  ->  be kill  ->  kill
+were  ->  be  -> 
+said  ->  say  ->  say
+were killed  ->  be kill  ->  kill
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+fell  ->  fell  ->  fell
+were battling  ->  be battle  ->  battle
+crashed  ->  crash  ->  crash
+to appear  ->  to appear  ->  to appear
+were travelling  ->  be travel  ->  travel
+were battling  ->  be battle  ->  battle
+died  ->  die  ->  die
+-------------------------
+was searching for a restaurant to get  ->  be search for a restaurant to get  ->  search for a restaurant to get
+was searching  ->  be search  ->  search
+was crushed  ->  be crush  ->  crush
+-------------------------
+were killed  ->  be kill  ->  kill
+-------------------------
+died  ->  die  ->  die
+was riding  ->  be rid  ->  rid
+was riding  ->  be rid  ->  rid
+sustained  ->  sustain  ->  sustain
+-------------------------
+went on a rampage injuring  ->  go on a rampage injure  ->  go on a rampage injure
+damaging  ->  damage  ->  damage
+injuring  ->  injure  ->  injure
+went  ->  go  ->  go
+hit  ->  hit  ->  hit
+ran  ->  run  ->  run
+-------------------------
+crashed  ->  crash  ->  crash
+fell  ->  fell  ->  fell
+-------------------------
+injured seriously  ->  injure seriously  ->  injure
+rammed  ->  ram  ->  ram
+were killed  ->  be kill  ->  kill
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+succumbed  ->  succumb  ->  succumb
+injured  ->  injure  ->  injure
+crashed  ->  crash  ->  crash
+have been shifted  ->  have be shift  ->  shift
+is  ->  be  -> 
+injured  ->  injure  ->  injure
+-------------------------
+were killed  ->  be kill  ->  kill
+were killed  ->  be kill  ->  kill
+were killed  ->  be kill  ->  kill
+happened  ->  happen  ->  happen
+were killed  ->  be kill  ->  kill
+happened  ->  happen  ->  happen
+was crushed  ->  be crush  ->  crush
+-------------------------
+after being hit  ->  after be hit  ->  hit
+died  ->  die  ->  die
+-------------------------
+driven  ->  drive  ->  drive
+was run over  ->  be run over  ->  run over
+-------------------------
+injured  ->  injure  ->  injure
+were killed  ->  be kill  ->  kill
+toppled  ->  topple  ->  topple
+injured  ->  injure  ->  injure
+were killed  ->  be kill  ->  kill
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+hit  ->  hit  ->  hit
+were killed  ->  be kill  ->  kill
+-------------------------
+said  ->  say  ->  say
+rammed  ->  ram  ->  ram
+said  ->  say  ->  say
+was injured  ->  be injure  ->  injure
+said  ->  say  ->  say
+-------------------------
+died  ->  die  ->  die
+overturned  ->  overturn  ->  overturn
+died  ->  die  ->  die
+-------------------------
+plunged  ->  plunge  ->  plunge
+had  ->  have  ->  have
+suffered  ->  suffer  ->  suffer
+was  ->  be  -> 
+-------------------------
+coming  ->  come  ->  come
+rammed  ->  ram  ->  ram
+were killed  ->  be kill  ->  kill
+died  ->  die  ->  die
+said  ->  say  ->  say
+succumbed  ->  succumb  ->  succumb
+-------------------------
+rammed  ->  ram  ->  ram
+failed  ->  fail  ->  fail
+were injured  ->  be injure  ->  injure
+died  ->  die  ->  die
+-------------------------
+located  ->  locate  ->  locate
+rammed  ->  ram  ->  ram
+were killed  ->  be kill  ->  kill
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+has  ->  have  ->  have
+has  ->  have  ->  have
+injured  ->  injure  ->  injure
+has  ->  have  ->  have
+saying  ->  say  ->  say
+has  ->  have  ->  have
+saying  ->  say  ->  say
+plowed  ->  plow  ->  plow
+died  ->  die  ->  die
+-------------------------
+overturned  ->  overturn  ->  overturn
+were travelling  ->  be travel  ->  travel
+were injured  ->  be injure  ->  injure
+died  ->  die  ->  die
+-------------------------
+occurred  ->  occur  ->  occur
+was injured  ->  be injure  ->  injure
+were killed  ->  be kill  ->  kill
+-------------------------
+collided  ->  collide  ->  collide
+were moving slowly  ->  be move slowly  ->  move
+escaped  ->  escape  ->  escape
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+suffered  ->  suffer  ->  suffer
+died  ->  die  ->  die
+parked carelessly  ->  park carelessly  ->  park
+rammed  ->  ram  ->  ram
+was battling  ->  be battle  ->  battle
+died  ->  die  ->  die
+occurred  ->  occur  ->  occur
+was hit  ->  be hit  ->  hit
+died  ->  die  ->  die
+-------------------------
+was  ->  be  -> 
+died  ->  die  ->  die
+came  ->  come  ->  come
+came  ->  come  ->  come
+-------------------------
+hit  ->  hit  ->  hit
+was killed  ->  be kill  ->  kill
+-------------------------
+collided  ->  collide  ->  collide
+were killed  ->  be kill  ->  kill
+-------------------------
+were run over  ->  be run over  ->  run over
+-------------------------
+were injured turtle  ->  be injure turtle  ->  injure turtle
+reportedly hit  ->  reportedly hit  ->  hit
+travelled  ->  travel  ->  travel
+were injured  ->  be injure  ->  injure
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+involving  ->  involve  ->  involve
+were killed  ->  be kill  ->  kill
+-------------------------
+were injured  ->  be injure  ->  injure
+hit  ->  hit  ->  hit
+were injured  ->  be injure  ->  injure
+died  ->  die  ->  die
+-------------------------
+were travelling  ->  be travel  ->  travel
+were seriously injured  ->  be seriously injure  ->  injure
+were killed  ->  be kill  ->  kill
+-------------------------
+was reversing  ->  be reverse  ->  reverse
+was run over  ->  be run over  ->  run over
+was playing  ->  be play  ->  play
+-------------------------
+crashed  ->  crash  ->  crash
+were injured  ->  be injure  ->  injure
+were killed  ->  be kill  ->  kill
+-------------------------
+coming  ->  come  ->  come
+was hit  ->  be hit  ->  hit
+were  ->  be  -> 
+injured  ->  injure  ->  injure
+was killed  ->  be kill  ->  kill
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+carrying  ->  carry  ->  carry
+was  ->  be  -> 
+was seriously injured  ->  be seriously injure  ->  injure
+-------------------------
+fell  ->  fell  ->  fell
+was injured  ->  be injure  ->  injure
+were killed  ->  be kill  ->  kill
+-------------------------
+-------------------------
+collided head heading  ->  collide head head  ->  collide head head
+collided  ->  collide  ->  collide
+were  ->  be  -> 
+were  ->  be  -> 
+were killed  ->  be kill  ->  kill
+-------------------------
+were killed  ->  be kill  ->  kill
+were killed  ->  be kill  ->  kill
+crashed  ->  crash  ->  crash
+took  ->  take  ->  take
+-------------------------
+toppled  ->  topple  ->  topple
+-------------------------
+were injured  ->  be injure  ->  injure
+was killed  ->  be kill  ->  kill
+came  ->  come  ->  come
+were hit  ->  be hit  ->  hit
+was hit  ->  be hit  ->  hit
+sitting  ->  sit  ->  sit
+driven  ->  drive  ->  drive
+also carrying  ->  also carry  ->  also carry
+also carrying  ->  also carry  ->  also carry
+crashed  ->  crash  ->  crash
+loaded  ->  load  ->  load
+-------------------------
+fell  ->  fell  ->  fell
+injured  ->  injure  ->  injure
+were killed  ->  be kill  ->  kill
+took  ->  take  ->  take
+were  ->  be  -> 
+were travelling  ->  be travel  ->  travel
+-------------------------
+overturned after hitting  ->  overturn after hit  ->  overturn after hit
+overturned  ->  overturn  ->  overturn
+powered  ->  power  ->  power
+rammed  ->  ram  ->  ram
+were injured  ->  be injure  ->  injure
+were killed  ->  be kill  ->  kill
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+were killed  ->  be kill  ->  kill
+were killed  ->  be kill  ->  kill
+were killed  ->  be kill  ->  kill
+occurred  ->  occur  ->  occur
+occurred  ->  occur  ->  occur
+occurred  ->  occur  ->  occur
+occurred  ->  occur  ->  occur
+-------------------------
+died  ->  die  ->  die
+rammed  ->  ram  ->  ram
+was critically injured  ->  be critically injure  ->  injure
+died  ->  die  ->  die
+met  ->  meet  ->  meet
+was returning  ->  be return  ->  return
+-------------------------
+happened  ->  happen  ->  happen
+crashed  ->  crash  ->  crash
+were killed  ->  be kill  ->  kill
+hit a road leaving  ->  hit a road leave  ->  hit a road leave
+hit  ->  hit  ->  hit
+injured  ->  injure  ->  injure
+hit a road leaving  ->  hit a road leave  ->  hit a road leave
+hit  ->  hit  ->  hit
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+rammed  ->  ram  ->  ram
+died  ->  die  ->  die
+rammed  ->  ram  ->  ram
+died  ->  die  ->  die
+was critically injured  ->  be critically injure  ->  injure
+is  ->  be  -> 
+-------------------------
+was  ->  be  -> 
+worked  ->  work  ->  work
+was  ->  be  -> 
+met  ->  meet  ->  meet
+-------------------------
+secretly took  ->  secretly take  ->  take
+-------------------------
+plunged  ->  plunge  ->  plunge
+were travelling  ->  be travel  ->  travel
+critically injured  ->  critically injure  ->  injure
+were left  ->  be leave  ->  leave
+-------------------------
+plunged  ->  plunge  ->  plunge
+carrying  ->  carry  ->  carry
+have been injured  ->  have be injure  ->  injure
+are feared  ->  be fear  ->  fear
+-------------------------
+were injured  ->  be injure  ->  injure
+overturned  ->  overturn  ->  overturn
+was travelling  ->  be travel  ->  travel
+was killed  ->  be kill  ->  kill
+was injured  ->  be injure  ->  injure
+was killed  ->  be kill  ->  kill
+hit  ->  hit  ->  hit
+-------------------------
+overturned  ->  overturn  ->  overturn
+carrying  ->  carry  ->  carry
+were injured  ->  be injure  ->  injure
+were killed  ->  be kill  ->  kill
+after attending  ->  after attend  ->  after attend
+were returning  ->  be return  ->  return
+happened  ->  happen  ->  happen
+started  ->  start  ->  start
+overturned  ->  overturn  ->  overturn
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+getting  ->  get  ->  get
+were critically injured  ->  be critically injure  ->  injure
+died  ->  die  ->  die
+-------------------------
+collided  ->  collide  ->  collide
+were collided  ->  be collide  ->  collide
+died  ->  die  ->  die
+ended  ->  end  ->  end
+-------------------------
+were travelling  ->  be travel  ->  travel
+rammed  ->  ram  ->  ram
+suffered  ->  suffer  ->  suffer
+died  ->  die  ->  die
+-------------------------
+were travelling  ->  be travel  ->  travel
+knocked down  ->  knock down  ->  knock down
+were killed  ->  be kill  ->  kill
+occurred  ->  occur  ->  occur
+-------------------------
+sparked  ->  spark  ->  spark
+-------------------------
+was hit  ->  be hit  ->  hit
+suffered  ->  suffer  ->  suffer
+-------------------------
+fell  ->  fell  ->  fell
+have recovered  ->  have recover  ->  have recover
+carrying  ->  carry  ->  carry
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+had submitted  ->  have submit  ->  have submit
+said  ->  say  ->  say
+was riding  ->  be rid  ->  rid
+said  ->  say  ->  say
+came  ->  come  ->  come
+was admitted  ->  be admit  ->  admit
+said  ->  say  ->  say
+sustained  ->  sustain  ->  sustain
+said  ->  say  ->  say
+was admitted  ->  be admit  ->  admit
+was shifted  ->  be shift  ->  shift
+-------------------------
+injured  ->  injure  ->  injure
+left  ->  leave  ->  leave
+overturned  ->  overturn  ->  overturn
+loaded  ->  load  ->  load
+heading  ->  head  ->  head
+overturned  ->  overturn  ->  overturn
+bearing  ->  bear  ->  bear
+rammed  ->  ram  ->  ram
+claimed  ->  claim  ->  claim
+-------------------------
+collided  ->  collide  ->  collide
+were injured  ->  be injure  ->  injure
+died  ->  die  ->  die
+was parked  ->  be park  ->  park
+happened  ->  happen  ->  happen
+-------------------------
+met  ->  meet  ->  meet
+going  ->  go  ->  go
+-------------------------
+collided  ->  collide  ->  collide
+died  ->  die  ->  die
+occurred  ->  occur  ->  occur
+died  ->  die  ->  die
+crashed  ->  crash  ->  crash
+died  ->  die  ->  die
+identified  ->  identify  ->  identify
+-------------------------
+were killed  ->  be kill  ->  kill
+said  ->  say  ->  say
+after offering  ->  after offer  ->  after offer
+were returning  ->  be return  ->  return
+took  ->  take  ->  take
+were travelling overturned  ->  be travel overturn  ->  travel overturn
+were killed  ->  be kill  ->  kill
+said  ->  say  ->  say
+-------------------------
+has  ->  have  ->  have
+have revealed  ->  have reveal  ->  have reveal
+lost  ->  lose  ->  lose
+conducted  ->  conduct  ->  conduct
+rammed  ->  ram  ->  ram
+were injured  ->  be injure  ->  injure
+were killed  ->  be kill  ->  kill
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+was  ->  be  -> 
+hit  ->  hit  ->  hit
+injured  ->  injure  ->  injure
+sustained  ->  sustain  ->  sustain
+-------------------------
+said  ->  say  ->  say
+occurred  ->  occur  ->  occur
+were killed overturned  ->  be kill overturn  ->  kill overturn
+occurred  ->  occur  ->  occur
+were killed  ->  be kill  ->  kill
+said  ->  say  ->  say
+rammed  ->  ram  ->  ram
+-------------------------
+was trying to negotiate  ->  be try to negotiate  ->  try to negotiate
+was trying  ->  be try  ->  try
+were travelling  ->  be travel  ->  travel
+injured  ->  injure  ->  injure
+were killed  ->  be kill  ->  kill
+taking  ->  take  ->  take
+overturned  ->  overturn  ->  overturn
+going  ->  go  ->  go
+-------------------------
+injured  ->  injure  ->  injure
+said  ->  say  ->  say
+turned  ->  turn  ->  turn
+said  ->  say  ->  say
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+were  ->  be  -> 
+took  ->  take  ->  take
+sustained  ->  sustain  ->  sustain
+overturned  ->  overturn  ->  overturn
+sustained  ->  sustain  ->  sustain
+were killed  ->  be kill  ->  kill
+-------------------------
+rammed  ->  ram  ->  ram
+loaded  ->  load  ->  load
+took  ->  take  ->  take
+was averted  ->  be avert  ->  avert
+-------------------------
+were returning  ->  be return  ->  return
+injuring  ->  injure  ->  injure
+after visiting  ->  after visit  ->  after visit
+were returning  ->  be return  ->  return
+rammed  ->  ram  ->  ram
+were travelling  ->  be travel  ->  travel
+killing  ->  kill  ->  kill
+ended  ->  end  ->  end
+-------------------------
+ran  ->  run  ->  run
+was injured  ->  be injure  ->  injure
+fell  ->  fell  ->  fell
+was injured  ->  be injure  ->  injure
+slipped  ->  slip  ->  slip
+was injured  ->  be injure  ->  injure
+-------------------------
+was hit  ->  be hit  ->  hit
+-------------------------
+was hit  ->  be hit  ->  hit
+died  ->  die  ->  die
+-------------------------
+was involved  ->  be involve  ->  involve
+ocurred  ->  ocurred  ->  ocurred
+was involved  ->  be involve  ->  involve
+suffered  ->  suffer  ->  suffer
+-------------------------
+suffered  ->  suffer  ->  suffer
+suffered  ->  suffer  ->  suffer
+rammed  ->  ram  ->  ram
+suffered  ->  suffer  ->  suffer
+was killed  ->  be kill  ->  kill
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+rammed  ->  ram  ->  ram
+were injured  ->  be injure  ->  injure
+was heading  ->  be head  ->  head
+occurred  ->  occur  ->  occur
+-------------------------
+after being hit  ->  after be hit  ->  hit
+was killed  ->  be kill  ->  kill
+-------------------------
+were killed  ->  be kill  ->  kill
+-------------------------
+were travelling  ->  be travel  ->  travel
+suffered  ->  suffer  ->  suffer
+died  ->  die  ->  die
+was hit  ->  be hit  ->  hit
+was travelling  ->  be travel  ->  travel
+died  ->  die  ->  die
+-------------------------
+were injured  ->  be injure  ->  injure
+were hit  ->  be hit  ->  hit
+were injured  ->  be injure  ->  injure
+took  ->  take  ->  take
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+met  ->  meet  ->  meet
+was coming  ->  be come  ->  come
+occurred  ->  occur  ->  occur
+were injured  ->  be injure  ->  injure
+rammed  ->  ram  ->  ram
+hit  ->  hit  ->  hit
+suffered  ->  suffer  ->  suffer
+-------------------------
+were killed  ->  be kill  ->  kill
+were killed  ->  be kill  ->  kill
+died  ->  die  ->  die
+lost  ->  lose  ->  lose
+were killed  ->  be kill  ->  kill
+recieved  ->  recieved  ->  recieved
+hit  ->  hit  ->  hit
+was reported  ->  be report  ->  report
+hit  ->  hit  ->  hit
+was reported  ->  be report  ->  report
+flyover  ->  flyover  ->  flyover
+travelling  ->  travel  ->  travel
+rammed  ->  ram  ->  ram
+parked  ->  park  ->  park
+happened  ->  happen  ->  happen
+hit  ->  hit  ->  hit
+claimed  ->  claim  ->  claim
+lost  ->  lose  ->  lose
+claimed  ->  claim  ->  claim
+took  ->  take  ->  take
+hit the divider near hotel park plaza travelling  ->  hit the divider near hotel park plaza travel  ->  hit the divider near hotel park plaza travel
+hit  ->  hit  ->  hit
+received  ->  receive  ->  receive
+was killed outside  ->  be kill outside  ->  kill outside
+hit  ->  hit  ->  hit
+was killed  ->  be kill  ->  kill
+was working  ->  be work  ->  work
+was working  ->  be work  ->  work
+took  ->  take  ->  take
+-------------------------
+was fatally knocked down  ->  be fatally knock down  ->  knock down
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+rammed a three-wheeler critically injuring  ->  ram a three-wheeler critically injure  ->  ram a three-wheeler injure
+rammed  ->  ram  ->  ram
+overturned  ->  overturn  ->  overturn
+said  ->  say  ->  say
+-------------------------
+was crossing  ->  be cross  ->  cross
+had mowed down  ->  have mow down  ->  have mow down
+was hit  ->  be hit  ->  hit
+attached  ->  attach  ->  attach
+was killed  ->  be kill  ->  kill
+-------------------------
+was killed  ->  be kill  ->  kill
+was killed  ->  be kill  ->  kill
+connects  ->  connect  ->  connect
+-------------------------
+were heading  ->  be head  ->  head
+took  ->  take  ->  take
+were heading  ->  be head  ->  head
+took  ->  take  ->  take
+rammed  ->  ram  ->  ram
+rammed  ->  ram  ->  ram
+died  ->  die  ->  die
+-------------------------
+were injured  ->  be injure  ->  injure
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

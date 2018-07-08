@@ -1,6 +1,4 @@
 from nltk.stem.wordnet import WordNetLemmatizer
-import json
-
 
 # file_object = open(r"out.txt","r")
 file_object = open(r"May_2017_IE.txt","r")
@@ -13,7 +11,6 @@ file_object.close()
 lem = WordNetLemmatizer()
 
 stopWords = ["get","have","'s","up","down","towards","off","to","have","also","over","after","outside","near","the","a"]
-rootVerbs = set([])
 
 for line in (lines):
 	if(line[0]=='0' and line[1]=='.'):
@@ -34,17 +31,17 @@ for line in (lines):
 
 	# breaking clause into list of words and lemmatizing
 		verbWords = verb.lower().split(" ")
-		# for word in verbWords:
-		# 	print word,
-		# print " -> ",
+		for word in verbWords:
+			print word,
+		print " -> ",
 
 		lemWords = []
 		for i in range(len(verbWords)):
 			lemWords.append(lem.lemmatize(verbWords[i],'v'))
 
-		# for word in lemWords:
-		# 	print word,
-		# print " -> ",
+		for word in lemWords:
+			print word,
+		print " -> ",
 
 	# printing part which lies after "be" part of verb
 		i=0;
@@ -64,25 +61,13 @@ for line in (lines):
 			word=lemWords[i]
 			l=len(word)
 			if(not( (word[l-2]=='l' and word[l-1]=='y') or (word in stopWords) )):
-				# print word,
-				rootVerbs.add(word)
+				print word,
 			i+=1
-		# print
+		print
 
 		# print "==="
 
-	# elif(line[0]=='-'):
-	# 	print "-------------------------"
-	# elif(line[0]=='+'):
-	# 	print "+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++"
-
-
-# print "Size of set = ",len(rootVerbs)
-for i in rootVerbs:
-	print i
-
-# for json output
-with open('unique_root_verbs.json', 'w+') as outfile:
-    json.dump(list(rootVerbs), outfile)
-
-
+	elif(line[0]=='-'):
+		print "-------------------------"
+	elif(line[0]=='+'):
+		print "+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++"
