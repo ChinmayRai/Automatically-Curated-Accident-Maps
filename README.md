@@ -1,10 +1,7 @@
 # SURA
 
-TO DOs:
-
-keshav mail - detailed mail, how to build our system, get advice,	ask about word shapes features
-mausam search 	- word shape, does stanNER has it
-				- regarding indan NER datasets
+TO DOs- 8/7:
+1) 
 
 
 3/7:
@@ -26,7 +23,11 @@ Negative Examples(May 2017):
 2. Man claims his car was stolen on SG Road
 3. On the road: Prevent a car blaze, get vehicle serviced at right place
 4. 4-year-old girl maimed in truck mishap gets Rs 6 lakh compensation.
-5. 
+5. 200 killed in highway accidents in April alone
+6. Hit by stray road rage bullet, 13-year-old Aligarh schoolgirl dies
+7. Five-year-old girl dies inside locked car
+8. Petrol pump staffer dies in accident
+9. 
 
 	
 Postponed for fine-tuning afterwards:
