@@ -1,6 +1,16 @@
 from nltk.stem.wordnet import WordNetLemmatizer
 import json
 
+def freq_dist(samples):
+	freq = dict()
+	for word in samples:
+		if word in freq.keys():
+			freq[word]+=1
+		else:
+			freq[word]=1
+
+	return freq
+
 
 # file_object = open(r"out.txt","r")
 file_object = open(r"May_2017_IE.txt","r")
@@ -13,7 +23,7 @@ file_object.close()
 lem = WordNetLemmatizer()
 
 stopWords = ["get","have","'s","up","down","towards","off","to","have","also","over","after","outside","near","the","a"]
-rootVerbs = set([])
+rootVerbs = []
 
 for line in (lines):
 	if(line[0]=='0' and line[1]=='.'):
@@ -65,7 +75,7 @@ for line in (lines):
 			l=len(word)
 			if(not( (word[l-2]=='l' and word[l-1]=='y') or (word in stopWords) )):
 				# print word,
-				rootVerbs.add(word)
+				rootVerbs.append(word)
 			i+=1
 		# print
 
@@ -77,12 +87,34 @@ for line in (lines):
 	# 	print "+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++"
 
 
-# print "Size of set = ",len(rootVerbs)
-for i in rootVerbs:
-	print i
+rootVerbSet = set(rootVerbs)
+# print "Size of set = ",len(rootVerbSet)
+# for i in rootVerbSet:
+# 	print i
 
 # for json output
 with open('unique_root_verbs.json', 'w+') as outfile:
-    json.dump(list(rootVerbs), outfile)
+    json.dump(list(rootVerbSet), outfile)
 
 
+rootVerbFreq = freq_dist(rootVerbs)
+# print rootVerbFreq
+
+# for i in rootVerbFreq:
+# 	print i, '\t', rootVerbFreq[i]
+
+rootVerbSorted = []
+
+for w in sorted(rootVerbFreq, key=rootVerbFreq.get, reverse=True):
+	print rootVerbFreq[w], w
+	rootVerbSorted.append(w)
+
+
+# to print json of root verbs with their frequency
+with open('freq_dist.json', 'w+') as outfile:
+    json.dump(rootVerbFreq, outfile)
+
+
+# to print json of root verbs in decreasing order of frequency
+with open('root_verbs_sorted.json', 'w+') as outfile:
+    json.dump(rootVerbSorted, outfile)
