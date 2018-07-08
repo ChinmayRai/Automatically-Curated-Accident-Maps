@@ -1,0 +1,1824 @@
+Pune: An 18-year-old man was crushed in an accident near the Khandala tunnel on the Pune-Mumbai Expressway on Sunday evening.
+0.97 (An 18-year-old man; was crushed; L:in an accident near the Khandala tunnel on the Pune-Mumbai Expressway; T:on Sunday evening)
+
+On April 19, three people including a nine-year-old girl died after their car hit a tree on the expressway.
+0.70 (their car; hit; a tree; L:on the expressway)
+0.96 (three people including a nine-year-old girl; died; T:after their car hit a tree on the expressway; T:On April 19)
+
+Six others suffered injuries and were admitted to a local hospital.
+0.38 (Six; were admitted; to a local hospital)
+0.90 (Six others; suffered; injuries)
+
+On April 16, the cleaner of a tempo was killed instantly while its driver sustained serious injuries when the vehicle rammed into a stationary truck on the expressway.
+0.90 (the vehicle; rammed; into a stationary truck on the expressway)
+0.74 (its driver; sustained; serious injuries when the vehicle rammed into a stationary truck on the expressway)
+0.94 (the cleaner of a tempo; was killed; T:instantly; T:while its driver sustained serious injuries; T:On April 16)
+
+-------------------------------------------------------------------.
+
+INDORE: A 25-year-old youth died after he was hit by a speeding four-wheeler at Indraprasth square in the city early morning on Sunday.
+0.61 (he; was hit; by a speeding four-wheeler at Indraprasth square in the city)
+0.94 (A 25-year-old youth; died; T:after he was hit by a speeding four-wheeler at Indraprasth square in the city early morning on Sunday)
+
+The incident took place early morning at around 5:00 am at Indraprasth square when the youth identified as Palash Singhai was on his way back home after dropping his cousin Navdeep Jain at Bhawarkuan.
+0.39 (Navdeep Jain; [is] cousin [of]; him)
+0.85 (Palash Singhai; after dropping; his cousin)
+0.90 (Palash Singhai; was; on his way back home; T:after dropping his cousin)
+0.73 (the youth; identified; )
+0.90 (The incident; took; place; T:early morning; T:at around 5:00)
+
+------------------------------------------------------------------.
+
+GURUGRAM: A 50-year-old man was killed in an accident after being mowed down by a truck on Friday on Khandsa Road.
+0.94 (A 50-year-old man; after being mowed down; by a truck; T:on Friday; L:on Khandsa Road)
+0.97 (A 50-year-old man; was killed; L:in an accident; T:after being mowed down by a truck on Friday on Khandsa Road)
+
+The incident happened around 8.20am on Friday.
+0.73 (The incident; happened; )
+
+The incident happened around 8.20am on Friday.
+0.73 (The incident; happened; )
+
+-----------------------------------------------------.
+
+Greater Noida: Celebrations turned into mourning in Dudera village on Saturday night as two persons attending a wedding procession died while three others received serious burn injuries when a van carrying the members of a music band hit a low-hanging 11 kV wire.
+0.94 (three others; received; serious burn injuries; T:when a van carrying the members of a music band hit a low-hanging 11 kV wire)
+0.92 (Celebrations; died; T:while three others received serious burn injuries when a van carrying the members of a music band hit a low-hanging 11 kV wire)
+0.90 (two persons; attending; a wedding procession)
+0.88 Context(a van carrying the members of a music band hit,List([191, 237))):(a van; carrying; the members of a music band)
+0.95 (a van carrying the members of a music band; hit; a low-hanging 11 kV wire)
+0.91 (Celebrations; turned; into mourning in Dudera village; T:on Saturday night)
+
+---.
+
+CHENNAI: A 54-year-old woman died of heart attack and four others were injured after a cab rammed through a parapet wall and plunged into a subway 20 feet below near the Reserve Bank of India building on Rajaji Salai on Sunday evening.
+0.95 (a cab; plunged; into a subway 20 feet below near the Reserve Bank of India building on Rajaji Salai; T:on Sunday evening)
+0.95 (four others; were injured; T:after a cab plunged into a subway 20 feet below near the Reserve Bank of India building on Rajaji Salai on Sunday evening)
+0.73 (a cab; rammed; )
+0.90 (four others; were injured; T:after a cab rammed through a parapet wall)
+0.83 (CHENNAI; died; of heart attack)
+
+---------------------------.
+
+MUMBAI: A birthday celebration ended abruptly with the birthday boy and 10 of his friends landing in hospital early on Sunday.
+0.68 (his friends; landing; L:in hospital; T:early; T:on Sunday)
+0.85 (A birthday celebration; ended; abruptly with 10 of his friends)
+0.91 (A birthday celebration; ended abruptly; with the birthday boy)
+
+The 11 friends from Bhandup, all of them crammed into an SUV , had cut a cake in Bhandup to usher in the friend's 26th birthday, and were headed towards Marine Drive for a little do in town when they met with an accident on Matunga flyover.
+0.99 (11 friends; were headed towards; Marine Drive)
+0.72 (they; met; with an accident on Matunga flyover)
+0.87 (The 11 friends; were headed; towards Marine Drive; for a little do in town; T:when they met with an accident on Matunga flyover)
+0.99 (11 friends; had cut; a cake)
+0.94 (The 11 friends from Bhandup; had cut; a cake; L:in Bhandup)
+0.70 (all of them; crammed; into an SUV)
+
+---------------------------.
+
+CHENNAI: A driver for former Tamil Nadu chief secretary P S Rama Mohana Rao was fatally knocked down by a private bus near Tambaram on Saturday night.
+0.38 (P S Rama Mohana Rao; [is] former Nadu chief secretary [from]; Tamil Nadu)
+0.86 (CHENNAI; was fatally knocked down; by a private bus near Tambaram; T:on Saturday night)
+
+Police said Ravichandran, who later became driver for R Jaya, a special secretary in the municipal administration and water supply department, was riding his motorbike when the incident occurred on Mudichur Road.
+0.88 (Police; said; Ravichandran , who later became driver for R Jaya , a special secretary in water supply department , was riding his motorbike)
+0.84 Context(Police said,List([0, 11))):(Ravichandran; was riding; his motorbike; T:when the incident occurred on Mudichur Road)
+0.88 (Police; said; Ravichandran , who later became driver for R Jaya , a special secretary in the municipal administration , was riding his motorbike)
+0.92 (the incident; occurred; L:on Mudichur Road)
+0.95 (Ravichandran; became; driver for R Jaya; T:later)
+
+-----------------------------------.
+
+VISAKHAPATNAM: One person died and four were critically injured when a corporate school bus skidded and ploughed into the footpath at Novotel Junction on Beach Road in Visakhapatnam on Sunday night.
+0.92 (a corporate school bus; ploughed; into the footpath; L:at Novotel Junction on Beach Road in Visakhapatnam; T:on Sunday night)
+0.70 (four; were critically injured; T:when and ploughed into the footpath at Novotel Junction on Beach Road in Visakhapatnam on Sunday night)
+0.73 (One person; died; )
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.
+
+NAVI MUMBAI: A pillion rider was killed and three others were injured in two separate road accident cases that occurred between Sunday night and Monday morning.
+0.93 (two separate road accident cases; occurred; T:between Sunday Monday morning)
+0.93 (two separate road accident cases; occurred; T:between Sunday night)
+0.90 (three others; were injured; L:in two separate road accident cases)
+0.75 (A pillion rider; was killed; )
+
+The first accident took place on Vashi bridge on Sunday night around 9.30pm where a pillion rider fell off after his bike skid and was run over by a car from behind.
+0.64 (his bike; was run over; by a car)
+0.94 (a pillion rider; fell off; T:after his bike was run over by a car from behind; L:around 9.30 pm)
+0.41 (his bike; skid; )
+0.91 (a pillion rider; fell off; T:after his bike skid; L:around 9.30 pm)
+0.93 (The first accident; took; place; L:on Vashi bridge; T:on Sunday night)
+
+In the second accident, which took place on the Airoli bridge on early Monday morning around 3:00am, a car rammed into a luxury bus while overtaking.
+0.70 (a car; overtaking; )
+0.94 (a car; rammed; into a luxury bus; T:while overtaking; L:In the second accident)
+0.91 (the second accident; took; place; L:on the Airoli bridge; T:on early Monday morning)
+
+----------------------------------------------------.
+
+Surat: At least 30 people suffered injuries when a private bus skidded before turning on its side and falling into a rivulet near Kakrapar Patiya under the limits of Mandvi police station in Surat district around 10.15 am on Monday.
+0.99 (30 people; suffered; injuries when a private bus skidded before falling into a rivulet near Kakrapar Patiya under the limits of Mandvi police station in Surat district around 10.15 am on Monday)
+0.91 (a private bus; before falling; into a rivulet near Kakrapar Patiya)
+0.95 (a private bus; skidded; T:before falling into a rivulet near Kakrapar Patiya under the limits of Mandvi police station in Surat district around 10.15 am on Monday)
+0.96 (At least 30 people; suffered; injuries when a private bus skidded before falling into a rivulet near Kakrapar Patiya under the limits of Mandvi police station in Surat district around 10.15 am on Monday)
+0.99 (30 people; suffered; injuries)
+0.72 (a private bus; before turning; )
+0.85 (a private bus; skidded; T:before turning on its side)
+0.91 (At least 30 people; suffered; injuries; T:when a private bus skidded before turning on its side)
+
+----------------------------.
+
+UDUPI: One person was killed and nine others sustained injuries when two cars in which they were travelling in collided head on near Maravanthe on the National Highway 66 on Monday.
+0.66 (they; were travelling; in collided head; T:on Monday)
+0.90 (nine others; sustained; injuries)
+0.73 (One person; was killed; )
+
+----------------------------------------------------------------------------------.
+
+ROHTAK: Enraged by the death of an 18-year-old school student while alighting a Haryana Roadways bus near Achina Tal village of Charkhi Dadri on Monday, a mob went on rampage and torched the vehicle.
+0.83 (ROHTAK; torched; the vehicle)
+0.93 (a mob; went; on rampage)
+0.83 (ROHTAK; Enraged; by the death)
+
+--------------------------------------------------------------------.
+
+"CHENNAI: Thirty-two-year-old Mutheeswaran, the cabbie who fell into the RBI Subway, on Sunday is yet to recover from the shock.
+0.93 (the cabbie; fell; into the RBI Subway)
+
+He along with a family of four from Colombo rammed into a parapet wall and landed in the subway on Sunday evening.
+0.50 (He; landed; L:in the subway; T:on Sunday evening)
+0.35 (He; along rammed; into a parapet wall)
+
+--------------------. HYDERABAD: A 36-year-old farmer died and another person suffered critical injuries when they were hit by a speeding Toyota Fortuner vehicle at Maheswaram on Monday afternoon.
+0.66 (they; were hit; by a speeding Toyota Fortuner vehicle)
+0.91 (another person; suffered; critical injuries; T:when they were hit by a speeding Toyota Fortuner vehicle at Maheswaram on Monday afternoon)
+0.82 (A 36 - year - old farmer; died; )
+
+At 3.30 pm on Monday, a speeding Toyota Fortuner vehicle (AP 16 CC 3323), driven by S Ratna Kumar, 26, of Guntur, rammed into a bike and a pedestrian standing next to the road near Rachulur X Roads on the Sri Sailam-Hyderabad road.
+0.95 (a pedestrian; standing; next to the road near Rachulur X Roads on the Sri Sailam-Hyderabad road)
+0.97 (a speeding Toyota Fortuner vehicle; rammed; into a bike; T:At 3.30 pm; T:on Monday)
+0.94 (a speeding Toyota Fortuner vehicle; driven; by S Ratna Kumar, 26, of Guntur)
+
+------------------------------------------------------------------------------------------------------------------------------.
+
+SHIMLA: Six people returning from a marriage party in Nerwa area of Shimla district were killed when the car they were travelling in, fell into a gorge in Nerwa area on Tuesday wee hours.
+0.78 (the car they were travelling in; fell; into a gorge in Nerwa area; T:on Tuesday wee hours)
+0.88 (the car; were travelling; they)
+0.84 (SHIMLA; were killed; T:when the car they were travelling in, fell into a gorge in Nerwa area on Tuesday wee hours)
+0.95 (Six people; returning; from a marriage party in Nerwa area of Shimla district)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.
+
+GURUGRAM: Five employees of a Gurgaon-based IT firm — Ameriprise India Private Limited — were injured when the car they were travelling in met with an accident on Gurgaon-Faridabad road late on Monday.
+0.81 (the car they were travelling in; met; with an accident on Gurgaon-Faridabad road)
+0.36 (they; were travelling; in)
+0.96 (a Gurgaon-based IT firm - Ameriprise India; were injured late; T:when the car they were travelling in met with an accident on Gurgaon-Faridabad road)
+
+------------------------------------------------------------------.
+
+"GURUGRAM:: A 27-year-old man was killed near Shankar Chowk flyover on Monday around 8:30pm when an unidentified vehicle hit him while he was crossing the road.
+0.45 (he; was crossing; the road)
+0.88 (an unidentified vehicle; hit; him; T:while he was crossing the road)
+0.94 (A 27-year-old man; was killed; L:near Shankar Chowk flyover; T:on Monday; T:when an unidentified vehicle hit him while he was crossing the road)
+
+----------------------------------------------------------------------------------------------------------.
+
+GHAZIBAD: One person was killed and 15 injured when a truck collided with an Uttarakhand Roadways bus at Hapur Chungi intersection in Kavi Nagar around 2.30am on Tuesday when passengers were asleep.
+0.75 (passengers; were; asleep)
+0.73 (a truck; collided; )
+0.73 (One person; was killed; )
+
+-------------------------------------------------------------------.
+
+NOIDA: Two elderly persons were injured when a speeding school bus rammed against a car near Dalit Prerna Sthal on the Noida-Greater Noida expressway on Tuesday morning.
+0.93 (a speeding school bus; rammed; against a car near Dalit Prerna Sthal; L:on the Noida-Greater Noida expressway; T:on Tuesday morning)
+0.95 (Two elderly persons; were injured; T:when a speeding school bus rammed against a car near Dalit Prerna Sthal on the Noida-Greater Noida expressway on Tuesday morning)
+
+-----------------------------------------------------------------------------------------------.
+
+NOIDA: Two elderly persons were injured when a speeding school bus rammed against a car near Dalit Prerna Sthal on the Noida-Greater Noida expressway on Tuesday morning.
+0.93 (a speeding school bus; rammed; against a car near Dalit Prerna Sthal; L:on the Noida-Greater Noida expressway; T:on Tuesday morning)
+0.95 (Two elderly persons; were injured; T:when a speeding school bus rammed against a car near Dalit Prerna Sthal on the Noida-Greater Noida expressway on Tuesday morning)
+
+-----------------------------------------------------------------------------------------------.
+
+PALANPUR: Three pilgrims including a woman died and six others were seriously injured when a container truck crashed into a group of devotees going on foot near Prantij town of Sabarkantha district on Tuesday.
+0.91 (a container truck; crashed; into a group of devotees)
+0.94 (six others; were seriously injured; T:when a container truck crashed into a group of devotees)
+0.79 (Three pilgrims including a woman; died; )
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++.
+
+NEW DELHI: A six-month-old girl was orphaned after her entire family - parents and elder brother - died in an accident on Sunday evening.
+0.66 (her elder brother; died; L:in an accident; T:on Sunday evening)
+0.94 (A six - month - old girl; was orphaned; T:after her elder brother - died in an accident on Sunday evening)
+0.71 (her entire family - parents; died; L:in an accident; T:on Sunday evening)
+0.94 (A six - month - old girl; was orphaned; T:after her entire family - parents - died in an accident on Sunday evening)
+
+The incident took place at 6pm when Ram Sajeevan slowed his bicycle at a traffic signal.
+0.87 (Ram Sajeevan; slowed; his bicycle; L:at a traffic signal)
+0.91 (The incident; took; place; T:at 6pm; T:when Ram Sajeevan slowed his bicycle at a traffic signal)
+
+As soon as he stopped, a silver Santro car rammed the bicycle, flinging the family onto the other side of the median.The incident took place in outer Delhi's Narela when the family was going to buy medicines for the baby as she was suffering from viral fever.
+0.45 (she; was suffering; from viral fever)
+0.81 (the family; to buy; medicines; T:as she was suffering from viral fever)
+0.19 (he; stopped; )
+
+-------------------------------------.
+
+GURUGRAM: After battling for life for four days, 12-year-old Vatsal Yadav, who was injured in an accident while returning home from school on Saturday, succumbed to his injuries on Tuesday night at Artemis Hospital.
+0.95 (12-year-old Vatsal Yadav; succumbed; to his injuries; T:on Tuesday night; T:After battling for life for four days)
+0.95 (12-year-old Vatsal Yadav; was injured; L:in an accident; T:while returning home from school on Saturday)
+
+Vatsal, a Class VII student of St Michael's Senior Secondary School in Shivpuri, was severely injured on Saturday when he, along with his cousins, was returning home to Dhanwas village in a school cab hired by Vatsal's parents.
+0.88 (Vatsal; [is] a student [of]; Class VII)
+0.38 (Secondary School; [is] Senior [of]; St Michael)
+0.88 (Vatsal; [is] a Class VII student of; St Michael)
+0.93 (a school cab; hired; by Vatsal's parents)
+0.73 (he, along with his cousins; was returning; home to Dhanwas village in a school cab)
+0.91 (Vatsal; was severely injured; L:on Saturday; T:when he, along with his cousins, was returning home to Dhanwas village in a school cab)
+
+The cab, a Maruti van, collided head-on with a two-wheeler near Dhankot village.
+0.94 (The cab; collided; head-on with a two-wheeler near Dhankot village)
+
+--------.
+
+SHIMLA: Wedding celebrations turned into a mourning for relatives of six who died in a road accident on Tuesday morning.
+0.38 (six; died; L:in a road accident; T:on Tuesday morning)
+0.90 (Wedding celebrations; turned; into a mourning for relatives of six)
+
+The victims were returning from a marriage party when the car they were travelling in plunged into a 300m deep gorge in Nerwa area of Shimla district.
+0.83 (the car they were travelling in; plunged; into a 300m deep gorge in Nerwa area of Shimla district)
+0.88 (the car; were travelling; they)
+0.91 (The victims; were returning; from a marriage party; T:when the car they were travelling in plunged into a 300m deep gorge in Nerwa area of Shimla district)
+
+--------------------------------------------------------------------------------------------------------------------------.
+
+SHIMOGA: Seven persons were killed when the car in which they were travelling hit a truck from behind near Sagara road of Ayanooru on Wednesday night.
+0.82 (the car in which they were travelling; hit; a truck; from behind near Sagara road of Ayanooru; T:on Wednesday night)
+0.70 (they; were travelling; L:the car)
+0.91 (Seven persons; were killed; T:when the car in which they were travelling hit a truck from behind near Sagara road of Ayanooru on Wednesday night)
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.
+
+GHAZIABAD: Three youths were killed and another was seriously injured when the car they were travelling in collided with a bus in Manan Dham area under Muradnagar police station on Thursday afternoon.
+0.32 (they; were travelling; )
+0.56 (another; was seriously injured; T:when the car they were travelling in collided with a bus in Manan Dham area under Muradnagar police station on Thursday afternoon)
+0.73 (Three youths; were killed; )
+
+-------------------------------------------------------------------.
+
+DAVANAGERE:The driver of a tractor carrying water was killed after being hit by a speeding truck on NH 4 near Chitradurga on Thursday.
+0.92 (DAVANAGERE:The driver of a tractor; was killed; T:after being hit by a speeding truck on NH 4 near Chitradurga on Thursday)
+0.90 (a tractor; carrying; water)
+
+HYDERABAD: A woman died after she was hit by a water tanker while walking at Madhapur on Thursday.
+0.46 (she; walking; L:at Madhapur; T:on Thursday)
+0.50 (she; was hit; by a water tanker; T:while walking at Madhapur on Thursday)
+0.91 (A woman; died; T:after she was hit by a water tanker while walking at Madhapur on Thursday)
+
+HYDERABAD: A woman died after she was hit by a water tanker while walking at Madhapur on Thursday.
+0.46 (she; walking; L:at Madhapur; T:on Thursday)
+0.50 (she; was hit; by a water tanker; T:while walking at Madhapur on Thursday)
+0.91 (A woman; died; T:after she was hit by a water tanker while walking at Madhapur on Thursday)
+
+-------------------------------------------------------------------.
+
+AGRA: At least 14 feared dead while 29 sustained injuries when a truck ferrying over 50 people drove into a roadside canal in Uttar Pradesh’s Etah district.The accident took place near Sarai Neem on Tundla road in Jalesar area around 2:30 am when the truck, carrying a wedding party, was returning from Sakrauli in Jalesar area of Etah district.
+0.99 (29 sustained injuries when a truck ferrying over 50 people drove into a roadside canal in Uttar Pradesh's Etah district.The accident; took; place; L:near Sarai Neem; L:on Tundla road in Jalesar area around 2:30)
+0.88 Context(a truck ferrying over 50 people drove,List([63, 100))):(a truck; ferrying; over 50 people)
+0.93 (a truck ferrying over 50 people; drove; into a roadside canal; L:in Uttar Pradesh's Etah district.The accident)
+0.94 (the truck, carrying a wedding party; was returning; from Sakrauli)
+0.89 (the truck; carrying; a wedding party)
+
+-----------------------------------------------------.
+
+A 22 year-old TV actress was killed and two injured in a car accident after the vehicle hit the centre median on the Chennai-Bengaluru National Highway 48 near Natrampallai during the early hours of Friday.
+0.38 (Highway; [is] National [of]; Bengaluru)
+0.88 (the vehicle; hit median; L:on the Chennai-Bengaluru National Highway 48; T:during the early hours of Friday)
+0.54 (two; injured; L:in a car accident; T:after the vehicle hit the centre median on the Chennai-Bengaluru National Highway 48 near Natrampallai during the early hours of Friday)
+0.82 (A 22 year-old TV actress; was killed; )
+
+------------------------------------------------------------.
+
+RAJKOT: A speeding private luxury bus rammed a motorcyclist at Mahila College underbridge on Kalawad Road late night on Wednesday, killing him on the spot.
+0.77 Context(A speeding private luxury bus rammed,List([8, 44))):(A speeding private luxury bus; rammed a motorcyclist killing; him; L:on the spot)
+0.92 (A speeding private luxury bus; rammed; a motorcyclist; L:at Mahila College underbridge; L:on Kalawad Road; T:late night)
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.
+
+"HUBBALLI: A woman lost her life after being crushed between Hampi Express and the platform at Bhanapur station on Wednesday night.
+0.93 (A woman; lost; her life; T:after being crushed between Hampi Express and the platform at Bhanapur station on Wednesday night)
+
+-.
+
+GURUGRAM: Three people were killed and several others injured in two different road accidents in Kherki Daula and near Iffco Chowk on Wednesday and Thursday, respectively.
+0.92 (several others; injured respectively; L:in two different road accidents near Iffco Chowk; T:on Thursday)
+0.92 (several others; injured respectively; L:in two different road accidents near Iffco Chowk; T:on Wednesday)
+0.92 (several others; injured respectively; L:in two different road accidents in Kherki Daula; T:on Thursday)
+0.92 (several others; injured respectively; L:in two different road accidents in Kherki Daula; T:on Wednesday)
+0.73 (Three people; were killed; )
+
+In the first accident, a Tata Magic Van carrying 12 passengers rammed into a Renault Duster near Iffco Chowk on Thursday around 1.20pm after it took a turn near Leisure Valley.
+0.92 Context(a Tata Magic Van rammed,List([23, 69))):(a Tata Magic Van; rammed into a Renault Duster near Iffco Chowk carrying; 12 passengers)
+0.92 (a Tata Magic Van; rammed; into a Renault Duster near Iffco Chowk; T:on Thursday; T:after it took a turn near Leisure Valley; L:In the first accident)
+
+In another accident occurred in Kherki Daula on Wednesday evening when a Chevrolet Beat crashed into an auto near Rim Jhim Hotel, said police.
+0.95 (In another accident occurred in Kherki Daula on Wednesday evening; said; police)
+0.94 (a Chevrolet Beat; crashed; into an auto near Rim Jhim Hotel)
+
+--------------------------------------.
+
+"NAGPUR: Vishakha Maind, former BJP corporator between 2007 and 2012, was killed in a road accident near Saunsar in Madhya Pradesh.
+0.86 (NAGPUR; was killed; L:in a road accident near Saunsar in Madhya Pradesh)
+
+Six other members of the family, including Vishakha’s 70-year-old mother Sunanda Shende, were injured in the accident that took place at 5.40am.
+0.99 (six other members; were injured in; the accident that took place at 5.40 am)
+0.89 (the accident; took; place; T:at 5.40am)
+0.98 (Six other members of the family, including Vishakha's 70-year-old mother Sunanda Shende; were injured; L:in the accident)
+
+--------------------------------------------------------------------------------------------------------------------------.
+
+Rajkot: A head constable died after a speeding truck hit his bike in Sihor town of Bhavnagar district on Friday.
+0.90 (a speeding truck; hit; his bike; L:in Sihor town of Bhavnagar district; T:on Friday)
+0.91 (A head constable; died; T:after a speeding truck hit his bike in Sihor town of Bhavnagar district on Friday)
+
+--------------------. Rajkot: A Congress councillor from Jetpur municipality died after his SUV veered off the road and fell from a bridge near Pithadiya toll booth on Rajkot-Porbandar highway on Thursday.
+0.82 (his SUV; fell; from a bridge near Pithadiya toll booth on Rajkot - Porbandar highway on Thursday)
+0.88 (Rajkot; died; T:after his SUV fell from a bridge near Pithadiya toll booth on Rajkot - Porbandar highway on Thursday)
+
+---------------------------------------------------------------------------------.
+
+MADURAI: Six people, including a 14-year-old boy, were killed and 15 injured after a government bus they were travelling in rammed a lorry near Dindigul on Friday morning.
+0.86 (MADURAI; rammed; a lorry near Dindigul; T:on Friday morning)
+0.36 (they; were travelling; in)
+0.54 (15; injured; T:after a government bus)
+0.97 (MADURAI : Six people , including a 14 - year - old boy , were killed; rammed; a lorry near Dindigul; T:on Friday morning)
+
+The accident took place around 9am at Ammai Nagar near Chinnalapatti.
+
+------------------------.
+
+PUNE: A 24-year-old customer care executive, who was riding on a motorcycle, was seriously injured after he was hit by a speeding car near Vishal Mega Mart on Shivarkar Road, Fatimanagar, around 2.45am on Thursday.
+0.61 (he; was hit; by a speeding car near Vishal Mega Mart on Shivarkar Road)
+0.94 (A 24-year-old customer care executive; was riding; on a motorcycle)
+
+----------------------------------------------------.
+
+MAPUSA: A youth from Cunchelim in Mapusa died in a road accident on Friday.According to Mapusa police, the accident took place at about 8.15am.
+0.90 (the accident; took; place; T:at about 8.15am)
+0.82 (MAPUSA; died; L:in a road accident on Friday.According to Mapusa police)
+
+------------------------------------------------------------------------------------------------------------------------------.
+
+CHENNAI: A deep crater developed after road caved in at the junction of Poonamallee high road-Taylors road at around 5.30am on Saturday.
+0.93 (road; caved in; L:at the junction of Poonamallee high road-Taylors road)
+0.95 (A deep crater; developed; T:after road caved in at the junction of Poonamallee high road-Taylors road at around 5.30am on Saturday)
+
+No one was injured in the accident.
+0.90 (No one; was injured; L:in the accident)
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.
+
+Surat: Two labourers were run over by a truck when they were sleeping in the cricket ground of Vesu on Saturday.
+0.66 (they; were sleeping; L:in the cricket ground of Vesu; T:on Saturday)
+0.91 (Two labourers; were run over; by a truck; T:when they were sleeping in the cricket ground of Vesu on Saturday)
+
+--------------------. AHMEDABAD: The driver of a car at speed lost control after a suspected flat tyre and the vehicle jumped the divider and smashed into oncoming traffic on Saturday morning.
+0.92 (The driver; smashed; into oncoming traffic; T:on Saturday morning)
+0.87 (AHMEDABAD; lost; control; T:after a suspected flat tyre)
+
+Five or six two-wheelers in the opposite lane were hit and a total of seven persons were hospitalized by EMRI 108 teams.
+0.94 (a total of seven persons; were hospitalized; by EMRI 108 teams)
+0.86 (Five or six two-wheelers in the opposite lane; were hit; )
+
+-----------------------------------------------------------------------------------------------------.
+
+JAIPUR: A 10-year-old girl was mowed to death by a pick-up van near Shivdaspura on Saturday evening.
+0.97 (A 10-year-old girl; was mowed; to death; by a pick-up van near Shivdaspura on Saturday evening)
+
+--------------------------------.
+
+PUNE: Three people died and four were injured when a speeding tanker rammed a stationary truck at Irrigation Colony Chowk in UruliKanchan on the Pune-Solapur highway around 4am on Saturday.
+0.95 (a speeding tanker; rammed; a stationary truck; L:at Irrigation Colony Chowk in UruliKanchan; L:on the Pune - Solapur highway around 4 am on Saturday)
+0.70 (four; were injured; T:when a speeding tanker rammed a stationary truck at Irrigation Colony Chowk in UruliKanchan on the Pune - Solapur highway around 4 am on Saturday)
+0.73 (Three people; died; )
+
+--------------------------------------------------------------------.
+
+GHAZIABAD: One person was killed while his four friends had a miraculous survival as a speeding SUV fell into Hindon canal after breaking a steel barricade in Ghaziabad on Saturday.
+0.94 (a speeding SUV; fell; into Hindon canal; T:after breaking a steel barricade in Ghaziabad on Saturday)
+0.83 (his four friends; had; a miraculous survival; T:as a speeding SUV fell into Hindon canal after breaking a steel barricade in Ghaziabad on Saturday)
+0.91 (One person; was killed; T:while his four friends had a miraculous survival as a speeding SUV fell into Hindon canal after breaking a steel barricade in Ghaziabad on Saturday)
+
+The accident took place a little after 8pm on a narrow road running along the Hindon canal between the old Kanawani bridge and a Shiv temple.
+0.95 (a narrow road; running; along the Hindon canal between the old Kanawani bridge and a Shiv temple)
+0.90 (The accident; took; place; T:a little after 8pm on a narrow road)
+
+---------------------------------------------------------------------.
+
+"NAVI MUMBAI: An egg-laden truck collided with a crane near Kamseth tunnel about 70 kms from Panvel on the Mumbal lane of the Pune Expressway on Sunday around 8.45 am causing severe traffic snarl as the impact of the collision resulted in spilling of several egg trays on the highway and made the road slippery.
+0.96 (around 8.45 am causing severe traffic snarl as the impact of the collision; made; the road slippery)
+0.57 (around 8.45; am causing; severe traffic snarl)
+0.93 (the impact of the collision; resulted; in spilling of several egg trays on the highway)
+0.68 (around 8.45; am causing; severe traffic snarl; T:as the impact of the collision resulted in spilling of several egg trays on the highway)
+0.79 (An egg - laden truck; collided; )
+
+------------------------------------------------------------------------------------.
+
+DEHRADUN: Days after Char Dham yatra began in Uttarakhand, four pilgrims were killed and six others injured — all hailing from Amravati in Maharashtra — after the vehicle they were travelling in from Gangotri to Kedarnath fell into a 300-metre-deep gorge in Ghansali tehsil of Tehri Garhwal district Saturday afternoon.
+0.93 (the vehicle they were travelling in from Gangotri to Kedarnath; fell; into a 300-metre-deep gorge in Ghansali tehsil of Tehri Garhwal district Saturday afternoon)
+0.88 (the vehicle; were travelling; they)
+0.73 (six others; injured; )
+0.94 (four pilgrims; were killed; T:Days after Char Dham yatra began in Uttarakhand)
+0.94 (Char Dham yatra; began; L:in Uttarakhand)
+
+--------------------------------------------------------------------------------.
+
+MANGALURU: A businessman was killed and another suffered severe injuries after the car in which they were travelling plunged into a gorge by the roadside near Boliyar Padil under Konaje police station limits, on Friday.
+0.77 (they; were travelling plunged; into a gorge; by the roadside near Boliyar Padil; L:the car)
+0.54 (another; suffered; severe injuries; T:after the car)
+0.73 (A businessman; was killed; )
+
+---------------------------------------------.
+
+JAIPUR: Six children were killed and 25 others were injured when a tractor trolley, in which they were travelling, overturned in Sawai Madhopur district on late Saturday night.
+0.80 (when a tractor trolley , in which they were travelling; overturned; L:in Sawai Madhopur district; T:on late Saturday night)
+0.71 (they; were travelling; L:when a tractor trolley , in which they were travelling , overturned in Sawai Madhopur district on late Saturday night)
+0.91 (25 others; were injured; T:when a tractor trolley , in which they were travelling , overturned in Sawai Madhopur district on late Saturday night)
+0.73 (Six children; were killed; )
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.
+
+DAVANAGERE: Two people were killed and 10 others sustained injuries after a speeding tempo hit a truck on NH-150A between Baklurahalli Gate and BG Kere in Challakere, Chitradurga district, early on Sunday.
+0.94 (a speeding tempo; hit; a truck; T:early on Sunday)
+0.95 (10 others; sustained; injuries; T:after a speeding tempo hit a truck on NH - 150A between BG Kere in Challakere , Chitradurga district , early on Sunday)
+0.99 (10 others; sustained; injuries)
+0.93 (a speeding tempo; hit; a truck)
+0.95 (10 others; sustained; injuries; T:after a speeding tempo hit a truck on NH - 150A between Baklurahalli Gate)
+0.73 (Two people; were killed; )
+
+--------------------------------------------------------------.
+
+GUWAHATI: A minor, identified as Ashma Afrin, died and at least 15 others received injuries in a series of accidents in several parts of the state on Sunday.
+0.99 (at least 15 others; received; injuries)
+0.96 (at least 15 others; received; injuries; L:in a series of accidents in several parts of the state; T:on Sunday)
+0.59 (GUWAHATI; died; )
+0.86 (GUWAHATI; identified; as Ashma Afrin)
+
+The fatal accident took place on NH-31 at Haripur of Nalbari when a passenger-carrying tempo Afrin was travelling in was hit by a speeding car.
+0.96 (a passenger-carrying tempo Afrin was travelling in; was hit; by a speeding car)
+0.80 (Afrin; was travelling; in)
+0.95 (The fatal accident; took; place; T:on NH-31; L:at Haripur of Nalbari; T:when a passenger-carrying tempo Afrin was travelling in was hit by a speeding car)
+
+In a separate accident in South Salmara district of lower Assam, four persons sustained injuries in New Fekamari Chariali of Mankachar.
+0.97 (four persons; sustained; injuries in New Fekamari Chariali of Mankachar; L:In a separate accident in South Salmara district of lower Assam)
+
+-------------------------------------------------------------------------------------.
+
+BHOPAL: A neighbourhood tiff over scratches on a brand new SUV spiraled into a macabre murder in the wee hours of Sunday in which a young man was allegedly beaten up, dragged behind an SUV , smashed against a tanker and then deliberately run over.
+0.92 (a young man; was deliberately run over; L:a macabre murder in the wee hours of Sunday; T:then)
+0.96 (a young man; was smashed; against a tanker; L:a macabre murder in the wee hours of Sunday)
+0.96 (a young man; was dragged; behind an SUV; L:the wee hours of Sunday)
+0.95 (a young man; was allegedly beaten up; L:a macabre murder in the wee hours of Sunday)
+0.97 (a brand new SUV; spiraled; into a macabre murder in the wee hours of Sunday)
+
+-----------------.
+
+PUNE: Five people from Virar in Mumbai were killed and five others were injured when their car skidded on diesel spilt by a luxury bus and crashed into the stationary bus in the Kamshet tunnel on the Pune-Mumbai expressway around 3.30pm on Sunday.
+0.70 (Five; crashed; into the stationary bus; L:in the Kamshet tunnel on the Pune - Mumbai expressway around 3.30 pm; T:on Sunday)
+0.92 (diesel; spilt; by a luxury bus)
+0.64 (their car; skidded; L:on diesel)
+0.83 (five others; were injured; T:when their car skidded on diesel)
+0.85 (Five people from Virar in Mumbai; were killed; )
+
+++++++++++++++++++++. KOLHAPUR: A 55-year-old man died and five others were injured in a road accident at Gokul Shirgaon area on Pune-Bangalore national highway on Monday morning.
+0.97 (A 55 - year - old five others; were injured; L:in a road accident at Gokul Shirgaon area on Pune - Bangalore national highway on Monday morning)
+0.82 (A 55 - year - old man; died; )
+
+----------------------------------------------------------------------------------------------------------.
+
+Navi Mumbai: A woman riding pillion on a bike with her husband on the Mumbai-Goa highway died due to severe head injuries as she fell off the bike after her saree got entangled in the moving bike’s rear wheel’s chain.
+0.64 (her saree; got entangled; L:in the moving bike's rear wheel's chain)
+0.79 (her saree; got; entangled in the moving bike's rear wheel's chain)
+0.49 (she; fell; off the bike; T:after her saree got entangled in the moving bike's rear wheel's chain)
+0.90 (Navi Mumbai; died; due to severe head injuries; T:as she fell off the bike after her saree got entangled in the moving bike's rear wheel's chain)
+0.92 (A woman; riding; pillion; L:on a bike; L:on the Mumbai-Goa highway)
+
+The incident occurred on Saturday around 6 pm near Kharpale village.
+0.92 (The incident; occurred; T:on Saturday around 6 pm near Kharpale village)
+
+-------------------------------------------------------------------------------------------------------------------.
+
+PUNE: Less than a month after a speeding car mowed down a three-year-old girl and her mother on Baner Road, another accident occurred on Monday morning close to the same spot when a sedan rammed into a Hyundai Xcent, injuring the driver and another person.The incident occurred around 9am when the Hyundai Xcent which was driving towards the city was hit by a grey sedan headed in the opposite direction near the National Insurance Academy.
+0.95 (another accident; occurred; T:on Monday morning close to the same spot; T:after a speeding car mowed down)
+0.80 (another person.The incident; occurred; )
+0.82 Context(a sedan rammed,List([177, 191))):(a sedan; rammed into a Hyundai Xcent injuring; the driver occurred around 9 am)
+0.97 (another accident; occurred; T:on Monday morning close to the same spot; T:Less than a month after a speeding car mowed down)
+0.75 (a speeding car; mowed down; )
+0.90 (another accident; injuring; another person.The incident)
+0.97 (another accident; occurred; T:on Monday morning close to the same spot; T:after a speeding car mowed down a three - year - old girl on Baner Road)
+0.96 (another person.The incident; occurred; around 9 am when the Hyundai Xcent which was driving towards the city was hit by a grey sedan)
+0.93 (a grey sedan; headed; in the opposite direction near the National Insurance Academy)
+0.82 Context(a sedan rammed,List([171, 185))):(a sedan; rammed into a Hyundai Xcent injuring; the driver occurred around 9 am)
+0.90 (a sedan; rammed; into a Hyundai Xcent)
+0.92 (the Hyundai Xcent; was hit; by a grey sedan)
+0.97 (another accident; occurred; T:on Monday morning close to the same spot; T:Less than a month after a speeding car mowed down a three - year - old girl on Baner Road)
+0.92 (the Hyundai Xcent; was driving; towards the city)
+0.95 (a speeding car; mowed down; a three - year - old girl on Baner Road)
+
+------------------------------------------------------------------------------------------------.
+
+GURAP: The driver who was behind wheels when singer Kalika Prasad Bhattacharya was on his way to a performance in Birbhum on March 7, a journey that ended tragically with an accident at Hooghly’s Gurap that killed the folk musician, was denied bail on Monday.
+0.94 (an accident at Hooghly's Gurap; killed; the folk musician)
+0.90 (a journey; ended tragically; with an accident at Hooghly's Gurap)
+0.93 (singer Kalika Prasad Bhattacharya; was; on his way to a performance in Birbhum; T:on March 7)
+0.91 (The driver; was; behind wheels)
+
+---------.
+
+Palanpur: Three persons were killed and one injured when a speeding car rammed into a trailer truck near Gadadar village, some 10km from Shyamlaji in Sabarkantha late on Sunday night.
+0.95 (a speeding car; rammed; into a trailer truck near Gadadar village , some 10 km from Shyamlaji in Sabarkantha late on Sunday night)
+0.70 (one; injured; T:when a speeding car rammed into a trailer truck near Gadadar village , some 10 km from Shyamlaji in Sabarkantha late on Sunday night)
+0.73 (Three persons; were killed; )
+
+---------------------------------------------------------------------------------.
+
+SURAT: Three persons were killed and 30 injured after a tempo overturned subsequent to hitting a motorcycle near Kocharba village near Vapi in Valsad district on Monday afternoon.
+0.73 (a tempo; overturned subsequent; )
+0.70 (30; injured; T:after a tempo overturned subsequent to hitting a motorcycle near Kocharba village near Vapi in Valsad district on Monday afternoon)
+0.73 (Three persons; were killed; )
+
+----------------------------------------------------------------------------------------.
+
+AHMEDABAD: Om Prakash Dhawan, a senior citizen who was hit-and-run over by an unidentified vehicle on April 24, succumbed to injuries on April 26, said Ellisbridge police officials.
+0.39 (Om Prakash Dhawan; [is]; a senior citizen)
+0.83 Context(AHMEDABAD : Om Prakash Dhawan , a senior citizen - run over by an unidentified vehicle on April 24 , succumbed to injuries on April 26 said,List([0, 141))):(AHMEDABAD; succumbed; to injuries; T:on April 26)
+0.98 (AHMEDABAD : Om Prakash Dhawan , a senior citizen - run over by an unidentified vehicle on April 24 , succumbed to injuries on April 26; said; Ellisbridge police officials)
+0.83 Context(AHMEDABAD : Om Prakash Dhawan , a senior citizen who was hit - by an unidentified vehicle on April 24 , succumbed to injuries on April 26 said,List([0, 144))):(AHMEDABAD; succumbed; to injuries; T:on April 26)
+0.98 (AHMEDABAD : Om Prakash Dhawan , a senior citizen who was hit - by an unidentified vehicle on April 24 , succumbed to injuries on April 26; said; Ellisbridge police officials)
+0.90 (a senior citizen; was hit; by an unidentified vehicle on April 24)
+
+-------------------------------------------------------------------------------------.
+
+SURAT: A 12-year-old girl died and two others suffered severe injuries when a speeding car dragged the motorcycle they were riding on to over one and half kilometre near Uchhal taluka of Tapi district on Monday.
+0.88 (the motorcycle; were riding; they)
+0.91 (a speeding car; dragged; the motorcycle they were riding on to over one and half kilometre near Uchhal taluka of Tapi district on Monday)
+0.90 (two others; suffered; severe injuries; T:when a speeding car dragged the motorcycle)
+0.82 (A 12 - year - old girl; died; )
+
+-------------------------------------------------------.
+
+"Rajkot: A driver and his cleaner died after their truck overturned and got engulfed in fire near Malvan Chowkdi on Viramgam-Kutch highway late night on Sunday.
+0.95 (Rajkot; got engulfed; in fire near Malvan Chowkdi on Viramgam - Kutch highway; T:late night; T:on Sunday)
+0.96 (Rajkot; got; engulfed in fire near Malvan Chowkdi on Viramgam - Kutch highway; T:late night)
+0.34 (his cleaner; died; )
+0.49 (his cleaner; died; T:after their truck overturned)
+0.92 (A driver; died got engulfed; in fire near Malvan Chowkdi; T:late night; T:on Sunday)
+0.95 (A driver; got; engulfed in fire near Malvan Chowkdi on Viramgam - Kutch highway late night on Sunday)
+0.34 (their truck; overturned; )
+0.83 (A driver; died; T:after their truck overturned)
+
+-------------------------------------------------------------------------------------------------------.
+
+In the wee hours of April 29, an earth-shattering crash woke up residents of Lake Market area.
+
+A white sedan had crashed into a lamppost and turned on its side.
+0.85 (A white sedan; turned; L:on its side)
+0.91 (A white sedan; had crashed; into a lamppost)
+
+The fatal accident killed model and TV host Sonika Chauhan and left her friend, Vikram Chatterjee, who was in the driver’s seat, severely injured.
+0.91 (The fatal accident; killed; TV host)
+0.91 (The fatal accident; killed; model)
+0.39 (Vikram Chatterjee; [is] left friend [of]; hers)
+0.72 (The fatal accident; severely injured; )
+0.66 (her friend; was; in the driver 's seat)
+0.93 (The fatal accident; left; her friend , Vikram Chatterjee , who was in the driver 's seat)
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.
+
+"PUNE: Fatigue took its toll on a car driver on Sunday morning when he dozed off, lost control over the wheel and the car crashed against the roadside cement railing killing a 55-year-old woman on the spot at Swami Chincholi village near Daund, 85 km away of Ram Mandir Road in Mumbai.
+0.90 (the car; crashed; against the roadside cement railing)
+0.48 (he; lost; control over the wheel)
+0.19 (he; dozed off; )
+0.91 (Fatigue; took; its toll; T:when he dozed off, lost control over the wheel and the car crashed against the roadside cement railing)
+
+--------------------------------------------------------------------------------------------------------------.
+
+NAGPUR: Two persons, including a deranged woman, were killed in separate hit-and-run cases in the last 24 hours at different places.
+0.83 (NAGPUR; were killed; L:in separate - run cases; T:in the last 24 hours at different places)
+0.89 (NAGPUR; were killed; L:in separate hit - cases in the last 24 hours at different places)
+
+-.
+
+GURGAON: Two persons died in separate hit-and-run incidents in Bilaspur and Civil Lines early on Monday.
+0.92 (Two persons; died; L:in separate hit - run incidents in Civil Lines; T:early on Monday)
+0.92 (Two persons; died; L:in separate hit - run incidents in Bilaspur; T:early on Monday)
+0.92 (Two persons; died; L:in separate hit - incidents in Civil Lines; T:early on Monday)
+0.92 (Two persons; died; L:in separate hit - incidents in Bilaspur; T:early on Monday)
+
+In the first incident, the deceased, identified as Akash (28), who was returning from a night shift at a private company was hit by a canter near Mokalwas village.
+0.98 (the deceased, identified as Akash (28),; was hit; by a canter near Mokalwas village; L:In the first incident)
+0.92 (Akash (28; was returning; from a night shift at a private company)
+0.57 (the deceased; identified; as Akash (28)
+
+The second incident happened in Sector 15 part 2 area.
+0.93 (The second incident; happened; L:in Sector 15 part 2 area)
+
+A 33-year-old tempo driver, Raju Prasad Yadav, was killed when an unidentified vehicle rammed into his Tata 407.
+0.87 (an unidentified vehicle; rammed; into his Tata 407)
+0.90 (A 33-year-old tempo driver; was killed; T:when an unidentified vehicle rammed into his Tata 407)
+
+---------------------------------------------------------------------------------------.
+
+GURGAON: Four people, including two women and a minor girl of the same family, were killed and eight others injured in a head-on collision between a Skoda Rapid and a Swift Dzire near Mubarikpur on Farrukhnagar-Jhajjar road on Monday night.
+0.95 (eight others; injured; L:in a head - on collision between a Swift Dzire near Mubarikpur on Farrukhnagar - Jhajjar road on Monday night)
+0.95 (eight others; injured; L:in a head - on collision between a Skoda Rapid near Mubarikpur on Farrukhnagar - Jhajjar road on Monday night)
+
+----------------------. "HYDERABAD: Andhra Pradesh Minister P Narayana's son and his friend were killed when their car rammed into a pillar in the Jubilee Hills area here early on Wednesday.The accident occurred at around 3 am when the SUV, being driven by state municipal administration minister's son hit the pillar.
+0.65 (his friend; were killed; T:when their car rammed into a pillar in the Jubilee Hills area here early on Wednesday.The accident)
+0.38 (P Narayana; [is] Minister [of]; Andhra Pradesh)
+0.91 (the SUV; being driven; by state municipal administration minister 's son)
+0.77 (their car; rammed; into a pillar in the Jubilee Hills area here early on Wednesday.The accident)
+0.96 (Andhra Pradesh Minister P Narayana 's son; were killed; T:when their car rammed into a pillar in the Jubilee Hills area here early on Wednesday.The accident)
+
+-------------------------------------------------------------------------------------------------------.
+
+COIMBATORE: Three people were killed in a road accident near Masinagudi in the Nilgiris on Monday night.
+0.92 (Three people; were killed; L:in a road accident near Masinagudi; L:in the Nilgiris; T:on Monday night)
+
++++++++++++++++++++++++++++++.
+
+RAJKOT: Shanavaz Munaf Chauhan (18), resident of Savarkundla town of Amreli, died and his friend Ajay, was injured when their bike collided with a truck near Lapaliya village on Savarkundla-Amreli road on Wednesday.
+0.89 (Ajay; [is] friend [of]; him)
+0.64 (their bike; collided; T:on Wednesday)
+0.61 (his friend; was injured; T:when their bike collided with a truck near Lapaliya village on Savarkundla - Amreli road on Wednesday)
+0.52 (RAJKOT; died; )
+
+-------------------------------------------------.
+
+HYDERABAD: Andhra Pradesh minister P Narayana's son Nishith Narayana died after his Mercedes Benz SUV rammed into a metro pier in Jubilee Hills area early Wednesday morning.
+0.38 (Nishith Narayana; [is] son [of]; Andhra Pradesh minister P Narayana)
+0.38 (P Narayana; [is] minister [of]; Andhra Pradesh)
+0.78 (his Mercedes Benz SUV; rammed; into a metro pier in Jubilee Hills area; T:early Wednesday morning)
+0.95 (Andhra Pradesh minister P Narayana's son; died; T:after his Mercedes Benz SUV rammed into a metro pier in Jubilee Hills area early Wednesday morning)
+
+Nishith was returning home with a friend K Raja Ravi Chandra (24) in his Mercedes Benz G-63 AMG when he lost control at a curve and rammed his SUV in a metro pillar on Road No. 36 near Heritage outlet at around 2.45 am.
+0.31 (he; rammed; his SUV; L:in a metro pillar; T:at around 2.45 am)
+0.92 (Nishith; was returning; home; with a friend; T:when he rammed his SUV in a metro pillar on Road No. 36 near Heritage outlet at around 2.45 am)
+0.52 (he; lost; control; L:at a curve)
+0.86 (Nishith; was returning; home; with a friend; T:when he lost control at a curve)
+
+-.
+
+BHOPAL/JABALPUR: Eleven labourers were killed and 15 injured after a mini-truck they were travelling in fell off a bridge in Jabalpur district late on Wednesday night.
+0.88 (BHOPAL; fell off; a bridge in Jabalpur district; T:late on Wednesday night)
+0.36 (they; were travelling; in)
+0.87 (BHOPAL 15; injured; T:after a mini-truck)
+0.79 (Eleven labourers; were killed; )
+
+The incident took place near Hotia junction at around 1am. -----------------------------------------.
+0.92 (The incident; took; place; L:near Hotia junction; T:at around 1am)
+
+BANTWAL: Three persons died, two of them on the spot, when a goods tempo collided with the motorcycle in which they were travelling, at Kalladaka junction in Golthamajalu village in the early hours of Thursday.
+0.74 (they; were travelling; T:in the early hours of Thursday; L:the motorcycle)
+0.73 (Three persons; died; )
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.
+
+After a hard day’s work, rickshaw puller Kalua Singh was sleeping outside a photocopy shop on Tara Road when the sound of squealing tyres woke him up.
+
+This was followed by an ear-splitting crash.
+0.38 (This; was followed; by an ear-splitting crash)
+
+Staying a few metres away from the accident site, he was the first one to reach the spot in the wee hours of April 29.
+0.64 (the first one; to reach; the spot in the wee hours of April 29)
+0.68 (he; was; the first one to reach the spot in the wee hours of April 29)
+
+It’s the accident that killed model-anchor Sonika Chauhan and had Vikram Chatterjee at the wheel that fateful night.
+0.82 (the accident; had; Vikram Chatterjee; L:at the wheel; T:that fateful night)
+0.44 (It; 's; the accident that had Vikram Chatterjee at the wheel that fateful night)
+0.90 (the accident; killed; model - anchor Sonika Chauhan)
+0.32 (It; 's; the accident that killed model - anchor Sonika Chauhan)
+
+“It was 3.25 am when I was woken up by the noise that could be heard even from Gariahat; it was that loud.
+0.43 Context(it was,List([89, 95))):(It; was; 3.25 am when I was woken up by the noise)
+0.10 (it; was; that loud)
+0.90 (the noise; could be heard; even from Gariahat)
+0.45 (I; was woken up; by the noise)
+
+-------------------------------------.
+
+NEW DELHI: A 10-year-old boy was crushed to death by a bus in south west Delhi’s Mahavir Enclave on Thursday.
+0.97 (A 10-year-old boy; was crushed; to death; by a bus in south west Delhi's Mahavir Enclave on Thursday)
+
+--------------------. THANE: In the first incident, a 25-year-old biker, Avghesh Mali, died early this week after battling for life post being hit by a tempo on April 20.
+0.92 (life post; being hit; by a tempo; T:on April 20)
+0.96 (a 25-year-old biker; died; T:early this week; T:after battling for life post; L:In the first incident)
+
+In the second incident that took place on Wednesday, two men suffered injuries after a speeding car hit their bike.
+0.88 (a speeding car; hit; their bike)
+0.90 (two men; suffered; injuries; T:after a speeding car hit their bike; L:In the second incident)
+0.91 (the second incident; took; place; T:on Wednesday)
+
+----------------------------.
+
+ALLAHABAD: An irate mob set three dumpers afire and pelted stones at vehicles after a 13-year-old boy was crushed to death by a speeding dumper near Mandar crossing under Puramufti police station in Kaushambi on Thursday.
+0.97 (a 13 - year - old boy; was crushed; to death; by a speeding dumper near Mandar crossing under Puramufti police station in Kaushambi on Thursday)
+0.92 (ALLAHABAD; pelted; stones; L:at vehicles; T:after a 13 - year - old boy was crushed to death by a speeding dumper near Mandar crossing under Puramufti police station in Kaushambi on Thursday)
+0.93 (An irate mob; set; three dumpers; afire)
+
+----------------------------.
+
+HYDERABAD: A day after AP minister P Narayana's son was killed in a road accident aused by over speeding at Jubilee Hills Road No. 36, the Hyderabad police decided to eclare the area of the mishap s being accident prone.
+0.38 (P Narayana; [is] minister [of]; AP)
+0.92 Context(the Hyderabad police decided,List([135, 163))):(the Hyderabad police; decided to eclare; the area of the mishap s being accident prone)
+0.95 (the Hyderabad police; decided; to eclare the area of the mishap s being accident prone)
+0.95 (a road accident; aused; by over speeding at Jubilee Hills Road No. 36, the Hyderabad police decided to eclare the area of the mishap s being accident prone)
+0.95 (AP minister P Narayana's son; was killed; L:in a road accident)
+
+++++++++++++++++++++++++++++++++++.
+
+MUMBAI: An adult female deer died after being run over by an autorickshaw at Goregaon on Western Express Highway around 12.30 am on Friday.
+0.91 (MUMBAI; died; T:after being run over by an autorickshaw at Goregaon on Western Express Highway around 12.30 am on Friday)
+
+---------------.
+
+AHMEDABAD: A 16-year-old died in a road accident on the SP Ring Road on Thursday night.
+0.94 (A 16-year-old; died; L:in a road accident on the SP Ring Road; T:on Thursday night)
+
+---------------.
+
+NAVI MUMBAI: A software engineer, Jeetesh Jadhav (35), died after he lost control of his car and rammed it into a moving truck in Kamshet tunnel on the Pune Expressway on Friday.
+0.85 (NAVI MUMBAI; died rammed; it; into a moving truck in Kamshet tunnel on the Pune Expressway; T:on Friday)
+0.37 (he; lost; control of his car)
+0.75 (NAVI MUMBAI; died; T:after he lost control of his car)
+
+------------------------.
+
+KOLKATA: Four helmetless youths -all on one bike -were hit by a truck when they were speeding down Taratala Road.Two died on spot and the others were severely injured.Around 2.30am on Friday, Aqibuddin (20), Mehluz Alam (21), Shaisha Hussain (24) and Sabir Ali (23) were on their way to a graveyard in Park Circus from their Garden Reach homes to offer prayers on the occasion of Shab-e-Baraat, the 24-hourlong festival when Muslims pray for forgiveness for the past and seek blessing for future.
+0.92 (Sabir Ali; were; on their way to a graveyard in Park Circus from their Garden Reach homes)
+0.92 (Shaisha Hussain; were; on their way to a graveyard in Park Circus from their Garden Reach homes)
+0.92 (Mehluz Alam; were; on their way to a graveyard in Park Circus from their Garden Reach homes)
+0.93 (the 24 - hourlong festival; seek; blessing for future)
+0.92 (the occasion of Shab-e-Baraat; pray; T:for the past)
+0.92 (Four helmetless youths - all on; were; on their way to a graveyard in Park Circus from their Garden Reach homes)
+0.66 (they; were speeding down; Taratala Road.Two died on spot)
+
+-----------------.
+
+HYDERABAD: Five persons, including four members of a mason's family , were killed in a road accident on the Hyderabad-Bangalore highway on Thursday night.
+0.97 (Five persons, including four members of a mason's family; were killed; L:in a road accident on the Hyderabad-Bangalore highway; T:on Thursday night)
+
+-----------------.
+
+PUNE: Nerul resident Jeetesh Jadhav, a 35-year-old software engineer, was killed and three others, including his wife, were severely injured when their car crashed into a moving truck inside Kamshet tunnel on the Pune-Mumbai expressway around 8.30am on Friday.
+0.77 (their car; crashed; into a moving truck inside Kamshet tunnel on the Pune - Mumbai expressway around 8.30 am; T:on Friday)
+0.70 (three others , including his wife; were severely injured; T:when their car crashed into a moving truck inside Kamshet tunnel on the Pune - Mumbai expressway around 8.30 am on Friday)
+0.68 (PUNE; was killed; )
+
+-----------------.
+
+GREATER NOIDA: Two persons were killed and three others were critically injured when a speeding Maruti Swift Dzire rammed into a truck on Yamuna expressway on Friday morning.
+0.90 (a speeding; rammed; into a truck on Yamuna expressway; T:on Friday morning)
+0.95 (three others; were critically injured; T:when a speeding Maruti Swift Dzire rammed into a truck on Yamuna expressway on Friday morning)
+0.73 (Two persons; were killed; )
+
+---------------------.
+
+HYDERABAD: Barely three days after Andhra Pradesh Minister P Narayana's son lost his life in a SUV crash at Jubilee Hills, three IITians employed in top software firms in the city died and their friend suffered injuries in a road mishap at Tukkuguda on the Outer Ring Road when they were en route to attend a colleague's wedding at Khammam on Friday morning.
+0.62 (they; to attend; a colleague 's wedding; L:at Khammam; T:on Friday morning)
+0.76 (they; were; en route; to attend a colleague 's wedding at Khammam on Friday morning)
+0.65 (their friend; suffered; injuries; L:in a road mishap; L:at Tukkuguda; L:on the Outer Ring Road; T:when they were en route to attend a colleague 's wedding at Khammam on Friday morning)
+0.38 (P Narayana; [is] Minister [of]; Andhra Pradesh)
+0.70 (HYDERABAD : Barely three days after Andhra Pradesh Minister P Narayana 's son lost his life in a SUV crash at Jubilee Hills; died; )
+0.93 (three IITians; employed; L:in top software firms in the city)
+0.95 (Andhra Pradesh Minister P Narayana 's son; lost; his life; L:in a SUV crash; L:at Jubilee Hills)
+
+-----------.
+
+TRICHY: In a tragic accident seven persons including two women and a girl child were killed and four others grievously injured after a car in which the victims were travelling rammed against a lorry Kulithalai in Karur district during the morning hours on Saturday.
+0.95 (seven persons including a girl child; were killed; L:In a tragic accident)
+0.95 (seven persons including two women; were killed; L:In a tragic accident)
+0.94 (the victims; were travelling rammed; T:during the morning hours on Saturday; L:a car)
+0.73 (four others; grievously injured; )
+
+++++++++++++++++++++++++++++++++++.
+
+WARDHA: Four people died on the spot while five others seriously injured when the autorickshaw they were travelling in was hit by a bus near Vani Phata, around 8km from Hinganghat, on National Highway-7 on Saturday evening.
+0.76 (the autorickshaw they were travelling in; was hit; by a bus near Vani Phata)
+0.36 (they; were travelling; in)
+0.91 (five others; seriously injured; T:when the autorickshaw they were travelling in was hit by a bus near Vani Phata, around 8km from Hinganghat)
+0.91 (Four people; died; L:on the spot; T:while five others seriously injured when the autorickshaw they were travelling in was hit by a bus near Vani Phata, around 8km from Hinganghat; T:on Saturday evening)
+
+----------------------.
+
+HYDERABAD: With two major road accidents in the city still fresh in memory, another road accident took place at busy Madhapur on Saturday night in which a biker died and four others suffered injuries.
+0.90 (four others; suffered; injuries)
+0.73 (a biker; died; )
+0.93 (another road accident; took; place; L:at busy Madhapur; T:on Saturday night)
+
+---------------------.
+
+RAJKOT: Hitesh Parmar (30), a resident of Ambedkarnagar in Wankaner town of Morbi, died after two bike drivers collided on outskirts of Wankaner town on Friday night.The incident occurred near Samrat Hotel.
+0.94 (Friday night.The incident; occurred; L:near Samrat Hotel)
+0.93 (two bike drivers; collided; on outskirts of Wankaner town; T:on Friday night.The incident)
+0.88 (RAJKOT; died; T:after two bike drivers collided on outskirts of Wankaner town on Friday night.The incident)
+
+Another biker, identified as Deepak Sindhav, was also injured and was rushed to hospital.
+0.90 (Another biker; was rushed; to hospital)
+0.84 (Another biker , identified as Deepak Sindhav; was also injured; )
+0.90 (Another biker; identified; as Deepak Sindhav)
+
+------------.
+
+BENGALURU: A trip to buy clothes for a wedding turned into a tragedy when two siblings were killed and three people injured in a road accident on Mysuru Road on Saturday evening.
+0.73 (two siblings; were killed; )
+0.90 (a wedding; turned; into a tragedy)
+
+Police said one of the car's tyres burst and the driver lost control of the vehicle.
+0.91 Context(Police said,List([0, 11))):(the driver; lost; control of the vehicle)
+0.87 (Police; said; the driver lost control of the vehicle)
+0.81 Context(Police said,List([0, 11))):(one of the car 's tyres; burst; )
+0.87 (Police; said; one of the car 's tyres burst)
+
+-------------.
+
+In another accident, a man on his morning walk was hit by car and killed in Kengeri's Hoyasala Circle on Saturday.
+0.85 (a man on his morning walk; was killed; L:in Kengeri 's Hoyasala Circle; T:on Saturday; L:In another accident)
+0.82 (a man on his morning walk; was hit; by car; L:In another accident)
+
+++++++++++++++++++++++++++++++++++.
+
+NEW DELHI: A 15-year-old boy was killed and his friend critically injured after coming under the wheels of a cement mixer truck while they were cycling near Model Town on Sunday evening.
+0.66 (they; were cycling; L:near Model Town; T:on Sunday evening)
+0.61 (his friend; after coming; under the wheels of a cement mixer truck; T:while they were cycling near Model Town on Sunday evening)
+0.74 (his friend; critically injured; T:after coming under the wheels of a cement mixer truck)
+0.82 (A 15 - year - old boy; was killed; )
+
+----------------------.
+
+Surat: Five people belonging to a family from the Diamond City were killed and three injured when the car in which they were travelling crashed into a road divider on National Highway no 53 near a bridge at Killa Pardi of Valsad district on Sunday.
+0.77 (the car in which they were travelling; crashed; into a road divider on National Highway; T:on Sunday)
+0.88 (the car; were travelling; they)
+0.56 (three; injured; T:when the car in which they were travelling crashed into a road divider on National Highway no 53 near a bridge at Killa Pardi of Valsad district on Sunday)
+0.89 (Five people belonging to a family from the Diamond City; were killed; )
+0.92 (Five people; belonging; to a family from the Diamond City)
+
+-------------------------. RUDRAPUR: The urban development minister has ordered an inquiry into the death of three people, who were allegedly killed in an accident in Jaspur on Saturday, after their kin suspected it to be culpable homicide.
+0.90 (three people; were allegedly killed; L:in an accident in Jaspur; T:on Saturday)
+0.92 (The urban development minister; has ordered; an inquiry into the death of three people)
+
+-----------------.
+
+HYDERABAD: Two persons, including an eight-year-old boy, died and three others were hurt when a biker in a bid to overtake an RTC bus crashed his Yamaha FZ into an oncoming Skoda Octavia at Kadthal on Sunday morning.
+0.87 (a biker in a bid; crashed; his Yamaha FZ; into an oncoming Skoda Octavia at Kadthal; T:on Sunday morning)
+0.91 (three others; were hurt; T:when a biker in a bid to overtake an RTC bus crashed his Yamaha FZ into an oncoming Skoda Octavia at Kadthal on Sunday morning)
+0.59 (HYDERABAD; died; )
+
+--------------------. PHANGWARA: Five members of a family from Ludhiana were killed in a head-on collision between a car and a truck near Khurampur village near here on Phagwara-Hoshiarpur road on Sunday.
+0.98 (Five members of a family from Ludhiana; were killed; L:in a head-on collision between a car and a truck near Khurampur village near here on Phagwara-Hoshiarpur road on Sunday)
+
+----------------------.
+
+SHIMLA: Three tourists from Tamil Nadu were killed and 14 others injured when the vehicle in which they were travelling rolled down a gorge in Chhadol in Bilaspur district of Himachal Pradesh on Sunday.
+0.77 (the vehicle in which they were travelling; rolled down; a gorge; L:in Chhadol; L:in Bilaspur district of Himachal Pradesh; T:on Sunday)
+0.94 (the vehicle; were travelling; T:rolled down a gorge in Chhadol in Bilaspur district of Himachal Pradesh on Sunday)
+0.91 (14 others; injured; T:when the vehicle in which they were travelling rolled down a gorge in Chhadol in Bilaspur district of Himachal Pradesh on Sunday)
+0.83 (Three tourists from Tamil Nadu; were killed; )
+
+-------------.
+
+HYDERABAD: An Indian student, pursuing masters in electrical engineering at Northern Illinois University, was killed in a road mishap in Illinois, US.
+0.86 (HYDERABAD; was killed; L:in a road mishap in Illinois)
+
+The victim has been identified as Sai Kumar Adluri from Tirupathi in Andhra Pradesh.The car accident took place on early Sunday morning when the victim's car was hit by another car from behind killing Sai Kumar on the spot.
+0.92 (the victim's car; was hit; by another car)
+0.92 (The victim; has been identified; as Sai Kumar Adluri from Tirupathi)
+
+--------------------------.
+
+NAWADA: Five persons were killed and 50 others injured when a bus, carrying mostly brick kiln labourers, overturned and tumbled into a ditch in Nawada district in the early hours on Monday.The condition of 12 passengers was serious.
+0.90 Context(50 others injured,List([0, 17))):(50 others; injured a bus carrying; mostly brick kiln labourers , overturned and tumbled into a ditch in Nawada district in the early hours on Monday.The condition of 12 passengers)
+0.88 (50 others; injured; a bus)
+0.92 (mostly brick kiln labourers; tumbled; into a ditch; L:in Nawada district; T:in the early hours)
+0.74 (mostly brick kiln labourers; overturned; )
+0.94 (50 others; tumbled; into a ditch; L:in Nawada district; T:in the early hours on Monday.The condition of 12 passengers)
+0.73 (Five persons; were killed; )
+
+Of the five persons who were killed, two were minors, the police said.
+0.33 Context(Of the five persons who were killed , two were minors said,List([0, 69))):(two; were; minors)
+0.96 (Of the five persons who were killed, two were minors; said; the police)
+0.72 (the five persons; were killed; )
+
+++++++++++++++++++++++++++++++++++.
+
+NEW DELHI: Three students of a private university died and four of their mates were battling for life when the Honda City car they were travelling in to appear for their first-year exam crashed through the railings of a railway bridge near Shakurbasti in west Delhi, and fell nearly 40 feet to the ground on Monday morning.
+0.95 (the Honda City car; fell; nearly 40 feet; to the ground; T:on Monday morning)
+0.72 (four of their mates; were battling; for life; the Honda City car)
+0.96 (the Honda City car; crashed; through the railings of a railway bridge near Shakurbasti in west Delhi)
+0.88 (the Honda City car; to appear; for their first - year exam)
+0.85 (the Honda City car; were travelling; to appear for their first - year exam)
+0.69 (four of their mates; were battling; for life; T:when the Honda City car they were travelling in to appear for their first - year exam crashed through the railings of a railway bridge near Shakurbasti in west Delhi)
+0.80 (Three students of a private university; died; )
+
+----------------.
+
+Nagpur: A 20-year-old girl, who was searching for a restaurant to get a bottle of water, was crushed to death under the front wheels of a heavy truck on Monday around 10am.The tragic accident happened near Kapsi Bridge in Kalamna.
+0.91 Context(A 20 - year - old girl was searching,List([8, 45))):(A 20-year-old girl; was searching for a restaurant to get; a bottle of water)
+0.91 (A 20-year-old girl; was searching; for a restaurant)
+1.00 (Nagpur: A 20-year-old girl, who was searching for a restaurant to get a bottle of water, was crushed to death under the front wheels of a heavy truck on Monday around 10am.The tragic accident; happened; L:near Kapsi Bridge in Kalamna)
+0.98 (A 20-year-old girl, who was searching for a restaurant; was crushed; to death; L:under the front wheels of a heavy truck on Monday around 10am.The tragic accident)
+
+----------------.
+
+Rajkot:Three persons of a family were killed in road accident near Dhrol town of Jamnagar on Monday early morning.
+0.94 (Rajkot:Three persons of a family; were killed; L:in road accident near Dhrol town of Jamnagar; T:on Monday; T:early morning)
+
+-----------------.
+
+MUMBAI: A 25-year-old man men, who was riding pillion on a bike which his friend was riding, died in an accident on the Ghatkopar flyover early on Monday.
+0.86 (MUMBAI; died; L:in an accident on the Ghatkopar flyover; T:early; T:on Monday)
+0.88 (a bike; was riding; his friend)
+0.93 (A 25-year-old man men; was riding; pillion; L:on a bike)
+
+The rider of the two-wheeler sustained serious injuries.
+0.94 (The rider of the two-wheeler; sustained; serious injuries)
+
+----------------------------.
+
+KOLHAPUR: A truck driver went on a rampage injuring two people and damaging as many as six vehicles on Sunday night.
+0.94 Context(A truck driver went,List([11, 30))):(A truck driver; went on a rampage injuring; two damaging as many as six vehicles on Sunday night)
+0.43 (two; damaging; as many as six vehicles; T:on Sunday night)
+0.90 (a rampage; injuring; two people)
+0.93 (A truck driver; went; on a rampage)
+
+He, however, ran out of luck after his vehicle hit the entrance arch of Bhawani Mandap near Mahalaxmi temple.
+0.74 (his vehicle; hit; the entrance arch of Bhawani Mandap near Mahalaxmi temple)
+0.49 (He; ran; out of luck; T:after his vehicle hit the entrance arch of Bhawani Mandap near Mahalaxmi temple)
+
+------------.
+
+PUNE: A 38-year-old professional biker from Kothrud fell to his death from the Paud Phata flyover in the early hours of Monday after his new high performance motorcycle crashed into the guard wall.
+0.70 (his new high performance motorcycle; crashed; into the guard wall)
+0.91 (PUNE; fell; to his death; from the Paud Phata flyover; T:in the early hours of Monday; T:after his new high performance motorcycle crashed into the guard wall)
+
+------------.
+
+LAKHISARAI: Five persons were killed and 10 others injured, three of them seriously, when their SUV rammed into a stationary truck near Mahisona village in Lakhisarai district on Tuesday.
+0.84 (10 others; injured seriously; T:when their SUV rammed into a stationary truck near Mahisona village in Lakhisarai district on Tuesday)
+0.77 (their SUV; rammed; into a stationary truck near Mahisona village in Lakhisarai district; T:on Tuesday)
+0.73 (Five persons; were killed; )
+
+++++++++++++++++++++++++++++++++++.
+
+NEW DELHI: A day after a Honda City crashed through the railings of a railway bridge near Shakurbasti in west Delhi, another girl injured in the accident succumbed to her injuries on Tuesday morning.
+0.90 (another girl injured in the accident; succumbed; to her injuries; T:on Tuesday morning)
+0.90 (another girl; injured; L:in the accident)
+0.96 (a Honda City; crashed; through the railings of a railway bridge near Shakurbasti in west Delhi)
+
+The condition of the other three injured is still critical and they have been shifted to the ICU.
+0.66 (they; have been shifted; to the ICU)
+0.84 (The condition of the other three; is; T:still; critical)
+0.30 (the other three; injured; )
+
+----------------.
+
+GURUGRAM: Two people were killed in Sector 53 and Udyog Vihar in two separate cases of hit-and-run on Monday.According to police, the first incident happened near Ram Chowk in Dundahera at 5 am on Monday.
+0.93 Context(the first incident happened,List([116, 143))):(Two people; were killed; L:in Udyog Vihar; L:in two separate cases of hit - run on Monday.According to police)
+0.90 Context(the first incident happened,List([82, 109))):(Two people; were killed; L:in Udyog Vihar; L:in two separate cases of)
+0.93 Context(the first incident happened,List([114, 141))):(Two people; were killed; L:in Sector 53; L:in two separate cases of hit - run on Monday.According to police)
+0.90 (the first incident; happened; L:near Ram Chowk; L:in Dundahera; T:at 5 am on Monday)
+0.90 Context(the first incident happened,List([80, 107))):(Two people; were killed; L:in Sector 53; L:in two separate cases of)
+0.90 (the first incident; happened; L:near Ram Chowk; L:in Dundahera; T:at 5 am; T:on Monday)
+
+A 29-year-old man was crushed to death by a speeding Santro car near Sector 53 at 6.30 am.
+0.95 (A 29-year-old man; was crushed; to death; by a speeding Santro car near Sector 53; T:at 6.30 am)
+
+------------------------.
+
+GHAZIABAD: A biker died after being hit by a speeding Skoda car on NH-58 in Muradnagar on Monday night.
+0.90 (A biker; after being hit; by a speeding Skoda car; T:on NH-58; L:in Muradnagar; T:on Monday night)
+0.95 (A biker; died; T:after being hit by a speeding Skoda car on NH-58 in Muradnagar on Monday night)
+
+-----------.
+
+A 20-year-old woman was run over by a bus driven by a temporary driver in Tirupur on Tuesday, shocking the public.
+0.92 (a bus; driven; by a temporary driver in Tirupur; T:on Tuesday)
+0.94 (A 20-year-old woman; was run over; by a bus)
+
+----------.
+
+MANGALURU: Two women were killed on the spot and several passengers injured after a private bus toppled on the busy Charmadi Ghat, near here on Tuesday.
+0.95 (several passengers; injured; T:after a private bus toppled on the busy Charmadi Ghat , near here on Tuesday)
+0.90 (Two women; were killed; L:on several passengers)
+0.93 (a private bus; toppled; L:on the busy Charmadi Ghat)
+0.95 (the spot; injured; T:after a private bus toppled on the busy Charmadi Ghat , near here on Tuesday)
+0.90 (Two women; were killed; L:on the spot)
+
+++++++++++++++++++++++++++++++++++.
+
+PUNE: Three persons from Surat in Gujarat were killed after their multi-utility vehicle hit a truck on the Pune-Solapur highway in the early hours of Tuesday.
+0.76 (their multi-utility vehicle; hit; a truck on the Pune-Solapur highway; T:in the early hours of Tuesday)
+0.95 (Three persons from Surat in Gujarat; were killed; T:after their multi-utility vehicle hit a truck on the Pune-Solapur highway in the early hours of Tuesday)
+
+------------.
+
+PANAJI: A Goa Police van rammed into a house and four parked two-wheelers in the wee hours of Wednesday near Azad Maidan in the capital city, after being hit by an unidentified speeding car from behind, police said.
+0.95 (police; said; T:after being hit by an unidentified speeding car from behind)
+0.95 Context(PANAJI : A Goa Police van rammed into a house , after being hit by an unidentified speeding car from behind said,List([0, 121))):(A Goa Police van; rammed; into a house; T:after being hit by an unidentified speeding car from behind)
+0.98 (PANAJI : A Goa Police van rammed into a house , after being hit by an unidentified speeding car from behind; said; police)
+
+Police said nobody was injured.
+0.67 Context(Police said,List([0, 11))):(nobody; was injured; )
+0.87 (Police; said; nobody was injured)
+
+--------------------. PALANPUR: A woman undertrial and a police constable died after a police jeep overturned near Jawangadh, about 22 km from Himmatnagar town, on Thursday.
+0.95 (a police constable; died; T:after a police jeep overturned near Jawangadh , about 22 km from Himmatnagar town , on Thursday)
+0.93 (a police jeep; overturned; L:near Jawangadh; T:on Thursday)
+0.95 (A woman undertrial; died; T:after a police jeep overturned near Jawangadh , about 22 km from Himmatnagar town , on Thursday)
+
+------------------.
+
+Surat: Four members of a family from Songadh-Vyara had a narrow escape when their car plunged 20 feet deep into Icchapore creek near here on Wednesday evening.
+0.86 (their car; plunged; 20 feet deep into Icchapore creek near here on Wednesday evening; T:a narrow escape)
+0.97 (Four members of a family from Songadh-Vyara; had; a narrow escape when their car plunged 20 feet deep into Icchapore creek near here on Wednesday evening)
+
+It was a miraculous escape for them but they suffered internal injuries.
+0.62 (they; suffered; internal injuries)
+0.37 (It; was; a miraculous escape for them)
+
+----------------.
+
+PALANPUR: Three persons were killed when a speeding jeep rammed into another one coming from the opposite direction near Gama Vas, some 20km from Palanpur town on Tuesday night.
+0.92 (another one; coming; from the opposite direction near Gama Vas)
+0.91 (a speeding jeep; rammed; into another one)
+0.90 (Three persons; were killed; T:when a speeding jeep rammed into another one)
+
+One person died on the spot late on Tuesday while two others succumbed to injuries in the wee hours of Wednesday, said police.
+0.94 Context(One person died on the spot late on Tuesday said,List([0, 118))):(One person; died; L:on the spot late on Tuesday; T:while two others succumbed to injuries in the wee hours of Wednesday)
+0.94 (One person died on the spot late on Tuesday; said; police)
+0.92 (two others; succumbed; to injuries; T:in the wee hours of Wednesday)
+
+---------------.
+
+AMBERNATH: Two people died and five were injured after the brakes of a concrete mixer truck failed and the vehicle rammed into an autorickshaw in Ambernath on Wednesday afternoon.
+0.86 (AMBERNATH; rammed; into an autorickshaw in Ambernath; T:on Wednesday afternoon)
+0.63 (AMBERNATH; failed; )
+0.87 (AMBERNATH five; were injured; T:after the brakes of a concrete mixer truck)
+0.73 (Two people; died; )
+
+--------------------------.
+
+JAMSHEDPUR: Five persons, including three children were killed, after a speeding truck rammed into a hut located along National Highway 33 under Dhalbhumgarh police station area in Ghatshila sub division on Wednesday.
+0.92 (a hut; located; L:along National Highway 33; L:under Dhalbhumgarh police station area in Ghatshila sub division; L:on Wednesday)
+0.91 (a speeding truck; rammed; into a hut)
+0.81 (JAMSHEDPUR; were killed; T:after a speeding truck rammed into a hut)
+
+++++++++++++++++++++++++++++++++++.
+
+NEW YORK: One person died and 12 others injured when a car plowed into pedestrians in New York's busy Times Square today, with authorities saying the driver of the vehicle, a US Navy veteran, has a criminal history and record of drunk driving.
+0.92 Context(authorities saying,List([99, 117))):(the driver of the vehicle; has; record of drunk driving)
+0.92 Context(authorities saying,List([99, 117))):(the driver of the vehicle; has; a criminal history of drunk driving)
+0.73 (12 others; injured; )
+0.92 Context(authorities saying,List([108, 126))):(the driver of the vehicle; has; record of drunk driving)
+0.93 (authorities; saying; the driver of the vehicle , a US Navy veteran , has record of drunk driving)
+0.92 Context(authorities saying,List([108, 126))):(the driver of the vehicle; has; a criminal history of drunk driving)
+0.93 (authorities; saying; the driver of the vehicle , a US Navy veteran , has a criminal history of drunk driving)
+0.92 (a car; plowed; into pedestrians in New York 's busy Times Square; T:today)
+0.73 (One person; died; )
+
+---------------------.
+
+RAJKOT: A 13-year-old girl died and 37 others were injured when the truck they were travelling in overturned in Sutrapada town on Thursday.
+0.76 (the truck they were travelling in; overturned; L:in Sutrapada town on Thursday)
+0.36 (they; were travelling; in)
+0.91 (37 others; were injured; T:when the truck they were travelling in overturned in Sutrapada town on Thursday)
+0.82 (A 13 - year - old girl; died; )
+
+----------------------.
+
+RAJKOT: Six members of a family, including three women, were killed and one another person was injured after their car collided with a luxury bus in Ranavav taluka of Porbandar on Thursday afternoon.The accident occurred at a sharp curve near Janawala ness.
+0.98 (a luxury bus in Ranavav taluka of Porbandar on Thursday afternoon.The accident; occurred; L:at a sharp curve near Janawala ness)
+0.75 (one another person; was injured; )
+0.82 (Six members of a family , including three women; were killed; )
+
+-------------------------. GREATER NOIDA: A school bus and a school van collided in Sector Gamma I on Thursday afternoon.
+0.93 (a school van; collided; L:in Sector Gamma)
+
+Students in both vehicles escaped with minor injuries as the two vehicles were moving slowly.
+0.75 (the two vehicles; were moving slowly; )
+0.92 (Students in both vehicles; escaped; with minor injuries; T:as the two vehicles were moving slowly)
+
+++++++++++++++++++++++++++++++++++.
+
+HYDERABAD: Two persons died and one suffered injuries in two separate road accidents in the city on Friday.
+0.89 (HYDERABAD one; suffered; injuries; T:in two separate road accidents in the city; T:on Friday)
+0.73 (Two persons; died; )
+
+In the first accident that occurred at 5am on Manchal-Ibrahimpatnam road, a woman died on the spot while her husband was battling for life at a hospital after their bike rammed into a tractor parked carelessly on the roadside.
+0.90 (a tractor; parked carelessly; on the roadside)
+0.64 (their bike; rammed; into a tractor)
+0.49 (her husband; was battling; for life; L:at a hospital; T:after their bike rammed into a tractor)
+0.94 (a woman; died; L:on the spot; T:while her husband was battling for life at a hospital after their bike rammed into a tractor; L:In the first accident)
+0.91 (the first accident; occurred; T:at 5am on Manchal-Ibrahimpatnam road)
+
+In another case, a street vendor, M Krishna, 19, of Sanjeev Nagar in Maheshwaram died on the spot when he was hit by a truck (HR 47 C 4281) near toll gate 16 on the ORR at Tondupally in Shamshabad.
+0.60 (he; was hit; by a truck; L:near toll gate 16; T:the spot)
+0.94 (a street vendor; died; L:on the spot; L:In another case)
+
+-------------------.
+
+MEERUT: In a freak accident, a 20-year-old motorcycle rider came under the wheels of a bus and died on the spot allegedly after being hit by the gate of a car, which was “opened abruptly” by its driver.
+0.75 (a car; was; opened abruptly)
+0.98 (MEERUT : In a freak accident , a 20 - year - old motorcycle rider came under the wheels; died; L:on the spot; T:allegedly after being hit by the gate of a car)
+0.97 (a 20 - year - old motorcycle rider; came; under the wheels; L:In a freak accident)
+0.97 (a 20 - year - old motorcycle rider; came; under the wheels of a bus; L:In a freak accident)
+
+----------------------.
+
+GREATER NOIDA: A 23-year old woman was killed after a speeding car hit her scooter in Surajpur area in Greater Noida on Friday morning.
+0.90 (a speeding car; hit; her scooter; L:in Surajpur area in Greater Noida; T:on Friday morning)
+0.85 (GREATER NOIDA; was killed; T:after a speeding car hit her scooter in Surajpur area in Greater Noida on Friday morning)
+
+------------------.
+
+ENGALURU: Five persons were killed when a car collided with a truck in Raichur district on late Friday night.
+0.73 (a car; collided; )
+0.73 (Five persons; were killed; )
+
+---------------------.
+
+BHOPAL: Three senior citizens on a morning stroll were run over by a speeding SUV in Betul district on Saturday.
+0.82 (BHOPAL; were run over; by a speeding SUV in Betul district; T:on Saturday)
+
+-----------------.
+
+MUMBAI: One dead and 14 were injured after the private bus they travelled reportedly hit the divider and turned turtle at Gandhi Nagar junction in Vikhroli (West) on Saturday.
+0.54 (14; were injured turtle; T:after the private bus)
+0.70 (the private bus they travelled; reportedly hit; the divider)
+0.89 (the private bus; travelled; they)
+0.51 (14; were injured; T:after the private bus they travelled reportedly hit the divider)
+
+++++++++++++++++++++++++++++++++++.
+
+SIVAGANGA: Five people, including a three-year-old child, were killed in a road accident involving two sports utility vehicles (SUVs) near Karaikudi in Sivaganga district on Sunday.
+0.91 (a road accident; involving; two sports utility vehicles)
+0.96 (Five people, including a three-year-old child; were killed; L:in a road accident; T:on Sunday)
+
+--------------.
+
+MUMBAI: One died and 17 people were injured when a private luxury bus hit the divider and turned turtle at a sharp turn near IIT-Powai, at Gandhi Nagar junction in Vikhroli (West), on Saturday.
+0.95 (17 people; were injured; T:when a private luxury bus turned turtle at a sharp turn near IIT - Powai , at Gandhi Nagar junction in Vikhroli ( West ) , on Saturday)
+0.94 (a private luxury bus; hit; the divider)
+0.90 (17 people; were injured; T:when a private luxury bus hit the divider)
+0.26 (One; died; )
+
+--------------------. NOIDA: Two persons were killed while two others were seriously injured after the mini-truck they were travelling in collided with a tree near Rashtriya Dalit Prerna Sthal in Noida on Saturday morning.
+0.36 (they; were travelling; in)
+0.73 (two others; were seriously injured; )
+0.91 (Two persons; were killed; T:while two others were seriously injured after the mini-truck they were travelling in collided with a tree near Rashtriya Dalit Prerna Sthal in Noida on Saturday morning)
+
+------------------.
+
+HYDERABAD: A two-year-old girl, who was playing outside her house, was run over by a Toyota Qualis car, which was reversing, at Shatamrai on Saturday.
+0.93 (a Toyota Qualis car; was reversing; L:at Shatamrai; T:on Saturday)
+0.82 (HYDERABAD; was run over; by a Toyota Qualis car)
+0.87 (A two-year-old girl; was playing; L:outside her house)
+
+------------.
+
+CHENNAI: Two people were killed and two others were injured after an SUV crashed into the median on the Grand Southern Trunk Road in Vandalur on Friday night.
+0.94 (an SUV; crashed; into the median; L:on the Grand Southern Trunk Road in Vandalur; T:on Friday night)
+0.95 (two others; were injured; T:after an SUV crashed into the median on the Grand Southern Trunk Road in Vandalur on Friday night)
+0.73 (Two people; were killed; )
+
+-------------------.
+
+KOLHAPUR: A 59-year-old woman was killed and six others injured in an accident, when an SUV they were in was hit by a truck coming from the opposite direction at Gaibi chowk in Radhanagari on Saturday.
+0.92 (a truck; coming; from the opposite direction at Gaibi chowk in Radhanagari; T:on Saturday)
+0.81 (an SUV they were in; was hit; by a truck; T:an accident)
+0.36 (they; were; in)
+0.90 (six others; injured; L:in an accident)
+0.82 (A 59 - year - old woman; was killed; )
+
+++++++++++++++++++++++++++++++++++.
+
+AHMEDABAD: It was a free for all as a bike carrying polythene pouches of country liquor had an accident near Rajka crossroads on Khodiyarnagar- Mehamdabad road on Saturday night.
+0.90 (a bike; carrying; polythene pouches of country liquor)
+0.52 (It; was; a free for all as a bike)
+
+No one was seriously injured in the accident.
+0.90 (No one; was seriously injured; L:in the accident)
+
+-------------------------. SURAT: Four members of a family from Rajkot were killed and one was injured when a tree fell on their car in Dang district on Sunday evening.
+0.89 (a tree; fell; on their car; L:in Dang district; T:on Sunday evening)
+0.56 (one; was injured; T:when a tree fell on their car in Dang district on Sunday evening)
+0.86 (Four members of a family from Rajkot; were killed; )
+
+--------------------. GURUGRAM: A 50-year-old man was killed in a hit and run accident, near a petrol pump on Wazirpur road around 10pm on Saturday, by an unidentified vehicle.
+
+---------------------.
+
+BATHINDA: Three persons were killed and 18 sustained injuries when a Pepsu road transport corporation (PRTC) bus heading to Ludhiana from Bathinda collided head on with a canter on Bathinda-Barnala highway near village Jethuke on Sunday morning.
+0.96 Context(a Pepsu road transport corporation ( PRTC ) bus collided,List([35, 125))):(a Pepsu road transport corporation ( PRTC ) bus; collided head heading; to Ludhiana; from Bathinda)
+0.95 (a Pepsu road transport corporation ( PRTC ) bus; collided; head; T:on Sunday morning)
+0.95 (Three persons; were; when a Pepsu road transport corporation ( PRTC ) bus heading to Ludhiana from Bathinda collided head on with a canter on Bathinda - Barnala highway near village Jethuke on Sunday morning)
+0.90 (Three persons; were; 18 sustained injuries)
+0.73 (Three persons; were killed; )
+
+--------------------. AMRITSAR: Seven persons, including four women and three men were killed in a road accident near Umranangal Chowk in Beas, 35 km from Amritsar on Sunday.
+0.94 (Seven persons , including three men; were killed; L:in a road accident near Umranangal Chowk in Beas)
+0.94 (Seven persons , including four women; were killed; L:in a road accident near Umranangal Chowk in Beas)
+
+The accident took place when an over speeding SUV crashed into two vehicles.
+0.92 (an over speeding SUV; crashed; into two vehicles)
+0.90 (The accident; took; place; T:when an over speeding SUV crashed into two vehicles)
+
+---------------.
+
+MUMBAI: A luxury bus with 50 passengers toppled near the Dadar TT flyover on Sunday morning after hitting a divider, killing one person.
+0.92 (50 passengers; toppled; L:near the Dadar TT flyover; T:on Sunday morning; T:after hitting a divider, killing one person)
+
+------------------.
+
+KOLKATA: One person was killed and nine were injured in three different accidents in the city on Sunday.
+0.59 (nine; were injured; L:in three different accidents in the city; T:on Sunday)
+0.73 (One person; was killed; )
+
+Around 1pm, two men on a bike, both without helmets, were hit by a state bus of route E-32 on Talla bridge when they came on the main road from an alley.
+0.62 (they; came; on the main road from an alley)
+0.90 (Around 1pm; were hit; by a state bus of route E-32 on Talla bridge; T:when they came on the main road from an alley)
+
+In the wee hours of Sunday, a sedan, driven by a middle-aged man with his wife sitting beside him, was hit by an SUV at the AJC Bose Road-Shakespeare Sarani crossing.
+0.93 (a sedan, driven by a middle-aged man with his wife sitting beside him; was hit; by an SUV; T:In the wee hours of Sunday)
+0.49 (his wife; sitting; beside him)
+0.87 (a sedan; driven; by a middle-aged man with his wife sitting beside him)
+
+In another incident, a truck loaded with vegetables crashed against a mini truck also carrying vegetables at the crossing of Bidhan Sarani and Vivekananda Road around 3.30am.
+0.93 (a mini truck; also carrying; vegetables; L:at the crossing of Vivekananda Road around 3.30 am)
+0.93 (a mini truck; also carrying; vegetables; L:at the crossing of Bidhan Sarani around 3.30 am)
+0.89 (vegetables; crashed; against a mini truck)
+0.94 (a truck; loaded; with vegetables; L:In another incident)
+
+------------------.
+
+BHOPAL: At least six people were killed and 28 injured, when a bus fell into a gorge in Dindori early Sunday morning.
+0.94 (a bus; fell; into a gorge in Dindori; T:early Sunday morning)
+0.66 (28; injured; T:when a bus fell into a gorge in Dindori early Sunday morning)
+0.77 (At least six people; were killed; )
+
+Most of the 40 passengers, who were travelling by the ill-fated bus, were from Jabalpur and the tragedy took place near Jogitikaria village.
+0.92 (the tragedy; took; place; L:near Jogitikaria village)
+0.93 (Most of the 40 passengers; were; from Jabalpur)
+0.72 (the 40 passengers; were travelling; )
+
+--------------.
+
+New Delhi: Two men were killed and five others were injured when their SUV rammed a jugaad (a three-wheeled cart powered by a scooter engine) and then overturned after hitting a divider on the Najafgarh-Bahadurgarh road in southwest Delhi on Saturday night.
+0.91 Context(New Delhi overturned,List([0, 25))):(New Delhi; overturned after hitting; a divider; L:on the Najafgarh - Bahadurgarh road in southwest Delhi; T:on Saturday night)
+0.97 (New Delhi; overturned; T:after hitting a divider on the Najafgarh - Bahadurgarh road in southwest Delhi on Saturday night; T:then)
+0.93 (a three - wheeled cart; powered; by a scooter engine)
+0.64 (their SUV; rammed; a jugaad)
+0.89 (New Delhi five others; were injured; T:when their SUV rammed a jugaad)
+0.73 (Two men; were killed; )
+
+++++++++++++++++++++++++++++++++++.
+
+PUNE: Five people were killed in different accidents in and around the city between Friday and Sunday.
+0.92 (Five people; were killed; L:in different accidents around the city; T:between Sunday)
+0.92 (Five people; were killed; L:in different accidents around the city; T:between Friday)
+0.90 (Five people; were killed; L:in different accidents; L:in)
+
+The accidents occurred in Chinchwad, Nigdi, Bhosari and Hadapsar.
+0.92 (The accidents; occurred; L:in Hadapsar)
+0.92 (The accidents; occurred; L:in Bhosari)
+0.92 (The accidents; occurred; L:in Nigdi)
+0.92 (The accidents; occurred; L:in Chinchwad)
+
+------------------.
+
+GHAZIABAD: In a hit-and-run crash in Muradnagar, a man died on the spot while his wife was critically injured when a vehicle rammed into their scooter on Sunday.
+0.95 (a man; died; L:on the spot; T:while his wife was critically injured when a vehicle rammed into their scooter on Sunday; L:In a hit - run crash in Muradnagar)
+0.86 (a vehicle; rammed; into their scooter; T:on Sunday)
+0.54 (his wife; was critically injured; T:when a vehicle rammed into their scooter on Sunday)
+0.95 (a man; died; L:on the spot; T:while his wife was critically injured when a vehicle rammed into their scooter on Sunday; L:In a hit - crash in Muradnagar)
+
+Around 5pm on Sunday, Ompal (44), the deceased, was returning to his home in Khichripur with his wife when the couple met with accident on NH-58.
+0.94 (the couple; met; with accident; T:on NH-58)
+0.94 (Around 5pm on Sunday; was returning; to his home in Khichripur; with his wife; T:when the couple met with accident on NH-58)
+
+----------------------.
+
+GURUGRAM: Two people were killed early on Monday when their bike crashed into a divider near Shankar Chowk Road.According to the police, the accident happened near the T-point of Shankar Chowk Road at around 3am. -------------------.
+0.92 (the accident; happened; L:near the T-point of Shankar Chowk Road; T:at around 3am)
+0.68 (their bike; crashed; into a divider near Shankar Chowk Road.According; to the police)
+0.91 (Two people; were killed; T:early; T:on Monday; T:when their bike crashed into a divider near Shankar Chowk Road.According to the police)
+
+RAIPUR: A recklessly-driven Bolero vehicle hit a road divider few metres away from Arang toll booth leaving two dead and three injured on Monday.
+0.92 Context(A recklessly - driven Bolero vehicle hit,List([9, 49))):(A recklessly - driven Bolero vehicle; hit a road leaving; three injured on Monday)
+0.96 (A recklessly - driven Bolero vehicle; hit; a road; L:divider few metres away from Arang toll booth; T:leaving three)
+0.59 (three; injured; L:on Monday)
+0.77 Context(A recklessly - driven Bolero vehicle hit,List([9, 49))):(A recklessly - driven Bolero vehicle; hit a road leaving; two dead)
+0.96 (A recklessly - driven Bolero vehicle; hit; a road; L:divider few metres away from Arang toll booth; T:leaving two dead)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.
+
+SINGUR: A computer professional’s wife and his 81-year-old father died after their car rammed a stationary truck at Singur on Durgapur Expressway around 1.30am on Tuesday.
+0.68 (their car; rammed; a stationary truck; L:at Singur)
+0.75 (his 81 - year - old father; died; T:after their car rammed a stationary truck at Singur on Durgapur Expressway around 1.30 am on Tuesday)
+0.68 (their car; rammed; a stationary truck; L:at Singur; T:around 1.30 am on Tuesday)
+0.93 (A computer professional 's wife; died; T:after their car rammed a stationary truck at Singur on Durgapur Expressway around 1.30 am on Tuesday)
+
+The spot is 1km away from where Trinamool Congress MP Abhisek Banerjee was critically injured when a speeding truck collided head-on with his vehicle on October 18 last year.
+0.38 (Abhisek Banerjee; [is] MP [of]; Trinamool Congress)
+0.90 (Trinamool Congress MP Abhisek Banerjee; was critically injured; T:when a speeding truck collided head-on with his vehicle on October 18 last year)
+0.96 (The spot; is; 1km away from where Trinamool Congress MP Abhisek Banerjee was critically injured)
+
+----------------------------------------------------.
+
+Shubham, a second year BSc student, was a resident of Nikol.
+0.88 (Shubham; [is] a second student [of]; year BSc)
+0.88 (Shubham; [is]; a second year BSc student)
+0.94 (Shubham; was; a resident of Nikol)
+
+He met with an accident on May 19 on Bavla – Bagodara road in Ahmedabad district, when he was on his way to Bhavnagar for the event management firm he worked for.
+0.23 (he; worked; for)
+0.53 (he; was; on his way to Bhavnagar for the event management firm)
+0.53 (He; met; with an accident; T:on May 19; L:on Bavla - Bagodara road in Ahmedabad district; T:when he was on his way to Bhavnagar for the event management firm)
+
+------------------------------------------.
+
+PUNE: An 18-year-old junior college student secretly took his friend's car for a spin on Monday evening only to mow down a teenaged scooter rider at Famous Chowk in Sangvi.
+0.92 (An 18-year-old junior college student; secretly took; his friend's car; for a spin; T:on Monday evening)
+
+--------------------------------------------------------------------------------------------.
+
+MUSSOORIE: Six members of two families from East Delhi were left critically injured when a Scorpio they were travelling in plunged into a 200 feet deep gorge near Spring Road in Library area on Tuesday.
+0.95 (a Scorpio; plunged; into a 200 feet deep gorge near Spring Road in Library area on Tuesday)
+0.36 (they; were travelling; in)
+0.95 (Six members of two families from East Delhi; critically injured; T:when a Scorpio they were travelling in plunged into a 200 feet deep gorge near Spring Road in Library area on Tuesday)
+0.87 (Six members of two families from East Delhi; were left; )
+
+-------------------------------------------------------------.
+
+DEHRADUN: At least 21 Char Dham pilgrims are feared dead while seven others have been injured after a bus carrying devotees from Indore in Madhya Pradesh plunged into a gorge near Dharasu in Uttarkashi on Tuesday.
+0.94 (DEHRADUN: At least 21 Char Dham pilgrims are feared dead; plunged; into a gorge near Dharasu in Uttarkashi; T:on Tuesday)
+0.92 (a bus; carrying; devotees; from Indore; L:in Madhya Pradesh)
+0.90 (seven others; have been injured; T:after a bus)
+0.87 (At least 21 Char Dham pilgrims; are feared; dead)
+
+------------------------------------------------.
+
+A 12-year-old boy was killed and 7 others were injured when the car in which he was travelling overturned near Murlipura locality in the city in the morning.
+0.91 (7 others; were injured; T:when the car in which he was travelling overturned near Murlipura locality in the city in the morning)
+0.77 (the car in which he was travelling; overturned; L:near Murlipura locality; L:in the city; T:in the morning)
+0.88 (the car; was travelling; he)
+0.94 (A 12 - year - old boy; was killed; T:when the car in which he was travelling overturned near Murlipura locality in the city in the morning)
+
+In another accident a rashly driven truck hit a scootey near Rambagh circle in which one person was killed and another was injured.
+0.26 (another; was injured; )
+0.94 (one person; was killed; L:Rambagh circle)
+0.97 (a rashly driven truck; hit; a scootey near Rambagh circle; L:In another accident)
+
+------------------------------------------------------------------------------------------------------------.
+
+BHUBANESWAR: Two people were killed and 24 others were injured when a van carrying wedding guests overturned near Saratchandrapur in Mayurbhanj district on Tuesday.
+0.94 (a van carrying wedding guests; overturned; L:near Saratchandrapur; L:in Mayurbhanj district; T:on Tuesday)
+0.90 (a van; carrying; wedding guests)
+0.95 (24 others; were injured; T:when a van carrying wedding guests overturned near Saratchandrapur in Mayurbhanj district on Tuesday)
+0.73 (Two people; were killed; )
+
+The incident happened at around 1 am while they were returning after attending a wedding ceremony at Saratchandrapur.
+0.62 (they; after attending; a wedding ceremony at Saratchandrapur)
+0.66 (they; were returning; T:after attending a wedding ceremony at Saratchandrapur)
+0.91 (The incident; happened; T:at around 1 am; T:while they were returning after attending a wedding ceremony at Saratchandrapur)
+
+"The wedding party started the journey home after dinner.
+0.91 (The wedding party; started; the journey home; T:after dinner)
+
+Two kilometres into the ride, the van overturned.
+0.73 (the van; overturned; )
+
++++++++.
+
+NEW DELHI: Two people died and three were critically injured after getting mowed down by a speeding low-floor DTC bus near Azadpur Metro station on Wednesday afternoon.
+0.66 (three; getting; mowed down by a speeding low - floor DTC bus near Azadpur Metro station on Wednesday afternoon)
+0.70 (three; were critically injured; T:after getting mowed down by a speeding low - floor DTC bus near Azadpur Metro station on Wednesday afternoon)
+0.73 (Two people; died; )
+
+----------------------------------------------------------------------------------------------.
+
+MYSURU: A trip to Kodagu ended on a tragic note for two Bengaluru students, who died after the bike they were on collided with a car near Bylakuppe, 80km from Mysuru on Tuesday.
+0.28 (they; collided; )
+0.35 (they; were collided; on)
+0.92 (two Bengaluru students; died; T:after the bike)
+0.95 (A trip to Kodagu; ended; L:on a tragic note for two Bengaluru students)
+
+---------------------------------------------------------------------------------------.
+
+COIMBATORE: Three of a family died and two others suffered injuries when a speeding truck rammed a sport utility vehicle (SUV) they were travelling in on the Annur Road in Mettupalayam on Wednesday.
+0.66 (they; were travelling; in; L:on the Annur Road in Mettupalayam; T:on Wednesday)
+0.91 (a speeding truck; rammed; a sport utility vehicle ( SUV ) they were travelling in on the Annur Road in Mettupalayam on Wednesday)
+0.94 (two others; suffered; injuries; T:when a speeding truck rammed a sport utility vehicle ( SUV)
+0.52 (COIMBATORE; died; )
+
+-----------------------------------------------------------------.
+
+PUNE: Seven pilgrims from the district were killed when a speeding truck knocked down the sports utility vehicle (SUV) in which they were travelling.
+0.70 (they; were travelling; L:the sports utility vehicle)
+0.91 (a speeding truck; knocked down; the sports utility vehicle (SUV) in which they were travelling)
+0.95 (Seven pilgrims from the district; were killed; T:when a speeding truck knocked down the sports utility vehicle)
+
+The accident occurred close to Dhangarwadi on Ahmednagar-Aurangabad highway at 2am on Wednesday.
+0.92 (The accident; occurred; L:close to Dhangarwadi; L:on Ahmednagar-Aurangabad highway; T:at 2am on Wednesday)
+
+------------------.
+
+"AURANGABAD: A freak accident at railway crossing gate 92 near Partur, a few minutes before passing of Manmad-Dharmabad-Marathwada Express on late Tuesday evening, sparked rumours.
+0.99 (AURANGABAD: A freak accident at railway crossing gate 92 near Partur, a few minutes before passing of Manmad-Dharmabad-Marathwada Express on late Tuesday evening; sparked; rumours)
+
+----------------------------------------------------------------------------------.
+
+HYDERABAD: Two auto drivers suffered minor injuries when an auto trolley was hit by a cab from the rear at APPA junction near Narsingi on Wednesday.
+0.91 (an auto trolley; was hit; by a cab)
+0.95 (Two auto drivers; suffered; minor injuries; T:when an auto trolley was hit by a cab from the rear at APPA junction near Narsingi on Wednesday)
+
+----------------------------------------------------------------------------------------------------------------------.
+
+DEHRADUN: A day after a bus carrying 30 Char Dham pilgrims from Indore fell into the Bhagirathi river in Uttarkashi district, rescue teams have recovered 24 bodies on Wednesday.
+1.00 (rescue teams; have recovered; 24 bodies)
+0.82 Context(rescue teams have recovered,List([126, 153))):(DEHRADUN; fell; into the Bhagirathi river; L:in Uttarkashi district)
+0.90 (rescue teams; have recovered; 24 bodies; T:on Wednesday)
+0.92 (a bus; carrying; 30 Char Dham pilgrims; from Indore)
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.
+
+The 40-year-old victim had submitted the application seeking compensation on March 7, 2012.
+0.95 (The 40-year-old victim; had submitted; the application seeking compensation; T:on March 7)
+
+He said that on February 10, 2012 around 4.30 pm he was riding his motorcycle on the Sion Trombay road when a tempo came from the opposite direction and dashed against him.
+0.31 (He; said; dashed against him)
+0.43 Context(He said,List([0, 7))):(he; was riding; his motorcycle; L:on the Sion Trombay road; T:when a tempo came from the opposite direction; T:on February 10)
+0.20 (He; said; that on February 10 , 2012 around 4.30 pm he was riding his motorcycle on the Sion Trombay road)
+0.90 (a tempo; came; from the opposite direction)
+
+He said that he sustained severe injuries and was admitted to Shatabdi Hospital.
+0.44 Context(He said,List([0, 7))):(he; was admitted; to Shatabdi Hospital)
+0.14 (He; said; that he was admitted to Shatabdi Hospital)
+0.40 Context(He said,List([0, 7))):(he; sustained; severe injuries)
+0.12 (He; said; that he sustained severe injuries)
+
+He was then shifted to Sion hospital where he was admitted until February 22, 2012 .
+0.50 (he; was admitted; T:until February 22)
+0.54 (He; was shifted; to Sion hospital; T:then)
+
+-------------------------------------------------------------------------------------------------.
+
+NEW DELHI: A post-midnight accident left six buffaloes dead and 18 injured on Outer Ring Road in south Delhi, bringing the morning traffic on Thursday almost to a standstill.
+0.59 (18; injured; L:on Outer Ring Road in south Delhi)
+0.93 (A post-midnight accident; left; six buffaloes; dead)
+
+A truck bearing a Rajasthan registration plate and loaded with the animals overturned on a diversion loop heading towards the Hauz Khas flyover at around 1am. ----------------------------------------------------------------.
+0.93 (A truck loaded with the animals; overturned; L:on a diversion loop)
+0.90 (A truck; loaded; with the animals)
+0.93 (a diversion loop; heading; towards the Hauz Khas flyover; T:at around 1 am)
+0.95 (A truck bearing a Rajasthan registration plate; overturned; L:on a diversion loop)
+0.92 (A truck; bearing; a Rajasthan registration plate)
+
+KOCHI: An accident on Thursday on the Vallarpadam container road claimed one more life when a car rammed a parked container.
+0.90 (a car; rammed; a parked container)
+0.91 (KOCHI; claimed; one more life; T:when a car rammed a parked container)
+
+-------.
+
+VADODARA: Three persons died and five others were injured when a luxury bus collided with another bus near Jambua Bridge on National Highway 8 on Thursday morning.
+0.93 (a luxury bus; collided; with another bus near Jambua Bridge; L:on National Highway 8; T:on Thursday morning)
+0.95 (five others; were injured; T:when a luxury bus collided with another bus near Jambua Bridge on National Highway 8 on Thursday morning)
+0.73 (Three persons; died; )
+
+The accident happened when one of the buses was parked by the roadside near the bridge at about 4.30 am.
+0.92 (one of the buses; was parked; by the roadside near the bridge)
+0.94 (The accident; happened; T:when one of the buses was parked by the roadside near the bridge at about 4.30 am)
+
+--------------------------------------------------------------------------------------------------------------------------------.
+
+NAVI MUMBAI: A luxury bus going towards Goa met with a fatal accident on the Mumbai-Goa highway in Ratnagiri district on early Friday morning, killing at least two persons and injuring 21 others.
+0.93 (NAVI MUMBAI; met; with a fatal accident on the Mumbai - Goa highway; L:in Ratnagiri district; T:on early Friday morning)
+0.93 (A luxury bus; going; towards Goa)
+
+-----------------------------------------------------------------------.
+
+KARWAR: Six persons of a marriage party, including the bride, died when their minibus collided with a private bus in Uttara Kannada district on Thursday morning.
+0.77 (their minibus; collided; with a private bus in Uttara Kannada district on Thursday morning)
+0.95 (Six persons of a marriage party, including the bride; died; T:when their minibus collided with a private bus in Uttara Kannada district on Thursday morning)
+
+Drivers of both buses died in the accident, which occurred at Anantawadi village in Honnavar taluk on National Highway 66.
+0.90 (the accident; occurred; L:at Anantawadi village in Honnavar taluk; L:on National Highway 66)
+0.92 (Drivers of both buses; died; L:in the accident)
+
+In a second road accident, a naval officer, identified as Naresh Kumar, 32, died on the spot when his bike crashed into a private bus in front of INS Kadamba naval base.
+0.68 (his bike; crashed; into a private bus; L:in front of INS Kadamba naval base)
+0.98 (a naval officer, identified as Naresh Kumar, 32,; died; L:on the spot; L:In a second road accident)
+0.91 (a naval officer; identified; as Naresh Kumar)
+
+----------------------------------------------------------------------.
+
+"INDORE: Eleven persons including six women and four children were killed when a tractor trolley they were travelling overturned in Neemuch district on Thursday.The accident took place today afternoon when the victims were returning to their native village Khandariya Kacharia in Mandsaur district after offering prayers at Sanwaria Seth temple in Rajasthan, Neemuch police said.
+0.91 Context(INDORE : Eleven persons including four children were killed said,List([2, 367))):(Eleven persons including four children; were killed; T:when a tractor trolley they were travelling overturned in Neemuch district on Thursday.The accident took place today afternoon)
+0.95 (INDORE : Eleven persons including four children were killed; said; Neemuch police)
+0.90 (the victims; after offering; prayers; L:at Sanwaria Seth temple in Rajasthan)
+0.86 (the victims; were returning; to their native village; T:after offering prayers at Sanwaria Seth temple in Rajasthan)
+0.88 (a tractor trolley they were travelling overturned in Neemuch district on Thursday.The accident; took; place; T:today afternoon; T:when the victims were returning to their native village Khandariya Kacharia in Mandsaur district after offering prayers at Sanwaria Seth temple in Rajasthan)
+0.91 (a tractor trolley; were travelling overturned; L:in Neemuch district on Thursday.The accident)
+0.91 Context(INDORE : Eleven persons including six women were killed said,List([2, 363))):(Eleven persons including six women; were killed; T:when a tractor trolley they were travelling overturned in Neemuch district on Thursday.The accident took place today afternoon)
+0.95 (INDORE : Eleven persons including six women were killed; said; Neemuch police)
+
+----------.
+
+Medical tests conducted on Maharashtra State Road Transport Corporation (MSRTC) bus driver Ramesh Sahdev Kamble, who lost control of the vehicle in Kolhapur on Wednesday evening, have revealed that he has brain tumour.
+0.47 Context(Medical tests conducted on Maharashtra State Road Transport Corporation ( MSRTC ) bus driver Ramesh Sahdev Kamble , have revealed,List([0, 192))):(he; has; brain tumour)
+0.80 (Medical tests conducted on Maharashtra State Road Transport Corporation (MSRTC) bus driver Ramesh Sahdev Kamble,; have revealed; that he has brain tumour)
+0.96 (Maharashtra State Road Transport Corporation; lost; control of the vehicle; L:in Kolhapur; T:on Wednesday evening)
+0.92 (Medical tests; conducted; L:on Maharashtra State Road Transport Corporation)
+
+Two people were killed and 10 others were injured when Kamble rammed into several vehicles on a busy chowk on Wednesday evening.
+0.93 (Kamble; rammed; into several vehicles; L:on a busy chowk; T:on Wednesday evening)
+0.95 (10 others; were injured; T:when Kamble rammed into several vehicles on a busy chowk on Wednesday evening)
+0.73 (Two people; were killed; )
+
++++++++++++++++++++++++++++++++++++++++++++++.
+
+GURUGRAM: A traffic cop sustained serious injured after a car hit him while he was on duty at Iffco chowk on Thursday.
+0.57 (he; was; on duty; L:at Iffco chowk on Thursday)
+0.93 (a car; hit; him; T:while he was on duty at Iffco chowk on Thursday)
+0.26 (serious; injured; )
+0.91 (A traffic cop; sustained; serious injured; T:after a car hit him while he was on duty at Iffco chowk on Thursday)
+
+-------------.
+
+AHMEDNAGAR: Eight persons were today killed after their car rammed into a tree and overturned in the district, police said.The mishap occurred at around 7 pm at Rahuri, 50 kms from here, said District Superintendent of Police Ranjankumar Sharma.
+0.97 (police said.The mishap occurred at around 7 pm at Rahuri ,; said; 50 kms from here)
+0.92 (said.The mishap; occurred; T:at around 7 pm at Rahuri)
+0.86 (Eight persons; were killed overturned; L:in the district)
+0.90 Context(police said,List([82, 164))):(said.The mishap; occurred; T:at around 7 pm at Rahuri)
+0.73 Context(police said,List([82, 164))):(Eight persons; were killed; T:after their car rammed into a tree)
+0.87 (police; said; District Superintendent of Police Ranjankumar Sharma)
+0.64 (their car; rammed; into a tree)
+
+--------------------. CHIPLUN: Three people, including a 10-year-old boy, were killed and 28 others injured after a luxury bus in which they were travelling overturned on Friday as the driver was trying to negotiate a curve near Chiplun on the Mumbai-Goa highway.
+0.90 Context(the driver was trying,List([181, 202))):(the driver; was trying to negotiate; a curve near Chiplun; L:on the Mumbai-Goa highway)
+0.94 (the driver; was trying; to negotiate a curve near Chiplun on the Mumbai-Goa highway)
+0.77 (they; were travelling; overturned on Friday; L:a luxury bus)
+0.90 (28 others; injured; T:after a luxury bus)
+0.85 (Three people, including a 10-year-old boy; were killed; )
+
+Around 4am, the bus going from Parel to Malvan in Konkan, overturned while taking a turn close to Chiplun.
+0.96 (the bus going from Parel to Malvan in Konkan; taking; a turn close to Chiplun)
+0.96 (the bus going from Parel to Malvan in Konkan; overturned; T:while taking a turn close to Chiplun)
+0.92 (the bus; going; from Parel; to Malvan; L:in Konkan)
+
+---------------------------------------------------.
+
+COIMBATORE: Five persons, including two women, have been killed and 28 injured when their van turned upside down near Kothagiri in Nilgiris district, police said on Saturday.
+0.49 Context(28 injured when their van turned upside down near Kothagiri in Nilgiris district said,List([0, 94))):(28; injured; T:when their van turned upside down near Kothagiri in Nilgiris district)
+0.84 (28 injured when their van turned upside down near Kothagiri in Nilgiris district; said; T:on Saturday)
+0.68 (their van; turned; upside down near Kothagiri in Nilgiris district)
+0.89 (police; said; T:on Saturday)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.
+
+INDORE: Two persons were killed and 26 others sustained injuries when a bus overturned in Gandhwani area of Dhar district on Saturday.The incident took place when around 30 people of a marriage party were on their way to Indore in the bus from Jamli village in Dhar district.
+0.94 (around 30 people of a marriage party; were; on their way to Indore in the bus from Jamli village in Dhar district)
+0.86 (INDORE; took; place; T:when around 30 people of a marriage party were on their way to Indore in the bus from Jamli village in Dhar district)
+0.99 (indore 26 others; sustained; injuries when a bus overturned in Gandhwani area of Dhar district on Saturday.The incident)
+0.92 (a bus; overturned; L:in Gandhwani area of Dhar district on Saturday.The incident)
+0.91 (INDORE 26 others; sustained; injuries when a bus overturned in Gandhwani area of Dhar district on Saturday.The incident)
+0.73 (Two persons; were killed; )
+
+------------------------------------------------------------------------------------------------------------------.
+
+THANE: A trolley loaded with iron rods rammed onto a divider near Teen Hath Naka flyover in the wee hours of Saturday morning.
+0.93 (THANE; rammed; onto a divider near Teen Hath Naka flyover in the wee hours of Saturday morning)
+0.90 (A trolley; loaded; with iron rods)
+
+A major accident was averted as the accident took place at around 4 am, when there was hardly any traffic movement on this otherwise busy stretch.
+0.89 (the accident; took; place; T:at around 4 am; T:when there was hardly any traffic movement on this otherwise busy stretch)
+0.90 (A major accident; was averted; T:as the accident took place at around 4 am, when there was hardly any traffic movement on this otherwise busy stretch)
+
+---------------------------------------------------------------------------------------------------------------------------.
+
+UDHAGAMANDALAM: A leisure trip ended in tragedy for a group of tourists from Vellore when the van they were travelling in rammed a parapet wall on roadside near Thattapallam on the Kotagiri-Mettupalayam road Friday late night, while they were returning home after visiting Ooty, killing five and injuring others.
+0.66 (they; were returning; home; T:after visiting Ooty)
+0.58 (they; injuring; others)
+0.62 (they; after visiting; Ooty)
+0.66 (they; were returning; home; T:after visiting Ooty; killing five)
+0.76 (the van they were travelling in; rammed; a parapet wall on roadside near Thattapallam)
+0.36 (they; were travelling; in)
+0.32 (they; killing; five)
+0.84 (UDHAGAMANDALAM; ended; in tragedy; T:when the van they were travelling in rammed a parapet wall on roadside near Thattapallam on the Kotagiri - Mettupalayam road Friday late night)
+
+-----------------------------------------------------------------------------------.
+
+LUCKNOW: A 14-year-old boy was injured after the school bus ran over him on Friday.
+0.90 (the school bus; ran; over him; T:on Friday)
+0.91 (A 14-year-old boy; was injured; T:after the school bus ran over him on Friday)
+
+Vishnu Mishra, a student of Class IX in DPS, Jankipuram, was injured after he slipped and fell in a puddle and the school bus ran over him.
+0.93 (Vishnu Mishra; fell; L:in a puddle)
+0.76 (Vishnu Mishra; was injured; )
+0.88 (Vishnu Mishra; [is] a student of; Class IX)
+0.19 (he; slipped; )
+0.85 (Vishnu Mishra; was injured; T:after he slipped)
+
+-------------------------------------.
+
+VASCO: Piolinho Barreto, 60, a barge owner from Chicalim, was hit by a tempo at Vaddem, Vasco, on Saturday evening.
+0.92 (VASCO; was hit; by a tempo at Vaddem)
+
+----------------.
+
+Two persons died when their motorcycle was hit by a truck near Viramgam on Saturday.
+0.68 (their motorcycle; was hit; by a truck near Viramgam; T:on Saturday)
+0.91 (Two persons; died; T:when their motorcycle was hit by a truck near Viramgam on Saturday)
+
+-----------------------------------------------.
+
+PUNE: A Talegaon Dabhade police constable suffered injuries after a history-sheeter, Subhan, who was involved in the early morning robbery and car jacking case on Pune-Mumbai expressway on May 25, knocked him down with the stolen car on the same night on Dehu Road.The police said two constables noticed the stolen car and tried to stop it near Thomas Colony on Dehu Road around 11.30pm on Thursday, when the incident ocurred.
+0.92 (a history - sheeter; was involved; in car jacking case; T:on May 25)
+0.73 (the incident; ocurred; )
+0.92 (a history - sheeter; was involved; in the early morning robbery; T:on May 25)
+0.94 (A Talegaon Dabhade police constable; suffered; injuries; T:after a history - sheeter)
+
+-----------------------------------------------------------------------------------------------.
+
+PUNE: A newly married software engineer was killed, while his wife, mother and grandmother suffered injuries in an accident around midnight on Friday on Katraj –Dehu Road bypass in Balewadi after his car rammed into a stationary tempo from the rear.
+0.65 (his grandmother; suffered; injuries; L:in an accident around midnight; T:on Friday; T:after his car rammed into a stationary tempo from the rear)
+0.65 (his mother; suffered; injuries; L:in an accident around midnight; T:on Friday; T:after his car rammed into a stationary tempo from the rear)
+0.64 (his car; rammed; into a stationary tempo from the rear)
+0.65 (his wife; suffered; injuries; L:in an accident around midnight; T:on Friday; T:after his car rammed into a stationary tempo from the rear)
+0.79 (A newly married software engineer; was killed; )
+
++++++++++++++.
+
+"NAVI MUMBAI: Eight people were injured after a BEST bus rammed into a car at Vashi.
+0.94 (a BEST bus; rammed; into a car; L:at Vashi)
+0.95 (Eight people; were injured; T:after a BEST bus rammed into a car at Vashi)
+
+The incident occurred at the Arenja Corner junction around 7.30am, when the BEST bus from Kalamboli going towards Ghatkopar was heading to Shivaji Chowk after dropping commuters at the APMC market bus stop.
+0.94 (the BEST bus from Kalamboli; was heading; to Shivaji Chowk; T:after dropping commuters at the APMC market bus stop)
+0.92 (The incident; occurred; L:at the Arenja Corner junction around 7.30am)
+
+-------------------------------------------------------------------------------------------------------.
+
+GURUGRAM: A 24-year-old man was killed after being hit by a car near Tata Housing Company on Sohna Road late on Thursday.
+0.96 (A 24-year-old man; after being hit; by a car near Tata Housing Company on Sohna Road late on Thursday)
+0.97 (A 24-year-old man; was killed; T:after being hit by a car near Tata Housing Company on Sohna Road late on Thursday)
+
+-----------.
+
+GURUGRAM: Two nilgais were killed on Pali Road near Asola Bhatti Wildlife Sanctuary in Faridabad after being hit by a car on Sunday morning.
+0.92 (Two nilgais; were killed; L:on Pali Road near Asola Bhatti Wildlife Sanctuary; L:in Faridabad; T:after being hit by a car on Sunday morning)
+
+----------------------------------------------------------------------------------------------------------------------------.
+
+HYDERABAD: In yet another road accident on the Outer Ring Road (ORR), a Tata Consultancy Services (TCS) employee died while his colleague suffered serious injuries while they were travelling in a car between Tukuguda and Ravirala on Sunday.
+0.66 (they; were travelling; in a car between Tukuguda and Ravirala; T:on Sunday)
+0.65 (his colleague; suffered; serious injuries; T:while they were travelling in a car between Tukuguda and Ravirala on Sunday)
+0.96 (a Tata Consultancy Services (TCS) employee; died; T:while his colleague suffered serious injuries while they were travelling in a car between Tukuguda and Ravirala on Sunday; L:In yet another road accident on the Outer Ring Road)
+
+In another case, a three-year-old boy died when the car in which he was travelling with his parents, was hit by an RTC bus at Burlagate, Shadnagar on Sunday.
+0.80 (the car in which he was travelling with his parents; was hit; by an RTC bus; L:at Burlagate; T:on Sunday)
+0.88 (the car; was travelling; he)
+0.97 (a three-year-old boy; died; T:when the car in which he was travelling with his parents, was hit by an RTC bus at Burlagate, Shadnagar on Sunday; L:In another case)
+
+-----------------------------------------------------------------------------------------------------------------------------.
+
+AMRITSAR: Five persons were injured in two separate road accidents in Batala on Sunday.
+0.92 (Five persons; were injured; L:in two separate road accidents in Batala; T:on Sunday)
+
+Two youth on a bike were hit by an over speeding car near Adda Leel Kala in Qadiyab area.
+0.81 (Two youth on a bike; were hit; by an)
+
+In another accident that took place in Chaudhariwal area, three persons including a 10-year-old boy were injured.
+0.97 (three persons including a 10-year-old boy; were injured; L:In another accident)
+0.90 (another accident; took; place; L:in Chaudhariwal area)
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.
+
+THANE: Three individuals were injured in separate road accidents that occurred in the city last week.In the first incident, a 21-year-old was coming from Pune to Thane with her father when their four-wheeler met with an accident.
+0.74 (their four-wheeler; met; with an accident)
+0.85 (the first incident; was coming; from Pune; to Thane; T:when their four-wheeler met with an accident)
+0.90 (separate road accidents; occurred; L:in the city; T:last week.In; T:the first incident, a 21-year-old was coming from Pune to Thane with her father when their four-wheeler met with an accident.)
+0.90 (Three individuals; were injured; L:in separate road accidents)
+
+A speeding milk van rammed into their car on Saturday near Kalwa Hospital.
+0.88 (A speeding milk van; rammed; into their car; T:on Saturday near Kalwa Hospital)
+
+In another incident, a motorcycle-born couple suffered grievous injuries after a bike hit them from behind near the Cadbury junction, last week.
+0.89 (a bike; hit; them; from behind; L:near the Cadbury junction)
+0.96 (a motorcycle-born couple; suffered; grievous injuries; T:after a bike hit them from behind near the Cadbury junction; T:last week; L:In another incident)
+
+--------------------------------------------------------------------------.
+
+NOIDA: Three persons, including a truck driver and a biker, were killed in two separate accidents in Noida within a span of few hours.
+0.90 (NOIDA; were killed; L:in two separate accidents in Noida)
+0.93 (NOIDA; were killed; L:in two separate accidents in Noida within a span of few hours)
+
+While two men were killed on the Noida-Greater Noida expressway on Sunday night when a truck lost its balance due to tyre burst, a biker died in a road accident near Film City on Monday morning.
+0.92 (a biker; died; L:in a road accident near Film City; T:on Monday morning)
+0.87 (a truck; lost; its balance due to tyre burst)
+0.91 (two men; were killed; L:on the Noida-Greater Noida expressway; T:on Sunday night; T:when a truck lost its balance due to tyre burst)
+
+A third accident was reported on Monday morning when a UP Roadways bus hit a divider in Sector 56 and two passengers recieved minor inuries.
+0.91 (a two passengers; recieved; minor inuries)
+0.95 (a UP Roadways bus; hit; a two passengers recieved minor inuries)
+0.93 (A third accident; was reported; T:on Monday morning; T:when a UP Roadways bus hit a two passengers)
+0.96 (a UP Roadways bus; hit; a divider; L:in Sector 56)
+0.95 (A third accident; was reported; T:on Monday morning; T:when a UP Roadways bus hit a divider in Sector 56)
+
+The expressway accident happened on Sunday night when a potato-laden truck travelling from Aligarh to Delhi’s Azadpur Mandi rammed two trucks parked near Mahamaya flyover around 11pm.
+0.93 Context(a potato - laden truck travelling from Aligarh to Delhi 's Azadpur Mandi rammed,List([54, 130))):(two trucks parked near Mahamaya; flyover; T:around 11pm)
+0.92 Context(a potato - laden truck travelling from Aligarh to Delhi 's Azadpur Mandi rammed,List([54, 130))):(a potato-laden truck; travelling; from Aligarh)
+0.97 (a potato-laden truck travelling from Aligarh to Delhi's Azadpur Mandi; rammed; two trucks parked near Mahamaya)
+0.92 (two trucks; parked; near Mahamaya)
+0.95 (The expressway accident; happened; T:on Sunday night; T:when a potato-laden truck travelling from Aligarh to Delhi's Azadpur Mandi rammed two trucks parked near Mahamaya flyover around 11pm)
+
+The other accident took place near Film City that claimed the life of a 44-year-old biker, Abdul Sayeed, when his bike lost balance and hit a divider around 10am on Monday.
+0.74 (his bike; hit; a divider; T:around 10 am; T:on Monday)
+0.92 (Film City; claimed; the life of a 44 - year - old biker; T:when his bike hit a divider around 10 am on Monday)
+0.70 (his bike; lost; balance)
+0.94 (Film City; claimed; the life of a 44 - year - old biker)
+0.93 (The other accident; took; place; L:near Film City)
+
+In another accident, two passengers received minor injuries on Monday when a Roadways bus travelling to Hapur hit the divider near Hotel Park Plaza in Sector 56 around 6am. -------------------------------------------------.
+0.93 Context(a Roadways bus hit,List([75, 113))):(a Roadways bus; hit the divider near Hotel Park Plaza travelling; to Hapur)
+0.94 (a Roadways bus; hit; the divider near Hotel Park Plaza)
+0.97 (two passengers; received; minor injuries; T:on Monday; T:when a Roadways bus travelling to Hapur hit the divider near Hotel Park Plaza in Sector 56 around 6am; L:In another accident)
+
+GHAZIABAD: A 33-year-old private company executive was killed outside his apartment in Ghaziabad when a speeding car hit him in the early hours of Sunday.
+0.99 (33 - year - old private company executive; was killed outside; his apartment in Ghaziabad)
+0.90 (a speeding car; hit; him; T:in the early hours of Sunday)
+0.95 (A 33-year-old private company executive; was killed; L:outside his apartment in Ghaziabad; T:when a speeding car hit him in the early hours of Sunday)
+
+Mohit Chatwal, a resident of Ajnara Integriti apartments in Raj Nagar Extension, was working with a Delhi-based event and execution firm as operations manager.
+0.91 (Mohit Chatwal; was working; with execution firm as operations manager)
+0.88 (Mohit Chatwal; [is] a resident of; Ajnara Integriti apartments)
+0.93 (Mohit Chatwal; was working; with a Delhi - based event as operations manager)
+
+The incident took place just in front of the society around 12.15am on Sunday.
+0.92 (The incident; took; place; L:just in front of the society around 12.15am; T:on Sunday)
+
+-----.
+
+MYSURU: A leopardess was fatally knocked down by an unidentified vehicle at Moolehole range inside Bandipur National Park.
+0.38 (Park; [is] National [of]; Bandipur)
+0.95 (A leopardess; was fatally knocked down; by an unidentified vehicle at Moolehole range inside Bandipur National Park)
+
++++++++++.
+
+A speeding police patrol Gypsy rammed a three-wheeler at Janpath on Tuesday afternoon, critically injuring its 60-year-old driver.
+0.72 Context(A speeding police patrol rammed,List([0, 37))):(A speeding police patrol; rammed a three-wheeler critically injuring; its 60-year-old driver)
+0.90 (A speeding police patrol; rammed; a three-wheeler; L:at Janpath; T:on Tuesday afternoon)
+
+Eyewitnesses said the auto-rickshaw overturned after being hit from behind by the Gypsy around 12.30pm.
+0.95 Context(Eyewitnesses said,List([0, 17))):(the auto-rickshaw; overturned; T:after being hit from behind by the Gypsy around 12.30pm)
+0.93 (Eyewitnesses; said; the auto-rickshaw overturned after being hit from behind by the Gypsy around 12.30pm)
+
+----------------------------.
+
+NAVI MUMBAI: A traffic constable attached to the Palaspe unit of the state highway safety patrol went out of his line of duty to trace a car that had mowed down a woman ragpicker, while she was crossing the Mumbai-Pune Expressway near Panvel exit.The incident occurred on May 24 morning near Kon village where Ranjana Shaikh (45) was hit by a speeding car.
+0.50 (she; was crossing; the Mumbai-Pune Expressway)
+0.89 (a car; had mowed down; a woman ragpicker)
+0.96 (Ranjana Shaikh; was hit; by a speeding car; L:Kon village)
+0.95 (A traffic constable; attached; to the Palaspe unit of the state highway safety patrol)
+
+Shaikh was killed on the spot.
+0.92 (Shaikh; was killed; L:on the spot)
+
+--------------.
+
+GHAZIABAD: A 16-year-old schoolgirl was killed in a hit-and-run accident in Ghaziabad while returning home with a friend on her scooter from school on Tuesday.
+0.94 (A 16 - year - old schoolgirl; was killed; L:in a hit - run accident in Ghaziabad; T:while returning home with a friend on her scooter from school on Tuesday)
+0.94 (A 16 - year - old schoolgirl; was killed; L:in a hit - accident in Ghaziabad; T:while returning home with a friend on her scooter from school on Tuesday)
+
+The accident happened around 11am near Mangal Chowk, a few metres away from the main gate of Lane 2 of Niti Khand 1 where it connects with the main road.
+0.19 (it; connects; )
+
+----------------------------------------------------------------------------------.
+
+JAIPUR: Two girls died after a speeding car rammed into their scooter and run them over outside their college in Chaksu on Tuesday morning.The accident took place at Chakshu Bypass on Namodia Road at 9.30 AM when Suman Sahu(21) and Puja Sawaria (22) were heading to their college in Chakshu when a car rammed their scooter from behind.
+0.87 (Puja Sawaria; were heading; to their college in Chakshu; T:when a car rammed their scooter from behind)
+0.88 (JAIPUR : Two girls died; took; place; L:at Chakshu Bypass; L:on Namodia Road; T:at 9.30 AM; T:when Puja Sawaria ( 22 ) were heading to their college in Chakshu)
+0.87 (Suman Sahu; were heading; to their college in Chakshu; T:when a car rammed their scooter from behind)
+0.88 (JAIPUR : Two girls died; took; place; L:at Chakshu Bypass; L:on Namodia Road; T:at 9.30 AM; T:when Suman Sahu ( 21 ) were heading to their college in Chakshu)
+0.85 (a speeding car; rammed; into their scooter)
+0.83 (a car; rammed; their scooter; from behind)
+0.83 (Two girls; died; T:after a speeding car rammed into their scooter)
+
+---------------------------------------------------------------.
+
+PALANPUR: At least 14 persons were injured when a Gujarat State Road Transport Corporation (GSTRC) bus veered off the road in the hilly area between Navavas and Dhundhiya village near Danta on Tuesday.
+0.96 (At least 14 persons; were injured; T:when a Gujarat State Road Transport Corporation (GSTRC) bus veered off the road in the hilly area between Navavas and Dhundhiya village near Danta on Tuesday)
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.
+
