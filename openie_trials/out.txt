@@ -1,0 +1,7 @@
+Pune: An 18-year-old man was crushed in an accident near the Khandala tunnel on the Pune-Mumbai Expressway on Sunday evening.
+0.97 (An 18-year-old man; was crushed; L:in an accident near the Khandala tunnel on the Pune-Mumbai Expressway; T:on Sunday evening)
+
+On April 19, three people including a nine-year-old girl died after their car hit a tree on the expressway.
+0.70 (their car; hit; a tree; L:on the expressway)
+0.96 (three people including a nine-year-old girl; died; T:after their car hit a tree on the expressway; T:On April 19)
+

@@ -18,14 +18,17 @@ for date in range(len(urls)):
 	day = []
 	for url in urls[date]:
 		b = bodyFormator.extract(url)
-		if (b!={}):
+		if (b!={} and b['lines']!=[]):
 			d = dict()
 			d['title'] = b['title']
 			withLinks = z=format.add_links(b['lines'],b['links'])
-			d['body'] = format.remove_newlines(withLinks)
+			article = format.remove_newlines(withLinks)
+			loc, article = format.reporting_location(article)
+			d['repLoc'] = loc
+			d['body'] = article
 			day.append(d)
 
-	print "day " + str(date+1) + " over"
+	print "day " + str(date) + " over"
 	month.append(day)
 
 # print "======month over"

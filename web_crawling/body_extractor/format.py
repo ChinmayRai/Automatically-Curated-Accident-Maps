@@ -27,6 +27,22 @@ def remove_newlines(s):
 	return s2
 
 
+def reporting_location(s):
+	i=0;
+	maxLocationLength=15	# assuming location names will not be > 15 in length
+	while(i<maxLocationLength and s[i]!=":"):
+		i+=1
+
+	if(i==maxLocationLength):
+		loc=""
+		article=s
+	else:
+		loc=s[:i]
+		article=s[i+2:]
+
+	return loc, article
+
+
 # def remove_newlines(s):
 # 	s2 = ""
 # 	for i in range(len(s)):
