@@ -27,7 +27,11 @@ Negative Examples(May 2017):
 6. Hit by stray road rage bullet, 13-year-old Aligarh schoolgirl dies
 7. Five-year-old girl dies inside locked car
 8. Petrol pump staffer dies in accident
-9. 
+9. Retired colonel told to pay 14 lakh relief to accident victim's kin
+10. HC raises relief to family of Vizag accident victim
+11. Drunk crane driver falls into nala, dies
+12. Chemical accident: 1 dead, 4 critical
+13.
 
 	
 Postponed for fine-tuning afterwards:
