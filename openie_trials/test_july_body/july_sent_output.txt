@@ -1,206 +1,1853 @@
-KOLKATA: A man, who was returning home after burying his relative at a cemetery ne ar Anwar Shah Road, was run over by a govern ment bus.
-0.91 (A man, who was returning home after burying his relative at a cemetery ne ar Anwar Shah Road; was run over; by a govern ment bus)
-0.84 (A man; after burying; his relative; L:at a cemetery ne ar Anwar Shah Road)
-0.89 (A man; was returning; home; T:after burying his relative at a cemetery ne ar Anwar Shah Road)
+Ashok Kondiba Thakur, a 61-year-old resident of Bopodi, was killed after the car he was travelling in crashed into the barricades along BRTS (Bus Rapid Transit System) route in Akurdi late on Wednesday night.
+0.61 (he; was travelling; in crashed into the barricades along BRTS (Bus Rapid Transit System) route in Akurdi)
+0.92 (Ashok Kondiba Thakur; was killed; T:after the car)
 
 -----------.
 
-The incident took place around 10:30pm on Saturday.
-0.92 (The incident; took; place; T:around 10:30pm; T:on Saturday)
+Car driver Yogesh Surve (29) of Bopodi, who was arrested by the Nigdi police on charges of drunk and rash driving, was produced in the court on Friday.
+0.96 (Car driver Yogesh Surve ( 29 ) of Bopodi; was arrested; by the Nigdi police on charges of rash driving)
+0.96 (Car driver Yogesh Surve ( 29 ) of Bopodi; was produced; L:in the court; T:on Friday)
+0.96 (Car driver Yogesh Surve ( 29 ) of Bopodi; was arrested; by the Nigdi police on charges of drunk driving)
 
 -----------.
 
-The victim, Md Zahid (48), was among the family members, who had gone to the Prince Gulam Muhammad Shah Muslim Burial Ground at Rajendra Prasad Colony off Prince Anwar Shah Road to attend the last rites of their kin and Tollygunge resident Md Shahnawaz, who had died of cancer earlier on Saturday.
-0.89 (The victim; to attend; the last rites of their kin and Tollygunge resident Md Shahnawaz)
-0.90 (the family members; had gone; to the Prince Gulam Muhammad Shah Muslim Burial Ground at Rajendra Prasad Colony off Prince Anwar Shah Road; to attend the last rites of their kin and Tollygunge resident Md Shahnawaz)
-0.93 (Md Zahid; was; among the family members)
+Surve was later released on bail.
+0.80 (Surve; was released; T:later)
 
 -----------.
 
-Zahid was crossing the Prince Anwar Shah Road on his way back when an AC 1, a Jadavpur-Howrah route bus, ran him over at the Lake Gardens flyover crossing.
-0.90 (an AC 1; ran over; L:at the Lake Gardens)
-0.92 (Zahid; was crossing; the Prince Anwar Shah Road; T:when an AC 1, a Jadavpur-Howrah route bus, ran him over at the Lake Gardens)
+Assistant inspector G B Kharage of Nigdi police told TOI that Thakur and Surve are neighbours.
+0.90 Context(Assistant inspector G B Kharage of Nigdi police told,List([0, 52))):(Surve; are; neighbours)
+0.91 (Assistant inspector G B Kharage of Nigdi police; told; TOI; that Surve are neighbours)
+0.90 Context(Assistant inspector G B Kharage of Nigdi police told,List([0, 52))):(Thakur; are; neighbours)
+0.91 (Assistant inspector G B Kharage of Nigdi police; told; TOI; that Thakur are neighbours)
 
 -----------.
 
-As Zahid lay bleeding, the bus sped away.
-0.96 (the bus; sped; away; T:As Zahid lay bleeding)
-0.77 (Zahid; lay bleeding; )
+On Wednesday night, both of them had gone out for dinner to a restaurant near Bhaki-Shakti Chowk.
+0.87 (both of them; had gone out; for dinner to a restaurant near Bhaki-Shakti Chowk; T:On Wednesday night)
 
 -----------.
 
-Later, the driver and the conductor fled after parking the bus on Prince Anwar Shah Road.
-0.90 Context(the conductor fled,List([8, 26))):(the conductor; fled after parking; the bus; on Prince Anwar Shah Road)
-0.95 (the conductor; fled; T:after parking the bus on Prince Anwar Shah Road; T:Later)
-0.90 Context(the driver fled,List([8, 23))):(the driver; fled after parking; the bus; on Prince Anwar Shah Road)
-0.95 (the driver; fled; T:after parking the bus on Prince Anwar Shah Road; T:Later)
+“On their way back while travelling through the service road along the Pune-Mumbai highway, Surve tried to enter the BRTS route.
+0.91 Context(Surve tried,List([92, 103))):(Surve; tried to enter; the BRTS route)
+0.94 (Surve; tried; to enter the BRTS route; T:On their way back while travelling through the service road along the Pune-Mumbai highway)
 
 -----------.
 
-Officers of Charu Market police station later seized the bus but the duo are yet to be arrested.
-0.70 (the duo; to be arrested; )
-0.77 (the duo; are yet; to be arrested)
-0.97 (Officers of Charu Market police station; seized; the bus; T:later)
+He, however, failed to notice the barricades or the blinkers and crashed into them,” Kharage said.
+0.36 Context(He , however , failed to notice the barricades or the blinkers and crashed into them said,List([0, 97))):(He; failed; to notice the barricades or the blinkers)
+0.91 (He, however, failed to notice the barricades or the blinkers and crashed into them; said; Kharage)
+0.27 (He; crashed; into them)
+0.41 (He; to notice; the barricades or the blinkers)
 
 -----------.
 
-Zahid was taken to M R Bangur Hospital but doctors at the emergency department said he was already dead.
-0.24 Context(doctors at the emergency department said,List([0, 40))):(he; was; T:already; dead)
-0.84 (doctors at the emergency department; said; he was already dead)
-0.93 (Zahid; was taken; to M R Bangur Hospital)
+Thakur, who was severely injured in the accident, was rushed to the Yashwantrao Chavan Memorial Hospital in Pimpri where he was declared dead by the doctors, Kharage said.
+0.90 Context(Thakur , who was severely injured in the accident , was rushed to the Yashwantrao Chavan Memorial Hospital in Pimpri said,List([0, 170))):(Thakur; was rushed; to the Yashwantrao Chavan Memorial Hospital in Pimpri)
+0.98 (Thakur, who was severely injured in the accident, was rushed to the Yashwantrao Chavan Memorial Hospital in Pimpri; said; Kharage)
+0.91 (Thakur; was severely injured; L:in the accident)
 
 -----------.
 
-His body was sent for post mortem on Sunday to Katapukur morgue.
-0.68 (His body; was sent; for post mortem; T:on Sunday)
+On June 11, the driver of a speeding car escaped with injuries after his vehicle dashed against a crash barrier that broke and pierced through the four-wheeler at Kamshet on the Pune-Mumbai expressway around 5pm on Sunday.
 
 -----------.
 
-Later, the body was handed over to his family, who buried him at the same cemetery on Sunday.
-0.49 (his family; buried; him; L:at the same cemetery; T:on Sunday)
-0.90 (the body; was handed over; to his family; T:Later)
-
------------.
-
-Relatives at 29 Palm Avenue, where Zahid lived, said that his wife had spoken to him a few minutes before the accident.
-0.43 Context(Relatives at 29 Palm Avenue said,List([0, 52))):(his wife; had spoken; to him; T:a few minutes before the accident)
-0.78 (Relatives at 29 Palm Avenue; said; that his wife had spoken to him a few minutes before the accident)
-0.95 (Zahid; lived; L:29 Palm Avenue)
-
------------.
-
-Zahid had reportedly told her that he had left the burial ground and was on his way back home to have dinner with his wife and daughter.“He
-0.74 (Zahid; had reportedly told; her; that he was on his way back home to have dinner with his daughter)
-0.31 Context(Zahid had reportedly told,List([0, 25))):(he; was; on his way back home)
-0.74 (Zahid; had reportedly told; her; that he was on his way back home to have dinner with his wife)
-0.39 Context(Zahid had reportedly told,List([0, 25))):(he; had left; the burial ground)
-0.64 (Zahid; had reportedly told; her; that he had left the burial ground)
-
-told his wife to wait for him as he would be back in 30 minutes.
-0.45 (he; would be; back in 30 minutes)
-0.49 (his wife; to wait; for him)
-
------------.
-
-When he didn't return, she called him again.
-0.44 (she; called; him; T:again; T:When he didn't return)
-0.19 (he; did n't return; )
-
------------.
-
-A policeman took the call and told her that Zahid was dead,“ said Nafisa Begum, a relative.
-0.74 (told her that Zahid was dead; said; Nafisa Begum)
-0.39 (Nafisa Begum; [is]; a relative)
-0.88 Context(A policeman took the call said,List([0, 34))):(A policeman; took; the call)
-0.91 (A policeman took the call; said; Nafisa Begum)
-
------------.
-
-She said that Zahid's wife and 22-year-old daughter, a third year student at South City College, were inconsolable.
-0.77 Context(She said,List([0, 8))):(22 - year - old daughter; were; inconsolable)
-0.32 (She; said; that 22 - year - old daughter , a third year student at South City College , were inconsolable)
-0.77 Context(She said,List([0, 8))):(Zahid 's wife; were; inconsolable)
-0.22 (She; said; that Zahid 's wife , were inconsolable)
-
------------.
-
-Zahid used to work at a shoe store at Puddapukur on CIT Road.“It's an irony that he was buried at the same place from where he was returning less than 24 hours ago,“ said Zahid's brother Noor Mohammed.
-0.38 (Noor Mohammed; [is] brother [of]; Zahid)
-0.22 Context(Zahid used to work at a shoe store at Puddapukur on CIT Road . " It 's an irony said,List([0, 170))):(It; 's; an irony that he was buried at the same place from where he was returning less than 24 hours ago)
-0.84 (Zahid used to work at a shoe store at Puddapukur on CIT Road."It's an irony; said; Zahid's brother)
-0.45 (he; was returning; T:less than 24 hours ago)
-0.19 (he; was buried; )
-0.92 (Zahid; to work; L:at a shoe store at Puddapukur on CIT Road)
+Rajesh Bhalchandra Chakare (32) sustained minor injuries.
+0.92 (Rajesh Bhalchandra Chakare; sustained; minor injuries)
 
 -----------.
 
 ============.
 
-GURUGRAM: Two people were killed in separate accidents within 24 hours in the city.
-0.99 (two people; were killed within; 24 hours)
-0.99 (Two people; were killed within; within 24 hours)
-0.90 (Two people; were killed; L:in separate accidents; T:within 24 hours; L:in the city)
+As many as 37 passengers on board a Thane-bound TMT bus had a close shave after the driver lost control of the vehicle and went off-road and went into a ditch on Friday.
+0.94 (the driver; went; into a ditch; T:on Friday)
+0.98 (As many as 37 passengers on board a Thane - bound TMT bus; had; a close shave; T:after the driver went into a ditch on Friday)
+0.93 (the driver; went; off - road)
+0.98 (As many as 37 passengers on board a Thane - bound TMT bus; had; a close shave; T:after the driver went off - road)
+0.99 (37 passengers; had; a close shave)
+0.93 (the driver; lost; control of the vehicle)
+0.98 (As many as 37 passengers on board a Thane - bound TMT bus; had; a close shave; T:after the driver lost control of the vehicle)
 
 -----------.
 
-A 46-year-old truck driver, Abdul Salem, was killed by a fellow trucker who rammed his truck into him late on Friday outside Jaipur Golder godown in Naurangpur.
-0.85 (a fellow trucker; rammed; his truck; into him; T:late; T:on Friday)
-0.93 (A 46-year-old truck driver; was killed; by a fellow trucker)
+Passengers claimed that there was a fault in the steering wheel because of which the mishap took place.
+0.68 (Passengers; claimed; that there was a fault in the steering wheel because of which the mishap took place)
+0.90 (the mishap; took; place)
 
 -----------.
 
-An eyewitness, Suresh, told cops that Salem and he were sitting outside the godown when the accused, Ajay, drove his truck towards them and mowed down Salem, killing him on the spot.
-0.93 (An eyewitness; told; cops Salem)
-0.80 Context(An eyewitness told,List([0, 29))):(Salem and he were sitting outside the godown; mowed down; Salem)
-0.89 (An eyewitness; told; cops; Salem and he were sitting outside the godown mowed down Salem)
-0.87 (An eyewitness; told; cops; T:Salem and he were sitting outside the godown)
-0.27 (he; killing; him; L:on the spot)
-0.45 (he; were sitting; outside the godown)
-0.88 (the accused , Ajay; drove; his truck; towards them)
-0.46 (he; were sitting; outside the godown; T:when the accused , Ajay , drove his truck towards them)
-0.91 (An eyewitness; told; cops)
+The incident took place near Chena creek bridge along Ghodbunder Road at 5pm. -----------.
+0.92 (The incident; took; place; L:near Chena creek bridge along Ghodbunder Road; T:at 5pm)
+
+The bus was heading towards Kopri from Mira Road.
+0.92 (The bus; was heading; towards Kopri; from Mira Road)
 
 -----------.
 
-Suresh also told the police that Ajay, the driver of the other truck had a personal quarrel with him earlier, which could have provoked the action.
-0.39 (Ajay; [is] the driver of; the other truck)
-0.90 Context(Suresh told,List([0, 16))):(Ajay; had; a personal quarrel with him earlier, which could have provoked the action)
-0.79 (Suresh; told; the police; that Ajay, the driver of the other truck had a personal quarrel with him earlier)
-0.69 (a personal quarrel with him earlier; could have provoked; the action)
+As it was raining heavily and the driver was negotiating a turn when he lost control of the vehicle.
+0.52 (he; lost; control of the vehicle)
+0.83 (the driver; was negotiating; a turn; T:when he lost control of the vehicle)
 
 -----------.
 
-An FIR under sections 279 (rash driving), 336 (endangering life sand safety) and 304A (death by negligence) of the IPC was registered at the Kherki Daula police station on Saturday and Ajay was arrested.
-0.97 (304A ( death by negligence ) of the IPC; was registered; at the Kherki Daula police station on Ajay)
-0.86 (304A ( death by negligence ) of the IPC; was arrested; )
-0.97 (304A ( death by negligence ) of the IPC; was registered; at the Kherki Daula police station on Saturday)
-0.55 (336; was registered; at the Kherki Daula police station on Ajay)
-0.85 (An FIR under sections 279 ( rash driving; was arrested; )
-0.96 (An FIR under sections 279 ( rash driving; was registered; at the Kherki Daula police station on Saturday)
+He brushed against the divider and plunged into a ditch along the road.
+0.45 (He; plunged; into a ditch; T:along the road)
+0.45 (He; brushed; against the divider)
+
+-----------.
+
+Luckily, no casualty was reported.
+0.73 (no casualty; was reported; )
+
+-----------.
+
+But the driver suffered minor injuries and has been admitted to a local hospital.
+0.90 (the driver; has been admitted; to a local hospital)
+0.90 (the driver; suffered; minor injuries)
+
+-----------.
+
+The passengers managed to quickly alight from the bus and were accommodated in another bus.
+0.90 (The passengers; were accommodated; L:in another bus)
+0.64 (The passengers; managed quickly alight; )
+
+-----------.
+
+Some passengers have alleged that the steering wheel of the bus had developed some technical snag due to which the driver was finding it difficult to manoeuvre turns.
+0.91 Context(Some passengers have alleged,List([0, 28))):(the steering wheel of the bus; had developed; some technical snag due to which the driver was finding it difficult)
+0.70 (Some passengers; have alleged; that the steering wheel of the bus had developed some technical snag due to which the driver was finding it difficult)
+0.83 (the driver; was finding; it difficult to manoeuvre turns)
+
+-----------.
+
+Senior TMT officials rushed to the spot when they learnt about the incident.
+0.62 (they; learnt; about the incident)
+0.93 (Senior TMT officials; rushed; to the spot)
+
+-----------.
+
+However, they have denied that there was a technical fault in the steering and blamed the driver for losing control of the vehicle.
+0.28 (they; have denied; that there blamed the driver for losing control of the vehicle)
+0.20 (they; have denied; that there was a technical fault in the steering)
+
+-----------.
+
+The TMT officials will be carrying out an internal probe and will find out what exactly went wrong, said a top ranking official.
+0.58 (will find out what exactly went wrong; said; a top ranking official)
+0.92 Context(The TMT officials will be carrying out an internal probe said,List([0, 63))):(The TMT officials; will be carrying out; an internal probe)
+0.95 (The TMT officials will be carrying out an internal probe; said; a top ranking official)
+
+-----------.
+
+============.
+
+Two men on scooters were killed in separate accidents in the city on Thursday night.
+0.93 (Two men on scooters; were killed; L:in separate accidents in the city on Thursday night)
+
+-----------.
+
+Police said that in both cases the men were travelling with pillion riders who have been critically injured.
+0.92 Context(Police said,List([0, 11))):(the men; were travelling; L:in both cases)
+0.80 (Police; said; that in both cases the men were travelling with pillion riders)
+0.70 (pillion riders; have been critically injured; )
+
+-----------.
+
+In the first incident, reported from the Nirankari Colony in north-west Delhi’s Mukherjee Nagar, civil service aspirant Sumit Kumar (20) and his friend Naveen (19) were hit by a vehicle at a T-point late on Thursday night.
+0.39 (Naveen; [is] friend [of]; him)
+0.96 (civil service aspirant Sumit Kumar; were hit; by a vehicle; L:In the first incident)
+0.94 (the first incident; reported; from the Nirankari Colony in north - west Delhi 's Mukherjee Nagar)
+
+-----------.
+
+They were found lying injured on the road by a PCR team and rushed to the trauma centre in Civil Lines.
+0.90 (the road; rushed; to the trauma centre)
+0.58 (They; injured; L:on the road)
+0.62 (They; were found; lying; injured on the road)
+0.28 (They; lying; )
+0.32 (They; were found; )
+
+-----------.
+
+Sumit was declared dead on arrival, while Naveen was said to be critical.
+0.77 (Naveen; to be; critical)
+0.77 (Naveen; was said; )
+0.92 (Sumit; was declared; dead; T:on arrival)
+
+-----------.
+
+Police said that the youths were staying in a rented accommodation in Mukherjee Nagar and were from the same village in Sonepat.
+0.90 Context(Police said,List([0, 11))):(the youths; were; from the same village in Sonepat)
+0.83 (Police; said; that the youths were from the same village in Sonepat)
+0.90 Context(Police said,List([0, 11))):(the youths; were staying; in a rented accommodation in Mukherjee Nagar)
+0.83 (Police; said; that the youths were staying in a rented accommodation in Mukherjee Nagar)
+
+-----------.
+
+They were out looking for some midnight snack at the time of the accident.
+0.72 (They; were out looking; for some midnight snack at the time of the accident)
+
+-----------.
+
+Police said the vehicle that had hit them could be a hatchback coming from Hakikat Nagar.
+0.71 Context(Police said,List([0, 11))):(the vehicle that had hit them; could be; a hatchback coming from Hakikat Nagar)
+0.68 (Police; said; the vehicle that had hit them could be a hatchback)
+0.92 (a hatchback; coming; from Hakikat Nagar)
+0.81 (the vehicle; had hit; them)
+
+-----------.
+
+Efforts are on to identify the vehicle and its driver, though no CCTV footage was available till Friday.
+0.96 (no CCTV footage; was; available; T:till Friday)
+0.75 (Efforts; are; on)
+
+-----------.
+
+In another incident, a youth was mowed down by a heavy vehicle near the Mangolpuri market in outer Delhi’s Rohini.
+0.95 (a youth; was mowed down; by a heavy vehicle near the Mangolpuri market; L:In another incident)
+
+-----------.
+
+The victim, Pramod Kumar, owned an electrical goods shop.
+0.89 (The victim; owned; an electrical goods shop)
+
+-----------.
+
+Kumar and his friend Ashish were on their way to have dinner on Kumar’s scooter when they met with the accident.
+0.89 (Ashish; [is] friend [of]; him)
+0.30 (his friend; were; )
+0.68 (they; met; with the accident)
+0.77 (Kumar; were; )
+
+-----------.
+
+Police said that Kumar was dragged for about 20 metres before the vehicle stopped.
+0.90 Context(Police said,List([0, 11))):(Kumar; was dragged; for about 20 metres; T:before the vehicle stopped)
+0.75 (Police; said; that Kumar was dragged for about 20 metres)
+0.73 (the vehicle; stopped; )
+
+-----------.
+
+The driver then removed Kumar’s body from under the vehicle, dumped it on the road side and fled, police said.
+0.74 Context(The driver fled said,List([0, 29))):(The driver; fled; )
+0.93 (The driver fled; said; police)
+0.80 Context(The driver dumped it on the road side said,List([0, 51))):(The driver; dumped; it; L:on the road side)
+0.79 (The driver dumped it on the road side; said; police)
+0.93 Context(The driver then removed Kumar 's body from under the vehicle said,List([0, 74))):(The driver; removed; Kumar 's body; from under the vehicle; T:then)
+0.97 (The driver then removed Kumar 's body from under the vehicle; said; police)
+
+-----------.
+
+Police have registered cases in both the accidents.
+0.89 (Police; have registered; cases in both the accidents)
+
+-----------.
+
+============.
+
+A driver hit 12 people and eight parked vehicles before hitting a pole in west Delhi's Tilak Nagar on Thursday evening.
+0.90 Context(A driver hit,List([0, 12))):(A driver; hit eight parked vehicles before hitting; a pole; L:in west Delhi 's Tilak Nagar; T:on Thursday evening)
+0.95 (A driver; hit; eight parked vehicles; T:before hitting a pole in west Delhi 's Tilak Nagar on Thursday evening)
+1.00 (A driver; hit; 12 people)
+0.90 Context(A driver hit,List([0, 12))):(A driver; hit 12 people before hitting; a pole; L:in west Delhi 's Tilak Nagar; T:on Thursday evening)
+0.95 (A driver; hit; 12 people; T:before hitting a pole in west Delhi 's Tilak Nagar on Thursday evening)
+
+-----------.
+
+Witnesses said all this happened over a 400-metre stretch.
+0.51 Context(Witnesses said,List([0, 14))):(all this; happened; L:over a 400-metre stretch)
+0.87 (Witnesses; said; all this happened over a 400-metre stretch)
+
+-----------.
+
+Police received a call around 9.30pm, and a team arrived soon after and arrested the driver, Arup Kumar (32).
+0.75 (Police; received; T:after)
+0.82 Context(Police received,List([0, 15))):(Police; received a team arrested; the driver)
+0.87 (Police; received; a team)
+0.88 (Police; arrested; the driver)
+0.89 (Police; received; a call; T:around 9.30 pm)
+
+-----------.
+
+“He first hit two scooters, then a bike, then three e-rickshaws and two cars parked along the road," said a senior police officer.
+0.57 Context(He first hit two scooters said,List([2, 81))):(He; hit; two scooters; T:first)
+0.93 (then a bike two cars; parked; along the road)
+0.57 Context(He first hit two scooters said,List([2, 77))):(He; hit; two scooters; T:first)
+0.61 (He first hit two scooters; said; a senior police officer)
+
+-----------.
+
+The vehicle came to a stop after hitting the pole.
+0.90 (The vehicle; came; to a stop; T:after hitting the pole)
+
+-----------.
+
+As soon as the car stopped, people pulled out Kumar, thrashed him and called the police.
+0.90 (the car; called; the police)
+0.95 (people; pulled out; Kumar; T:As soon as the car stopped)
+0.73 (the car; stopped; )
+
+-----------.
+
+“The injured were all rushed to three different hospitals where they were treated and later discharged,” said DCP (west) Vijay Kumar.
+0.52 (later discharged; said; DCP)
+0.41 Context(The injured were all rushed to three different hospitals said,List([2, 91))):(The injured; were rushed; to three different hospitals)
+0.94 (The injured were all rushed to three different hospitals; said; DCP)
+0.70 (they; were treated; L:three different hospitals)
+
+-----------.
+
+Police said Kumar, a resident of Krishna Park, was quite drunk at the time of incident.
+0.38 (Kumar; [is] a resident of; Krishna Park)
+0.91 Context(Police said,List([0, 11))):(Kumar; was; quite drunk at the time of incident)
+0.93 (Police; said; Kumar, a resident of Krishna Park, was quite drunk at the time of incident)
+
+-----------.
+
+“He is a driver and had dropped a few children at a sports complex in Hari Nagar in the evening," said a senior officer.
+0.97 (had dropped a few children at a sports complex in Hari Nagar in the evening; said; a senior officer)
+0.47 Context(He is a driver said,List([2, 25))):(He; is; a driver)
+0.59 (He is a driver; said; a senior officer)
+
+-----------.
+
+============.
+
+A 30-year-old pedestrian was killed after an unidentified vehicle hit him near Harsaru village on Pataudi road on Wednesday night.
+0.90 (an unidentified vehicle; hit; him; L:near Harsaru village; L:on Pataudi road; T:on Wednesday night)
+0.94 (A 30-year-old pedestrian; was killed; T:after an unidentified vehicle hit him near Harsaru village on Pataudi road on Wednesday night)
+
+-----------.
+
+The driver managed to flee the spot with his vehicle.
+0.80 Context(The driver managed,List([0, 18))):(The driver; managed to flee; the spot with his vehicle)
+0.80 (The driver; managed; to flee the spot with his vehicle)
+
+-----------.
+
+Police are yet to identify the victim, while an FIR has been lodged against the unknown driver at the Sector 10 police station.
+0.96 (an FIR; has been lodged; against the unknown driver at the Sector 10 police station)
+0.88 (Police; to identify; the victim)
+0.89 (Police; are; T:yet; to identify the victim)
+
+-----------.
+
+The accident happened opposite Essar petrol pump in Harsaru on the Gurgaon-Pataudi road around 11pm. -----------.
+0.90 (The accident; happened; L:in Harsaru; L:on the Gurgaon-Pataudi road around 11pm)
+
+Ishwar Singh, a salesman of the petrol pump, informed police about the accident.
+0.89 (Ishwar Singh; [is] a salesman of; the petrol pump)
+0.91 (Ishwar Singh; informed; police; about the accident)
+
+-----------.
+
+Cops said the victim died on the spot.
+0.88 Context(Cops said,List([0, 9))):(the victim; died; L:on the spot)
+0.78 (Cops; said; the victim died on the spot)
+
+-----------.
+
+Police have taken the victim’s body into custody, and launched efforts to find his family.
+0.71 Context(Police have launched,List([0, 20))):(Police; have launched to find; his family)
+0.79 (Police; have launched; efforts to find his family)
+0.89 (Police; have taken; the victim 's body; into custody)
+
+-----------.
+
+Acting on the complaint of the petrol pump salesman, Ishwar Singh, an FIR has been registered against the unknown vehicle driver under sections 279 (rash driving) and 304 A (death due to negligence).“We
+0.91 (Ishwar Singh; has been registered; against the unknown vehicle driver under sections 304)
+0.56 (rash; driving; )
+0.94 (Ishwar Singh; has been registered; against the unknown vehicle driver under sections 279 ( rash driving ) A ( death due to negligence)
+
+are trying to identify the deceased.
+
+-----------.
+
+We are also examining CCTV footage collected from nearby areas to identify the vehicle and its driver.
+0.18 Context(We are examining,List([0, 21))):(We; are examining CCTV footage to identify; its driver)
+0.21 (We; are examining; CCTV footage; to identify its driver)
+0.93 (CCTV footage; collected; from nearby areas)
+0.39 (We; are examining; CCTV footage)
+
+-----------.
+
+We will identify the accused soon and arrest him, ” said assistant sub inspector Anil Kumar, the investigating officer.
+0.64 (arrest him; said; assistant sub inspector Anil Kumar)
+0.19 Context(We will identify the accused soon said,List([0, 42))):(We; will identify; the accused soon)
+0.68 (We will identify the accused soon; said; assistant sub inspector Anil Kumar)
+
+-----------.
+
+============.
+
++++++++++++++++++++.
+
+One person was killed and 11 others injured following collision between a state transport bus and a multi-utility vehicle (MUV) carrying about a dozen passengers near Sursangda village of Kalavad taluka of Jamnagar on Saturday morning.
+0.94 (a multi-utility vehicle; carrying; about a dozen passengers near Sursangda village of Kalavad taluka of Jamnagar; T:on Saturday morning)
+0.96 (a state transport bus; carrying; about a dozen passengers near Sursangda village of Kalavad taluka of Jamnagar; T:on Saturday morning)
+0.73 (11 others; injured; )
+0.73 (One person; was killed; )
+
+-----------.
+
+The deceased was identified as Balvant Bhikabhai (26) of Khanderi in Jamnagar.
+0.72 (The deceased; was identified; as Balvant Bhikabhai (26) of Khanderi in Jamnagar)
+
+-----------.
+
+According to police, the accident occurred when a state transport bus first collided with a tanker and the speeding MUV going towards Rajkot dashed into the bus and fell off a small bridge into a dry river bed near Sursangda village.
+0.95 (a state transport bus; collided; with the speeding MUV going towards Rajkot; T:first)
+0.95 (the accident; occurred; T:when a state transport bus first collided with the speeding MUV going towards Rajkot)
+0.93 (a tanker; fell; off a small bridge)
+0.97 (a state transport bus; collided; with a tanker fell off a small bridge into a dry river bed near Sursangda village; T:first)
+0.95 (the accident; occurred; T:when a state transport bus first collided with a tanker fell off a small bridge into a dry river bed near Sursangda village)
+0.90 (a tanker; dashed; into the bus)
+0.94 (a state transport bus; collided; with a tanker; T:first)
+0.94 (the accident; occurred; T:when a state transport bus first collided with a tanker)
+
+-----------.
+
+Police said that Balvant died on the spot, while 11 others in the MUV were hurt and rushed to hospital in Kalavad.
+0.95 Context(Police said,List([0, 11))):(Balvant; died; L:on the spot; T:while 11 others in the MUV were rushed to hospital in Kalavad)
+0.95 (11 others in the MUV; were rushed; to hospital in Kalavad)
+0.92 Context(Police said,List([0, 11))):(Balvant; died; L:on the spot; T:while 11 others in the MUV were hurt)
+0.75 (Police; said; that Balvant died on the spot)
+0.83 (11 others in the MUV; were hurt; )
+
+-----------.
+
+Police added the condition of four injured was said to be critical.
+0.75 Context(Police added,List([0, 12))):(the condition of four injured; was said; )
+0.92 (Police; added; the condition of four injured was said to be critical)
+0.79 (the condition of four injured; to be; critical)
+0.77 (the condition of four; injured; )
+
+-----------.
+
+============.
+
+King of Pop Michael Jackson's father Joe Jackson was hospitalised after a car accident in Las Vegas.
+0.38 (Joe Jackson; [is] father [of]; Pop Michael Jackson)
+0.95 (King of Pop Michael Jackson's father; was hospitalised; T:after a car accident in Las Vegas)
+
+-----------.
+
+The Las Vegas Metropolitan Police Department confirmed.
+0.74 (The Las Vegas Metropolitan Police Department; confirmed; )
+
+-----------.
+
+Jackson was in a passenger seat of the luxury car that was travelling westbound on West Sahara Avenue east of Decatur Boulevard, when it crashed into another vehicle, However, according to police, both parties showed no signs of impairment.
+0.92 Context(both parties showed,List([197, 216))):(Jackson; was; in a passenger seat of the luxury car)
+0.88 (both parties; showed; no signs of impairment)
+0.45 (it; crashed; into another vehicle)
+0.91 (the luxury car; was travelling westbound; on West Sahara Avenue east of Decatur Boulevard)
+
+-----------.
+
+The 88-year-old was immediately taken to University Medical Center for testing after a complaint of injury.
+0.99 (88 - year - old; was taken for; testing after a complaint of injury)
+0.95 (The 88-year-old; was taken; to University Medical Center; for testing; T:after a complaint of injury; T:immediately)
+
+-----------.
+
+After being released from the hospital, Jackson took to Twitter to reveal he was safely home and feeling well.
+0.83 Context(Jackson took,List([41, 53))):(Jackson; took to Twitter; to reveal he was feeling well)
+0.90 (Jackson; took; to Twitter to reveal he was feeling well; T:After being released from the hospital)
+0.83 Context(Jackson took,List([41, 53))):(Jackson; took to Twitter; to reveal he was safely home)
+0.90 (Jackson; took; to Twitter to reveal he was safely home; T:After being released from the hospital)
+
+-----------.
+
+"Happy to report I am back home and my friend Charles Coupet is doing fine too," he wrote on his official website, along with a photo of himself.
+0.50 (Charles Coupet; [is] friend [of]; mine)
+0.31 (he; wrote; L:on his official website)
+
+-----------.
+
+============.
+
+A five-year-old girl died after she was run over by a bus near Jhotwara area of the city on Saturday morning.
+0.61 (she; was run over; by a bus near Jhotwara area of the city on Saturday morning)
+0.94 (A five-year-old girl; died; T:after she was run over by a bus near Jhotwara area of the city on Saturday morning)
+
+-----------.
+
+According to police, Jevika was travelling with her parents in the same bus and had alighted near Ram Nagar in Bhatta Basti.
+0.87 Context(Jevika was travelling,List([22, 43))):(Jevika; was travelling had alighted; L:near Ram Nagar; L:in Bhatta Basti)
+0.72 (Jevika; was travelling; )
+0.86 (Jevika; was travelling; with her parents)
+
+-----------.
+
+“She was standing near the bus, the driver did not notice that accelerated the speed of the bus due to which she came under the wheels.
+0.80 (the driver; did not notice; that accelerated the speed of the bus due to which she came under the wheels; T:She was standing near the bus)
+0.45 (she; came; L:under the wheels)
+0.45 (She; was standing; near the bus)
+
+-----------.
+
+She was rushed to hospital where she was declared dead upon arrival,” the police official told TOI, adding that she was travelling with her father Ashish and mother Mamta from their village in Jhujhunu to Jaipur when the incident took place.
+0.39 (Mamta; [is] mother [of]; hers)
+0.26 Context(She was rushed to hospital where she was declared dead upon arrival the police official told adding,List([0, 109))):(she; was travelling; from their village in Jhujhunu; T:when the incident took place)
+0.72 Context(She was rushed to hospital where she was declared dead upon arrival told,List([0, 96))):(the police official; adding; that she was travelling with her mother Mamta from their village in Jhujhunu to Jaipur)
+0.39 (Ashish Mamta; [is] father [of]; hers)
+0.29 Context(She was rushed to hospital where she was declared dead upon arrival the police official told adding,List([0, 109))):(she; was travelling; with her father; from their village in Jhujhunu)
+0.72 Context(She was rushed to hospital where she was declared dead upon arrival told,List([0, 96))):(the police official; adding; that she was travelling with her father Ashish Mamta from their village in Jhujhunu to Jaipur)
+0.39 Context(She was rushed to hospital where she was declared dead upon arrival told,List([0, 96))):(She; was rushed; to hospital)
+0.83 (She was rushed to hospital where she was declared dead upon arrival; told; TOI)
+0.41 (she; was declared; T:upon arrival)
+0.90 (the incident; took; place)
+
+-----------.
+
+“It was the state transport’s bus, she was near the bus when the accident took place,” the police told TOI. -----------.
+0.46 Context(It was the state transport 's bus , she was near the bus told,List([1, 102))):(It; was; the state transport's bus)
+0.46 Context(It was the state transport 's bus , she was near the bus told,List([1, 102))):(she; was; near the bus)
+0.84 (It was the state transport's bus, she was near the bus; told; TOI)
+0.90 (the accident; took; place)
+
+============.
+
+Thirteen people died, two of them children, when a long-haul passenger bus collided with a truck in Russia today, authorities said.
+0.77 Context(Thirteen people died , two of them children , when a long - haul passenger bus collided with a truck in Russia today said,List([0, 130))):(Thirteen people; died; T:two of them children)
+0.96 (Thirteen people died, two of them children, when a long-haul passenger bus collided with a truck in Russia today; said; authorities)
+
+-----------.
+
+The bus was travelling from Samara on the Volga river to Izhevsk, around 900 kilometres (550 miles) east of Moscow, when the accident happened, the Investigative Committee, which probes accidents and disasters, said.
+0.90 Context(The bus was travelling from Samara on the Volga river to Izhevsk , around 900 kilometres ( 550 miles ) east of Moscow said,List([0, 208))):(the Investigative Committee; probes; disasters)
+0.90 Context(The bus was travelling from Samara on the Volga river to Izhevsk , around 900 kilometres ( 550 miles ) east of Moscow said,List([0, 208))):(the Investigative Committee; probes; accidents)
+0.90 Context(The bus was travelling from Samara on the Volga river to Izhevsk , around 900 kilometres ( 550 miles ) east of Moscow said,List([0, 208))):(The bus; was travelling; from Samara)
+0.99 (The bus was travelling from Samara on the Volga river to Izhevsk , around 900 kilometres ( 550 miles ) east of Moscow; said; the Investigative Committee)
+0.73 (the accident; happened; )
+
+-----------.
+
+It said it was possible the bus driver was blinded by headlights.
+0.36 (It; said; it was possible the bus driver was blinded by headlights)
+
+-----------.
+
+The bus rolled over and caught on fire as a result of the collision, the regional interior ministry said, adding it would be arresting both drivers.
+0.39 Context(caught on fire as a result of the collision the regional interior ministry said adding,List([0, 90))):(it; would be arresting; both drivers)
+0.80 Context(caught on fire as a result of the collision said,List([0, 81))):(the regional interior ministry; adding; it)
+0.96 (caught on fire as a result of the collision; said; the regional interior ministry)
+0.39 Context(The bus rolled over the regional interior ministry said adding,List([0, 66))):(it; would be arresting; both drivers)
+0.80 Context(The bus rolled over said,List([0, 57))):(the regional interior ministry; adding; it would be arresting both drivers)
+0.72 Context(The bus rolled over said,List([0, 57))):(The bus; rolled; over)
+0.93 (The bus rolled over; said; the regional interior ministry)
+
+-----------.
+
+Russia ranks among the world's worst countries for road deaths, mainly due to drink-driving, poor roads and traffic violations.
+0.96 (Russia; ranks; L:among the world's worst countries for road deaths, mainly due to drink-driving, poor roads and traffic violations)
+
+-----------.
+
+Last year more than 20,000 people died in road accidents, a 12-percent drop compared to 2015.
+0.95 (more than 20,000 people; died; L:in road accidents; T:Last year)
+
+-----------.
+
+============.
+
+A 66-year-old woman died while her son, who was driving the car, and her brother sustained injuries after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20am on Thursday.
+0.55 Context(her son , who was driving her brother sustained,List([35, 82))):(her son; was driving; her brother; T:after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday)
+0.72 (her son , who was driving her brother; sustained; injuries; T:after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday)
+0.94 (A 66 - year - old woman; died; T:while her son , who was driving her brother sustained injuries after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday)
+0.55 Context(her son , who was driving the car sustained,List([35, 78))):(her son; was driving; the car; T:after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday)
+0.72 (her son , who was driving the car; sustained; injuries; T:after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday)
+0.77 (their vehicle; rammed; the pillar of the bridge at Range Hill Corner on Ganeshkhind Road)
+0.94 (A 66 - year - old woman; died; T:while her son , who was driving the car sustained injuries after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday)
+
+-----------.
+
+The deceased was identified as Kiran Mukund Makwana of Shukrawar Peth.
+0.61 (The deceased; was identified; as Kiran Mukund Makwana of Shukrawar Peth)
+
+-----------.
+
+Her son Karan (32) sustained serious injuries in the accident.
+0.89 (Karan; [is] son [of]; Hers)
+0.60 (Her son; sustained; serious injuries in the accident)
+
+-----------.
+
+police have filed a complaint against Karan for rash and negligent driving.
+0.91 (police; have filed; a complaint against Karan for negligent driving)
+0.91 (police; have filed; a complaint against Karan for rash)
+
+-----------.
+
+Police believe Karan rammed into the pillar after falling asleep at the wheel.
+0.90 Context(Police believe,List([0, 14))):(Karan; rammed; into the pillar; T:after falling asleep at the wheel)
+0.93 (Police; believe; Karan rammed into the pillar after falling asleep at the wheel)
+
+-----------.
+
+The three had gone to Mumbai to meet relatives.
+0.47 Context(The three to Mumbai,List([0, 28))):(The three; to Mumbai to meet; relatives)
+0.47 (The three; to Mumbai; to meet relatives)
+0.57 (The three; had gone; to Mumbai to meet relatives)
+
+-----------.
+
+and had decided to return to Pune on the same day.
+
+-----------.
+
+It is suspected that Karan could’ve been a victim of fatigue.
+
+-----------.
+
+============.
+
++++++++++++++++++++.
+
+The death of a 47-year-old woman in a road accident in the city on Saturday has highlighted the use of a helmet while driving, be it on the city or the highway.
+0.98 (The death of a 47-year-old woman in a road accident in the city on Saturday; has highlighted; the use of a helmet; T:while driving)
+
+-----------.
+
+The woman, who worked as a school teacher, was killed in an accident when a Kolhapur Municipal Transport (KMT) bus hit a moped on which she was riding in the Mangalwar peth area.
+0.90 (a moped; was riding; L:in the Mangalwar peth area)
+0.94 (a Kolhapur Municipal Transport (KMT) bus; hit; a moped on which she was riding in the Mangalwar peth area)
+0.97 (The woman, who worked as a school teacher; was killed; L:in an accident; T:when a Kolhapur Municipal Transport (KMT) bus hit a moped)
+0.89 (The woman; worked; as a school teacher)
+
+-----------.
+
+The incident has been reported with the Juna Rajwada police.
+0.92 (The incident; has been reported; with the Juna Rajwada police)
+
+-----------.
+
+The deceased has been identified as Radhika Terdal, a resident of Mandlik Park in the Siber Chowk area.
+0.38 (Radhika Terdal; [is] a resident of; Mandlik Park)
+0.61 (The deceased; has been identified; as Radhika Terdal)
+
+-----------.
+
+According to the police, she worked as a teacher at a school in the Surve Nagar area.
+0.45 (she; worked; as a teacher)
+
+-----------.
+
+On Saturday morning, she left the school and was heading towards a bank located at Panyacha Khajina area in Mangalwarpeth, when she met with the accident.
+0.52 (she; met; with the accident)
+0.70 (she; left; the school; T:On Saturday morning)
+
+-----------.
+
+A KMT bus coming from the opposite direction hit her, following which she fell on the road and sustained a head injury.
+0.39 Context(A KMT bus hit following,List([0, 64))):(she; sustained; a head injury)
+0.73 Context(A KMT bus hit,List([0, 48))):(A KMT bus; hit her following; she sustained a head injury)
+0.87 (A KMT bus; hit; her)
+0.89 (A KMT bus; hit; her; T:following which she fell on the road)
+0.93 (A KMT bus; coming; from the opposite direction)
+
+-----------.
+
+Passers-by and residents from that area immediately rushed her to the Chhatrapati Pramila Raje (CPR) civil hospital for treatment.
+0.92 (residents from that area; rushed; her; to the Chhatrapati Pramila Raje; T:immediately)
+
+-----------.
+
+However, she was declared brought dead.
+0.20 (she; brought; dead)
+0.19 (she; was declared; )
+
+-----------.
+
+Police have detained the driver of bus for inquiry.
+0.89 (Police; have detained; the driver of bus for inquiry)
+
+-----------.
+
+This is the second case in a month, where a woman was killed in a road accident.
+0.94 (a woman; was killed; L:in a road accident; L:a month)
+0.45 (This; is; the second case in a month)
+
+-----------.
+
+On June 9, a 52-year-old woman was killed in an accident when a KMT bus ran her over in the Gangavesh area, while she was crossing the road.
+0.45 (she; was crossing; the road)
+0.92 (a KMT bus; ran; her; over; L:in the Gangavesh area)
+0.97 (a 52-year-old woman; was killed; L:in an accident; T:On June 9)
+
+-----------.
+
+The deceased identified as Mangal Shivaji Jadhav, worked at a post office.
+0.95 (The deceased identified as Mangal Shivaji Jadhav; worked; L:at a post office)
+0.61 (The deceased; identified; as Mangal Shivaji Jadhav)
+
+-----------.
+
+She was rushing on her two-wheeler towards the vegetable market at Gangavesh area to buy vegetables after her office, when she was hit by the bus.
+0.45 (she; was hit; by the bus)
+0.27 (She; to buy; vegetables; T:after her office)
+0.46 (She; was rushing; on her two-wheeler towards the vegetable market at Gangavesh area; to buy vegetables after her office)
+
+-----------.
+
+She was also injured on the head, a police official said.
+0.40 Context(She was also injured on the head said,List([0, 56))):(She; was also injured; L:on the head)
+0.78 (She was also injured on the head; said; a police official)
+
+-----------.
+
+A senior police officer said that if the woman would have used a helmet, her life would have been saved.
+0.29 Context(A senior police officer said,List([0, 28))):(her life; would have been saved; )
+0.74 (A senior police officer; said; that if the woman would have used a helmet, her life would have been saved)
+0.90 (the woman; would have used; a helmet)
+
+-----------.
+
+“We are now busy launching a campaign against bikers outside city and will implement the drive in the city soon.
+0.45 (We; will implement; the drive in the city; T:soon)
+0.41 (We; launching; a campaign against bikers outside city)
+0.45 (We; are; T:now; busy launching a campaign against bikers outside city)
+
+-----------.
+
+But before this, people should learn from such incidents and start using helmets in the city," a senior police officer said.
+0.94 (start using helmets in the city; said; a senior police officer)
+0.92 Context(before this , people should learn from such incidents said,List([4, 90))):(people; should learn; from such incidents; T:before this)
+0.96 (before this , people should learn from such incidents; said; a senior police officer)
+
+-----------.
+
+He added that for the last two months, a drive was launched against bikers for not using helmets while driving.
+0.92 Context(He added,List([0, 8))):(a drive; was launched; for not using helmets; T:for the last two months)
+0.28 (He; added; that for the last two months, a drive was launched against bikers for not using helmets)
+
+-----------.
+
+“This campaign was enforced strictly on the roads entering and leaving the city.
+0.90 (the roads; leaving; the city)
+0.73 (the roads; entering; )
+0.90 (This campaign; was enforced; L:strictly on the roads)
+
+-----------.
+
+This has helped in saving the life of two who had met with accidents last week.
+0.34 (two; had met; with accidents; T:last week)
+0.38 (This; has helped; in saving the life of two)
+
+-----------.
+
+Now, the bikers riding on these roads are using helmets and we hope that this will help reduce deaths caused by road accidents,” he said.
+0.32 Context(we hope that this will help reduce deaths said,List([0, 78))):(this; will help reduce; deaths caused by road accidents)
+0.32 Context(we hope that this will help reduce deaths said,List([0, 78))):(this; will help; reduce deaths)
+0.19 Context(we hope that this will help reduce deaths said,List([0, 78))):(we; hope; that this will help reduce deaths)
+0.67 (we hope that this will help reduce deaths; said; he)
+0.89 (deaths; caused; by road accidents)
+0.88 Context(Now , the bikers riding on these roads are using helmets said,List([0, 68))):(the bikers; riding; on these roads)
+0.95 Context(Now , the bikers riding on these roads are using helmets said,List([0, 68))):(the bikers riding on these roads; are using; helmets; T:Now)
+0.93 (Now , the bikers riding on these roads are using helmets; said; he)
+
+-----------.
+
+============.
+
+A Mercedes Benz rammed the official Maruti Gypsy of an assistant commissioner of Delhi Police on Sunday morning a few meters ahead of the DND toll plaza on the Noida side.
+0.96 (A Mercedes Benz; rammed ahead; the official Maruti Gypsy of an assistant commissioner of Delhi Police on Sunday morning)
+
+-----------.
+
+The Mercedes, belonging to a perfume manufacturer, collided with the Gypsy of Jai Kishan Bhargava, ACP in charge of crimes against women’s cell around 2am. -----------.
+
+The ACP was among the three persons injured.
+0.75 (the three persons; injured; )
+0.94 (The ACP; was; among the three persons)
+
+-----------.
+
+The accident occurred when both the vehicles were travelling towards Noida from Delhi via the DND flyway.
+0.93 (both the vehicles; were travelling; towards Noida)
+0.95 (The accident; occurred; T:when both the vehicles were travelling towards Noida from Delhi via the DND flyway)
+
+-----------.
+
+The ACP, who was on duty at the time of the accident, received injuries on his foot, while the constable assisting him too suffered minor injuries, doctors said.
+0.84 Context(The ACP , who was on duty at the time of the accident , received injuries on his foot , while the constable assisting him too suffered minor injuries said,List([0, 160))):(The ACP; received injuries on his foot too suffered; minor injuries)
+0.82 Context(The ACP , who was on duty at the time of the accident , received injuries on his foot , while the constable assisting him too suffered minor injuries said,List([0, 160))):(The ACP; received; injuries on his foot)
+0.97 (The ACP, who was on duty at the time of the accident, received injuries on his foot, while the constable assisting him too suffered minor injuries; said; doctors)
+0.93 (The ACP; was; on duty; T:at the time of the accident)
+
+-----------.
+
+None of them were seriously injured, doctors said, even as the Mercedes has been totally damaged from the front while the police gypsy was damaged at the rear end.“Both the vehicles have been impounded.
+0.31 Context(Both the vehicles have been impounded,List([164, 201))):(None of them; were seriously injured; )
+0.71 (Both the vehicles; have been impounded; )
+0.91 (the police gypsy; was damaged; T:at the rear end)
+0.71 (doctors; said; )
+
+-----------.
+
+We have not received any complaint in the matter so far,” said Anil Shai, SHO of Sector 20 police station.
+0.40 Context(We have not received any complaint in the matter so far said,List([0, 62))):(We; have not received; any complaint; L:in the matter; T:so far)
+0.77 (We have not received any complaint in the matter so far; said; Anil Shai)
+
+-----------.
+
+============.
+
+A former Armyman was killed and his wife critically injured after their speeding bike ran into a roadside railing near Sidhwan Bet, Jagraon, on Saturday evening.
+0.92 (a roadside; railing; L:near Sidhwan Bet; T:on Saturday evening)
+0.72 (their speeding bike; ran; into a roadside)
+0.49 (his wife; critically injured; T:after their speeding bike ran into a roadside)
+0.80 (A former Armyman; was killed; )
+
+-----------.
+
+Dharampal Singh, 55, a resident of Sidhwan Bet, and his wife, Karamjeet Kaur, had gone to Sadarpura on Saturday afternoon to attend a wedding ceremony.
+0.89 (Karamjeet Kaur; [is] wife [of]; him)
+0.43 Context(his wife to Sadarpura,List([0, 49))):(his wife; to Sadarpura to attend; a wedding ceremony)
+0.58 (his wife; to Sadarpura; T:on Saturday afternoon; to attend a wedding ceremony)
+0.93 (Dharampal Singh; to Sadarpura; T:on Saturday afternoon; to attend a wedding ceremony)
+
+-----------.
+
+They left the venue around 4.30pm.
+0.68 (They; left; the venue; T:around 4.30pm)
+
+-----------.
+
+Police said Dharampal lost control of his bike while negotiating a turn.
+0.85 Context(Police said Dharampal lost,List([0, 26))):(Dharampal; lost control of his bike negotiating; a turn)
+0.86 Context(Police said,List([0, 11))):(Dharampal; lost; control of his bike; T:while negotiating a turn)
+0.81 (Police; said; Dharampal lost control of his bike)
+
+-----------.
+
+The bike rammed into an iron railing on a roadside, adjacent to canal.
+0.90 (an iron; railing; on a roadside)
+0.94 (The bike; rammed; into an iron railing on a roadside, adjacent to canal)
+
+-----------.
+
+“We are yet to record the statement of Karamjeet, who has suffered head injuries,” a cop added.
+0.44 Context(We are yet to record the statement of Karamjeet added,List([1, 94))):(We; are; T:yet; to record the statement of Karamjeet)
+0.85 (We are yet to record the statement of Karamjeet; added; a cop)
+0.91 (Karamjeet; has suffered; head injuries)
+0.46 (We; to record; the statement of Karamjeet)
+
+-----------.
+
+Jaswant Singh, brother of Dharampal, said, “Around 5pm, we received a call that my brother and sister-in-law have met with an accident.
+0.30 Context(Jaswant Singh said,List([0, 43))):(we; received; a call that sister-in-law have met with an accident; T:Around 5 pm)
+0.88 (Jaswant Singh; [is] brother of; Dharampal)
+0.27 Context(Jaswant Singh said,List([0, 43))):(we; received; a call that my brother have met with an accident; T:Around 5 pm)
+0.79 (Jaswant Singh; said; Around 5 pm , we received a call)
+0.89 (a call; have met; with an accident)
+
+-----------.
+
+We rushed to the spot and took the two to a nearby hospital.”
+0.45 (We; took; the two; to a nearby hospital)
+0.45 (We; rushed; to the spot)
+
+While Dharampal was declared brought dead, Karamjeet was referred to Dayanand Medical College and Hospital, where she has slipped into a coma.
+0.64 (she; has slipped; into a coma; L:Dayanand Medical Hospital)
+0.93 (Karamjeet; was referred; to Dayanand Medical Hospital)
+0.64 (she; has slipped; into a coma; L:Dayanand Medical College)
+0.93 (Karamjeet; was referred; to Dayanand Medical College)
+0.77 (Dharampal; brought; dead)
+0.77 (Dharampal; was declared; )
+
+-----------.
+
+“Dharampal had retired from Army and had three sons,” Jaswant added.
+0.92 Context(Dharampal had three sons added,List([2, 44))):(Dharampal; had; three sons)
+0.96 (Dharampal had three sons; added; Jaswant)
+0.92 Context(Dharampal had retired from Army added,List([2, 51))):(Dharampal; had retired; from Army)
+0.96 (Dharampal had retired from Army; added; Jaswant)
+
+-----------.
+
+============.
+
+A speeding truck mowed down two persons near Shivdaspura on late Saturday night.
+0.93 (A speeding truck; mowed; down two persons near Shivdaspura; T:on late Saturday night)
+
+-----------.
+
+The victims, identified as Man Singh (25) and Kanhaiya (20) were rushed to a nearby hospital where doctors declared them dead on arrival.
+0.96 (The victims , identified as Kanhaiya ( 20 ); were rushed; to a nearby hospital)
+0.90 (The victims; identified; as Kanhaiya)
+0.89 (doctors; declared; them dead on arrival; L:a nearby hospital)
+0.96 (The victims , identified as Man Singh ( 25 ); were rushed; to a nearby hospital)
+0.90 (The victims; identified; as Man Singh)
+
+-----------.
+
+The police have learned that the duo were residents of Prahladpura village and were headed home when the mishap took place.“About
+0.81 (The police; have learned About; that the duo were headed home when the mishap took place)
+0.90 (the mishap; took; place)
+0.90 Context(The police have learned About,List([0, 84))):(the duo; were; residents of Prahladpura village)
+0.76 (The police; have learned About; that the duo were residents of Prahladpura village)
+
+11.45pm on Saturday, the motorcycle on which the duo was riding was taking a turn near Sitapura Circle when Bhanwarlal spotted a heavy truck in front of him.
+0.86 (Bhanwarlal; spotted; a heavy truck; L:in front of him)
+0.95 (the motorcycle on which the duo was riding; was taking; a turn near Sitapura Circle; T:when Bhanwarlal spotted a heavy truck in front of him)
+0.93 (the motorcycle; was riding; the duo)
+
+-----------.
+
+Even before he could change direction, the truck ran them over,” said a police official said.
+0.80 Context(Even before he could change direction , the truck ran them over , " said a police official said,List([0, 92))):(the truck; ran over; them)
+0.76 Context(the truck ran them over , " said a police official said,List([39, 92))):(Even before he could change direction, the truck ran them over; said; a police official)
+0.50 (the truck ran them over," said a police official; said; )
+
+-----------.
+
+The duo was profusely bleeding from their heads after they came under the wheels of the truck.
+0.62 (they; came; under the wheels of the truck)
+0.85 (The duo; was bleeding; from their heads; T:after they came under the wheels of the truck; T:profusely)
+
+-----------.
+
+A few villagers attempted to catch the driver who jumped off the truck and fled.
+0.89 Context(A few villagers attempted,List([0, 25))):(A few villagers; attempted to catch; the driver who fled)
+0.75 (the driver; fled; )
+0.89 Context(A few villagers attempted,List([0, 25))):(A few villagers; attempted to catch; the driver who jumped off the truck)
+0.89 (A few villagers; attempted; to catch the driver)
+0.89 (the driver; jumped; off the truck)
+
+-----------.
+
+A villager informed cops and ambulance.
+0.90 (A villager; informed; ambulance)
+0.90 (A villager; informed; cops)
+
+-----------.
+
+Cops said that efforts are being made to catch the driver.
+0.56 (Cops; said; that efforts are being made to catch the driver)
+
+-----------.
+
+Police have filed a case against the unnamed driver for rash and reckless driving.“We
+0.89 (Police; have filed; a case against the unnamed driver for reckless driving)
+0.89 (Police; have filed; a case against the unnamed driver for rash)
+
+suspect that the truck was being driven beyond the permissible limit.
+
+-----------.
+
+That’s why it lost control and rammed into the bike,” an official told TOI. -----------.
+0.32 Context(That 's rammed into the bike told,List([0, 49))):(That; 's rammed; into the bike)
+0.93 (That 's rammed into the bike; told; TOI)
+0.25 Context(That 's why it lost control told,List([0, 48))):(That; 's; why it lost control)
+0.73 (That 's why it lost control; told; TOI)
+0.52 (it; lost; control)
+
+The spot near Shivdaspur and Prahaladpura has witnessed several accidents.
+0.94 (The spot near Prahaladpura; has witnessed; several accidents)
+0.94 (The spot near Shivdaspur; has witnessed; several accidents)
+
+-----------.
+
+On June 13, two persons, identified as Bhanwarlal (32) and Vikas (21) died after an overloaded truck lost control and ran over the duo.
+0.88 (two persons , identified as Vikas ( 21 ); died; )
+0.98 (two persons , identified as Vikas ( 21 ); died; T:after an overloaded truck lost control; T:On June 13)
+0.90 (two persons; identified; as Vikas)
+0.88 (two persons , identified as Bhanwarlal ( 32 ); died; )
+0.93 (an overloaded truck; lost; control)
+0.98 (two persons , identified as Bhanwarlal ( 32 ); died; T:after an overloaded truck lost control; T:On June 13)
+0.90 (two persons; identified; as Bhanwarlal)
+
+-----------.
+
+Both Bhanwarlal and Vikas were also residents of Prahaladpura village.“There is some construction underway on that particular stretch.
+0.89 (Vikas; were also; residents of Prahaladpura village)
+0.92 (Both Bhanwarlal; were also; residents of Prahaladpura village)
+
+-----------.
+
+There are no reflectors or road lights due to which it is particularly dangerous for two-wheelers to drive during the night,” said a senior police official, adding that the road is also called as ‘black spot’ due to repeated incidents of accidents.
+0.92 Context(There are no reflectors or road lights said a senior police official adding,List([0, 163))):(the road; is also called; as 'black spot' due to repeated incidents of accidents)
+0.81 Context(There are no reflectors or road lights said,List([0, 130))):(a senior police official; adding; that the road is also called as 'black spot' due to repeated incidents of accidents)
+0.65 (There are no reflectors or road lights; said; a senior police official)
+0.91 (two-wheelers; to drive; T:during the night)
+0.28 (it; is; particularly dangerous)
+
+-----------.
+
+The body of the duo was handed over to their families on Sunday morning after post-mortem.
+0.89 (The body of the duo; was handed over; to their families; T:on Sunday morning; T:after post-mortem)
+
+-----------.
+
+Despite the string of fatal accidents in the city, the authorities have yet to wake up to the need of traffic regulations.
+0.89 (the authorities; to wake up; to the need of traffic regulations)
+0.77 (the authorities; have; yet)
+
+-----------.
+
+============.
+
+The return journey from Ahmednagar of a group of 15 software engineers from the city turned tragic when six of them were killed after a speeding water tanker jumped over the road divider and crashed into their minibus near Wagholi on the Pune-Ahmednagar highway around 7pm on Sunday.
+0.88 (a speeding water tanker; crashed; into their minibus near Wagholi; L:on the Pune - Ahmednagar highway; T:around 7 pm; T:on Sunday)
+0.67 (six of them; were killed; T:after a speeding water tanker crashed into their minibus near Wagholi on the Pune - Ahmednagar highway around 7 pm on Sunday)
+0.98 (The return journey from Ahmednagar of a group of 15 software engineers from the city; turned; tragic; T:when six of them were killed after a speeding water tanker crashed into their minibus near Wagholi on the Pune - Ahmednagar highway around 7 pm on Sunday)
+0.92 (a speeding water tanker; jumped; over the road divider)
+0.76 (six of them; were killed; T:after a speeding water tanker jumped over the road divider)
+0.97 (The return journey from Ahmednagar of a group of 15 software engineers from the city; turned; tragic; T:when six of them were killed after a speeding water tanker jumped over the road divider)
+
+-----------.
+
+After hitting the minibus, the tanker went on to collide with a car travelling behind the minibus.
+0.73 (a car; travelling; )
+0.93 (the tanker; went on; T:After hitting the minibus)
+
+-----------.
+
+A couple travelling in the car was fortunate to receive only minor injuries.
+0.92 (A couple travelling in the car; to receive; only minor injuries)
+0.95 (A couple travelling in the car; was; fortunate to receive only minor injuries)
+0.90 (A couple; travelling; L:in the car)
+
+-----------.
+
+All 15 software engineers were earlier employed with one company.
+0.94 (All 15 software engineers; employed; with one company; T:earlier)
+0.92 (All 15 software engineers; were; earlier employed with one company)
+
+-----------.
+
+However, over time, some had shifted to other IT firms.
+0.68 (some; had shifted; to other IT firms; T:over time)
+
+-----------.
+
+They had hired the minibus to go to Sonai in Ahmednagar district for the marriage of a colleague.
+0.92 (the minibus; to go; to Sonai; for the marriage of a colleague)
+0.76 (They; had hired; the minibus to go to Sonai in Ahmednagar district for the marriage of a colleague)
+
+-----------.
+
+On their return, they visited the Shani Shingnapur temple before heading for Pune.
+0.60 Context(they visited,List([17, 29))):(they; visited the Shani Shingnapur temple before heading; for Pune)
+0.59 (they; visited; the Shani Shingnapur temple; T:before heading for Pune; T:On their return)
+
+-----------.
+
+Inspector Sarjerao Patil of the Lonikand police station said the driver of the water tanker, which was going towards Ahmednagar, lost control of the vehicle.
+0.92 Context(Inspector Sarjerao Patil of the Lonikand police station said,List([0, 60))):(the driver of the water tanker; lost; control of the vehicle)
+0.97 (Inspector Sarjerao Patil of the Lonikand police station; said; the driver of the water tanker, which was going towards Ahmednagar, lost control of the vehicle)
+0.91 (the water tanker; was going; towards Ahmednagar)
+
+-----------.
+
+"The vehicle jumped over the road divider and hit the minibus which was coming from the opposite direction.
+0.89 (the minibus; was coming; from the opposite direction)
+0.93 (The vehicle; hit; the minibus which was coming from the opposite direction)
+0.90 (The vehicle; jumped; over the road divider)
+
+-----------.
+
+All six victims died on the spot.
+0.91 (All six victims; died; L:on the spot)
+
+-----------.
+
+The front portion of the car coming from behind was also extensively damaged," he said.
+0.64 Context(The front portion of the car coming from behind was also extensively damaged said,List([0, 86))):(The front portion of the car; was extensively damaged; )
+0.95 (The front portion of the car coming from behind was also extensively damaged; said; he)
+0.77 (the car; coming; from behind)
+
+-----------.
+
+The deceased were identified as Vaibhav Mane (27) of Baner, Mahesh Pawar (28) of Saswad, Nupur Sahu (26) of Paud road, Nikhil Jadhav (26) of Bhosari, Akshay Dabhade (28) of Sangvi and Vishal Chavan (29) of Vimannagar.
+0.61 (The deceased; were identified; as Vaibhav Mane ( 27 ) of Baner)
+
+-----------.
+
+The deceased and the injured were taken to a private hospital in Wagholi.
+0.61 (the injured; were taken; to a private hospital in Wagholi)
+0.61 (The deceased; were taken; to a private hospital in Wagholi)
+
+-----------.
+
+One of the injured engineers, Anushree Bagewad, has been admitted to a private hospital in the city in a serious condition.
+0.91 (One of the injured engineers; has been admitted; to a private hospital in the city)
+
+-----------.
+
+Around 11pm, the bodies of four of the deceased were brought to Sassoon Hospital for a postmortem and allied formalities.
+0.94 (the bodies; allied; formalities; T:Around 11 pm)
+0.97 (the bodies of four of the deceased; were brought; to Sassoon Hospital; for a postmortem; T:Around 11 pm)
+
+-----------.
+
+Another two bodies were expected to arrive later.
+0.75 (Another two bodies; to arrive; T:later)
+0.75 (Another two bodies; were expected; )
+
+-----------.
+
+A few relatives and neighbours of the victims had gathered at the hospital on learning about the accident.
+0.92 (neighbours of the victims; had gathered; L:at the hospital on learning about the accident)
+0.93 (A few relatives of the victims; had gathered; L:at the hospital on learning about the accident)
+
+-----------.
+
+A software engineer from the group, Ranjit Kadam (29), told TOI at Sassoon Hospital, “The tanker, after jumping the divider, hit the rear portion of our minibus where the victims were sitting.
+0.54 Context(A software engineer from the group told The tanker hit,List([0, 128))):(The tanker; hit the rear portion of our minibus after jumping; )
+0.89 Context(A software engineer from the group told,List([0, 59))):(The tanker; hit; the rear portion of our minibus; T:after jumping the divider)
+0.93 (A software engineer from the group; told; TOI; L:at Sassoon Hospital; The tanker, after jumping the divider, hit the rear portion of our minibus)
+0.73 (our minibus; were sitting; the victims)
+
+-----------.
+
+I was sitting in the front seat next to the driver and was fortunate to receive only minor injuries on my finger.“Senior
+0.41 (I; to receive; only minor injuries)
+0.37 (I; was; fortunate to receive only minor injuries on my finger)
+0.45 (I; was sitting; in the front seat next to the driver)
+
+officials from the Pune rural police and a team from the Lonikand police station rushed to the spot while local residents helped in extricating the bodies from the minibus.
+0.88 Context(local residents helped,List([80, 102))):(local residents; helped in extricating; the bodies; from the minibus)
+0.97 (officials from a team from the Lonikand police station; rushed; to the spot; T:while local residents helped in extricating the bodies from the minibus)
+0.88 Context(local residents helped,List([62, 84))):(local residents; helped in extricating; the bodies; from the minibus)
+0.88 (local residents; helped; in extricating the bodies from the minibus)
+0.97 (officials from the Pune rural police; rushed; to the spot; T:while local residents helped in extricating the bodies from the minibus)
+
+-----------.
+
+============.
+
++++++++++++++++++++.
+
+In one of the rare instances of its kind, the police registered a First Information Report (FIR) against unidentified cattle owner and a young driver over deaths of cattle in a road mishap.
+0.95 (the police; registered; a First Information Report; against a young driver over deaths of cattle in a road mishap; L:In one of the rare instances of its kind)
+0.92 (the police; registered; a First Information Report; against unidentified cattle owner; L:In one of the rare instances of its kind)
+
+-----------.
+
+Two stray cattle had died after being hit by a vehicle on Amravati Road in the wee hours of Sunday.
+0.95 (Two stray cattle; had died; T:after being hit by a vehicle on Amravati Road in the wee hours of Sunday)
+
+-----------.
+
+Around 2.30am, a reportedly speeding car collided with stray buffaloes on Amravati Road opposite a car showroom.
+0.77 (a reportedly speeding car; collided; )
+
+-----------.
+
+While one animal died on the spot, the other sustained severe injuries.
+0.70 (the other; sustained; severe injuries; T:While one animal died on the spot)
+0.90 (one animal; died; L:on the spot)
+
+-----------.
+
+A police patrol reached the spot and alerted the control room.
+0.90 (A police; alerted; the control room)
+0.91 (A police patrol; reached; the spot)
+
+-----------.
+
+Police sources stated the cops struggled to seek help from local animal welfare organizations.
+0.88 Context(Police sources stated the cops struggled,List([0, 40))):(the cops; struggled to seek; help from local animal welfare organizations)
+0.88 Context(Police sources stated,List([0, 21))):(the cops; struggled; to seek help from local animal welfare organizations)
+0.92 (Police sources; stated; the cops struggled to seek help from local animal welfare organizations)
+
+-----------.
+
+After over an hour, activist Smita Mire of Save Speechless Organization (SSO) reached the place.
+0.97 (activist Smita Mire of Save Speechless Organization; reached; the place; T:After over an hour)
+
+-----------.
+
+Mire, too, had a tough time arranging for transportation and medical treatment for the cattle.
+0.95 (Mire; had; a tough time arranging for medical treatment for the cattle)
+0.75 (a tough time; arranging; )
+0.93 (Mire; had; a tough time arranging for transportation)
+
+-----------.
+
+“Only around 11am, the civic body sent the hydraulic ambulance and we took the injured animal to Gorakshan Sabha in Dhantoli.
+0.50 (we; took; the injured animal; to Gorakshan Sabha in Dhantoli)
+0.96 (the civic body; sent; the hydraulic ambulance; T:Only around 11 am)
+
+-----------.
+
+The animal got treatment 12 hours after the accident,” Mire said.
+0.91 Context(The animal got treatment 12 hours after the accident said,List([0, 64))):(The animal; got; treatment 12 hours after the accident)
+0.96 (The animal got treatment 12 hours after the accident; said; Mire)
+
+-----------.
+
+However on Monday morning, the other animal also succumbed to the injuries.
+0.95 (the other animal; succumbed; to the injuries; T:However on Monday morning)
+
+-----------.
+
+Wadi police said that apart from the cattle owner, offence was also registered against 27-year-old Pankaj Agrawal who was driving the Ritz car that hit the buffaloes.
+0.88 (Wadi police; said; that apart from the cattle owner, offence was also registered against 27-year-old Pankaj Agrawal)
+0.94 (the Ritz car; hit; the buffaloes)
+0.95 (27-year-old Pankaj Agrawal; was driving; the Ritz car)
+
+-----------.
+
+Agrawal was accompanied by his friends and was probably returning after dinner.
+0.92 (Agrawal; was probably returning; T:after dinner)
+0.86 (Agrawal; was accompanied; by his friends)
+
+-----------.
+
+“We have booked him under Sections 279 (rash driving) and 429 (mischief by killing or maiming cattle) of IPC,” officials said.
+0.30 Context(We have booked him under Sections 279 ( rash driving said,List([1, 125))):(We; have booked; him; L:under Sections 279)
+0.86 (We have booked him under Sections 279 (rash driving; said; officials)
 0.56 (rash; driving; )
 
 -----------.
 
-He was produced in court on Sunday and sent to judicial custody.
-0.45 (He; was sent; to judicial custody)
-0.50 (He; was produced; L:in court; T:on Sunday)
+They added unidentified cattle owner has also been booked under Section 429.
+0.89 Context(They added,List([0, 10))):(unidentified cattle owner; has also been booked; L:under Section 429)
+0.67 (They; added; unidentified cattle owner has also been booked under Section 429)
 
 -----------.
 
-In another incident, a 25-year-old man, Randhawa Singh, died after a speeding truck hit him near Dhankot toll on Saturday.
-0.90 (a speeding truck; hit; him; L:near Dhankot toll; T:on Saturday)
-0.96 (a 25-year-old man; died; T:after a speeding truck hit him near Dhankot toll on Saturday; L:In another incident)
+“Our team is trying to trace the owner who probably lives near Futala.
+0.63 Context(Our team is trying,List([1, 19))):(Our team; is trying to trace; the owner who probably lives near Futala)
+0.59 (Our team; is trying; to trace the owner)
+0.90 (the owner; probably lives; L:near Futala)
 
 -----------.
 
-According to the deceased’s brother, Surjeet Singh, the accident happened around 3.30pm when Randhawa was heading towards the toll on his bike.
-0.86 (Randhawa; was heading; towards the toll on his bike)
-0.91 (the accident; happened; T:around 3.30pm; T:when Randhawa was heading towards the toll on his bike)
+We have filed a chargesheet before the court,” cops said.
+0.40 Context(We have filed a chargesheet before the court said,List([0, 56))):(We; have filed; a chargesheet; T:before the court)
+0.79 (We have filed a chargesheet before the court; said; cops)
 
 -----------.
 
-A speeding truck came from behind and hit the bike killing him on the spot.
-0.81 Context(A speeding truck hit,List([0, 20))):(A speeding truck; hit the bike killing; him; L:on the spot)
-0.91 (A speeding truck; hit; the bike)
-0.78 (A speeding truck; came; from behind)
+Mire allegedly received repeated calls pressuring her to withdraw her complaint.
+0.31 (her; to withdraw; her complaint)
+0.83 (repeated calls; pressuring; her; to withdraw her complaint)
+0.86 (Mire; allegedly received; repeated calls pressuring her to withdraw her complaint)
 
 -----------.
 
-The errant driver immediately fled with his truck.
-0.88 (The errant driver; fled; T:immediately)
+She demanded that all stray cattle must be seized and their owners be booked.
+0.29 Context(She demanded,List([0, 12))):(their owners; be booked; )
+0.12 (She; demanded; that their owners be booked)
+0.71 Context(She demanded,List([0, 12))):(all stray cattle; must be seized; )
+0.19 (She; demanded; that all stray cattle must be seized)
 
 -----------.
 
-An FIR was registered under sections 279 (rash driving) and 304A (death by negligence) of the IPC at the Rajender park police station.
-0.99 (An FIR; was registered under; under sections 279)
+“Menace due to stray cattle will increase in monsoon.
+0.94 (Menace due to stray cattle; will increase; T:in monsoon)
+
+-----------.
+
+The lives of animals and humans both gets in danger,” Mire said.
+0.91 Context(The lives of humans both gets in danger said,List([0, 53))):(The lives of humans; gets; in danger)
+0.96 (The lives of humans both gets in danger; said; Mire)
+0.91 Context(The lives of animals both gets in danger said,List([0, 54))):(The lives of animals; gets; in danger)
+0.96 (The lives of animals both gets in danger; said; Mire)
+
+-----------.
+
+In the same month last year, 25-year-old Sagar Telang had lost his life after his bike collided with a stray bull at Telangkhedi Road.
+0.68 (his bike; collided; with a stray bull at Telangkhedi Road)
+0.97 (25-year-old Sagar Telang; had lost; his life; T:after his bike collided with a stray bull at Telangkhedi Road; T:In the same month last year)
+
+-----------.
+
+His friend Manoj, who was riding pillion, had said they were not expecting a bull in the middle of the road at midnight.
+0.89 (Manoj; [is] friend [of]; Him)
+0.67 Context(His friend Manoj , who was riding pillion had said,List([0, 50))):(they; were not expecting; a bull in the middle of the road at midnight)
+0.54 Context(His friend Manoj , who was riding pillion had said,List([0, 50))):(His friend; was riding; pillion)
+0.72 (His friend Manoj, who was riding pillion; had said; they were not expecting a bull in the middle of the road at midnight)
+
+-----------.
+
+The bull had also died but its owner, believed to be staying near Telangkhedi, could not be identified by the police as he did not turn up to claim the animal.
+0.41 (he; to claim; the animal)
+0.45 (he; did not turn up; to claim the animal)
+0.80 (its owner , believed to be staying near Telangkhedi; could not be identified; by the police)
+0.73 (The bull; had also died; )
+
+-----------.
+
+“The area surrounding Telangkhedi lake has many cattle owners.
+0.96 (The area surrounding Telangkhedi lake; has; many cattle owners)
+0.92 (The area; surrounding; Telangkhedi lake)
+
+-----------.
+
+Repeated accidents are caused due to stray cattle but no action is taken,” Mire said.
+0.69 Context(no action is taken said,List([0, 32))):(no action; is taken; )
+0.94 (no action is taken; said; Mire)
+0.88 Context(Repeated accidents are caused due to stray cattle said,List([0, 63))):(Repeated accidents; are caused; due to stray cattle)
+0.96 (Repeated accidents are caused due to stray cattle; said; Mire)
+
+-----------.
+
+============.
+
+A truck driver was killed after he rammed his truck into a shed of the Maruti plant in Manesar on Saturday night while a 19-year-old was killed after his motorcycle was hit by a canter on Sunday.
+0.68 (his motorcycle; was hit; by a canter; T:on Sunday)
+0.93 (a 19-year-old; was killed; T:after his motorcycle was hit by a canter on Sunday)
+0.46 (he; rammed; his truck; into a shed of the Maruti plant in Manesar; T:on Saturday night; T:while a 19-year-old was killed after his motorcycle was hit by a canter on Sunday)
+0.91 (A truck driver; was killed; T:after he rammed his truck into a shed of the Maruti plant in Manesar on Saturday night)
+
+-----------.
+
+In the first incident, a 23-year-old truck driver, Rajesh, died on spot.
+0.96 (a 23-year-old truck driver; died; L:on spot; L:In the first incident)
+
+-----------.
+
+According to Vasudev, the helper in the truck who was present at the time of the accident, the duo were going towards the Maruti plant from Krishna Maruti.
+0.92 (the duo; were going; towards the Maruti plant from Krishna Maruti)
+0.91 (the truck; was; present at the time of the accident)
+
+-----------.
+
+As they reached the Press Shop A, Rajesh took a turn and crashed into the shed, which was built on the footpath.
+0.89 (the shed; was built; L:on the footpath)
+0.62 (they; crashed; into the shed)
+0.93 (Rajesh; took; a turn; T:As they reached the Press Shop A)
+0.66 (they; reached; the Press Shop A)
+
+-----------.
+
+A garter pierced through Rajesh’s chest, police said.
+0.97 (A garter pierced through Rajesh's chest; said; police)
+0.73 (A garter; pierced; )
+
+-----------.
+
+However, the helper, based on whose complaint an FIR was filed, escaped unscathed.
+0.82 (the helper, based on whose complaint; escaped; unscathed)
+0.79 (an FIR; was filed; )
+0.89 (the helper; based; on whose complaint)
+
+-----------.
+
+An FIR was filed under sections 279 (rash driving), 304A (death by negligence) and 427 (mischief causing damage) of the IPC against the dead driver, Rajesh.
+0.99 (An FIR; was filed under; under sections 279)
+0.89 (mischief; causing; damage)
 0.56 (rash; driving; )
-0.93 (An FIR; was registered; L:under sections 279)
+0.93 (An FIR; was filed; under sections 279)
 
 -----------.
 
-The police have recovered the truck but the driver is still absconding.
-0.76 (the driver; is absconding; T:still)
-0.90 (The police; have recovered; the truck)
+IMT Manesar SHO Narender Kumar said in such cases, the accused are declared “untraceable”.
+0.87 (IMT Manesar SHO Narender Kumar; said; L:in such cases; the accused are declared "untraceable)
+
+-----------.
+
+In the second incident, Hemant was going from his village Naurangpur to Sidhrawali on Sunday when a speeding canter hit his motorcycle near old Bilaspur toll.
+0.88 (a speeding canter; hit; his motorcycle)
+
+-----------.
+
+Passersby took him to a hospital in Dharuhera, where he died during treatment.
+0.64 (he; died; T:during treatment; L:Dharuhera)
+0.88 (Passersby; took; him; to a hospital in Dharuhera)
+
+-----------.
+
+============.
+
+Yashrajsinh, son of Rajkot-based hotelier, Dilipsinh Rana died in a road accident near Ghanteshwar village on Jamnagar Road on the outskirts of the city on Monday evening.
+0.88 (Yashrajsinh; [is] son of; Rajkot - based hotelier)
+0.94 (Dilipsinh Rana; died; L:in a road accident near Ghanteshwar village; L:on Jamnagar Road; T:on Monday evening)
+
+-----------.
+
+The accident took place when the 22-year-old was going on his bike.
+0.89 (The accident; took; place; T:when the 22-year-old was going on his bike)
+
+-----------.
+
+When he neared Ghanteshwar village the bike collided with a tractor causing severe head injuries to Yashraj.
+0.90 (a tractor; causing; severe head injuries)
+0.50 (he; neared; Ghanteshwar village)
+
+-----------.
+
+He was rushed to a private hospital where he succumbed to injuryies during treatment.
+0.60 (he; succumbed; to injuryies; T:during treatment; L:a private hospital)
+0.45 (He; was rushed; to a private hospital)
+
+-----------.
+
+The deceased was the only son of hotelier Rana, owner of a heritage hotel on Kalavad Road.
+0.95 (The deceased; was; the only son of hotelier Rana)
+
+-----------.
+
+According to sources, Yashraj was studying in Mumbai and was in the city for vacation.
+0.94 (Yashraj; was; in the city; T:for vacation)
+0.93 (Yashraj; was studying; L:in Mumbai)
+
+-----------.
+
+============.
+
+A driver, who was drunk, mowed down an 11-year-old boy and injured his mother and sister at Thiruvalangadu near Tiruttani on.
+0.86 (A driver; injured; his sister; L:at Thiruvalangadu near Tiruttani on)
+0.86 (A driver; injured; his mother; L:at Thiruvalangadu near Tiruttani)
+0.77 (A driver , who was drunk; mowed down; )
+0.79 (A driver; was; drunk)
+
+-----------.
+
+The deceased, Vasanth, a Class VI student of a private school in Thiruvalangadu, was walking on the side of the road, while his mother J Nirmala was holding her daughter Haripriya, 9, Passersby and residents nabbed the car driver Mohan and handed him over to police.
+0.50 Context(his mother was holding,List([128, 160))):(her daughter residents; handed over; to police)
+0.39 (his mother; was holding; her daughter residents handed him over to police)
+0.65 Context(his mother was holding,List([128, 160))):(her daughter residents; nabbed; the car driver Mohan)
+0.44 (his mother; was holding; her daughter residents nabbed the car driver Mohan)
+0.53 (The deceased; was walking; L:on the side of the road)
+0.39 (Passersby; [is] daughter [of]; hers)
+0.57 (The deceased; nabbed; the car driver Mohan)
+0.58 (9; handed over; to police; T:The deceased , Vasanth , a Class VI student of a private school in Thiruvalangadu , was walking on the side of the road)
+0.42 (The deceased; was walking; L:on the side of the road; T:while his mother J Nirmala was holding her daughter)
+0.39 (Haripriya; [is] daughter [of]; hers)
+0.39 (J Nirmala; [is] mother [of]; him)
+0.37 Context(9 nabbed,List([186, 194))):(The deceased; was walking; L:on the side of the road; T:while his mother J Nirmala was holding her daughter)
+0.37 (9; nabbed; the car driver Mohan)
+0.45 (his mother; was holding; her daughter)
+
+-----------.
+
+Witnesses told police that the speeding car hit the trio from behind.
+0.91 Context(Witnesses told,List([0, 14))):(the speeding car; hit; the trio; from behind)
+0.76 (Witnesses; told; police; that the speeding car hit the trio from behind)
+
+-----------.
+
+Vasanth's body was sent to the government hospital in Tiruttani for autopsy.
+0.94 (Vasanth's body; was sent; to the government hospital in Tiruttani for autopsy)
+
+-----------.
+
+The residents protested, demanding that the highways department lay a speed breaker in the area, and that police personnel put up a sign board on both sides to alert motorists passing through.
+0.88 Context(The residents protested demanding,List([0, 35))):(police personnel; put up; a sign board; on both sides)
+0.74 Context(The residents protested,List([0, 23))):(The residents; protested demanding; that police personnel put up a sign board on both sides to alert motorists)
+0.78 (The residents; protested; demanding that police personnel put up a sign board on both sides to alert motorists)
+0.73 (alert motorists; passing through; )
+0.89 Context(The residents protested demanding,List([0, 35))):(the highways department; lay; a speed breaker in the area)
+0.74 Context(The residents protested,List([0, 23))):(The residents; protested demanding; that the highways department lay a speed breaker in the area)
+0.78 (The residents; protested; demanding that the highways department lay a speed breaker in the area)
+
+-----------.
+
+The agitators also demanded that the family be given compensation at the earliest.
+0.88 Context(The agitators demanded,List([0, 27))):(the family; be given; compensation; L:at the earliest)
+0.69 (The agitators; demanded; that the family be given compensation at the earliest)
+
+-----------.
+
+The Thiruvalangadu police registered a case and arrested Mohan.
+0.94 (The Thiruvalangadu police; arrested; Mohan)
+0.93 (The Thiruvalangadu police; registered; a case)
+
+-----------.
+
+He was remanded in judicial custody after being produced before a magistrate court in Tiruttani.
+0.46 (He; after being produced; T:before a magistrate court in Tiruttani)
+0.50 (He; was remanded; L:in judicial custody; T:after being produced before a magistrate court in Tiruttani)
+
+-----------.
+
+============.
+
+Four people were killed and five others were injured in a road accident when the jeep they were travelling in collided with a mini-truck in Bemetara district on Monday.
+0.77 (when the jeep they were travelling in; collided; with a mini-truck in Bemetara district on Monday)
+0.90 (five others; were injured; L:in a road accident)
+0.73 (Four people; were killed; )
+
+-----------.
+
+The injured were sent to Raipur hospital for treatment.
+0.61 (The injured; were sent; to Raipur hospital; for treatment)
+
+-----------.
+
+"The incident took place at Bijabhat and preliminary investigation suggests that both the vehicles were speeding when the accident happened.
+0.89 Context(preliminary investigation suggests,List([0, 34))):(both the vehicles; were speeding; T:when the accident happened)
+0.81 (preliminary investigation; suggests; that both the vehicles were speeding when the accident happened)
+0.73 (the accident; happened; )
+0.92 (The incident; took; place; L:at Bijabhat)
+
+-----------.
+
+The victims were coming back home after attending a marriage ceremony," said the police.
+0.88 Context(The victims were coming back home after attending a marriage ceremony said,List([0, 76))):(The victims; were coming; back home; T:after attending a marriage ceremony)
+0.94 (The victims were coming back home after attending a marriage ceremony; said; the police)
+0.89 (The victims; after attending; a marriage ceremony)
+
+-----------.
+
+The family was on their way to Amota village in a jeep when it collided with the mini-truck leaving four people dead on the spot.
+0.90 (the mini-truck; leaving; four people; dead; L:on the spot)
+0.57 (it; collided; with the mini-truck leaving four people dead on the spot)
+0.93 (The family; was; on their way to Amota village in a jeep; T:when it collided with the mini-truck leaving four people dead on the spot)
+
+-----------.
+
+Residents alerted the police, and a team rushed to the spot for rescue.
+0.90 (a team; rushed; to the spot for rescue)
+0.89 (Residents; alerted; the police)
+
+-----------.
+
+The injured are in Ambedkar hospital where their condition is said to be critical.
+0.34 (their condition; to be; critical)
+0.76 (their condition; is said; L:Ambedkar hospital)
+0.61 (The injured; are; in Ambedkar hospital)
+
+-----------.
+
+A case has been registered against an unidentified driver who fled soon after the incident.
+0.92 (an unidentified driver; fled; T:soon; T:after the incident)
+0.90 (A case; has been registered; against an unidentified driver)
+
+-----------.
+
+The deceased were identified as Lakhan Soni, Sanjana Soni, Ahilya Soni and driver Chandrabhan.
+0.61 (The deceased; were identified; as driver Chandrabhan)
+0.61 (The deceased; were identified; as Ahilya Soni)
+0.61 (The deceased; were identified; as Sanjana Soni)
+0.61 (The deceased; were identified; as Lakhan Soni)
+
+-----------.
+
+============.
+
++++++++++++++++++++.
+
+The Monday fuel tanker accident at Kajupada has once again highlighted the need for identifying and correcting accident-prone spots on Thane roads especially on the Ghodbunder stretch that features among the most mishap prone roads.
+0.92 (the Ghodbunder stretch; features; among the most mishap prone roads)
+0.98 (The Monday fuel tanker accident at Kajupada; has highlighted; the need for identifying and correcting accident-prone spots on Thane roads especially on the Ghodbunder stretch; T:once again)
+
+-----------.
+
+A joint commitee comprising transport department, revenue, police and public works were entrusted to identify the dangerous spots in the district and suggest corrective actions.
+0.89 (public works; to suggest; corrective actions)
+0.90 (public works; were entrusted; to suggest corrective actions)
+0.89 (public works; to identify; the dangerous spots in the district)
+0.90 (public works; were entrusted; to identify the dangerous spots in the district)
+0.88 (police; to suggest; corrective actions)
+0.89 (police; were entrusted; to suggest corrective actions)
+0.88 (police; to identify; the dangerous spots in the district)
+0.88 (revenue; to suggest; corrective actions)
+0.89 (revenue; were entrusted; to suggest corrective actions)
+0.88 (revenue; to identify; the dangerous spots in the district)
+0.89 (revenue; were entrusted; to identify the dangerous spots in the district)
+0.92 (A joint commitee comprising transport department; to suggest; corrective actions)
+0.93 (A joint commitee comprising transport department; were entrusted; to suggest corrective actions)
+0.92 (A joint commitee comprising transport department; to identify; the dangerous spots in the district)
+
+-----------.
+
+However, nearly months after it was formed, there has been no progress on the front, informed an official, who claims that several mishaps could be avoided if certain changes are made in the road designs.
+0.68 Context(an official claims,List([94, 117))):(several mishaps; could be avoided; )
+0.78 (an official; claims; that several mishaps could be avoided if certain changes are made in the road designs)
+0.19 (it; was formed; )
+
+-----------.
+
+As many as three spots along the Ghodbunder stretch including the Kajupada turn, Gaimukh and Chena creek one seem to be the most notorious when it comes to heavy vehicles toppling over.
+0.22 Context(As many as three spots along the Ghodbunder stretch including Chena creek,List([0, 73))):(one; seem; )
+0.89 (As many as three spots along the Ghodbunder stretch including Chena; creek; one seem to be the most notorious)
+0.22 Context(As many as three spots along the Ghodbunder stretch including Gaimukh creek,List([0, 75))):(one; seem; )
+0.89 (As many as three spots along the Ghodbunder stretch including Gaimukh; creek; one seem to be the most notorious)
+0.22 Context(As many as three spots along the Ghodbunder stretch including the Kajupada turn creek,List([0, 85))):(one; seem; )
+0.91 (As many as three spots along the Ghodbunder stretch including the Kajupada turn; creek; one seem to be the most notorious)
+0.73 (heavy vehicles; toppling over; )
+0.19 (it; comes; )
+0.35 (one; to be; the most notorious; T:when it comes to heavy vehicles)
+
+-----------.
+
+There have been several mishaps reported at these three bends on the stretch wherein heavy vehicles have lost balance.
+0.94 (heavy vehicles; have lost; balance; L:the stretch)
+0.90 (several mishaps; reported; L:at these three bends on the stretch)
+
+-----------.
+
+The recent one was on Monday at Kajupada and a TMT bus at Chena creek turn last week.
+0.94 (The recent one; was; on Monday; L:at a TMT bus at Chena creek turn; T:last week)
+0.94 (The recent one; was; on Monday; L:at Kajupada; T:last week)
+
+-----------.
+
+Few MSRTC buses have also met with mishaps on the Gaimukh-Kajupada stretch while maneourving a turn causing them to topple.
+0.78 Context(Few MSRTC buses have also met,List([0, 29))):(Few MSRTC buses; have also met with mishaps on the Gaimukh-Kajupada stretch maneourving; a turn)
+0.78 (Few MSRTC buses; have also met; with mishaps on the Gaimukh-Kajupada stretch; T:while maneourving a turn causing them to topple)
+
+-----------.
+
+Transport activists have been long demanding that sharp bends along the ghodbunder, especially at Kajupada, Gaimukh be eased for safety of traffic movement.
+0.85 (Transport activists; have been demanding; that sharp bends along the ghodbunder, especially at Kajupada, Gaimukh be eased for safety of traffic movement; T:long)
+
+-----------.
+
+“Few sharp turns along the GB stretch have witnessed instances of vehicles overturning in the recent past, inform experts,” admit officials manning the stretch.
+0.90 (admit officials; manning; the stretch)
+0.89 (vehicles; overturning; T:in the recent past)
+0.95 (Few sharp turns along the GB stretch; have witnessed; instances of vehicles)
+
+-----------.
+
+Experts attribute the mishaps to mostly poor road design.
+0.89 (Experts; attribute; the mishaps; to mostly poor road design)
+
+-----------.
+
+“Often reckless tarring ends up changing the gradients at turns compared to what it was designed for thus posing risks for vehicles.
+0.41 (it; posing; risks for vehicles)
+0.19 (it; was designed; )
+0.90 (Often reckless tarring; ends up; changing the gradients at turns compared to what it was designed for thus posing risks for vehicles)
+
+-----------.
+
+Rampant speed breakers on highways also cause accidents and so do sharp curves especially on high speed zones like highways.
+0.93 (Rampant; do; sharp curves especially on high speed zones like highways)
+0.91 (Rampant speed breakers on highways; cause; accidents)
+
+-----------.
+
+The need is to ensure the norms mandated are followed,” said Nitin Dossa, executive chairman of the Western India Automobiles Association.
+0.38 (Nitin Dossa; [is] executive chairman of; the Western India Automobiles Association)
+0.91 Context(The need is to ensure the norms mandated are followed said,List([0, 60))):(The need; is; to ensure the norms mandated are followed)
+0.94 (The need is to ensure the norms mandated are followed; said; Nitin Dossa)
+0.73 (the norms; mandated; )
+
+-----------.
+
+Meanwhile, when contacted the transport department at Thane said they would work out a solution after identifying the problem spots in Thane to prevent further mishaps.
+
+-----------.
+
+“We are planning to pilot a joint meet to identify and chalk out a solution to the rising number of road accidents.
+0.51 Context(We are planning,List([2, 17))):(We; are planning to pilot; a joint meet to chalk out a solution to the rising number of road accidents)
+0.40 Context(We are planning,List([2, 17))):(We; are planning to pilot; a joint meet to identify)
+0.40 (We; are planning; to pilot a joint meet)
+
+-----------.
+
+There are several junctions, turns on heavy density corridors like GB that see frequent accidents and need immediate solutions,” said a transport official.
+0.85 (There are several junctions , turns on heavy density corridors like GB need immediate solutions; said; a transport official)
+0.59 (There are several junctions; said; a transport official)
+0.93 (heavy density corridors like GB; see; frequent accidents)
+
+-----------.
+
+The city has witnessed nearly 4,400 accidents since 2014 of and nearly 800 proved fatal.
+0.90 (The city; has witnessed; nearly 4,400 accidents; T:since nearly 800 proved fatal)
+1.00 (The city; has witnessed; nearly 4400 accidents)
+0.90 (The city; has witnessed; nearly 4,400 accidents; T:since 2014 of)
+
+-----------.
+
+============.
+
+Five youths died when their SUV dashed against a stationary truck from behind near Mahadevsthan on NH-30 under Maner police station area in Patna district around 2.20am on Tuesday.
+0.74 (their SUV; dashed; T:on NH-30; L:under Maner police station area in Patna district around 2.20am on Tuesday)
+0.91 (Five youths; died; T:when their SUV dashed against a stationary truck from behind near Mahadevsthan on NH-30 under Maner police station area in Patna district around 2.20am on Tuesday)
+
+-----------.
+
+The deceased were identified as Sharwan Kumar, Pappu Kumar, Rajesh Kumar, Ankush Kumar and Nitesh Kumar, all in their early 20s.
+0.42 (The deceased; were identified; as all; L:in their early 20s)
+0.61 (The deceased; were identified; as Nitesh Kumar)
+0.61 (The deceased; were identified; as Ankush Kumar)
+0.61 (The deceased; were identified; as Rajesh Kumar)
+0.61 (The deceased; were identified; as Pappu Kumar)
+0.61 (The deceased; were identified; as Sharwan Kumar)
+
+-----------.
+
+The SUV driver, Mukesh Kumar, managed to survive and fled the spot.
+0.95 (The SUV driver; fled; the spot)
+0.38 (Mukesh Kumar; [is] driver [of]; SUV)
+0.73 Context(The SUV driver managed,List([0, 39))):(The SUV driver; managed to survive to survive; )
+0.77 (The SUV driver; managed; to survive)
+
+-----------.
+
+Ankush was native of Sahalichak while the other four belonged to Bhagu Tola under Maner police station area.
+0.88 (Ankush; was native of; Sahalichak)
+0.58 Context(the other four belonged,List([38, 61))):(the other four; belonged to Bhagu; Tola; L:under Maner police station area)
+0.58 (the other four; belonged; to Bhagu Tola under Maner police station area)
+0.97 (Ankush; was; native of Sahalichak; T:while the other four belonged to Bhagu Tola under Maner police station area)
+
+-----------.
+
+Maner SHO Rajeev Kumar said the five along with a driver had gone to Moudehi near Bihta to attend the marriage ceremony of one Nagendra Rai and were returning home when the accident took place.“The
+0.93 Context(Maner SHO Rajeev Kumar said,List([0, 27))):(the five along with a driver; had gone; to Moudehi near Bihta; to attend the marriage ceremony)
+0.90 (the accident; took; place)
+0.92 (the five along with a driver; to attend; the marriage ceremony)
+0.93 Context(Maner SHO Rajeev Kumar said,List([0, 27))):(the five along with a driver; had gone; to Moudehi near Bihta; to attend the marriage ceremony of one Nagendra Rai)
+0.92 (Maner SHO Rajeev Kumar; said; the five along with a driver had gone to Moudehi near Bihta)
+0.93 (the five along with a driver; to attend; the marriage ceremony of one Nagendra Rai)
+
+road curves near the accident site and it seems the SUV driver dozed off behind the wheel,” the SHO said, adding that Sharwan, Pappu and Rajesh died on the spot while Ankush and Nitesh were rushed to a private hospital in police vehicle but succumbed to their injuries on the way.
+0.94 Context(it seems the SUV driver dozed off behind the wheel the SHO said adding,List([0, 76))):(Rajesh; died; L:on the spot; T:while Nitesh were rushed to a private hospital in police vehicle)
+0.94 Context(it seems the SUV driver dozed off behind the wheel the SHO said adding,List([0, 76))):(Rajesh; died; L:on the spot; T:while Ankush were rushed to a private hospital in police vehicle)
+0.94 Context(it seems the SUV driver dozed off behind the wheel the SHO said adding,List([0, 76))):(Pappu; died; L:on the spot; T:while Nitesh were rushed to a private hospital in police vehicle)
+0.94 Context(it seems the SUV driver dozed off behind the wheel the SHO said adding,List([0, 76))):(Pappu; died; L:on the spot; T:while Ankush were rushed to a private hospital in police vehicle)
+0.94 Context(it seems the SUV driver dozed off behind the wheel the SHO said adding,List([0, 76))):(Sharwan; died; L:on the spot; T:while Nitesh were rushed to a private hospital in police vehicle)
+0.92 (Nitesh; were rushed; to a private hospital in police vehicle)
+0.94 Context(it seems the SUV driver dozed off behind the wheel the SHO said adding,List([0, 76))):(Sharwan; died; L:on the spot; T:while Ankush were rushed to a private hospital in police vehicle)
+0.92 (Ankush; were rushed; to a private hospital in police vehicle)
+0.90 Context(it seems the SUV driver dozed off behind the wheel the SHO said adding,List([0, 76))):(Rajesh; died; L:on the spot)
+0.78 Context(it seems the SUV driver dozed off behind the wheel said,List([0, 67))):(the SHO; adding; that Rajesh died on the spot)
+0.90 Context(it seems the SUV driver dozed off behind the wheel the SHO said adding,List([0, 76))):(Pappu; died; L:on the spot)
+0.78 Context(it seems the SUV driver dozed off behind the wheel said,List([0, 67))):(the SHO; adding; that Pappu died on the spot)
+0.90 Context(it seems the SUV driver dozed off behind the wheel the SHO said adding,List([0, 76))):(Sharwan; died; L:on the spot)
+0.78 Context(it seems the SUV driver dozed off behind the wheel said,List([0, 67))):(the SHO; adding; that Sharwan died on the spot)
+0.88 (it seems the SUV driver dozed off behind the wheel; said; the SHO)
+0.83 (the spot; succumbed; to their injuries)
+
+-----------.
+
+The locals told the police that the driver was also injured, but escaped.
+0.73 (The locals; escaped; )
+0.73 (the driver; was also injured; )
+0.82 (The locals; told; the police that the driver was also injured)
+
+-----------.
+
+The SHO said the SUV belonged to Ankush’s father Ram Suresh Rai.
+0.38 (Ram Suresh Rai; [is] father [of]; Ankush)
+0.92 Context(The SHO said,List([0, 12))):(the SUV; belonged; to Ankush's father)
+0.92 (The SHO; said; the SUV belonged to Ankush's father)
+
+-----------.
+
+He said the impact of the collision could be measured from the fact that a crane was used to lift the truck and a heavy earthmover pulled the mangled SUV out of the truck.
+0.91 (a heavy earthmover; pulled; the mangled SUV; out of the truck)
+0.93 (a crane; to lift; a heavy earthmover pulled the mangled SUV out of the truck)
+0.90 (a crane; was used; to lift a heavy earthmover)
+0.85 Context(He said,List([0, 7))):(the impact of the collision; could be measured; from the fact that a crane was used to lift a heavy earthmover)
+0.28 (He; said; the impact of the collision could be measured from the fact that a crane was used to lift a heavy earthmover)
+0.85 Context(He said,List([0, 7))):(the impact of the collision; could be measured; from the fact that a crane was used to lift the truck)
+0.28 (He; said; the impact of the collision could be measured from the fact that a crane was used to lift the truck)
+0.89 (a crane; to lift; the truck)
+0.90 (a crane; was used; to lift the truck)
+
+-----------.
+
+The bodies were handed over to the family members after postmortem at Danapur subdivisional hospital.
+0.90 (The bodies; after postmortem; L:at Danapur subdivisional hospital)
+0.92 (The bodies; were handed over; to the family members; T:after postmortem at Danapur subdivisional hospital)
+
+-----------.
+
+============.
+
+A 27-year-old man died after being run over by a truck near Ramapir Crossroads on 150-feet Ring Road, on Tuesday afternoon.
+0.97 (A 27-year-old man; died; T:after being run over by a truck near Ramapir Crossroads on 150-feet Ring Road, on Tuesday afternoon)
+
+-----------.
+
+The deceased was identified as Dinesh Chagan Parmar, a resident of Dudhala village in Una taluka of Gir-Somnath district.
+0.38 (Dinesh Chagan Parmar; [is] a resident of; Dudhala village)
+0.61 (The deceased; was identified; as Dinesh Chagan Parmar)
+
+-----------.
+
+According to police, when Parmar was riding his motorcycle on 150-feet Ring Road, an autorickshaw hit him and he fell on the road.
+0.52 (he; fell; on the road)
+0.96 (an autorickshaw; hit; him; T:when Parmar was riding his motorcycle on 150 - feet Ring Road)
+0.88 (Parmar; was riding; his motorcycle; L:on 150 - feet Ring Road)
+
+-----------.
+
+His head got crushed under the truck coming from behind.
+0.77 (the truck; coming; from behind)
+0.64 (His head; got crushed; L:under the truck)
+0.70 (His head; got; crushed under the truck)
+
+-----------.
+
+Police said that Parmar was a resident of MG Hostel in the city and pursuing a Master of Social Welfare course at Harivandana College.
+0.92 Context(Police said,List([0, 11))):(Parmar; was pursuing; a Master of Social Welfare course at Harivandana College)
+0.83 (Police; said; that Parmar was pursuing a Master of Social Welfare course at Harivandana College)
+0.38 (Parmar; was a resident of; MG Hostel)
+0.94 Context(Police said,List([0, 11))):(Parmar; was; a resident of MG Hostel in the city)
+0.83 (Police; said; that Parmar was a resident of MG Hostel in the city)
+
+-----------.
+
+He also worked part time at a shop to pay for his studies.
+0.16 Context(He worked,List([0, 14))):(He; worked part time to pay; for his studies)
+0.23 (He; worked; part time; L:at a shop; to pay for his studies)
+
+-----------.
+
+============.
+
+Ten people, including two children, sustained injuries when a tempo in which they were travelling overturned at Sachin GIDC crossroad at 8 pm on Monday.
+0.99 (ten people; sustained; injuries when a tempo in which they were travelling overturned at Sachin GIDC crossroad at 8 pm on Monday)
+0.87 (a tempo in which they were travelling overturned at Sachin GIDC; crossroad; T:at 8 pm; T:on Monday)
+0.77 (they; were travelling overturned; L:at Sachin GIDC; L:a tempo)
+0.92 (Ten people, including two children; sustained; injuries when a tempo in which they were travelling overturned at Sachin GIDC crossroad at 8 pm on Monday)
+
+-----------.
+
+All were rushed to News Civil Hospital (NCH) for treatment where condition of one is stated to be serious.
+0.75 (condition of one; to be; serious)
+0.75 (condition of one; is stated; )
+0.43 (All; were rushed; to News Civil Hospital; for treatment)
+
+-----------.
+
+According to information received from NCH, a group of labourers living near Udhna Jivan Jyot theatre were returning from work at a construction site at Sachin GIDC in a tempo on Monday.
+0.91 (labourers; living; L:near Udhna Jivan Jyot theatre)
+0.91 (information; received; from NCH)
+
+-----------.
+
+The tempo had a flat tyre near Sachin GIDC and as a result the vehicle overturned resulting in injuries to all who were in the back of the vehicle.
+0.34 (all; were; in the back of the vehicle)
+0.89 (the vehicle; resulting; in injuries to all)
+0.90 (the vehicle; overturned; resulting in injuries to all)
+0.94 (The tempo; had; a flat tyre near Sachin GIDC)
+
+-----------.
+
+============.
+
+Ten people, including two children, sustained injuries when a tempo in which they were travelling overturned at Sachin GIDC crossroad at 8 pm on Monday.
+0.99 (ten people; sustained; injuries when a tempo in which they were travelling overturned at Sachin GIDC crossroad at 8 pm on Monday)
+0.87 (a tempo in which they were travelling overturned at Sachin GIDC; crossroad; T:at 8 pm; T:on Monday)
+0.77 (they; were travelling overturned; L:at Sachin GIDC; L:a tempo)
+0.92 (Ten people, including two children; sustained; injuries when a tempo in which they were travelling overturned at Sachin GIDC crossroad at 8 pm on Monday)
+
+-----------.
+
+All were rushed to News Civil Hospital (NCH) for treatment where condition of one is stated to be serious.
+0.75 (condition of one; to be; serious)
+0.75 (condition of one; is stated; )
+0.43 (All; were rushed; to News Civil Hospital; for treatment)
+
+-----------.
+
+According to information received from NCH, a group of labourers living near Udhna Jivan Jyot theatre were returning from work at a construction site at Sachin GIDC in a tempo on Monday.
+0.91 (labourers; living; L:near Udhna Jivan Jyot theatre)
+0.91 (information; received; from NCH)
+
+-----------.
+
+The tempo had a flat tyre near Sachin GIDC and as a result the vehicle overturned resulting in injuries to all who were in the back of the vehicle.
+0.34 (all; were; in the back of the vehicle)
+0.89 (the vehicle; resulting; in injuries to all)
+0.90 (the vehicle; overturned; resulting in injuries to all)
+0.94 (The tempo; had; a flat tyre near Sachin GIDC)
 
 -----------.
 

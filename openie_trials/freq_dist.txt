@@ -5,7 +5,7 @@
 49 ram
 33 travel
 25 say
-25 take
+25 take -- removed
 23 occur
 22 suffer
 18 overturn
@@ -18,18 +18,18 @@
 10 lose
 9 happen
 9 run
-9 head
+9 head -- till here(included)
 8 come
 7 rid
 6 identify
-6 turn
+6 turn -- 
 6 meet
 6 plunge
 6 drive
 5 go
 5 leave
-5 crush
-5 succumb
+5 crush --
+5 succumb --
 5 end
 5 mow
 4 skid
@@ -48,7 +48,7 @@
 2 before
 2 decide
 2 report
-2 smash
+2 smash --
 2 orphan
 2 try
 2 cause
