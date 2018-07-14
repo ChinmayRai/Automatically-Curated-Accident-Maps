@@ -3,15 +3,18 @@ from root_verb_extractor import extract
 
 # returns true if there are common elements in the 2 lists
 def intersection(l1,l2):
+	intersection=[]
 	for i in l1:
 		if(i in l2):
-			return True
+			# return True
+			intersection.append(i)
 
-	return False
+	# return False
+	return intersection
 
 
-
-file_object = open(r"july_sent_output.txt","r")
+file_object = open(r"5day_5articles/july_sent_output.txt","r")
+# file_object = open(r"full_july/july_openie_output.txt","r")
 # month = file_object.read()
 # month = json.loads(month)
 
@@ -31,7 +34,9 @@ for line in lines:
 		if(len(sentence)>0):
 			rootVerbs = extract(sentence)
 
-			if(intersection(rootVerbs,keyVerbs)):
+			inter=intersection(rootVerbs,keyVerbs)
+			if(len(inter)>0):
+				sentence.append(inter)
 				article.append(sentence)
 
 			# for verb in rootVerbs:
@@ -52,5 +57,5 @@ for line in lines:
 		sentence.append(line)
 
 
-with open('july_sent_selected.json', 'w+') as outfile:
+with open('5day_5articles/july_sent_selected1.json', 'w+') as outfile:
     json.dump(month, outfile)

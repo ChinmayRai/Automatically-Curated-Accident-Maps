@@ -1,14 +1,13 @@
 # SURA
 
-TO DOs- 8/7:
-1) 
+TO DO: 14/7 - Complete Sentence Selection and automated pipeline
+	Samarth - 3 list model for sentence classification
+	Chinmay - automate openie by Popen
 
 
-3/7:
+Postponed:
 	Samarth - 	2) run openNLP chunker, dont spend a lot of time
-				1) Google NLP on local machine - VV imp - first priority
 				3) try running GeoParsePy - no zada matha pachi
-
 	Chinmay - 1) Read about text mining
 
 
