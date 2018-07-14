@@ -1,19 +1,37 @@
-from subprocess import PIPE, Popen
+from subprocess import call,PIPE, Popen
 
-p=Popen(['java','c'],stdin=PIPE)
+call(["g++","a.cpp"])
+p=Popen(['./a.out'],stdin=PIPE,stdout=PIPE)
+
+for i in range(30):
+	# print str(i)
+	print p.stdin.write(str(i))
+	# print p.stdout.readline()
+
+print p.communicate("-1")
+
+# print p.stdin.write("-1")
+# print p.stdout.readline()
+
+# p=Popen(['java','c'],stdin=PIPE)
 # print "called"
 
 # subprocess.call(['java','-Xmx10g','-XX:+UseConcMarkSweepGC','-jar', 'openie-assembly-5.0-SNAPSHOT.jar'])
+
 # Popen(['g++','a.cpp'])
-# p=Popen(['./','a.out'],stdin=PIPE,stdout=PIPE)
+# p=Popen(['./a.out'],stdin=PIPE,stdout=PIPE)
+
+# p=Popen(['python','b.py'])
 
 # for i in range(10):
-p.stdin.write("qwe")
+# p.stdin.write("qwe")
 	# print p.stdout.readline()
 
 # p.stdin.write("-1")
-# print "done dona done"
 
+# print "ending c program now"
+# p.stdin.write("^C")
+# print "done dona done"
 
 #import os
 
