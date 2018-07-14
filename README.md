@@ -31,7 +31,10 @@ Negative Examples(May 2017):
 10. HC raises relief to family of Vizag accident victim
 11. Drunk crane driver falls into nala, dies
 12. Chemical accident: 1 dead, 4 critical
-13.
+13. Woman delivers healthy child after car crash left her limbs paralysed
+14. Road cutting turns Kanpur Road into a stretch of pits
+15. Coconut tree crashes into home, injures old lady
+16. Hurt in bus shelter crash month before exam, she scores
 
 	
 Postponed for fine-tuning afterwards:
