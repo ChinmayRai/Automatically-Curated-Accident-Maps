@@ -13,7 +13,7 @@ def freq_dist(samples):
 
 
 # file_object = open(r"out.txt","r")
-file_object = open(r"july_openie_output.txt","r")
+file_object = open(r"july_sent_output.txt","r")
 # month = file_object.read()
 # month = json.loads(month)
 
