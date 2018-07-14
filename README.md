@@ -2,8 +2,9 @@
 
 TO DO: 14/7 - Complete Sentence Selection and automated pipeline
 
-
 	Samarth - 3 list model for sentence classification
+			-  ." to . " in sent_tokeniser
+
 	Chinmay - automate openie by Popen
 
 
