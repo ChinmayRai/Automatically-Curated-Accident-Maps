@@ -2,5 +2,5 @@ from time import sleep
 
 print "hello"
 
-sleep(1)
+sleep(3)
 print "yo"

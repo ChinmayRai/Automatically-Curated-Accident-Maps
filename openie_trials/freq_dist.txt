@@ -14,7 +14,7 @@
 13 collide
 12 return
 11 sustain
-11 carry
+11 carry -- removed
 10 lose
 9 happen
 9 run
@@ -24,15 +24,15 @@
 6 identify
 6 turn -- 
 6 meet
-6 plunge
+6 plunge --
 6 drive
 5 go
 5 leave
 5 crush --
 5 succumb --
 5 end
-5 mow
-4 skid
+5 mow --
+4 skid --
 4 receive
 4 park
 3 knock
@@ -58,12 +58,12 @@
 2 shift
 2 road
 2 walk
-2 tumble
+2 tumble --
 2 engulf
 2 in
 2 cross
 2 drag
-2 topple
+2 topple --
 2 land
 1 belong
 1 damage
@@ -91,7 +91,7 @@
 1 pelt
 1 torch
 1 play
-1 plough
+1 plough --
 1 result
 1 escape
 1 fail
@@ -116,18 +116,18 @@
 1 set
 1 three-wheeler
 1 spark
-1 plow
+1 plow --
 1 visit
 1 spiral
 1 submit
 1 start
-1 cram
+1 cram --
 1 attach
 1 buy
 1 offer
 1 bus
 1 hotel
-1 hurt
+1 hurt --
 1 hear
 1 sleep
 1 entangle

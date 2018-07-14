@@ -1,0 +1,39 @@
+1st list :
+
+	kill
+	injure
+	die
+	hit
+	ram
+	occur
+	overturn
+	crash
+	fell
+	collide
+	happen
+	run
+	plunge
+	crush
+	mow
+	skid
+	knock
+	smash
+	tumble
+	topple
+	turn
+	plough
+	plow
+	cram
+	hurt
+
+2nd list :
+	suffer
+	sustain
+	lose
+	succumb
+
+
+3rd list :
+	say
+	travel
+	head
