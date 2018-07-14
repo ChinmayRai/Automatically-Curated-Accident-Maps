@@ -36,7 +36,7 @@ for line in lines:
 
 			inter=intersection(rootVerbs,keyVerbs)
 			if(len(inter)>0):
-				sentence.append(inter)
+				sentence.append(inter)	# appending the intersection verbs with the sentence
 				article.append(sentence)
 
 			# for verb in rootVerbs:
