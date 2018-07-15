@@ -1,4 +1,4 @@
-crush,hit,ram,plunge,cram,collide,overturn,knock down,plough,mow,smash,ron over, fell off|into, roll down, tumble, topple
+crush,hit,ram,plunge,cram,collide,overtakingurn,knock down,plough,mow,smash,ron over, fell off|into, roll down, tumble, topple
 "hit;(VEHICLE);L/T"
 "ram ((into); VEHICLE;L/T)"
 plunge
@@ -30,7 +30,7 @@ whenever there are two clauses seperated by comma before the first semi-colon, i
 Always search L clauses for T information and Vice versa.
 Run IE on clause following "when"/"after"
 L clause starting with "around" may be T clauses actually
-"the VEHICLE they were on/they were travelling in/in which they were travelling VERB" : remove the relative clause then process
+"in which (they|the victims) were travelling/they were on/they were travelling in VERB" : remove the relative clause then process
 L/T info may be present in third clause of triple whose firstt clause is X, where (;*verb_indicates_accident*;X) is a triple
 
 
