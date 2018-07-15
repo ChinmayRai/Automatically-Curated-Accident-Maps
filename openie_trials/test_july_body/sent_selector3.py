@@ -35,7 +35,7 @@ score2 = 2
 keyVerbs3 = ["say","travel","head","succumb"]
 score3 = 1
 
-maxSentFromArticle = 2
+maxSentFromArticle = 3
 sentence=[]
 score=[]
 article=[]
