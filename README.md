@@ -5,8 +5,6 @@ TO DO: 14/7 - Complete Sentence Selection and automated pipeline
 			- adding list 0 containing only kill, die, injure
 			- shuffling verbs amongst lists
 			
-2) ." to . " in sent_tokeniser
-
 3) start extracting loc, time, casualities from selected lists
 	
 

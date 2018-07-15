@@ -14,6 +14,7 @@ import json
 # 	print i
 
 
+# file_object = open(r"t1.json","r")
 file_object = open(r"t1.json","r")
 month = file_object.read()
 month = json.loads(month)
