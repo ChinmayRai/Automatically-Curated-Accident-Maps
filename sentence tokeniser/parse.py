@@ -8,7 +8,7 @@ def add_spaces(s):
 	# count=0	#to track how many spaces have been added
 	for i in range(l):
 		s2+=s[i];
-		if(i<l-1 and s[i]=='.' and ord(s[i+1])>=65 and ord(s[i+1])<=90 ):
+		if(i<l-1 and s[i]=='.' and ( (ord(s[i+1])>=65 and ord(s[i+1])<=90) or ord(s[i+1])==34 ) ):
 			s2+=" "
 			# count+=1
 

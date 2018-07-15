@@ -1,16 +1,20 @@
 # SURA
 
 TO DO: 14/7 - Complete Sentence Selection and automated pipeline
+1) Exp with - diff weights of lists
+			- adding list 0 containing only kill, die, injure
+			- shuffling verbs amongst lists
 
+3) start extracting loc, time, casualities from selected lists
+	
 
-	Samarth - 3 list model for sentence classification
-	Chinmay - automate openie by Popen
-
+	
 
 Postponed:
-	Samarth - 	2) run openNLP chunker, dont spend a lot of time
-				3) try running GeoParsePy - no zada matha pachi
-	Chinmay - 1) Read about text mining
+1) run openNLP chunker, dont spend a lot of time
+2) try running GeoParsePy - no zada matha pachi
+3) Read about text mining
+4) automate openie by Popen
 
 
 how to filter out sentences on which to run NER - summarization tools filter out sentences containing facts
