@@ -7,6 +7,8 @@ TO DO: 15/7 - Complete Sentence Selection and automated pipeline
 
 3) start extracting loc, time, casualities from selected lists
 	
+MESSAGE TO CHINMAY - 15/7:
+cleaner removes redundant phrases from openie_input, this improves the performance of openie. sent_to_openie updated to use cleaner. openie_input for all months is now updated but the new outputs are not processed yet. For july2017, july_openie_input.txt contains old input and july_sent.txt contains new input. Here both the files have been left for comparison of the new sent_to_openie.py from its older version. 
 
 Postponed:
 1) run openNLP chunker, dont spend a lot of time
