@@ -26,13 +26,13 @@ file_object.close()
 
 # keyVerbs = ["kill","injure","die","hit","ram","travel","say","occur","suffer","overturn","crash","fell","collide","return","sustain","carry","lose","happen","run","head","turn","crush","succumb","smash"]
 
-keyVerbs1 = ["kill","injure","die","hit","ram","occur","overturn","crash","fell","collide","happen","run","plunge","crush","mow","skid","knock","smash","tumble","topple","turn","plough","plow","cram","hurt"]
+keyVerbs1 = ["kill","injure","die","hit","ram","occur","dash","overturn","crash","fell","fall","collide","happen","run","plunge","crush","mow","skid","knock","smash","tumble","topple","turn","plough","plow","cram","hurt"]
 score1 = 3
 
-keyVerbs2 = ["suffer","sustain","lose","succumb"]
+keyVerbs2 = ["suffer","sustain","lose","end"]
 score2 = 2
 
-keyVerbs3 = ["say","travel","head"]
+keyVerbs3 = ["say","travel","head","succumb"]
 score3 = 1
 
 maxSentFromArticle = 2
@@ -56,8 +56,9 @@ for line in lines:
 			currScore += len(inter1)*score1
 			currScore += len(inter2)*score2
 			currScore += len(inter3)*score3
-			if(len(rootVerbs)):
-				currScore /= len(rootVerbs)
+			l=len(inter1)+len(inter2)+len(inter3)
+			if(l):
+				currScore /= l
 
 			score.append(currScore)
 

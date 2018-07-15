@@ -1,4 +1,4 @@
-crush
+crush,hit,ram,plunge,cram,collide,overturn,knock down,plough,mow,smash,ron over, fell off|into, roll down, tumble, topple
 "hit;(VEHICLE);L/T"
 "ram ((into); VEHICLE;L/T)"
 plunge
@@ -20,24 +20,30 @@ smash
 "(vehicle) overtaking" : accident probably happened while overtaking
 "before falling" : third clause is an important locational feature 
 "(VEHICLE) turned turtle" : (replace "turned turtle" with tummbled) 
+"(incident) took place/occured/happened " : Third clause has usefu info.
 
-"hit-and-run (over)"
-"Hit-and-run (case)/hit-run (crash)"
+
 "said........." : remove this part as it is not important
-"got engulfed in fire"
-"hurt"
 If repLoc is located outside India then ignore article.
 whenever there are two clauses seperated by comma before the first semi-colon, it means that subject has a relative clause with itself.
-" were/are battling; for life" : no. of injured 
-"wee hours of DAY/DAY wee hours" : info about accident happening early on on that date
 "seperate/another/different road accident" : Needs special processing as it contains info of more than one accidents
-"near","at": strong indicators of following locational information
-"near XYZ about N kms from ABC"
 Always search L clauses for T information and Vice versa.
 Run IE on clause following "when"/"after"
 L clause starting with "around" may be T clauses actually
-Use date time extractor for date/time
-"hit" : if preceeded by a animate object then indicates casualty, else indicates vehicle involved in collision
+"the VEHICLE they were on/they were travelling in/in which they were travelling VERB" : remove the relative clause then process
+L/T info may be present in third clause of triple whose firstt clause is X, where (;*verb_indicates_accident*;X) is a triple
+
+
+
+
+"hit-and-run (over)"
+"Hit-and-run (case)/hit-run (crash)"
+"got engulfed in fire"
+
+
+
+
+" were/are battling; for life" : no. of injured 
 "lost;(her/his life)",died","killed" :first clause gives no. of casualty, third clause may give context/time/place
 "(critically/grieviously)injured" : No. of injured
 "escaped;( with minor injuries;)"
@@ -45,23 +51,25 @@ Use date time extractor for date/time
 "killing/injuring" : casualty in 3rd clause
 "Suffered (injuries)";"Sustained (injuries)" : No. of injured in first clause
 "Suffered ((critical/severe)injuries)/Sustained ((critical/severe)injuries) ....when" : useful info in 3rd clause
-"(incident) took place/occured/happened " : Third clause has usefu info.
-"received (serious/grievious injuries)"
-"Celebrations/Wedding turned into Mourning/tragedy when:"
-"land-ing/-ed (in hospital): L/T"
-"ended (abruptly/tragically)"
-"headed towards": destination
-"met(with an accident)"
-"near XYZ place (on NH-dd/National Highway/AB-CD highway)"
+"received (serious/grievious injuries)","hurt"
 "succumbed to his/her injuries"
+
+
+
+"near","at": strong indicators of following locational information
+"near XYZ about N kms from ABC"
+"near XYZ place (on NH-dd/National Highway/AB-CD highway)"
 "when a *VEHICLE* Event_verB into/over *VEHICLE/PERSON* (on/near/in)"
 "near ....... district,during ........ DAY"
 "on LOCATION on TIME."
 "(near LOCATION)^n on TIME."
-"the VEHICLE they were on/they were travelling in/in which they were travelling VERB" : remove the relative clause then process
-L/T info may be present in third clause of triple whose firstt clause is X, where (;*verb_indicates_accident*;X) is a triple
 
 
+
+
+
+"(******;took;place;********)"
+"(******;met;with.....;*****)"
 
 
 
@@ -77,6 +85,7 @@ late on DAY
 (early on)DAY morning
 (late on)DAY night
 DAY afternoon
+"wee hours of DAY/DAY wee hours" : info about accident happening early on on that date
 
 DAY: monday/tuesday/wednesday/thursday/friday/saturday/sunday
 on MONTH DATE
