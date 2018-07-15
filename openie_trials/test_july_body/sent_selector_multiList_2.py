@@ -97,13 +97,20 @@ for line in lines:
 		article=[]
 		selectedSentences=[]
 		score=[]
+		# should not be reqd but adding it as sometimes openIE output is not as expected.
+		sentence=[]
 	elif(line[0]=='+'):
 		month.append(day)
 		day=[]
+		# should not be reqd but adding it as sometimes openIE output is not as expected.
+		article=[]
+		sentence=[]
+		selectedSentences=[]
+		score=[]
 
 	elif(line[0]!='\n'):
 		sentence.append(line)
 
 
-with open('5day_5articles/july_sent_selected_multiList_2.json', 'w+') as outfile:
+with open('5day_5articles/july_sent_selected_multiList_3.json', 'w+') as outfile:
     json.dump(month, outfile)

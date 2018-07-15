@@ -1,13 +1,11 @@
 # SURA
 
-TO DO: 14/7 - Complete Sentence Selection and automated pipeline
+TO DO: 15/7 - Complete Sentence Selection and automated pipeline
 1) Exp with - diff weights of lists
 			- adding list 0 containing only kill, die, injure
 			- shuffling verbs amongst lists
 
 3) start extracting loc, time, casualities from selected lists
-	
-
 	
 
 Postponed:
