@@ -1,6 +1,6 @@
 import json
 
-file_object = open(r"july2017/july_2017_sent_token.json","r")
+file_object = open(r"may2017/may_2017_sent_token.json","r")
 month = file_object.read()
 month = json.loads(month)
 file_object.close()
@@ -19,7 +19,7 @@ output+=" //////////////. "				# month end
 output = output.encode('utf-8')
 
 # print output
-file_object = open(r"july2017/july_sent.txt","w")
+file_object = open(r"may2017/may_sent.txt","w")
 file_object.write(output)
 file_object.close()
 
