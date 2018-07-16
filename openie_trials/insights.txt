@@ -28,9 +28,9 @@ If repLoc is located outside India then ignore article.
 whenever there are two clauses seperated by comma before the first semi-colon, it means that subject has a relative clause with itself.
 "seperate/another/different road accident" : Needs special processing as it contains info of more than one accidents
 Always search L clauses for T information and Vice versa.
-Run IE on clause following "when"/"after"
+---------------------Run IE on clause following "when"/"after"
 L clause starting with "around" may be T clauses actually
-"in which (they|the victims) were travelling/they were on/they were travelling in VERB" : remove the relative clause then process
+-----------------"in which (they|the victims) were travelling/they were on/they were travelling in VERB" : remove the relative clause then process
 L/T info may be present in third clause of triple whose firstt clause is X, where (;*verb_indicates_accident*;X) is a triple
 
 
