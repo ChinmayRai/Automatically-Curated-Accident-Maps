@@ -46,7 +46,7 @@ def get_tuple(s):
 
 
 # file_object = open(r"5day_5articles/july_sent_output.txt","r")
-file_object = open(r"july2017/july_openie_output.txt","r")
+file_object = open(r"may2017/may_openie_output.txt","r")
 # month = file_object.read()
 # month = json.loads(month)
 
@@ -145,5 +145,5 @@ for line in lines:
 		sentence.append(line)
 
 
-with open('july2017/july_sent_selected.json', 'w+') as outfile:
+with open('may2017/may_sent_selected.json', 'w+') as outfile:
     json.dump(month, outfile)
