@@ -91,8 +91,8 @@ def root_verbs(sentence):
 
 
 
-file_object = open(r"5day_5articles/july_sent_output.txt","r")
-# file_object = open(r"july2017/july_IE_output.txt","r")
+# file_object = open(r"5day_5articles/july_sent_output.txt","r"))
+file_object = open(r"july2017/july_IE_output.txt","r")
 # month = file_object.read()
 # month = json.loads(month)
 
@@ -154,6 +154,15 @@ for line in lines:
 				score.append(currScore)
 
 			# sentence.append(rootVerbs)
+			for i in range(len(sentence)):
+				for cl in sentence[i]:
+					d=dict()
+					d['tuple']=tup
+					if(cl[:2]=="L:"):
+						d['L']=cl[2:]
+					if(cl[:2]=="T:"):
+						d['T']=cl[2:]
+					sentence[i]=d
 			article.append(sentence)
 			sentence=[]
 
@@ -194,10 +203,11 @@ for line in lines:
 		if(tup!=False and tup[1][0]!='['):
 			sentence.append(tup)
 
-file_object = open("5day_5articles/july_sent_selected.txt","w")
+# FOR TXT OUTPUT
+file_object = open("july2017/july_sent_selected.txt","w")
 file_object.close()
 
-file_object = open("5day_5articles/july_sent_selected.txt","a")
+file_object = open("july2017/july_sent_selected.txt","a")
 for day in month:
 	for article in day:
 		for sentence in article:
@@ -208,6 +218,8 @@ for day in month:
 file_object.write("++++++++++++++++++++++++\n")
 file_object.close()
 
+
+# FOR JSON OUTPUT
 # with open('july2017/july_sent_selected.json', 'w+') as outfile:
-# with open('5day_5articles/july_sent_selected.json', 'w+') as outfile:
-#     json.dump(month, outfile)
+with open('july2017/july_sent_selected.json', 'w+') as outfile:
+    json.dump(month, outfile)
