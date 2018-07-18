@@ -1,0 +1,1000 @@
+[('he', 'was travelling', 'in crashed into the barricades along BRTS (Bus Rapid Transit System) route in Akurdi'), ('Ashok Kondiba Thakur', 'was killed', 'T:after the car')]
+
+[{'tuple': ('he', 'was travelling', 'in crashed into the barricades along BRTS (Bus Rapid Transit System) route in Akurdi')}, {'T': 'after the car', 'tuple': ('Ashok Kondiba Thakur', 'was killed', 'T:after the car')}]
+============
+[('Car driver Yogesh Surve ( 29 ) of Bopodi', 'was arrested', 'by the Nigdi police on charges of rash driving'), ('Car driver Yogesh Surve ( 29 ) of Bopodi', 'was produced', 'L:in the court', 'T:on Friday'), ('Car driver Yogesh Surve ( 29 ) of Bopodi', 'was arrested', 'by the Nigdi police on charges of drunk driving')]
+
+[{'tuple': ('Car driver Yogesh Surve ( 29 ) of Bopodi', 'was arrested', 'by the Nigdi police on charges of rash driving')}, {'L': 'in the court', 'T': 'on Friday', 'tuple': ('Car driver Yogesh Surve ( 29 ) of Bopodi', 'was produced', 'L:in the court', 'T:on Friday')}, {'tuple': ('Car driver Yogesh Surve ( 29 ) of Bopodi', 'was arrested', 'by the Nigdi police on charges of drunk driving')}]
+============
+[('Surve', 'was released', 'T:later')]
+
+[{'T': 'later', 'tuple': ('Surve', 'was released', 'T:later')}]
+============
+[('Surve', 'are', 'neighbours'), ('Assistant inspector G B Kharage of Nigdi police', 'told', 'TOI', 'that Surve are neighbours'), ('Thakur', 'are', 'neighbours'), ('Assistant inspector G B Kharage of Nigdi police', 'told', 'TOI', 'that Thakur are neighbours')]
+
+[{'tuple': ('Surve', 'are', 'neighbours')}, {'tuple': ('Assistant inspector G B Kharage of Nigdi police', 'told', 'TOI', 'that Surve are neighbours')}, {'tuple': ('Thakur', 'are', 'neighbours')}, {'tuple': ('Assistant inspector G B Kharage of Nigdi police', 'told', 'TOI', 'that Thakur are neighbours')}]
+============
+[('both of them', 'had gone out', 'for dinner to a restaurant near Bhaki-Shakti Chowk', 'T:On Wednesday night')]
+
+[{'T': 'On Wednesday night', 'tuple': ('both of them', 'had gone out', 'for dinner to a restaurant near Bhaki-Shakti Chowk', 'T:On Wednesday night')}]
+============
+[('Surve', 'tried to enter', 'the BRTS route'), ('Surve', 'tried', 'to enter the BRTS route', 'T:On their way back while travelling through the service road along the Pune-Mumbai highway')]
+
+[{'tuple': ('Surve', 'tried to enter', 'the BRTS route')}, {'T': 'On their way back while travelling through the service road along the Pune-Mumbai highway', 'tuple': ('Surve', 'tried', 'to enter the BRTS route', 'T:On their way back while travelling through the service road along the Pune-Mumbai highway')}]
+============
+[('He', 'failed', 'to notice the barricades or the blinkers'), ('He, however, failed to notice the barricades or the blinkers and crashed into them', 'said', 'Kharage'), ('He', 'crashed', 'into them'), ('He', 'to notice', 'the barricades or the blinkers')]
+
+[{'tuple': ('He', 'failed', 'to notice the barricades or the blinkers')}, {'tuple': ('He, however, failed to notice the barricades or the blinkers and crashed into them', 'said', 'Kharage')}, {'tuple': ('He', 'crashed', 'into them')}, {'tuple': ('He', 'to notice', 'the barricades or the blinkers')}]
+============
+[('Thakur', 'was rushed', 'to the Yashwantrao Chavan Memorial Hospital in Pimpri'), ('Thakur, who was severely injured in the accident, was rushed to the Yashwantrao Chavan Memorial Hospital in Pimpri', 'said', 'Kharage'), ('Thakur', 'was severely injured', 'L:in the accident')]
+
+[{'tuple': ('Thakur', 'was rushed', 'to the Yashwantrao Chavan Memorial Hospital in Pimpri')}, {'tuple': ('Thakur, who was severely injured in the accident, was rushed to the Yashwantrao Chavan Memorial Hospital in Pimpri', 'said', 'Kharage')}, {'L': 'in the accident', 'tuple': ('Thakur', 'was severely injured', 'L:in the accident')}]
+============
+[('Rajesh Bhalchandra Chakare', 'sustained', 'minor injuries')]
+
+[{'tuple': ('Rajesh Bhalchandra Chakare', 'sustained', 'minor injuries')}]
+============
+[('the driver', 'went', 'into a ditch', 'T:on Friday'), ('As many as 37 passengers on board a Thane - bound TMT bus', 'had', 'a close shave', 'T:after the driver went into a ditch on Friday'), ('the driver', 'went', 'off - road'), ('As many as 37 passengers on board a Thane - bound TMT bus', 'had', 'a close shave', 'T:after the driver went off - road'), ('37 passengers', 'had', 'a close shave'), ('the driver', 'lost', 'control of the vehicle'), ('As many as 37 passengers on board a Thane - bound TMT bus', 'had', 'a close shave', 'T:after the driver lost control of the vehicle')]
+
+[{'T': 'on Friday', 'tuple': ('the driver', 'went', 'into a ditch', 'T:on Friday')}, {'T': 'after the driver went into a ditch on Friday', 'tuple': ('As many as 37 passengers on board a Thane - bound TMT bus', 'had', 'a close shave', 'T:after the driver went into a ditch on Friday')}, {'tuple': ('the driver', 'went', 'off - road')}, {'T': 'after the driver went off - road', 'tuple': ('As many as 37 passengers on board a Thane - bound TMT bus', 'had', 'a close shave', 'T:after the driver went off - road')}, {'tuple': ('37 passengers', 'had', 'a close shave')}, {'tuple': ('the driver', 'lost', 'control of the vehicle')}, {'T': 'after the driver lost control of the vehicle', 'tuple': ('As many as 37 passengers on board a Thane - bound TMT bus', 'had', 'a close shave', 'T:after the driver lost control of the vehicle')}]
+============
+[('Passengers', 'claimed', 'that there was a fault in the steering wheel because of which the mishap took place'), ('the mishap', 'took', 'place')]
+
+[{'tuple': ('Passengers', 'claimed', 'that there was a fault in the steering wheel because of which the mishap took place')}, {'tuple': ('the mishap', 'took', 'place')}]
+============
+[('The incident', 'took', 'place', 'L:near Chena creek bridge along Ghodbunder Road', 'T:at 5pm'), ('The bus', 'was heading', 'towards Kopri', 'from Mira Road')]
+
+[{'L': 'near Chena creek bridge along Ghodbunder Road', 'T': 'at 5pm', 'tuple': ('The incident', 'took', 'place', 'L:near Chena creek bridge along Ghodbunder Road', 'T:at 5pm')}, {'tuple': ('The bus', 'was heading', 'towards Kopri', 'from Mira Road')}]
+============
+[('he', 'lost', 'control of the vehicle'), ('the driver', 'was negotiating', 'a turn', 'T:when he lost control of the vehicle')]
+
+[{'tuple': ('he', 'lost', 'control of the vehicle')}, {'T': 'when he lost control of the vehicle', 'tuple': ('the driver', 'was negotiating', 'a turn', 'T:when he lost control of the vehicle')}]
+============
+[('He', 'plunged', 'into a ditch', 'T:along the road'), ('He', 'brushed', 'against the divider')]
+
+[{'T': 'along the road', 'tuple': ('He', 'plunged', 'into a ditch', 'T:along the road')}, {'tuple': ('He', 'brushed', 'against the divider')}]
+============
+[('no casualty', 'was reported', '')]
+
+[{'tuple': ('no casualty', 'was reported', '')}]
+============
+[('the driver', 'has been admitted', 'to a local hospital'), ('the driver', 'suffered', 'minor injuries')]
+
+[{'tuple': ('the driver', 'has been admitted', 'to a local hospital')}, {'tuple': ('the driver', 'suffered', 'minor injuries')}]
+============
+[('The passengers', 'were accommodated', 'L:in another bus'), ('The passengers', 'managed quickly alight', '')]
+
+[{'L': 'in another bus', 'tuple': ('The passengers', 'were accommodated', 'L:in another bus')}, {'tuple': ('The passengers', 'managed quickly alight', '')}]
+============
+[('the steering wheel of the bus', 'had developed', 'some technical snag due to which the driver was finding it difficult'), ('Some passengers', 'have alleged', 'that the steering wheel of the bus had developed some technical snag due to which the driver was finding it difficult'), ('the driver', 'was finding', 'it difficult to manoeuvre turns')]
+
+[{'tuple': ('the steering wheel of the bus', 'had developed', 'some technical snag due to which the driver was finding it difficult')}, {'tuple': ('Some passengers', 'have alleged', 'that the steering wheel of the bus had developed some technical snag due to which the driver was finding it difficult')}, {'tuple': ('the driver', 'was finding', 'it difficult to manoeuvre turns')}]
+============
+[('they', 'learnt', 'about the incident'), ('Senior TMT officials', 'rushed', 'to the spot')]
+
+[{'tuple': ('they', 'learnt', 'about the incident')}, {'tuple': ('Senior TMT officials', 'rushed', 'to the spot')}]
+============
+[('they', 'have denied', 'that there blamed the driver for losing control of the vehicle'), ('they', 'have denied', 'that there was a technical fault in the steering')]
+
+[{'tuple': ('they', 'have denied', 'that there blamed the driver for losing control of the vehicle')}, {'tuple': ('they', 'have denied', 'that there was a technical fault in the steering')}]
+============
+[('will find out what exactly went wrong', 'said', 'a top ranking official'), ('The TMT officials', 'will be carrying out', 'an internal probe'), ('The TMT officials will be carrying out an internal probe', 'said', 'a top ranking official')]
+
+[{'tuple': ('will find out what exactly went wrong', 'said', 'a top ranking official')}, {'tuple': ('The TMT officials', 'will be carrying out', 'an internal probe')}, {'tuple': ('The TMT officials will be carrying out an internal probe', 'said', 'a top ranking official')}]
+============
+[('Two men on scooters', 'were killed', 'L:in separate accidents in the city on Thursday night')]
+
+[{'L': 'in separate accidents in the city on Thursday night', 'tuple': ('Two men on scooters', 'were killed', 'L:in separate accidents in the city on Thursday night')}]
+============
+[('the men', 'were travelling', 'L:in both cases'), ('Police', 'said', 'that in both cases the men were travelling with pillion riders'), ('pillion riders', 'have been critically injured', '')]
+
+[{'L': 'in both cases', 'tuple': ('the men', 'were travelling', 'L:in both cases')}, {'tuple': ('Police', 'said', 'that in both cases the men were travelling with pillion riders')}, {'tuple': ('pillion riders', 'have been critically injured', '')}]
+============
+[('civil service aspirant Sumit Kumar', 'were hit', 'by a vehicle', 'L:In the first incident'), ('the first incident', 'reported', "from the Nirankari Colony in north - west Delhi 's Mukherjee Nagar")]
+
+[{'L': 'In the first incident', 'tuple': ('civil service aspirant Sumit Kumar', 'were hit', 'by a vehicle', 'L:In the first incident')}, {'tuple': ('the first incident', 'reported', "from the Nirankari Colony in north - west Delhi 's Mukherjee Nagar")}]
+============
+[('the road', 'rushed', 'to the trauma centre'), ('They', 'injured', 'L:on the road'), ('They', 'were found', 'lying', 'injured on the road'), ('They', 'lying', ''), ('They', 'were found', '')]
+
+[{'tuple': ('the road', 'rushed', 'to the trauma centre')}, {'L': 'on the road', 'tuple': ('They', 'injured', 'L:on the road')}, {'tuple': ('They', 'were found', 'lying', 'injured on the road')}, {'tuple': ('They', 'lying', '')}, {'tuple': ('They', 'were found', '')}]
+============
+[('Naveen', 'to be', 'critical'), ('Naveen', 'was said', ''), ('Sumit', 'was declared', 'dead', 'T:on arrival')]
+
+[{'tuple': ('Naveen', 'to be', 'critical')}, {'tuple': ('Naveen', 'was said', '')}, {'T': 'on arrival', 'tuple': ('Sumit', 'was declared', 'dead', 'T:on arrival')}]
+============
+[('the youths', 'were', 'from the same village in Sonepat'), ('Police', 'said', 'that the youths were from the same village in Sonepat'), ('the youths', 'were staying', 'in a rented accommodation in Mukherjee Nagar'), ('Police', 'said', 'that the youths were staying in a rented accommodation in Mukherjee Nagar')]
+
+[{'tuple': ('the youths', 'were', 'from the same village in Sonepat')}, {'tuple': ('Police', 'said', 'that the youths were from the same village in Sonepat')}, {'tuple': ('the youths', 'were staying', 'in a rented accommodation in Mukherjee Nagar')}, {'tuple': ('Police', 'said', 'that the youths were staying in a rented accommodation in Mukherjee Nagar')}]
+============
+[('They', 'were out looking', 'for some midnight snack at the time of the accident')]
+
+[{'tuple': ('They', 'were out looking', 'for some midnight snack at the time of the accident')}]
+============
+[('the vehicle that had hit them', 'could be', 'a hatchback coming from Hakikat Nagar'), ('Police', 'said', 'the vehicle that had hit them could be a hatchback'), ('a hatchback', 'coming', 'from Hakikat Nagar'), ('the vehicle', 'had hit', 'them')]
+
+[{'tuple': ('the vehicle that had hit them', 'could be', 'a hatchback coming from Hakikat Nagar')}, {'tuple': ('Police', 'said', 'the vehicle that had hit them could be a hatchback')}, {'tuple': ('a hatchback', 'coming', 'from Hakikat Nagar')}, {'tuple': ('the vehicle', 'had hit', 'them')}]
+============
+[('no CCTV footage', 'was', 'available', 'T:till Friday'), ('Efforts', 'are', 'on')]
+
+[{'T': 'till Friday', 'tuple': ('no CCTV footage', 'was', 'available', 'T:till Friday')}, {'tuple': ('Efforts', 'are', 'on')}]
+============
+[('a youth', 'was mowed down', 'by a heavy vehicle near the Mangolpuri market', 'L:In another incident')]
+
+[{'L': 'In another incident', 'tuple': ('a youth', 'was mowed down', 'by a heavy vehicle near the Mangolpuri market', 'L:In another incident')}]
+============
+[('The victim', 'owned', 'an electrical goods shop')]
+
+[{'tuple': ('The victim', 'owned', 'an electrical goods shop')}]
+============
+[('his friend', 'were', ''), ('they', 'met', 'with the accident'), ('Kumar', 'were', '')]
+
+[{'tuple': ('his friend', 'were', '')}, {'tuple': ('they', 'met', 'with the accident')}, {'tuple': ('Kumar', 'were', '')}]
+============
+[('Kumar', 'was dragged', 'for about 20 metres', 'T:before the vehicle stopped'), ('Police', 'said', 'that Kumar was dragged for about 20 metres'), ('the vehicle', 'stopped', '')]
+
+[{'T': 'before the vehicle stopped', 'tuple': ('Kumar', 'was dragged', 'for about 20 metres', 'T:before the vehicle stopped')}, {'tuple': ('Police', 'said', 'that Kumar was dragged for about 20 metres')}, {'tuple': ('the vehicle', 'stopped', '')}]
+============
+[('The driver', 'fled', ''), ('The driver fled', 'said', 'police'), ('The driver', 'dumped', 'it', 'L:on the road side'), ('The driver dumped it on the road side', 'said', 'police'), ('The driver', 'removed', "Kumar 's body", 'from under the vehicle', 'T:then'), ("The driver then removed Kumar 's body from under the vehicle", 'said', 'police')]
+
+[{'tuple': ('The driver', 'fled', '')}, {'tuple': ('The driver fled', 'said', 'police')}, {'L': 'on the road side', 'tuple': ('The driver', 'dumped', 'it', 'L:on the road side')}, {'tuple': ('The driver dumped it on the road side', 'said', 'police')}, {'T': 'then', 'tuple': ('The driver', 'removed', "Kumar 's body", 'from under the vehicle', 'T:then')}, {'tuple': ("The driver then removed Kumar 's body from under the vehicle", 'said', 'police')}]
+============
+[('Police', 'have registered', 'cases in both the accidents')]
+
+[{'tuple': ('Police', 'have registered', 'cases in both the accidents')}]
+============
+[('A driver', 'hit eight parked vehicles before hitting', 'a pole', "L:in west Delhi 's Tilak Nagar", 'T:on Thursday evening'), ('A driver', 'hit', 'eight parked vehicles', "T:before hitting a pole in west Delhi 's Tilak Nagar on Thursday evening"), ('A driver', 'hit 12 people before hitting', 'a pole', "L:in west Delhi 's Tilak Nagar", 'T:on Thursday evening'), ('A driver', 'hit', '12 people', "T:before hitting a pole in west Delhi 's Tilak Nagar on Thursday evening")]
+
+[{'L': "in west Delhi 's Tilak Nagar", 'T': 'on Thursday evening', 'tuple': ('A driver', 'hit eight parked vehicles before hitting', 'a pole', "L:in west Delhi 's Tilak Nagar", 'T:on Thursday evening')}, {'T': "before hitting a pole in west Delhi 's Tilak Nagar on Thursday evening", 'tuple': ('A driver', 'hit', 'eight parked vehicles', "T:before hitting a pole in west Delhi 's Tilak Nagar on Thursday evening")}, {'L': "in west Delhi 's Tilak Nagar", 'T': 'on Thursday evening', 'tuple': ('A driver', 'hit 12 people before hitting', 'a pole', "L:in west Delhi 's Tilak Nagar", 'T:on Thursday evening')}, {'T': "before hitting a pole in west Delhi 's Tilak Nagar on Thursday evening", 'tuple': ('A driver', 'hit', '12 people', "T:before hitting a pole in west Delhi 's Tilak Nagar on Thursday evening")}]
+============
+[('all this', 'happened', 'L:over a 400-metre stretch'), ('Witnesses', 'said', 'all this happened over a 400-metre stretch')]
+
+[{'L': 'over a 400-metre stretch', 'tuple': ('all this', 'happened', 'L:over a 400-metre stretch')}, {'tuple': ('Witnesses', 'said', 'all this happened over a 400-metre stretch')}]
+============
+[('Police', 'received', 'T:after'), ('Police', 'received a team arrested', 'the driver'), ('Police', 'received', 'a team'), ('Police', 'arrested', 'the driver'), ('Police', 'received', 'a call', 'T:around 9.30 pm')]
+
+[{'T': 'after', 'tuple': ('Police', 'received', 'T:after')}, {'tuple': ('Police', 'received a team arrested', 'the driver')}, {'tuple': ('Police', 'received', 'a team')}, {'tuple': ('Police', 'arrested', 'the driver')}, {'T': 'around 9.30 pm', 'tuple': ('Police', 'received', 'a call', 'T:around 9.30 pm')}]
+============
+[('He', 'hit', 'two scooters', 'T:first'), ('then a bike two cars', 'parked', 'along the road'), ('He', 'hit', 'two scooters', 'T:first'), ('He first hit two scooters', 'said', 'a senior police officer')]
+
+[{'T': 'first', 'tuple': ('He', 'hit', 'two scooters', 'T:first')}, {'tuple': ('then a bike two cars', 'parked', 'along the road')}, {'T': 'first', 'tuple': ('He', 'hit', 'two scooters', 'T:first')}, {'tuple': ('He first hit two scooters', 'said', 'a senior police officer')}]
+============
+[('The vehicle', 'came', 'to a stop', 'T:after hitting the pole')]
+
+[{'T': 'after hitting the pole', 'tuple': ('The vehicle', 'came', 'to a stop', 'T:after hitting the pole')}]
+============
+[('the car', 'called', 'the police'), ('people', 'pulled out', 'Kumar', 'T:As soon as the car stopped'), ('the car', 'stopped', '')]
+
+[{'tuple': ('the car', 'called', 'the police')}, {'T': 'As soon as the car stopped', 'tuple': ('people', 'pulled out', 'Kumar', 'T:As soon as the car stopped')}, {'tuple': ('the car', 'stopped', '')}]
+============
+[('later discharged', 'said', 'DCP'), ('The injured', 'were rushed', 'to three different hospitals'), ('The injured were all rushed to three different hospitals', 'said', 'DCP'), ('they', 'were treated', 'L:three different hospitals')]
+
+[{'tuple': ('later discharged', 'said', 'DCP')}, {'tuple': ('The injured', 'were rushed', 'to three different hospitals')}, {'tuple': ('The injured were all rushed to three different hospitals', 'said', 'DCP')}, {'L': 'three different hospitals', 'tuple': ('they', 'were treated', 'L:three different hospitals')}]
+============
+[('Kumar', 'was', 'quite drunk at the time of incident'), ('Police', 'said', 'Kumar, a resident of Krishna Park, was quite drunk at the time of incident')]
+
+[{'tuple': ('Kumar', 'was', 'quite drunk at the time of incident')}, {'tuple': ('Police', 'said', 'Kumar, a resident of Krishna Park, was quite drunk at the time of incident')}]
+============
+[('had dropped a few children at a sports complex in Hari Nagar in the evening', 'said', 'a senior officer'), ('He', 'is', 'a driver'), ('He is a driver', 'said', 'a senior officer')]
+
+[{'tuple': ('had dropped a few children at a sports complex in Hari Nagar in the evening', 'said', 'a senior officer')}, {'tuple': ('He', 'is', 'a driver')}, {'tuple': ('He is a driver', 'said', 'a senior officer')}]
+============
+[('an unidentified vehicle', 'hit', 'him', 'L:near Harsaru village', 'L:on Pataudi road', 'T:on Wednesday night'), ('A 30-year-old pedestrian', 'was killed', 'T:after an unidentified vehicle hit him near Harsaru village on Pataudi road on Wednesday night')]
+
+[{'L': 'on Pataudi road', 'T': 'on Wednesday night', 'tuple': ('an unidentified vehicle', 'hit', 'him', 'L:near Harsaru village', 'L:on Pataudi road', 'T:on Wednesday night')}, {'T': 'after an unidentified vehicle hit him near Harsaru village on Pataudi road on Wednesday night', 'tuple': ('A 30-year-old pedestrian', 'was killed', 'T:after an unidentified vehicle hit him near Harsaru village on Pataudi road on Wednesday night')}]
+============
+[('The driver', 'managed to flee', 'the spot with his vehicle'), ('The driver', 'managed', 'to flee the spot with his vehicle')]
+
+[{'tuple': ('The driver', 'managed to flee', 'the spot with his vehicle')}, {'tuple': ('The driver', 'managed', 'to flee the spot with his vehicle')}]
+============
+[('an FIR', 'has been lodged', 'against the unknown driver at the Sector 10 police station'), ('Police', 'to identify', 'the victim'), ('Police', 'are', 'T:yet', 'to identify the victim')]
+
+[{'tuple': ('an FIR', 'has been lodged', 'against the unknown driver at the Sector 10 police station')}, {'tuple': ('Police', 'to identify', 'the victim')}, {'T': 'yet', 'tuple': ('Police', 'are', 'T:yet', 'to identify the victim')}]
+============
+[('The accident', 'happened', 'L:in Harsaru', 'L:on the Gurgaon-Pataudi road around 11pm'), ('Ishwar Singh', 'informed', 'police', 'about the accident')]
+
+[{'L': 'on the Gurgaon-Pataudi road around 11pm', 'tuple': ('The accident', 'happened', 'L:in Harsaru', 'L:on the Gurgaon-Pataudi road around 11pm')}, {'tuple': ('Ishwar Singh', 'informed', 'police', 'about the accident')}]
+============
+[('the victim', 'died', 'L:on the spot'), ('Cops', 'said', 'the victim died on the spot')]
+
+[{'L': 'on the spot', 'tuple': ('the victim', 'died', 'L:on the spot')}, {'tuple': ('Cops', 'said', 'the victim died on the spot')}]
+============
+[('Police', 'have launched to find', 'his family'), ('Police', 'have launched', 'efforts to find his family'), ('Police', 'have taken', "the victim 's body", 'into custody')]
+
+[{'tuple': ('Police', 'have launched to find', 'his family')}, {'tuple': ('Police', 'have launched', 'efforts to find his family')}, {'tuple': ('Police', 'have taken', "the victim 's body", 'into custody')}]
+============
+[('Ishwar Singh', 'has been registered', 'against the unknown vehicle driver under sections 304'), ('rash', 'driving', ''), ('Ishwar Singh', 'has been registered', 'against the unknown vehicle driver under sections 279 ( rash driving ) A ( death due to negligence')]
+
+[{'tuple': ('Ishwar Singh', 'has been registered', 'against the unknown vehicle driver under sections 304')}, {'tuple': ('rash', 'driving', '')}, {'tuple': ('Ishwar Singh', 'has been registered', 'against the unknown vehicle driver under sections 279 ( rash driving ) A ( death due to negligence')}]
+============
+[('We', 'are examining CCTV footage to identify', 'its driver'), ('We', 'are examining', 'CCTV footage', 'to identify its driver'), ('CCTV footage', 'collected', 'from nearby areas'), ('We', 'are examining', 'CCTV footage')]
+
+[{'tuple': ('We', 'are examining CCTV footage to identify', 'its driver')}, {'tuple': ('We', 'are examining', 'CCTV footage', 'to identify its driver')}, {'tuple': ('CCTV footage', 'collected', 'from nearby areas')}, {'tuple': ('We', 'are examining', 'CCTV footage')}]
+============
+[('arrest him', 'said', 'assistant sub inspector Anil Kumar'), ('We', 'will identify', 'the accused soon'), ('We will identify the accused soon', 'said', 'assistant sub inspector Anil Kumar')]
+
+[{'tuple': ('arrest him', 'said', 'assistant sub inspector Anil Kumar')}, {'tuple': ('We', 'will identify', 'the accused soon')}, {'tuple': ('We will identify the accused soon', 'said', 'assistant sub inspector Anil Kumar')}]
+============
+[('a multi-utility vehicle', 'carrying', 'about a dozen passengers near Sursangda village of Kalavad taluka of Jamnagar', 'T:on Saturday morning'), ('a state transport bus', 'carrying', 'about a dozen passengers near Sursangda village of Kalavad taluka of Jamnagar', 'T:on Saturday morning'), ('11 others', 'injured', ''), ('One person', 'was killed', '')]
+
+[{'T': 'on Saturday morning', 'tuple': ('a multi-utility vehicle', 'carrying', 'about a dozen passengers near Sursangda village of Kalavad taluka of Jamnagar', 'T:on Saturday morning')}, {'T': 'on Saturday morning', 'tuple': ('a state transport bus', 'carrying', 'about a dozen passengers near Sursangda village of Kalavad taluka of Jamnagar', 'T:on Saturday morning')}, {'tuple': ('11 others', 'injured', '')}, {'tuple': ('One person', 'was killed', '')}]
+============
+[('The deceased', 'was identified', 'as Balvant Bhikabhai (26) of Khanderi in Jamnagar')]
+
+[{'tuple': ('The deceased', 'was identified', 'as Balvant Bhikabhai (26) of Khanderi in Jamnagar')}]
+============
+[('a state transport bus', 'collided', 'with the speeding MUV going towards Rajkot', 'T:first'), ('the accident', 'occurred', 'T:when a state transport bus first collided with the speeding MUV going towards Rajkot'), ('a tanker', 'fell', 'off a small bridge'), ('a state transport bus', 'collided', 'with a tanker fell off a small bridge into a dry river bed near Sursangda village', 'T:first'), ('the accident', 'occurred', 'T:when a state transport bus first collided with a tanker fell off a small bridge into a dry river bed near Sursangda village'), ('a tanker', 'dashed', 'into the bus'), ('a state transport bus', 'collided', 'with a tanker', 'T:first'), ('the accident', 'occurred', 'T:when a state transport bus first collided with a tanker')]
+
+[{'T': 'first', 'tuple': ('a state transport bus', 'collided', 'with the speeding MUV going towards Rajkot', 'T:first')}, {'T': 'when a state transport bus first collided with the speeding MUV going towards Rajkot', 'tuple': ('the accident', 'occurred', 'T:when a state transport bus first collided with the speeding MUV going towards Rajkot')}, {'tuple': ('a tanker', 'fell', 'off a small bridge')}, {'T': 'first', 'tuple': ('a state transport bus', 'collided', 'with a tanker fell off a small bridge into a dry river bed near Sursangda village', 'T:first')}, {'T': 'when a state transport bus first collided with a tanker fell off a small bridge into a dry river bed near Sursangda village', 'tuple': ('the accident', 'occurred', 'T:when a state transport bus first collided with a tanker fell off a small bridge into a dry river bed near Sursangda village')}, {'tuple': ('a tanker', 'dashed', 'into the bus')}, {'T': 'first', 'tuple': ('a state transport bus', 'collided', 'with a tanker', 'T:first')}, {'T': 'when a state transport bus first collided with a tanker', 'tuple': ('the accident', 'occurred', 'T:when a state transport bus first collided with a tanker')}]
+============
+[('Balvant', 'died', 'L:on the spot', 'T:while 11 others in the MUV were rushed to hospital in Kalavad'), ('11 others in the MUV', 'were rushed', 'to hospital in Kalavad'), ('Balvant', 'died', 'L:on the spot', 'T:while 11 others in the MUV were hurt'), ('Police', 'said', 'that Balvant died on the spot'), ('11 others in the MUV', 'were hurt', '')]
+
+[{'L': 'on the spot', 'T': 'while 11 others in the MUV were rushed to hospital in Kalavad', 'tuple': ('Balvant', 'died', 'L:on the spot', 'T:while 11 others in the MUV were rushed to hospital in Kalavad')}, {'tuple': ('11 others in the MUV', 'were rushed', 'to hospital in Kalavad')}, {'L': 'on the spot', 'T': 'while 11 others in the MUV were hurt', 'tuple': ('Balvant', 'died', 'L:on the spot', 'T:while 11 others in the MUV were hurt')}, {'tuple': ('Police', 'said', 'that Balvant died on the spot')}, {'tuple': ('11 others in the MUV', 'were hurt', '')}]
+============
+[('the condition of four injured', 'was said', ''), ('Police', 'added', 'the condition of four injured was said to be critical'), ('the condition of four injured', 'to be', 'critical'), ('the condition of four', 'injured', '')]
+
+[{'tuple': ('the condition of four injured', 'was said', '')}, {'tuple': ('Police', 'added', 'the condition of four injured was said to be critical')}, {'tuple': ('the condition of four injured', 'to be', 'critical')}, {'tuple': ('the condition of four', 'injured', '')}]
+============
+[("King of Pop Michael Jackson's father", 'was hospitalised', 'T:after a car accident in Las Vegas')]
+
+[{'T': 'after a car accident in Las Vegas', 'tuple': ("King of Pop Michael Jackson's father", 'was hospitalised', 'T:after a car accident in Las Vegas')}]
+============
+[('The Las Vegas Metropolitan Police Department', 'confirmed', '')]
+
+[{'tuple': ('The Las Vegas Metropolitan Police Department', 'confirmed', '')}]
+============
+[('Jackson', 'was', 'in a passenger seat of the luxury car'), ('both parties', 'showed', 'no signs of impairment'), ('it', 'crashed', 'into another vehicle'), ('the luxury car', 'was travelling westbound', 'on West Sahara Avenue east of Decatur Boulevard')]
+
+[{'tuple': ('Jackson', 'was', 'in a passenger seat of the luxury car')}, {'tuple': ('both parties', 'showed', 'no signs of impairment')}, {'tuple': ('it', 'crashed', 'into another vehicle')}, {'tuple': ('the luxury car', 'was travelling westbound', 'on West Sahara Avenue east of Decatur Boulevard')}]
+============
+[('88 - year - old', 'was taken for', 'testing after a complaint of injury'), ('The 88-year-old', 'was taken', 'to University Medical Center', 'for testing', 'T:after a complaint of injury', 'T:immediately')]
+
+[{'tuple': ('88 - year - old', 'was taken for', 'testing after a complaint of injury')}, {'T': 'immediately', 'tuple': ('The 88-year-old', 'was taken', 'to University Medical Center', 'for testing', 'T:after a complaint of injury', 'T:immediately')}]
+============
+[('Jackson', 'took to Twitter', 'to reveal he was feeling well'), ('Jackson', 'took', 'to Twitter to reveal he was feeling well', 'T:After being released from the hospital'), ('Jackson', 'took to Twitter', 'to reveal he was safely home'), ('Jackson', 'took', 'to Twitter to reveal he was safely home', 'T:After being released from the hospital')]
+
+[{'tuple': ('Jackson', 'took to Twitter', 'to reveal he was feeling well')}, {'T': 'After being released from the hospital', 'tuple': ('Jackson', 'took', 'to Twitter to reveal he was feeling well', 'T:After being released from the hospital')}, {'tuple': ('Jackson', 'took to Twitter', 'to reveal he was safely home')}, {'T': 'After being released from the hospital', 'tuple': ('Jackson', 'took', 'to Twitter to reveal he was safely home', 'T:After being released from the hospital')}]
+============
+[('he', 'wrote', 'L:on his official website')]
+
+[{'L': 'on his official website', 'tuple': ('he', 'wrote', 'L:on his official website')}]
+============
+[('she', 'was run over', 'by a bus near Jhotwara area of the city on Saturday morning'), ('A five-year-old girl', 'died', 'T:after she was run over by a bus near Jhotwara area of the city on Saturday morning')]
+
+[{'tuple': ('she', 'was run over', 'by a bus near Jhotwara area of the city on Saturday morning')}, {'T': 'after she was run over by a bus near Jhotwara area of the city on Saturday morning', 'tuple': ('A five-year-old girl', 'died', 'T:after she was run over by a bus near Jhotwara area of the city on Saturday morning')}]
+============
+[('Jevika', 'was travelling had alighted', 'L:near Ram Nagar', 'L:in Bhatta Basti'), ('Jevika', 'was travelling', ''), ('Jevika', 'was travelling', 'with her parents')]
+
+[{'L': 'in Bhatta Basti', 'tuple': ('Jevika', 'was travelling had alighted', 'L:near Ram Nagar', 'L:in Bhatta Basti')}, {'tuple': ('Jevika', 'was travelling', '')}, {'tuple': ('Jevika', 'was travelling', 'with her parents')}]
+============
+[('the driver', 'did not notice', 'that accelerated the speed of the bus due to which she came under the wheels', 'T:She was standing near the bus'), ('she', 'came', 'L:under the wheels'), ('She', 'was standing', 'near the bus')]
+
+[{'T': 'She was standing near the bus', 'tuple': ('the driver', 'did not notice', 'that accelerated the speed of the bus due to which she came under the wheels', 'T:She was standing near the bus')}, {'L': 'under the wheels', 'tuple': ('she', 'came', 'L:under the wheels')}, {'tuple': ('She', 'was standing', 'near the bus')}]
+============
+[('she', 'was travelling', 'from their village in Jhujhunu', 'T:when the incident took place'), ('the police official', 'adding', 'that she was travelling with her mother Mamta from their village in Jhujhunu to Jaipur'), ('she', 'was travelling', 'with her father', 'from their village in Jhujhunu'), ('the police official', 'adding', 'that she was travelling with her father Ashish Mamta from their village in Jhujhunu to Jaipur'), ('She', 'was rushed', 'to hospital'), ('She was rushed to hospital where she was declared dead upon arrival', 'told', 'TOI'), ('she', 'was declared', 'T:upon arrival'), ('the incident', 'took', 'place')]
+
+[{'T': 'when the incident took place', 'tuple': ('she', 'was travelling', 'from their village in Jhujhunu', 'T:when the incident took place')}, {'tuple': ('the police official', 'adding', 'that she was travelling with her mother Mamta from their village in Jhujhunu to Jaipur')}, {'tuple': ('she', 'was travelling', 'with her father', 'from their village in Jhujhunu')}, {'tuple': ('the police official', 'adding', 'that she was travelling with her father Ashish Mamta from their village in Jhujhunu to Jaipur')}, {'tuple': ('She', 'was rushed', 'to hospital')}, {'tuple': ('She was rushed to hospital where she was declared dead upon arrival', 'told', 'TOI')}, {'T': 'upon arrival', 'tuple': ('she', 'was declared', 'T:upon arrival')}, {'tuple': ('the incident', 'took', 'place')}]
+============
+[('Thirteen people', 'died', 'T:two of them children'), ('Thirteen people died, two of them children, when a long-haul passenger bus collided with a truck in Russia today', 'said', 'authorities')]
+
+[{'T': 'two of them children', 'tuple': ('Thirteen people', 'died', 'T:two of them children')}, {'tuple': ('Thirteen people died, two of them children, when a long-haul passenger bus collided with a truck in Russia today', 'said', 'authorities')}]
+============
+[('the Investigative Committee', 'probes', 'disasters'), ('the Investigative Committee', 'probes', 'accidents'), ('The bus', 'was travelling', 'from Samara'), ('The bus was travelling from Samara on the Volga river to Izhevsk , around 900 kilometres ( 550 miles ) east of Moscow', 'said', 'the Investigative Committee'), ('the accident', 'happened', '')]
+
+[{'tuple': ('the Investigative Committee', 'probes', 'disasters')}, {'tuple': ('the Investigative Committee', 'probes', 'accidents')}, {'tuple': ('The bus', 'was travelling', 'from Samara')}, {'tuple': ('The bus was travelling from Samara on the Volga river to Izhevsk , around 900 kilometres ( 550 miles ) east of Moscow', 'said', 'the Investigative Committee')}, {'tuple': ('the accident', 'happened', '')}]
+============
+[('It', 'said', 'it was possible the bus driver was blinded by headlights')]
+
+[{'tuple': ('It', 'said', 'it was possible the bus driver was blinded by headlights')}]
+============
+[('it', 'would be arresting', 'both drivers'), ('the regional interior ministry', 'adding', 'it'), ('caught on fire as a result of the collision', 'said', 'the regional interior ministry'), ('it', 'would be arresting', 'both drivers'), ('the regional interior ministry', 'adding', 'it would be arresting both drivers'), ('The bus', 'rolled', 'over'), ('The bus rolled over', 'said', 'the regional interior ministry')]
+
+[{'tuple': ('it', 'would be arresting', 'both drivers')}, {'tuple': ('the regional interior ministry', 'adding', 'it')}, {'tuple': ('caught on fire as a result of the collision', 'said', 'the regional interior ministry')}, {'tuple': ('it', 'would be arresting', 'both drivers')}, {'tuple': ('the regional interior ministry', 'adding', 'it would be arresting both drivers')}, {'tuple': ('The bus', 'rolled', 'over')}, {'tuple': ('The bus rolled over', 'said', 'the regional interior ministry')}]
+============
+[('Russia', 'ranks', "L:among the world's worst countries for road deaths, mainly due to drink-driving, poor roads and traffic violations")]
+
+[{'L': "among the world's worst countries for road deaths, mainly due to drink-driving, poor roads and traffic violations", 'tuple': ('Russia', 'ranks', "L:among the world's worst countries for road deaths, mainly due to drink-driving, poor roads and traffic violations")}]
+============
+[('more than 20,000 people', 'died', 'L:in road accidents', 'T:Last year')]
+
+[{'L': 'in road accidents', 'T': 'Last year', 'tuple': ('more than 20,000 people', 'died', 'L:in road accidents', 'T:Last year')}]
+============
+[('her son', 'was driving', 'her brother', 'T:after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday'), ('her son , who was driving her brother', 'sustained', 'injuries', 'T:after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday'), ('A 66 - year - old woman', 'died', 'T:while her son , who was driving her brother sustained injuries after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday'), ('her son', 'was driving', 'the car', 'T:after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday'), ('her son , who was driving the car', 'sustained', 'injuries', 'T:after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday'), ('their vehicle', 'rammed', 'the pillar of the bridge at Range Hill Corner on Ganeshkhind Road'), ('A 66 - year - old woman', 'died', 'T:while her son , who was driving the car sustained injuries after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday')]
+
+[{'T': 'after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday', 'tuple': ('her son', 'was driving', 'her brother', 'T:after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday')}, {'T': 'after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday', 'tuple': ('her son , who was driving her brother', 'sustained', 'injuries', 'T:after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday')}, {'T': 'while her son , who was driving her brother sustained injuries after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday', 'tuple': ('A 66 - year - old woman', 'died', 'T:while her son , who was driving her brother sustained injuries after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday')}, {'T': 'after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday', 'tuple': ('her son', 'was driving', 'the car', 'T:after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday')}, {'T': 'after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday', 'tuple': ('her son , who was driving the car', 'sustained', 'injuries', 'T:after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday')}, {'tuple': ('their vehicle', 'rammed', 'the pillar of the bridge at Range Hill Corner on Ganeshkhind Road')}, {'T': 'while her son , who was driving the car sustained injuries after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday', 'tuple': ('A 66 - year - old woman', 'died', 'T:while her son , who was driving the car sustained injuries after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday')}]
+============
+[('The deceased', 'was identified', 'as Kiran Mukund Makwana of Shukrawar Peth')]
+
+[{'tuple': ('The deceased', 'was identified', 'as Kiran Mukund Makwana of Shukrawar Peth')}]
+============
+[('Her son', 'sustained', 'serious injuries in the accident')]
+
+[{'tuple': ('Her son', 'sustained', 'serious injuries in the accident')}]
+============
+[('police', 'have filed', 'a complaint against Karan for negligent driving'), ('police', 'have filed', 'a complaint against Karan for rash')]
+
+[{'tuple': ('police', 'have filed', 'a complaint against Karan for negligent driving')}, {'tuple': ('police', 'have filed', 'a complaint against Karan for rash')}]
+============
+[('Karan', 'rammed', 'into the pillar', 'T:after falling asleep at the wheel'), ('Police', 'believe', 'Karan rammed into the pillar after falling asleep at the wheel')]
+
+[{'T': 'after falling asleep at the wheel', 'tuple': ('Karan', 'rammed', 'into the pillar', 'T:after falling asleep at the wheel')}, {'tuple': ('Police', 'believe', 'Karan rammed into the pillar after falling asleep at the wheel')}]
+============
+[('The three', 'to Mumbai to meet', 'relatives'), ('The three', 'to Mumbai', 'to meet relatives'), ('The three', 'had gone', 'to Mumbai to meet relatives')]
+
+[{'tuple': ('The three', 'to Mumbai to meet', 'relatives')}, {'tuple': ('The three', 'to Mumbai', 'to meet relatives')}, {'tuple': ('The three', 'had gone', 'to Mumbai to meet relatives')}]
+============
+[('The death of a 47-year-old woman in a road accident in the city on Saturday', 'has highlighted', 'the use of a helmet', 'T:while driving')]
+
+[{'T': 'while driving', 'tuple': ('The death of a 47-year-old woman in a road accident in the city on Saturday', 'has highlighted', 'the use of a helmet', 'T:while driving')}]
+============
+[('a moped', 'was riding', 'L:in the Mangalwar peth area'), ('a Kolhapur Municipal Transport (KMT) bus', 'hit', 'a moped on which she was riding in the Mangalwar peth area'), ('The woman, who worked as a school teacher', 'was killed', 'L:in an accident', 'T:when a Kolhapur Municipal Transport (KMT) bus hit a moped'), ('The woman', 'worked', 'as a school teacher')]
+
+[{'L': 'in the Mangalwar peth area', 'tuple': ('a moped', 'was riding', 'L:in the Mangalwar peth area')}, {'tuple': ('a Kolhapur Municipal Transport (KMT) bus', 'hit', 'a moped on which she was riding in the Mangalwar peth area')}, {'L': 'in an accident', 'T': 'when a Kolhapur Municipal Transport (KMT) bus hit a moped', 'tuple': ('The woman, who worked as a school teacher', 'was killed', 'L:in an accident', 'T:when a Kolhapur Municipal Transport (KMT) bus hit a moped')}, {'tuple': ('The woman', 'worked', 'as a school teacher')}]
+============
+[('The incident', 'has been reported', 'with the Juna Rajwada police')]
+
+[{'tuple': ('The incident', 'has been reported', 'with the Juna Rajwada police')}]
+============
+[('The deceased', 'has been identified', 'as Radhika Terdal')]
+
+[{'tuple': ('The deceased', 'has been identified', 'as Radhika Terdal')}]
+============
+[('she', 'worked', 'as a teacher')]
+
+[{'tuple': ('she', 'worked', 'as a teacher')}]
+============
+[('she', 'met', 'with the accident'), ('she', 'left', 'the school', 'T:On Saturday morning')]
+
+[{'tuple': ('she', 'met', 'with the accident')}, {'T': 'On Saturday morning', 'tuple': ('she', 'left', 'the school', 'T:On Saturday morning')}]
+============
+[('she', 'sustained', 'a head injury'), ('A KMT bus', 'hit her following', 'she sustained a head injury'), ('A KMT bus', 'hit', 'her'), ('A KMT bus', 'hit', 'her', 'T:following which she fell on the road'), ('A KMT bus', 'coming', 'from the opposite direction')]
+
+[{'tuple': ('she', 'sustained', 'a head injury')}, {'tuple': ('A KMT bus', 'hit her following', 'she sustained a head injury')}, {'tuple': ('A KMT bus', 'hit', 'her')}, {'T': 'following which she fell on the road', 'tuple': ('A KMT bus', 'hit', 'her', 'T:following which she fell on the road')}, {'tuple': ('A KMT bus', 'coming', 'from the opposite direction')}]
+============
+[('residents from that area', 'rushed', 'her', 'to the Chhatrapati Pramila Raje', 'T:immediately')]
+
+[{'T': 'immediately', 'tuple': ('residents from that area', 'rushed', 'her', 'to the Chhatrapati Pramila Raje', 'T:immediately')}]
+============
+[('she', 'brought', 'dead'), ('she', 'was declared', '')]
+
+[{'tuple': ('she', 'brought', 'dead')}, {'tuple': ('she', 'was declared', '')}]
+============
+[('Police', 'have detained', 'the driver of bus for inquiry')]
+
+[{'tuple': ('Police', 'have detained', 'the driver of bus for inquiry')}]
+============
+[('a woman', 'was killed', 'L:in a road accident', 'L:a month'), ('This', 'is', 'the second case in a month')]
+
+[{'L': 'a month', 'tuple': ('a woman', 'was killed', 'L:in a road accident', 'L:a month')}, {'tuple': ('This', 'is', 'the second case in a month')}]
+============
+[('she', 'was crossing', 'the road'), ('a KMT bus', 'ran', 'her', 'over', 'L:in the Gangavesh area'), ('a 52-year-old woman', 'was killed', 'L:in an accident', 'T:On June 9')]
+
+[{'tuple': ('she', 'was crossing', 'the road')}, {'L': 'in the Gangavesh area', 'tuple': ('a KMT bus', 'ran', 'her', 'over', 'L:in the Gangavesh area')}, {'L': 'in an accident', 'T': 'On June 9', 'tuple': ('a 52-year-old woman', 'was killed', 'L:in an accident', 'T:On June 9')}]
+============
+[('The deceased identified as Mangal Shivaji Jadhav', 'worked', 'L:at a post office'), ('The deceased', 'identified', 'as Mangal Shivaji Jadhav')]
+
+[{'L': 'at a post office', 'tuple': ('The deceased identified as Mangal Shivaji Jadhav', 'worked', 'L:at a post office')}, {'tuple': ('The deceased', 'identified', 'as Mangal Shivaji Jadhav')}]
+============
+[('she', 'was hit', 'by the bus'), ('She', 'to buy', 'vegetables', 'T:after her office'), ('She', 'was rushing', 'on her two-wheeler towards the vegetable market at Gangavesh area', 'to buy vegetables after her office')]
+
+[{'tuple': ('she', 'was hit', 'by the bus')}, {'T': 'after her office', 'tuple': ('She', 'to buy', 'vegetables', 'T:after her office')}, {'tuple': ('She', 'was rushing', 'on her two-wheeler towards the vegetable market at Gangavesh area', 'to buy vegetables after her office')}]
+============
+[('She', 'was also injured', 'L:on the head'), ('She was also injured on the head', 'said', 'a police official')]
+
+[{'L': 'on the head', 'tuple': ('She', 'was also injured', 'L:on the head')}, {'tuple': ('She was also injured on the head', 'said', 'a police official')}]
+============
+[('her life', 'would have been saved', ''), ('A senior police officer', 'said', 'that if the woman would have used a helmet, her life would have been saved'), ('the woman', 'would have used', 'a helmet')]
+
+[{'tuple': ('her life', 'would have been saved', '')}, {'tuple': ('A senior police officer', 'said', 'that if the woman would have used a helmet, her life would have been saved')}, {'tuple': ('the woman', 'would have used', 'a helmet')}]
+============
+[('We', 'will implement', 'the drive in the city', 'T:soon'), ('We', 'launching', 'a campaign against bikers outside city'), ('We', 'are', 'T:now', 'busy launching a campaign against bikers outside city')]
+
+[{'T': 'soon', 'tuple': ('We', 'will implement', 'the drive in the city', 'T:soon')}, {'tuple': ('We', 'launching', 'a campaign against bikers outside city')}, {'T': 'now', 'tuple': ('We', 'are', 'T:now', 'busy launching a campaign against bikers outside city')}]
+============
+[('start using helmets in the city', 'said', 'a senior police officer'), ('people', 'should learn', 'from such incidents', 'T:before this'), ('before this , people should learn from such incidents', 'said', 'a senior police officer')]
+
+[{'tuple': ('start using helmets in the city', 'said', 'a senior police officer')}, {'T': 'before this', 'tuple': ('people', 'should learn', 'from such incidents', 'T:before this')}, {'tuple': ('before this , people should learn from such incidents', 'said', 'a senior police officer')}]
+============
+[('a drive', 'was launched', 'for not using helmets', 'T:for the last two months'), ('He', 'added', 'that for the last two months, a drive was launched against bikers for not using helmets')]
+
+[{'T': 'for the last two months', 'tuple': ('a drive', 'was launched', 'for not using helmets', 'T:for the last two months')}, {'tuple': ('He', 'added', 'that for the last two months, a drive was launched against bikers for not using helmets')}]
+============
+[('the roads', 'leaving', 'the city'), ('the roads', 'entering', ''), ('This campaign', 'was enforced', 'L:strictly on the roads')]
+
+[{'tuple': ('the roads', 'leaving', 'the city')}, {'tuple': ('the roads', 'entering', '')}, {'L': 'strictly on the roads', 'tuple': ('This campaign', 'was enforced', 'L:strictly on the roads')}]
+============
+[('two', 'had met', 'with accidents', 'T:last week'), ('This', 'has helped', 'in saving the life of two')]
+
+[{'T': 'last week', 'tuple': ('two', 'had met', 'with accidents', 'T:last week')}, {'tuple': ('This', 'has helped', 'in saving the life of two')}]
+============
+[('this', 'will help reduce', 'deaths caused by road accidents'), ('this', 'will help', 'reduce deaths'), ('we', 'hope', 'that this will help reduce deaths'), ('we hope that this will help reduce deaths', 'said', 'he'), ('deaths', 'caused', 'by road accidents'), ('the bikers', 'riding', 'on these roads'), ('the bikers riding on these roads', 'are using', 'helmets', 'T:Now'), ('Now , the bikers riding on these roads are using helmets', 'said', 'he')]
+
+[{'tuple': ('this', 'will help reduce', 'deaths caused by road accidents')}, {'tuple': ('this', 'will help', 'reduce deaths')}, {'tuple': ('we', 'hope', 'that this will help reduce deaths')}, {'tuple': ('we hope that this will help reduce deaths', 'said', 'he')}, {'tuple': ('deaths', 'caused', 'by road accidents')}, {'tuple': ('the bikers', 'riding', 'on these roads')}, {'T': 'Now', 'tuple': ('the bikers riding on these roads', 'are using', 'helmets', 'T:Now')}, {'tuple': ('Now , the bikers riding on these roads are using helmets', 'said', 'he')}]
+============
+[('A Mercedes Benz', 'rammed ahead', 'the official Maruti Gypsy of an assistant commissioner of Delhi Police on Sunday morning')]
+
+[{'tuple': ('A Mercedes Benz', 'rammed ahead', 'the official Maruti Gypsy of an assistant commissioner of Delhi Police on Sunday morning')}]
+============
+[('the three persons', 'injured', ''), ('The ACP', 'was', 'among the three persons')]
+
+[{'tuple': ('the three persons', 'injured', '')}, {'tuple': ('The ACP', 'was', 'among the three persons')}]
+============
+[('both the vehicles', 'were travelling', 'towards Noida'), ('The accident', 'occurred', 'T:when both the vehicles were travelling towards Noida from Delhi via the DND flyway')]
+
+[{'tuple': ('both the vehicles', 'were travelling', 'towards Noida')}, {'T': 'when both the vehicles were travelling towards Noida from Delhi via the DND flyway', 'tuple': ('The accident', 'occurred', 'T:when both the vehicles were travelling towards Noida from Delhi via the DND flyway')}]
+============
+[('The ACP', 'received injuries on his foot too suffered', 'minor injuries'), ('The ACP', 'received', 'injuries on his foot'), ('The ACP, who was on duty at the time of the accident, received injuries on his foot, while the constable assisting him too suffered minor injuries', 'said', 'doctors'), ('The ACP', 'was', 'on duty', 'T:at the time of the accident')]
+
+[{'tuple': ('The ACP', 'received injuries on his foot too suffered', 'minor injuries')}, {'tuple': ('The ACP', 'received', 'injuries on his foot')}, {'tuple': ('The ACP, who was on duty at the time of the accident, received injuries on his foot, while the constable assisting him too suffered minor injuries', 'said', 'doctors')}, {'T': 'at the time of the accident', 'tuple': ('The ACP', 'was', 'on duty', 'T:at the time of the accident')}]
+============
+[('None of them', 'were seriously injured', ''), ('Both the vehicles', 'have been impounded', ''), ('the police gypsy', 'was damaged', 'T:at the rear end'), ('doctors', 'said', '')]
+
+[{'tuple': ('None of them', 'were seriously injured', '')}, {'tuple': ('Both the vehicles', 'have been impounded', '')}, {'T': 'at the rear end', 'tuple': ('the police gypsy', 'was damaged', 'T:at the rear end')}, {'tuple': ('doctors', 'said', '')}]
+============
+[('We', 'have not received', 'any complaint', 'L:in the matter', 'T:so far'), ('We have not received any complaint in the matter so far', 'said', 'Anil Shai')]
+
+[{'L': 'in the matter', 'T': 'so far', 'tuple': ('We', 'have not received', 'any complaint', 'L:in the matter', 'T:so far')}, {'tuple': ('We have not received any complaint in the matter so far', 'said', 'Anil Shai')}]
+============
+[('a roadside', 'railing', 'L:near Sidhwan Bet', 'T:on Saturday evening'), ('their speeding bike', 'ran', 'into a roadside'), ('his wife', 'critically injured', 'T:after their speeding bike ran into a roadside'), ('A former Armyman', 'was killed', '')]
+
+[{'L': 'near Sidhwan Bet', 'T': 'on Saturday evening', 'tuple': ('a roadside', 'railing', 'L:near Sidhwan Bet', 'T:on Saturday evening')}, {'tuple': ('their speeding bike', 'ran', 'into a roadside')}, {'T': 'after their speeding bike ran into a roadside', 'tuple': ('his wife', 'critically injured', 'T:after their speeding bike ran into a roadside')}, {'tuple': ('A former Armyman', 'was killed', '')}]
+============
+[('his wife', 'to Sadarpura to attend', 'a wedding ceremony'), ('his wife', 'to Sadarpura', 'T:on Saturday afternoon', 'to attend a wedding ceremony'), ('Dharampal Singh', 'to Sadarpura', 'T:on Saturday afternoon', 'to attend a wedding ceremony')]
+
+[{'tuple': ('his wife', 'to Sadarpura to attend', 'a wedding ceremony')}, {'T': 'on Saturday afternoon', 'tuple': ('his wife', 'to Sadarpura', 'T:on Saturday afternoon', 'to attend a wedding ceremony')}, {'T': 'on Saturday afternoon', 'tuple': ('Dharampal Singh', 'to Sadarpura', 'T:on Saturday afternoon', 'to attend a wedding ceremony')}]
+============
+[('They', 'left', 'the venue', 'T:around 4.30pm')]
+
+[{'T': 'around 4.30pm', 'tuple': ('They', 'left', 'the venue', 'T:around 4.30pm')}]
+============
+[('Dharampal', 'lost control of his bike negotiating', 'a turn'), ('Dharampal', 'lost', 'control of his bike', 'T:while negotiating a turn'), ('Police', 'said', 'Dharampal lost control of his bike')]
+
+[{'tuple': ('Dharampal', 'lost control of his bike negotiating', 'a turn')}, {'T': 'while negotiating a turn', 'tuple': ('Dharampal', 'lost', 'control of his bike', 'T:while negotiating a turn')}, {'tuple': ('Police', 'said', 'Dharampal lost control of his bike')}]
+============
+[('an iron', 'railing', 'on a roadside'), ('The bike', 'rammed', 'into an iron railing on a roadside, adjacent to canal')]
+
+[{'tuple': ('an iron', 'railing', 'on a roadside')}, {'tuple': ('The bike', 'rammed', 'into an iron railing on a roadside, adjacent to canal')}]
+============
+[('We', 'are', 'T:yet', 'to record the statement of Karamjeet'), ('We are yet to record the statement of Karamjeet', 'added', 'a cop'), ('Karamjeet', 'has suffered', 'head injuries'), ('We', 'to record', 'the statement of Karamjeet')]
+
+[{'T': 'yet', 'tuple': ('We', 'are', 'T:yet', 'to record the statement of Karamjeet')}, {'tuple': ('We are yet to record the statement of Karamjeet', 'added', 'a cop')}, {'tuple': ('Karamjeet', 'has suffered', 'head injuries')}, {'tuple': ('We', 'to record', 'the statement of Karamjeet')}]
+============
+[('we', 'received', 'a call that sister-in-law have met with an accident', 'T:Around 5 pm'), ('we', 'received', 'a call that my brother have met with an accident', 'T:Around 5 pm'), ('Jaswant Singh', 'said', 'Around 5 pm , we received a call'), ('a call', 'have met', 'with an accident')]
+
+[{'T': 'Around 5 pm', 'tuple': ('we', 'received', 'a call that sister-in-law have met with an accident', 'T:Around 5 pm')}, {'T': 'Around 5 pm', 'tuple': ('we', 'received', 'a call that my brother have met with an accident', 'T:Around 5 pm')}, {'tuple': ('Jaswant Singh', 'said', 'Around 5 pm , we received a call')}, {'tuple': ('a call', 'have met', 'with an accident')}]
+============
+[('We', 'took', 'the two', 'to a nearby hospital'), ('We', 'rushed', 'to the spot'), ('she', 'has slipped', 'into a coma', 'L:Dayanand Medical Hospital'), ('Karamjeet', 'was referred', 'to Dayanand Medical Hospital'), ('she', 'has slipped', 'into a coma', 'L:Dayanand Medical College'), ('Karamjeet', 'was referred', 'to Dayanand Medical College'), ('Dharampal', 'brought', 'dead'), ('Dharampal', 'was declared', '')]
+
+[{'tuple': ('We', 'took', 'the two', 'to a nearby hospital')}, {'tuple': ('We', 'rushed', 'to the spot')}, {'L': 'Dayanand Medical Hospital', 'tuple': ('she', 'has slipped', 'into a coma', 'L:Dayanand Medical Hospital')}, {'tuple': ('Karamjeet', 'was referred', 'to Dayanand Medical Hospital')}, {'L': 'Dayanand Medical College', 'tuple': ('she', 'has slipped', 'into a coma', 'L:Dayanand Medical College')}, {'tuple': ('Karamjeet', 'was referred', 'to Dayanand Medical College')}, {'tuple': ('Dharampal', 'brought', 'dead')}, {'tuple': ('Dharampal', 'was declared', '')}]
+============
+[('Dharampal', 'had', 'three sons'), ('Dharampal had three sons', 'added', 'Jaswant'), ('Dharampal', 'had retired', 'from Army'), ('Dharampal had retired from Army', 'added', 'Jaswant')]
+
+[{'tuple': ('Dharampal', 'had', 'three sons')}, {'tuple': ('Dharampal had three sons', 'added', 'Jaswant')}, {'tuple': ('Dharampal', 'had retired', 'from Army')}, {'tuple': ('Dharampal had retired from Army', 'added', 'Jaswant')}]
+============
+[('A speeding truck', 'mowed', 'down two persons near Shivdaspura', 'T:on late Saturday night')]
+
+[{'T': 'on late Saturday night', 'tuple': ('A speeding truck', 'mowed', 'down two persons near Shivdaspura', 'T:on late Saturday night')}]
+============
+[('The victims , identified as Kanhaiya ( 20 )', 'were rushed', 'to a nearby hospital'), ('The victims', 'identified', 'as Kanhaiya'), ('doctors', 'declared', 'them dead on arrival', 'L:a nearby hospital'), ('The victims , identified as Man Singh ( 25 )', 'were rushed', 'to a nearby hospital'), ('The victims', 'identified', 'as Man Singh')]
+
+[{'tuple': ('The victims , identified as Kanhaiya ( 20 )', 'were rushed', 'to a nearby hospital')}, {'tuple': ('The victims', 'identified', 'as Kanhaiya')}, {'L': 'a nearby hospital', 'tuple': ('doctors', 'declared', 'them dead on arrival', 'L:a nearby hospital')}, {'tuple': ('The victims , identified as Man Singh ( 25 )', 'were rushed', 'to a nearby hospital')}, {'tuple': ('The victims', 'identified', 'as Man Singh')}]
+============
+[('The police', 'have learned About', 'that the duo were headed home when the mishap took place'), ('the mishap', 'took', 'place'), ('the duo', 'were', 'residents of Prahladpura village'), ('The police', 'have learned About', 'that the duo were residents of Prahladpura village'), ('Bhanwarlal', 'spotted', 'a heavy truck', 'L:in front of him'), ('the motorcycle on which the duo was riding', 'was taking', 'a turn near Sitapura Circle', 'T:when Bhanwarlal spotted a heavy truck in front of him'), ('the motorcycle', 'was riding', 'the duo')]
+
+[{'tuple': ('The police', 'have learned About', 'that the duo were headed home when the mishap took place')}, {'tuple': ('the mishap', 'took', 'place')}, {'tuple': ('the duo', 'were', 'residents of Prahladpura village')}, {'tuple': ('The police', 'have learned About', 'that the duo were residents of Prahladpura village')}, {'L': 'in front of him', 'tuple': ('Bhanwarlal', 'spotted', 'a heavy truck', 'L:in front of him')}, {'T': 'when Bhanwarlal spotted a heavy truck in front of him', 'tuple': ('the motorcycle on which the duo was riding', 'was taking', 'a turn near Sitapura Circle', 'T:when Bhanwarlal spotted a heavy truck in front of him')}, {'tuple': ('the motorcycle', 'was riding', 'the duo')}]
+============
+[('the truck', 'ran over', 'them'), ('Even before he could change direction, the truck ran them over', 'said', 'a police official'), ('the truck ran them over," said a police official', 'said', '')]
+
+[{'tuple': ('the truck', 'ran over', 'them')}, {'tuple': ('Even before he could change direction, the truck ran them over', 'said', 'a police official')}, {'tuple': ('the truck ran them over," said a police official', 'said', '')}]
+============
+[('they', 'came', 'under the wheels of the truck'), ('The duo', 'was bleeding', 'from their heads', 'T:after they came under the wheels of the truck', 'T:profusely')]
+
+[{'tuple': ('they', 'came', 'under the wheels of the truck')}, {'T': 'profusely', 'tuple': ('The duo', 'was bleeding', 'from their heads', 'T:after they came under the wheels of the truck', 'T:profusely')}]
+============
+[('A few villagers', 'attempted to catch', 'the driver who fled'), ('the driver', 'fled', ''), ('A few villagers', 'attempted to catch', 'the driver who jumped off the truck'), ('A few villagers', 'attempted', 'to catch the driver'), ('the driver', 'jumped', 'off the truck')]
+
+[{'tuple': ('A few villagers', 'attempted to catch', 'the driver who fled')}, {'tuple': ('the driver', 'fled', '')}, {'tuple': ('A few villagers', 'attempted to catch', 'the driver who jumped off the truck')}, {'tuple': ('A few villagers', 'attempted', 'to catch the driver')}, {'tuple': ('the driver', 'jumped', 'off the truck')}]
+============
+[('A villager', 'informed', 'ambulance'), ('A villager', 'informed', 'cops')]
+
+[{'tuple': ('A villager', 'informed', 'ambulance')}, {'tuple': ('A villager', 'informed', 'cops')}]
+============
+[('Cops', 'said', 'that efforts are being made to catch the driver')]
+
+[{'tuple': ('Cops', 'said', 'that efforts are being made to catch the driver')}]
+============
+[('Police', 'have filed', 'a case against the unnamed driver for reckless driving'), ('Police', 'have filed', 'a case against the unnamed driver for rash')]
+
+[{'tuple': ('Police', 'have filed', 'a case against the unnamed driver for reckless driving')}, {'tuple': ('Police', 'have filed', 'a case against the unnamed driver for rash')}]
+============
+[('That', "'s rammed", 'into the bike'), ("That 's rammed into the bike", 'told', 'TOI'), ('That', "'s", 'why it lost control'), ("That 's why it lost control", 'told', 'TOI'), ('it', 'lost', 'control'), ('The spot near Prahaladpura', 'has witnessed', 'several accidents'), ('The spot near Shivdaspur', 'has witnessed', 'several accidents')]
+
+[{'tuple': ('That', "'s rammed", 'into the bike')}, {'tuple': ("That 's rammed into the bike", 'told', 'TOI')}, {'tuple': ('That', "'s", 'why it lost control')}, {'tuple': ("That 's why it lost control", 'told', 'TOI')}, {'tuple': ('it', 'lost', 'control')}, {'tuple': ('The spot near Prahaladpura', 'has witnessed', 'several accidents')}, {'tuple': ('The spot near Shivdaspur', 'has witnessed', 'several accidents')}]
+============
+[('two persons , identified as Vikas ( 21 )', 'died', ''), ('two persons , identified as Vikas ( 21 )', 'died', 'T:after an overloaded truck lost control', 'T:On June 13'), ('two persons', 'identified', 'as Vikas'), ('two persons , identified as Bhanwarlal ( 32 )', 'died', ''), ('an overloaded truck', 'lost', 'control'), ('two persons , identified as Bhanwarlal ( 32 )', 'died', 'T:after an overloaded truck lost control', 'T:On June 13'), ('two persons', 'identified', 'as Bhanwarlal')]
+
+[{'tuple': ('two persons , identified as Vikas ( 21 )', 'died', '')}, {'T': 'On June 13', 'tuple': ('two persons , identified as Vikas ( 21 )', 'died', 'T:after an overloaded truck lost control', 'T:On June 13')}, {'tuple': ('two persons', 'identified', 'as Vikas')}, {'tuple': ('two persons , identified as Bhanwarlal ( 32 )', 'died', '')}, {'tuple': ('an overloaded truck', 'lost', 'control')}, {'T': 'On June 13', 'tuple': ('two persons , identified as Bhanwarlal ( 32 )', 'died', 'T:after an overloaded truck lost control', 'T:On June 13')}, {'tuple': ('two persons', 'identified', 'as Bhanwarlal')}]
+============
+[('Vikas', 'were also', 'residents of Prahaladpura village'), ('Both Bhanwarlal', 'were also', 'residents of Prahaladpura village')]
+
+[{'tuple': ('Vikas', 'were also', 'residents of Prahaladpura village')}, {'tuple': ('Both Bhanwarlal', 'were also', 'residents of Prahaladpura village')}]
+============
+[('the road', 'is also called', "as 'black spot' due to repeated incidents of accidents"), ('a senior police official', 'adding', "that the road is also called as 'black spot' due to repeated incidents of accidents"), ('There are no reflectors or road lights', 'said', 'a senior police official'), ('two-wheelers', 'to drive', 'T:during the night'), ('it', 'is', 'particularly dangerous')]
+
+[{'tuple': ('the road', 'is also called', "as 'black spot' due to repeated incidents of accidents")}, {'tuple': ('a senior police official', 'adding', "that the road is also called as 'black spot' due to repeated incidents of accidents")}, {'tuple': ('There are no reflectors or road lights', 'said', 'a senior police official')}, {'T': 'during the night', 'tuple': ('two-wheelers', 'to drive', 'T:during the night')}, {'tuple': ('it', 'is', 'particularly dangerous')}]
+============
+[('The body of the duo', 'was handed over', 'to their families', 'T:on Sunday morning', 'T:after post-mortem')]
+
+[{'T': 'after post-mortem', 'tuple': ('The body of the duo', 'was handed over', 'to their families', 'T:on Sunday morning', 'T:after post-mortem')}]
+============
+[('the authorities', 'to wake up', 'to the need of traffic regulations'), ('the authorities', 'have', 'yet')]
+
+[{'tuple': ('the authorities', 'to wake up', 'to the need of traffic regulations')}, {'tuple': ('the authorities', 'have', 'yet')}]
+============
+[('a speeding water tanker', 'crashed', 'into their minibus near Wagholi', 'L:on the Pune - Ahmednagar highway', 'T:around 7 pm', 'T:on Sunday'), ('six of them', 'were killed', 'T:after a speeding water tanker crashed into their minibus near Wagholi on the Pune - Ahmednagar highway around 7 pm on Sunday'), ('The return journey from Ahmednagar of a group of 15 software engineers from the city', 'turned', 'tragic', 'T:when six of them were killed after a speeding water tanker crashed into their minibus near Wagholi on the Pune - Ahmednagar highway around 7 pm on Sunday'), ('a speeding water tanker', 'jumped', 'over the road divider'), ('six of them', 'were killed', 'T:after a speeding water tanker jumped over the road divider'), ('The return journey from Ahmednagar of a group of 15 software engineers from the city', 'turned', 'tragic', 'T:when six of them were killed after a speeding water tanker jumped over the road divider')]
+
+[{'L': 'on the Pune - Ahmednagar highway', 'T': 'on Sunday', 'tuple': ('a speeding water tanker', 'crashed', 'into their minibus near Wagholi', 'L:on the Pune - Ahmednagar highway', 'T:around 7 pm', 'T:on Sunday')}, {'T': 'after a speeding water tanker crashed into their minibus near Wagholi on the Pune - Ahmednagar highway around 7 pm on Sunday', 'tuple': ('six of them', 'were killed', 'T:after a speeding water tanker crashed into their minibus near Wagholi on the Pune - Ahmednagar highway around 7 pm on Sunday')}, {'T': 'when six of them were killed after a speeding water tanker crashed into their minibus near Wagholi on the Pune - Ahmednagar highway around 7 pm on Sunday', 'tuple': ('The return journey from Ahmednagar of a group of 15 software engineers from the city', 'turned', 'tragic', 'T:when six of them were killed after a speeding water tanker crashed into their minibus near Wagholi on the Pune - Ahmednagar highway around 7 pm on Sunday')}, {'tuple': ('a speeding water tanker', 'jumped', 'over the road divider')}, {'T': 'after a speeding water tanker jumped over the road divider', 'tuple': ('six of them', 'were killed', 'T:after a speeding water tanker jumped over the road divider')}, {'T': 'when six of them were killed after a speeding water tanker jumped over the road divider', 'tuple': ('The return journey from Ahmednagar of a group of 15 software engineers from the city', 'turned', 'tragic', 'T:when six of them were killed after a speeding water tanker jumped over the road divider')}]
+============
+[('a car', 'travelling', ''), ('the tanker', 'went on', 'T:After hitting the minibus')]
+
+[{'tuple': ('a car', 'travelling', '')}, {'T': 'After hitting the minibus', 'tuple': ('the tanker', 'went on', 'T:After hitting the minibus')}]
+============
+[('A couple travelling in the car', 'to receive', 'only minor injuries'), ('A couple travelling in the car', 'was', 'fortunate to receive only minor injuries'), ('A couple', 'travelling', 'L:in the car')]
+
+[{'tuple': ('A couple travelling in the car', 'to receive', 'only minor injuries')}, {'tuple': ('A couple travelling in the car', 'was', 'fortunate to receive only minor injuries')}, {'L': 'in the car', 'tuple': ('A couple', 'travelling', 'L:in the car')}]
+============
+[('All 15 software engineers', 'employed', 'with one company', 'T:earlier'), ('All 15 software engineers', 'were', 'earlier employed with one company')]
+
+[{'T': 'earlier', 'tuple': ('All 15 software engineers', 'employed', 'with one company', 'T:earlier')}, {'tuple': ('All 15 software engineers', 'were', 'earlier employed with one company')}]
+============
+[('some', 'had shifted', 'to other IT firms', 'T:over time')]
+
+[{'T': 'over time', 'tuple': ('some', 'had shifted', 'to other IT firms', 'T:over time')}]
+============
+[('the minibus', 'to go', 'to Sonai', 'for the marriage of a colleague'), ('They', 'had hired', 'the minibus to go to Sonai in Ahmednagar district for the marriage of a colleague')]
+
+[{'tuple': ('the minibus', 'to go', 'to Sonai', 'for the marriage of a colleague')}, {'tuple': ('They', 'had hired', 'the minibus to go to Sonai in Ahmednagar district for the marriage of a colleague')}]
+============
+[('they', 'visited the Shani Shingnapur temple before heading', 'for Pune'), ('they', 'visited', 'the Shani Shingnapur temple', 'T:before heading for Pune', 'T:On their return')]
+
+[{'tuple': ('they', 'visited the Shani Shingnapur temple before heading', 'for Pune')}, {'T': 'On their return', 'tuple': ('they', 'visited', 'the Shani Shingnapur temple', 'T:before heading for Pune', 'T:On their return')}]
+============
+[('the driver of the water tanker', 'lost', 'control of the vehicle'), ('Inspector Sarjerao Patil of the Lonikand police station', 'said', 'the driver of the water tanker, which was going towards Ahmednagar, lost control of the vehicle'), ('the water tanker', 'was going', 'towards Ahmednagar')]
+
+[{'tuple': ('the driver of the water tanker', 'lost', 'control of the vehicle')}, {'tuple': ('Inspector Sarjerao Patil of the Lonikand police station', 'said', 'the driver of the water tanker, which was going towards Ahmednagar, lost control of the vehicle')}, {'tuple': ('the water tanker', 'was going', 'towards Ahmednagar')}]
+============
+[('the minibus', 'was coming', 'from the opposite direction'), ('The vehicle', 'hit', 'the minibus which was coming from the opposite direction'), ('The vehicle', 'jumped', 'over the road divider')]
+
+[{'tuple': ('the minibus', 'was coming', 'from the opposite direction')}, {'tuple': ('The vehicle', 'hit', 'the minibus which was coming from the opposite direction')}, {'tuple': ('The vehicle', 'jumped', 'over the road divider')}]
+============
+[('All six victims', 'died', 'L:on the spot')]
+
+[{'L': 'on the spot', 'tuple': ('All six victims', 'died', 'L:on the spot')}]
+============
+[('The front portion of the car', 'was extensively damaged', ''), ('The front portion of the car coming from behind was also extensively damaged', 'said', 'he'), ('the car', 'coming', 'from behind')]
+
+[{'tuple': ('The front portion of the car', 'was extensively damaged', '')}, {'tuple': ('The front portion of the car coming from behind was also extensively damaged', 'said', 'he')}, {'tuple': ('the car', 'coming', 'from behind')}]
+============
+[('The deceased', 'were identified', 'as Vaibhav Mane ( 27 ) of Baner')]
+
+[{'tuple': ('The deceased', 'were identified', 'as Vaibhav Mane ( 27 ) of Baner')}]
+============
+[('the injured', 'were taken', 'to a private hospital in Wagholi'), ('The deceased', 'were taken', 'to a private hospital in Wagholi')]
+
+[{'tuple': ('the injured', 'were taken', 'to a private hospital in Wagholi')}, {'tuple': ('The deceased', 'were taken', 'to a private hospital in Wagholi')}]
+============
+[('One of the injured engineers', 'has been admitted', 'to a private hospital in the city')]
+
+[{'tuple': ('One of the injured engineers', 'has been admitted', 'to a private hospital in the city')}]
+============
+[('the bodies', 'allied', 'formalities', 'T:Around 11 pm'), ('the bodies of four of the deceased', 'were brought', 'to Sassoon Hospital', 'for a postmortem', 'T:Around 11 pm')]
+
+[{'T': 'Around 11 pm', 'tuple': ('the bodies', 'allied', 'formalities', 'T:Around 11 pm')}, {'T': 'Around 11 pm', 'tuple': ('the bodies of four of the deceased', 'were brought', 'to Sassoon Hospital', 'for a postmortem', 'T:Around 11 pm')}]
+============
+[('Another two bodies', 'to arrive', 'T:later'), ('Another two bodies', 'were expected', '')]
+
+[{'T': 'later', 'tuple': ('Another two bodies', 'to arrive', 'T:later')}, {'tuple': ('Another two bodies', 'were expected', '')}]
+============
+[('neighbours of the victims', 'had gathered', 'L:at the hospital on learning about the accident'), ('A few relatives of the victims', 'had gathered', 'L:at the hospital on learning about the accident')]
+
+[{'L': 'at the hospital on learning about the accident', 'tuple': ('neighbours of the victims', 'had gathered', 'L:at the hospital on learning about the accident')}, {'L': 'at the hospital on learning about the accident', 'tuple': ('A few relatives of the victims', 'had gathered', 'L:at the hospital on learning about the accident')}]
+============
+[('The tanker', 'hit the rear portion of our minibus after jumping', ''), ('The tanker', 'hit', 'the rear portion of our minibus', 'T:after jumping the divider'), ('A software engineer from the group', 'told', 'TOI', 'L:at Sassoon Hospital', 'The tanker, after jumping the divider, hit the rear portion of our minibus'), ('our minibus', 'were sitting', 'the victims')]
+
+[{'tuple': ('The tanker', 'hit the rear portion of our minibus after jumping', '')}, {'T': 'after jumping the divider', 'tuple': ('The tanker', 'hit', 'the rear portion of our minibus', 'T:after jumping the divider')}, {'L': 'at Sassoon Hospital', 'tuple': ('A software engineer from the group', 'told', 'TOI', 'L:at Sassoon Hospital', 'The tanker, after jumping the divider, hit the rear portion of our minibus')}, {'tuple': ('our minibus', 'were sitting', 'the victims')}]
+============
+[('I', 'to receive', 'only minor injuries'), ('I', 'was', 'fortunate to receive only minor injuries on my finger'), ('I', 'was sitting', 'in the front seat next to the driver'), ('local residents', 'helped in extricating', 'the bodies', 'from the minibus'), ('officials from a team from the Lonikand police station', 'rushed', 'to the spot', 'T:while local residents helped in extricating the bodies from the minibus'), ('local residents', 'helped in extricating', 'the bodies', 'from the minibus'), ('local residents', 'helped', 'in extricating the bodies from the minibus'), ('officials from the Pune rural police', 'rushed', 'to the spot', 'T:while local residents helped in extricating the bodies from the minibus')]
+
+[{'tuple': ('I', 'to receive', 'only minor injuries')}, {'tuple': ('I', 'was', 'fortunate to receive only minor injuries on my finger')}, {'tuple': ('I', 'was sitting', 'in the front seat next to the driver')}, {'tuple': ('local residents', 'helped in extricating', 'the bodies', 'from the minibus')}, {'T': 'while local residents helped in extricating the bodies from the minibus', 'tuple': ('officials from a team from the Lonikand police station', 'rushed', 'to the spot', 'T:while local residents helped in extricating the bodies from the minibus')}, {'tuple': ('local residents', 'helped in extricating', 'the bodies', 'from the minibus')}, {'tuple': ('local residents', 'helped', 'in extricating the bodies from the minibus')}, {'T': 'while local residents helped in extricating the bodies from the minibus', 'tuple': ('officials from the Pune rural police', 'rushed', 'to the spot', 'T:while local residents helped in extricating the bodies from the minibus')}]
+============
+[('the police', 'registered', 'a First Information Report', 'against a young driver over deaths of cattle in a road mishap', 'L:In one of the rare instances of its kind'), ('the police', 'registered', 'a First Information Report', 'against unidentified cattle owner', 'L:In one of the rare instances of its kind')]
+
+[{'L': 'In one of the rare instances of its kind', 'tuple': ('the police', 'registered', 'a First Information Report', 'against a young driver over deaths of cattle in a road mishap', 'L:In one of the rare instances of its kind')}, {'L': 'In one of the rare instances of its kind', 'tuple': ('the police', 'registered', 'a First Information Report', 'against unidentified cattle owner', 'L:In one of the rare instances of its kind')}]
+============
+[('Two stray cattle', 'had died', 'T:after being hit by a vehicle on Amravati Road in the wee hours of Sunday')]
+
+[{'T': 'after being hit by a vehicle on Amravati Road in the wee hours of Sunday', 'tuple': ('Two stray cattle', 'had died', 'T:after being hit by a vehicle on Amravati Road in the wee hours of Sunday')}]
+============
+[('a reportedly speeding car', 'collided', '')]
+
+[{'tuple': ('a reportedly speeding car', 'collided', '')}]
+============
+[('the other', 'sustained', 'severe injuries', 'T:While one animal died on the spot'), ('one animal', 'died', 'L:on the spot')]
+
+[{'T': 'While one animal died on the spot', 'tuple': ('the other', 'sustained', 'severe injuries', 'T:While one animal died on the spot')}, {'L': 'on the spot', 'tuple': ('one animal', 'died', 'L:on the spot')}]
+============
+[('A police', 'alerted', 'the control room'), ('A police patrol', 'reached', 'the spot')]
+
+[{'tuple': ('A police', 'alerted', 'the control room')}, {'tuple': ('A police patrol', 'reached', 'the spot')}]
+============
+[('the cops', 'struggled to seek', 'help from local animal welfare organizations'), ('the cops', 'struggled', 'to seek help from local animal welfare organizations'), ('Police sources', 'stated', 'the cops struggled to seek help from local animal welfare organizations')]
+
+[{'tuple': ('the cops', 'struggled to seek', 'help from local animal welfare organizations')}, {'tuple': ('the cops', 'struggled', 'to seek help from local animal welfare organizations')}, {'tuple': ('Police sources', 'stated', 'the cops struggled to seek help from local animal welfare organizations')}]
+============
+[('activist Smita Mire of Save Speechless Organization', 'reached', 'the place', 'T:After over an hour')]
+
+[{'T': 'After over an hour', 'tuple': ('activist Smita Mire of Save Speechless Organization', 'reached', 'the place', 'T:After over an hour')}]
+============
+[('Mire', 'had', 'a tough time arranging for medical treatment for the cattle'), ('a tough time', 'arranging', ''), ('Mire', 'had', 'a tough time arranging for transportation')]
+
+[{'tuple': ('Mire', 'had', 'a tough time arranging for medical treatment for the cattle')}, {'tuple': ('a tough time', 'arranging', '')}, {'tuple': ('Mire', 'had', 'a tough time arranging for transportation')}]
+============
+[('we', 'took', 'the injured animal', 'to Gorakshan Sabha in Dhantoli'), ('the civic body', 'sent', 'the hydraulic ambulance', 'T:Only around 11 am')]
+
+[{'tuple': ('we', 'took', 'the injured animal', 'to Gorakshan Sabha in Dhantoli')}, {'T': 'Only around 11 am', 'tuple': ('the civic body', 'sent', 'the hydraulic ambulance', 'T:Only around 11 am')}]
+============
+[('The animal', 'got', 'treatment 12 hours after the accident'), ('The animal got treatment 12 hours after the accident', 'said', 'Mire')]
+
+[{'tuple': ('The animal', 'got', 'treatment 12 hours after the accident')}, {'tuple': ('The animal got treatment 12 hours after the accident', 'said', 'Mire')}]
+============
+[('the other animal', 'succumbed', 'to the injuries', 'T:However on Monday morning')]
+
+[{'T': 'However on Monday morning', 'tuple': ('the other animal', 'succumbed', 'to the injuries', 'T:However on Monday morning')}]
+============
+[('Wadi police', 'said', 'that apart from the cattle owner, offence was also registered against 27-year-old Pankaj Agrawal'), ('the Ritz car', 'hit', 'the buffaloes'), ('27-year-old Pankaj Agrawal', 'was driving', 'the Ritz car')]
+
+[{'tuple': ('Wadi police', 'said', 'that apart from the cattle owner, offence was also registered against 27-year-old Pankaj Agrawal')}, {'tuple': ('the Ritz car', 'hit', 'the buffaloes')}, {'tuple': ('27-year-old Pankaj Agrawal', 'was driving', 'the Ritz car')}]
+============
+[('Agrawal', 'was probably returning', 'T:after dinner'), ('Agrawal', 'was accompanied', 'by his friends')]
+
+[{'T': 'after dinner', 'tuple': ('Agrawal', 'was probably returning', 'T:after dinner')}, {'tuple': ('Agrawal', 'was accompanied', 'by his friends')}]
+============
+[('We', 'have booked', 'him', 'L:under Sections 279'), ('We have booked him under Sections 279 (rash driving', 'said', 'officials'), ('rash', 'driving', '')]
+
+[{'L': 'under Sections 279', 'tuple': ('We', 'have booked', 'him', 'L:under Sections 279')}, {'tuple': ('We have booked him under Sections 279 (rash driving', 'said', 'officials')}, {'tuple': ('rash', 'driving', '')}]
+============
+[('unidentified cattle owner', 'has also been booked', 'L:under Section 429'), ('They', 'added', 'unidentified cattle owner has also been booked under Section 429')]
+
+[{'L': 'under Section 429', 'tuple': ('unidentified cattle owner', 'has also been booked', 'L:under Section 429')}, {'tuple': ('They', 'added', 'unidentified cattle owner has also been booked under Section 429')}]
+============
+[('Our team', 'is trying to trace', 'the owner who probably lives near Futala'), ('Our team', 'is trying', 'to trace the owner'), ('the owner', 'probably lives', 'L:near Futala')]
+
+[{'tuple': ('Our team', 'is trying to trace', 'the owner who probably lives near Futala')}, {'tuple': ('Our team', 'is trying', 'to trace the owner')}, {'L': 'near Futala', 'tuple': ('the owner', 'probably lives', 'L:near Futala')}]
+============
+[('We', 'have filed', 'a chargesheet', 'T:before the court'), ('We have filed a chargesheet before the court', 'said', 'cops')]
+
+[{'T': 'before the court', 'tuple': ('We', 'have filed', 'a chargesheet', 'T:before the court')}, {'tuple': ('We have filed a chargesheet before the court', 'said', 'cops')}]
+============
+[('her', 'to withdraw', 'her complaint'), ('repeated calls', 'pressuring', 'her', 'to withdraw her complaint'), ('Mire', 'allegedly received', 'repeated calls pressuring her to withdraw her complaint')]
+
+[{'tuple': ('her', 'to withdraw', 'her complaint')}, {'tuple': ('repeated calls', 'pressuring', 'her', 'to withdraw her complaint')}, {'tuple': ('Mire', 'allegedly received', 'repeated calls pressuring her to withdraw her complaint')}]
+============
+[('their owners', 'be booked', ''), ('She', 'demanded', 'that their owners be booked'), ('all stray cattle', 'must be seized', ''), ('She', 'demanded', 'that all stray cattle must be seized')]
+
+[{'tuple': ('their owners', 'be booked', '')}, {'tuple': ('She', 'demanded', 'that their owners be booked')}, {'tuple': ('all stray cattle', 'must be seized', '')}, {'tuple': ('She', 'demanded', 'that all stray cattle must be seized')}]
+============
+[('Menace due to stray cattle', 'will increase', 'T:in monsoon')]
+
+[{'T': 'in monsoon', 'tuple': ('Menace due to stray cattle', 'will increase', 'T:in monsoon')}]
+============
+[('The lives of humans', 'gets', 'in danger'), ('The lives of humans both gets in danger', 'said', 'Mire'), ('The lives of animals', 'gets', 'in danger'), ('The lives of animals both gets in danger', 'said', 'Mire')]
+
+[{'tuple': ('The lives of humans', 'gets', 'in danger')}, {'tuple': ('The lives of humans both gets in danger', 'said', 'Mire')}, {'tuple': ('The lives of animals', 'gets', 'in danger')}, {'tuple': ('The lives of animals both gets in danger', 'said', 'Mire')}]
+============
+[('his bike', 'collided', 'with a stray bull at Telangkhedi Road'), ('25-year-old Sagar Telang', 'had lost', 'his life', 'T:after his bike collided with a stray bull at Telangkhedi Road', 'T:In the same month last year')]
+
+[{'tuple': ('his bike', 'collided', 'with a stray bull at Telangkhedi Road')}, {'T': 'In the same month last year', 'tuple': ('25-year-old Sagar Telang', 'had lost', 'his life', 'T:after his bike collided with a stray bull at Telangkhedi Road', 'T:In the same month last year')}]
+============
+[('they', 'were not expecting', 'a bull in the middle of the road at midnight'), ('His friend', 'was riding', 'pillion'), ('His friend Manoj, who was riding pillion', 'had said', 'they were not expecting a bull in the middle of the road at midnight')]
+
+[{'tuple': ('they', 'were not expecting', 'a bull in the middle of the road at midnight')}, {'tuple': ('His friend', 'was riding', 'pillion')}, {'tuple': ('His friend Manoj, who was riding pillion', 'had said', 'they were not expecting a bull in the middle of the road at midnight')}]
+============
+[('he', 'to claim', 'the animal'), ('he', 'did not turn up', 'to claim the animal'), ('its owner , believed to be staying near Telangkhedi', 'could not be identified', 'by the police'), ('The bull', 'had also died', '')]
+
+[{'tuple': ('he', 'to claim', 'the animal')}, {'tuple': ('he', 'did not turn up', 'to claim the animal')}, {'tuple': ('its owner , believed to be staying near Telangkhedi', 'could not be identified', 'by the police')}, {'tuple': ('The bull', 'had also died', '')}]
+============
+[('The area surrounding Telangkhedi lake', 'has', 'many cattle owners'), ('The area', 'surrounding', 'Telangkhedi lake')]
+
+[{'tuple': ('The area surrounding Telangkhedi lake', 'has', 'many cattle owners')}, {'tuple': ('The area', 'surrounding', 'Telangkhedi lake')}]
+============
+[('no action', 'is taken', ''), ('no action is taken', 'said', 'Mire'), ('Repeated accidents', 'are caused', 'due to stray cattle'), ('Repeated accidents are caused due to stray cattle', 'said', 'Mire')]
+
+[{'tuple': ('no action', 'is taken', '')}, {'tuple': ('no action is taken', 'said', 'Mire')}, {'tuple': ('Repeated accidents', 'are caused', 'due to stray cattle')}, {'tuple': ('Repeated accidents are caused due to stray cattle', 'said', 'Mire')}]
+============
+[('his motorcycle', 'was hit', 'by a canter', 'T:on Sunday'), ('a 19-year-old', 'was killed', 'T:after his motorcycle was hit by a canter on Sunday'), ('he', 'rammed', 'his truck', 'into a shed of the Maruti plant in Manesar', 'T:on Saturday night', 'T:while a 19-year-old was killed after his motorcycle was hit by a canter on Sunday'), ('A truck driver', 'was killed', 'T:after he rammed his truck into a shed of the Maruti plant in Manesar on Saturday night')]
+
+[{'T': 'on Sunday', 'tuple': ('his motorcycle', 'was hit', 'by a canter', 'T:on Sunday')}, {'T': 'after his motorcycle was hit by a canter on Sunday', 'tuple': ('a 19-year-old', 'was killed', 'T:after his motorcycle was hit by a canter on Sunday')}, {'T': 'while a 19-year-old was killed after his motorcycle was hit by a canter on Sunday', 'tuple': ('he', 'rammed', 'his truck', 'into a shed of the Maruti plant in Manesar', 'T:on Saturday night', 'T:while a 19-year-old was killed after his motorcycle was hit by a canter on Sunday')}, {'T': 'after he rammed his truck into a shed of the Maruti plant in Manesar on Saturday night', 'tuple': ('A truck driver', 'was killed', 'T:after he rammed his truck into a shed of the Maruti plant in Manesar on Saturday night')}]
+============
+[('a 23-year-old truck driver', 'died', 'L:on spot', 'L:In the first incident')]
+
+[{'L': 'In the first incident', 'tuple': ('a 23-year-old truck driver', 'died', 'L:on spot', 'L:In the first incident')}]
+============
+[('the duo', 'were going', 'towards the Maruti plant from Krishna Maruti'), ('the truck', 'was', 'present at the time of the accident')]
+
+[{'tuple': ('the duo', 'were going', 'towards the Maruti plant from Krishna Maruti')}, {'tuple': ('the truck', 'was', 'present at the time of the accident')}]
+============
+[('the shed', 'was built', 'L:on the footpath'), ('they', 'crashed', 'into the shed'), ('Rajesh', 'took', 'a turn', 'T:As they reached the Press Shop A'), ('they', 'reached', 'the Press Shop A')]
+
+[{'L': 'on the footpath', 'tuple': ('the shed', 'was built', 'L:on the footpath')}, {'tuple': ('they', 'crashed', 'into the shed')}, {'T': 'As they reached the Press Shop A', 'tuple': ('Rajesh', 'took', 'a turn', 'T:As they reached the Press Shop A')}, {'tuple': ('they', 'reached', 'the Press Shop A')}]
+============
+[("A garter pierced through Rajesh's chest", 'said', 'police'), ('A garter', 'pierced', '')]
+
+[{'tuple': ("A garter pierced through Rajesh's chest", 'said', 'police')}, {'tuple': ('A garter', 'pierced', '')}]
+============
+[('the helper, based on whose complaint', 'escaped', 'unscathed'), ('an FIR', 'was filed', ''), ('the helper', 'based', 'on whose complaint')]
+
+[{'tuple': ('the helper, based on whose complaint', 'escaped', 'unscathed')}, {'tuple': ('an FIR', 'was filed', '')}, {'tuple': ('the helper', 'based', 'on whose complaint')}]
+============
+[('An FIR', 'was filed under', 'under sections 279'), ('mischief', 'causing', 'damage'), ('rash', 'driving', ''), ('An FIR', 'was filed', 'under sections 279')]
+
+[{'tuple': ('An FIR', 'was filed under', 'under sections 279')}, {'tuple': ('mischief', 'causing', 'damage')}, {'tuple': ('rash', 'driving', '')}, {'tuple': ('An FIR', 'was filed', 'under sections 279')}]
+============
+[('IMT Manesar SHO Narender Kumar', 'said', 'L:in such cases', 'the accused are declared "untraceable')]
+
+[{'L': 'in such cases', 'tuple': ('IMT Manesar SHO Narender Kumar', 'said', 'L:in such cases', 'the accused are declared "untraceable')}]
+============
+[('a speeding canter', 'hit', 'his motorcycle')]
+
+[{'tuple': ('a speeding canter', 'hit', 'his motorcycle')}]
+============
+[('he', 'died', 'T:during treatment', 'L:Dharuhera'), ('Passersby', 'took', 'him', 'to a hospital in Dharuhera')]
+
+[{'T': 'during treatment', 'L': 'Dharuhera', 'tuple': ('he', 'died', 'T:during treatment', 'L:Dharuhera')}, {'tuple': ('Passersby', 'took', 'him', 'to a hospital in Dharuhera')}]
+============
+[('Dilipsinh Rana', 'died', 'L:in a road accident near Ghanteshwar village', 'L:on Jamnagar Road', 'T:on Monday evening')]
+
+[{'L': 'on Jamnagar Road', 'T': 'on Monday evening', 'tuple': ('Dilipsinh Rana', 'died', 'L:in a road accident near Ghanteshwar village', 'L:on Jamnagar Road', 'T:on Monday evening')}]
+============
+[('The accident', 'took', 'place', 'T:when the 22-year-old was going on his bike')]
+
+[{'T': 'when the 22-year-old was going on his bike', 'tuple': ('The accident', 'took', 'place', 'T:when the 22-year-old was going on his bike')}]
+============
+[('a tractor', 'causing', 'severe head injuries'), ('he', 'neared', 'Ghanteshwar village')]
+
+[{'tuple': ('a tractor', 'causing', 'severe head injuries')}, {'tuple': ('he', 'neared', 'Ghanteshwar village')}]
+============
+[('he', 'succumbed', 'to injuryies', 'T:during treatment', 'L:a private hospital'), ('He', 'was rushed', 'to a private hospital')]
+
+[{'T': 'during treatment', 'L': 'a private hospital', 'tuple': ('he', 'succumbed', 'to injuryies', 'T:during treatment', 'L:a private hospital')}, {'tuple': ('He', 'was rushed', 'to a private hospital')}]
+============
+[('The deceased', 'was', 'the only son of hotelier Rana')]
+
+[{'tuple': ('The deceased', 'was', 'the only son of hotelier Rana')}]
+============
+[('Yashraj', 'was', 'in the city', 'T:for vacation'), ('Yashraj', 'was studying', 'L:in Mumbai')]
+
+[{'T': 'for vacation', 'tuple': ('Yashraj', 'was', 'in the city', 'T:for vacation')}, {'L': 'in Mumbai', 'tuple': ('Yashraj', 'was studying', 'L:in Mumbai')}]
+============
+[('A driver', 'injured', 'his sister', 'L:at Thiruvalangadu near Tiruttani on'), ('A driver', 'injured', 'his mother', 'L:at Thiruvalangadu near Tiruttani'), ('A driver , who was drunk', 'mowed down', ''), ('A driver', 'was', 'drunk')]
+
+[{'L': 'at Thiruvalangadu near Tiruttani on', 'tuple': ('A driver', 'injured', 'his sister', 'L:at Thiruvalangadu near Tiruttani on')}, {'L': 'at Thiruvalangadu near Tiruttani', 'tuple': ('A driver', 'injured', 'his mother', 'L:at Thiruvalangadu near Tiruttani')}, {'tuple': ('A driver , who was drunk', 'mowed down', '')}, {'tuple': ('A driver', 'was', 'drunk')}]
+============
+[('her daughter residents', 'handed over', 'to police'), ('his mother', 'was holding', 'her daughter residents handed him over to police'), ('her daughter residents', 'nabbed', 'the car driver Mohan'), ('his mother', 'was holding', 'her daughter residents nabbed the car driver Mohan'), ('The deceased', 'was walking', 'L:on the side of the road'), ('The deceased', 'nabbed', 'the car driver Mohan'), ('9', 'handed over', 'to police', 'T:The deceased , Vasanth , a Class VI student of a private school in Thiruvalangadu , was walking on the side of the road'), ('The deceased', 'was walking', 'L:on the side of the road', 'T:while his mother J Nirmala was holding her daughter'), ('The deceased', 'was walking', 'L:on the side of the road', 'T:while his mother J Nirmala was holding her daughter'), ('9', 'nabbed', 'the car driver Mohan'), ('his mother', 'was holding', 'her daughter')]
+
+[{'tuple': ('her daughter residents', 'handed over', 'to police')}, {'tuple': ('his mother', 'was holding', 'her daughter residents handed him over to police')}, {'tuple': ('her daughter residents', 'nabbed', 'the car driver Mohan')}, {'tuple': ('his mother', 'was holding', 'her daughter residents nabbed the car driver Mohan')}, {'L': 'on the side of the road', 'tuple': ('The deceased', 'was walking', 'L:on the side of the road')}, {'tuple': ('The deceased', 'nabbed', 'the car driver Mohan')}, {'T': 'The deceased , Vasanth , a Class VI student of a private school in Thiruvalangadu , was walking on the side of the road', 'tuple': ('9', 'handed over', 'to police', 'T:The deceased , Vasanth , a Class VI student of a private school in Thiruvalangadu , was walking on the side of the road')}, {'L': 'on the side of the road', 'T': 'while his mother J Nirmala was holding her daughter', 'tuple': ('The deceased', 'was walking', 'L:on the side of the road', 'T:while his mother J Nirmala was holding her daughter')}, {'L': 'on the side of the road', 'T': 'while his mother J Nirmala was holding her daughter', 'tuple': ('The deceased', 'was walking', 'L:on the side of the road', 'T:while his mother J Nirmala was holding her daughter')}, {'tuple': ('9', 'nabbed', 'the car driver Mohan')}, {'tuple': ('his mother', 'was holding', 'her daughter')}]
+============
+[('the speeding car', 'hit', 'the trio', 'from behind'), ('Witnesses', 'told', 'police', 'that the speeding car hit the trio from behind')]
+
+[{'tuple': ('the speeding car', 'hit', 'the trio', 'from behind')}, {'tuple': ('Witnesses', 'told', 'police', 'that the speeding car hit the trio from behind')}]
+============
+[("Vasanth's body", 'was sent', 'to the government hospital in Tiruttani for autopsy')]
+
+[{'tuple': ("Vasanth's body", 'was sent', 'to the government hospital in Tiruttani for autopsy')}]
+============
+[('police personnel', 'put up', 'a sign board', 'on both sides'), ('The residents', 'protested demanding', 'that police personnel put up a sign board on both sides to alert motorists'), ('The residents', 'protested', 'demanding that police personnel put up a sign board on both sides to alert motorists'), ('alert motorists', 'passing through', ''), ('the highways department', 'lay', 'a speed breaker in the area'), ('The residents', 'protested demanding', 'that the highways department lay a speed breaker in the area'), ('The residents', 'protested', 'demanding that the highways department lay a speed breaker in the area')]
+
+[{'tuple': ('police personnel', 'put up', 'a sign board', 'on both sides')}, {'tuple': ('The residents', 'protested demanding', 'that police personnel put up a sign board on both sides to alert motorists')}, {'tuple': ('The residents', 'protested', 'demanding that police personnel put up a sign board on both sides to alert motorists')}, {'tuple': ('alert motorists', 'passing through', '')}, {'tuple': ('the highways department', 'lay', 'a speed breaker in the area')}, {'tuple': ('The residents', 'protested demanding', 'that the highways department lay a speed breaker in the area')}, {'tuple': ('The residents', 'protested', 'demanding that the highways department lay a speed breaker in the area')}]
+============
+[('the family', 'be given', 'compensation', 'L:at the earliest'), ('The agitators', 'demanded', 'that the family be given compensation at the earliest')]
+
+[{'L': 'at the earliest', 'tuple': ('the family', 'be given', 'compensation', 'L:at the earliest')}, {'tuple': ('The agitators', 'demanded', 'that the family be given compensation at the earliest')}]
+============
+[('The Thiruvalangadu police', 'arrested', 'Mohan'), ('The Thiruvalangadu police', 'registered', 'a case')]
+
+[{'tuple': ('The Thiruvalangadu police', 'arrested', 'Mohan')}, {'tuple': ('The Thiruvalangadu police', 'registered', 'a case')}]
+============
+[('He', 'after being produced', 'T:before a magistrate court in Tiruttani'), ('He', 'was remanded', 'L:in judicial custody', 'T:after being produced before a magistrate court in Tiruttani')]
+
+[{'T': 'before a magistrate court in Tiruttani', 'tuple': ('He', 'after being produced', 'T:before a magistrate court in Tiruttani')}, {'L': 'in judicial custody', 'T': 'after being produced before a magistrate court in Tiruttani', 'tuple': ('He', 'was remanded', 'L:in judicial custody', 'T:after being produced before a magistrate court in Tiruttani')}]
+============
+[('when the jeep they were travelling in', 'collided', 'with a mini-truck in Bemetara district on Monday'), ('five others', 'were injured', 'L:in a road accident'), ('Four people', 'were killed', '')]
+
+[{'tuple': ('when the jeep they were travelling in', 'collided', 'with a mini-truck in Bemetara district on Monday')}, {'L': 'in a road accident', 'tuple': ('five others', 'were injured', 'L:in a road accident')}, {'tuple': ('Four people', 'were killed', '')}]
+============
+[('The injured', 'were sent', 'to Raipur hospital', 'for treatment')]
+
+[{'tuple': ('The injured', 'were sent', 'to Raipur hospital', 'for treatment')}]
+============
+[('both the vehicles', 'were speeding', 'T:when the accident happened'), ('preliminary investigation', 'suggests', 'that both the vehicles were speeding when the accident happened'), ('the accident', 'happened', ''), ('The incident', 'took', 'place', 'L:at Bijabhat')]
+
+[{'T': 'when the accident happened', 'tuple': ('both the vehicles', 'were speeding', 'T:when the accident happened')}, {'tuple': ('preliminary investigation', 'suggests', 'that both the vehicles were speeding when the accident happened')}, {'tuple': ('the accident', 'happened', '')}, {'L': 'at Bijabhat', 'tuple': ('The incident', 'took', 'place', 'L:at Bijabhat')}]
+============
+[('The victims', 'were coming', 'back home', 'T:after attending a marriage ceremony'), ('The victims were coming back home after attending a marriage ceremony', 'said', 'the police'), ('The victims', 'after attending', 'a marriage ceremony')]
+
+[{'T': 'after attending a marriage ceremony', 'tuple': ('The victims', 'were coming', 'back home', 'T:after attending a marriage ceremony')}, {'tuple': ('The victims were coming back home after attending a marriage ceremony', 'said', 'the police')}, {'tuple': ('The victims', 'after attending', 'a marriage ceremony')}]
+============
+[('the mini-truck', 'leaving', 'four people', 'dead', 'L:on the spot'), ('it', 'collided', 'with the mini-truck leaving four people dead on the spot'), ('The family', 'was', 'on their way to Amota village in a jeep', 'T:when it collided with the mini-truck leaving four people dead on the spot')]
+
+[{'L': 'on the spot', 'tuple': ('the mini-truck', 'leaving', 'four people', 'dead', 'L:on the spot')}, {'tuple': ('it', 'collided', 'with the mini-truck leaving four people dead on the spot')}, {'T': 'when it collided with the mini-truck leaving four people dead on the spot', 'tuple': ('The family', 'was', 'on their way to Amota village in a jeep', 'T:when it collided with the mini-truck leaving four people dead on the spot')}]
+============
+[('a team', 'rushed', 'to the spot for rescue'), ('Residents', 'alerted', 'the police')]
+
+[{'tuple': ('a team', 'rushed', 'to the spot for rescue')}, {'tuple': ('Residents', 'alerted', 'the police')}]
+============
+[('their condition', 'to be', 'critical'), ('their condition', 'is said', 'L:Ambedkar hospital'), ('The injured', 'are', 'in Ambedkar hospital')]
+
+[{'tuple': ('their condition', 'to be', 'critical')}, {'L': 'Ambedkar hospital', 'tuple': ('their condition', 'is said', 'L:Ambedkar hospital')}, {'tuple': ('The injured', 'are', 'in Ambedkar hospital')}]
+============
+[('an unidentified driver', 'fled', 'T:soon', 'T:after the incident'), ('A case', 'has been registered', 'against an unidentified driver')]
+
+[{'T': 'after the incident', 'tuple': ('an unidentified driver', 'fled', 'T:soon', 'T:after the incident')}, {'tuple': ('A case', 'has been registered', 'against an unidentified driver')}]
+============
+[('The deceased', 'were identified', 'as driver Chandrabhan'), ('The deceased', 'were identified', 'as Ahilya Soni'), ('The deceased', 'were identified', 'as Sanjana Soni'), ('The deceased', 'were identified', 'as Lakhan Soni')]
+
+[{'tuple': ('The deceased', 'were identified', 'as driver Chandrabhan')}, {'tuple': ('The deceased', 'were identified', 'as Ahilya Soni')}, {'tuple': ('The deceased', 'were identified', 'as Sanjana Soni')}, {'tuple': ('The deceased', 'were identified', 'as Lakhan Soni')}]
+============
+[('the Ghodbunder stretch', 'features', 'among the most mishap prone roads'), ('The Monday fuel tanker accident at Kajupada', 'has highlighted', 'the need for identifying and correcting accident-prone spots on Thane roads especially on the Ghodbunder stretch', 'T:once again')]
+
+[{'tuple': ('the Ghodbunder stretch', 'features', 'among the most mishap prone roads')}, {'T': 'once again', 'tuple': ('The Monday fuel tanker accident at Kajupada', 'has highlighted', 'the need for identifying and correcting accident-prone spots on Thane roads especially on the Ghodbunder stretch', 'T:once again')}]
+============
+[('public works', 'to suggest', 'corrective actions'), ('public works', 'were entrusted', 'to suggest corrective actions'), ('public works', 'to identify', 'the dangerous spots in the district'), ('public works', 'were entrusted', 'to identify the dangerous spots in the district'), ('police', 'to suggest', 'corrective actions'), ('police', 'were entrusted', 'to suggest corrective actions'), ('police', 'to identify', 'the dangerous spots in the district'), ('revenue', 'to suggest', 'corrective actions'), ('revenue', 'were entrusted', 'to suggest corrective actions'), ('revenue', 'to identify', 'the dangerous spots in the district'), ('revenue', 'were entrusted', 'to identify the dangerous spots in the district'), ('A joint commitee comprising transport department', 'to suggest', 'corrective actions'), ('A joint commitee comprising transport department', 'were entrusted', 'to suggest corrective actions'), ('A joint commitee comprising transport department', 'to identify', 'the dangerous spots in the district')]
+
+[{'tuple': ('public works', 'to suggest', 'corrective actions')}, {'tuple': ('public works', 'were entrusted', 'to suggest corrective actions')}, {'tuple': ('public works', 'to identify', 'the dangerous spots in the district')}, {'tuple': ('public works', 'were entrusted', 'to identify the dangerous spots in the district')}, {'tuple': ('police', 'to suggest', 'corrective actions')}, {'tuple': ('police', 'were entrusted', 'to suggest corrective actions')}, {'tuple': ('police', 'to identify', 'the dangerous spots in the district')}, {'tuple': ('revenue', 'to suggest', 'corrective actions')}, {'tuple': ('revenue', 'were entrusted', 'to suggest corrective actions')}, {'tuple': ('revenue', 'to identify', 'the dangerous spots in the district')}, {'tuple': ('revenue', 'were entrusted', 'to identify the dangerous spots in the district')}, {'tuple': ('A joint commitee comprising transport department', 'to suggest', 'corrective actions')}, {'tuple': ('A joint commitee comprising transport department', 'were entrusted', 'to suggest corrective actions')}, {'tuple': ('A joint commitee comprising transport department', 'to identify', 'the dangerous spots in the district')}]
+============
+[('several mishaps', 'could be avoided', ''), ('an official', 'claims', 'that several mishaps could be avoided if certain changes are made in the road designs'), ('it', 'was formed', '')]
+
+[{'tuple': ('several mishaps', 'could be avoided', '')}, {'tuple': ('an official', 'claims', 'that several mishaps could be avoided if certain changes are made in the road designs')}, {'tuple': ('it', 'was formed', '')}]
+============
+[('one', 'seem', ''), ('As many as three spots along the Ghodbunder stretch including Chena', 'creek', 'one seem to be the most notorious'), ('one', 'seem', ''), ('As many as three spots along the Ghodbunder stretch including Gaimukh', 'creek', 'one seem to be the most notorious'), ('one', 'seem', ''), ('As many as three spots along the Ghodbunder stretch including the Kajupada turn', 'creek', 'one seem to be the most notorious'), ('heavy vehicles', 'toppling over', ''), ('it', 'comes', ''), ('one', 'to be', 'the most notorious', 'T:when it comes to heavy vehicles')]
+
+[{'tuple': ('one', 'seem', '')}, {'tuple': ('As many as three spots along the Ghodbunder stretch including Chena', 'creek', 'one seem to be the most notorious')}, {'tuple': ('one', 'seem', '')}, {'tuple': ('As many as three spots along the Ghodbunder stretch including Gaimukh', 'creek', 'one seem to be the most notorious')}, {'tuple': ('one', 'seem', '')}, {'tuple': ('As many as three spots along the Ghodbunder stretch including the Kajupada turn', 'creek', 'one seem to be the most notorious')}, {'tuple': ('heavy vehicles', 'toppling over', '')}, {'tuple': ('it', 'comes', '')}, {'T': 'when it comes to heavy vehicles', 'tuple': ('one', 'to be', 'the most notorious', 'T:when it comes to heavy vehicles')}]
+============
+[('heavy vehicles', 'have lost', 'balance', 'L:the stretch'), ('several mishaps', 'reported', 'L:at these three bends on the stretch')]
+
+[{'L': 'the stretch', 'tuple': ('heavy vehicles', 'have lost', 'balance', 'L:the stretch')}, {'L': 'at these three bends on the stretch', 'tuple': ('several mishaps', 'reported', 'L:at these three bends on the stretch')}]
+============
+[('The recent one', 'was', 'on Monday', 'L:at a TMT bus at Chena creek turn', 'T:last week'), ('The recent one', 'was', 'on Monday', 'L:at Kajupada', 'T:last week')]
+
+[{'L': 'at a TMT bus at Chena creek turn', 'T': 'last week', 'tuple': ('The recent one', 'was', 'on Monday', 'L:at a TMT bus at Chena creek turn', 'T:last week')}, {'L': 'at Kajupada', 'T': 'last week', 'tuple': ('The recent one', 'was', 'on Monday', 'L:at Kajupada', 'T:last week')}]
+============
+[('Few MSRTC buses', 'have also met with mishaps on the Gaimukh-Kajupada stretch maneourving', 'a turn'), ('Few MSRTC buses', 'have also met', 'with mishaps on the Gaimukh-Kajupada stretch', 'T:while maneourving a turn causing them to topple')]
+
+[{'tuple': ('Few MSRTC buses', 'have also met with mishaps on the Gaimukh-Kajupada stretch maneourving', 'a turn')}, {'T': 'while maneourving a turn causing them to topple', 'tuple': ('Few MSRTC buses', 'have also met', 'with mishaps on the Gaimukh-Kajupada stretch', 'T:while maneourving a turn causing them to topple')}]
+============
+[('Transport activists', 'have been demanding', 'that sharp bends along the ghodbunder, especially at Kajupada, Gaimukh be eased for safety of traffic movement', 'T:long')]
+
+[{'T': 'long', 'tuple': ('Transport activists', 'have been demanding', 'that sharp bends along the ghodbunder, especially at Kajupada, Gaimukh be eased for safety of traffic movement', 'T:long')}]
+============
+[('admit officials', 'manning', 'the stretch'), ('vehicles', 'overturning', 'T:in the recent past'), ('Few sharp turns along the GB stretch', 'have witnessed', 'instances of vehicles')]
+
+[{'tuple': ('admit officials', 'manning', 'the stretch')}, {'T': 'in the recent past', 'tuple': ('vehicles', 'overturning', 'T:in the recent past')}, {'tuple': ('Few sharp turns along the GB stretch', 'have witnessed', 'instances of vehicles')}]
+============
+[('Experts', 'attribute', 'the mishaps', 'to mostly poor road design')]
+
+[{'tuple': ('Experts', 'attribute', 'the mishaps', 'to mostly poor road design')}]
+============
+[('it', 'posing', 'risks for vehicles'), ('it', 'was designed', ''), ('Often reckless tarring', 'ends up', 'changing the gradients at turns compared to what it was designed for thus posing risks for vehicles')]
+
+[{'tuple': ('it', 'posing', 'risks for vehicles')}, {'tuple': ('it', 'was designed', '')}, {'tuple': ('Often reckless tarring', 'ends up', 'changing the gradients at turns compared to what it was designed for thus posing risks for vehicles')}]
+============
+[('Rampant', 'do', 'sharp curves especially on high speed zones like highways'), ('Rampant speed breakers on highways', 'cause', 'accidents')]
+
+[{'tuple': ('Rampant', 'do', 'sharp curves especially on high speed zones like highways')}, {'tuple': ('Rampant speed breakers on highways', 'cause', 'accidents')}]
+============
+[('The need', 'is', 'to ensure the norms mandated are followed'), ('The need is to ensure the norms mandated are followed', 'said', 'Nitin Dossa'), ('the norms', 'mandated', '')]
+
+[{'tuple': ('The need', 'is', 'to ensure the norms mandated are followed')}, {'tuple': ('The need is to ensure the norms mandated are followed', 'said', 'Nitin Dossa')}, {'tuple': ('the norms', 'mandated', '')}]
+============
+[('We', 'are planning to pilot', 'a joint meet to chalk out a solution to the rising number of road accidents'), ('We', 'are planning to pilot', 'a joint meet to identify'), ('We', 'are planning', 'to pilot a joint meet')]
+
+[{'tuple': ('We', 'are planning to pilot', 'a joint meet to chalk out a solution to the rising number of road accidents')}, {'tuple': ('We', 'are planning to pilot', 'a joint meet to identify')}, {'tuple': ('We', 'are planning', 'to pilot a joint meet')}]
+============
+[('There are several junctions , turns on heavy density corridors like GB need immediate solutions', 'said', 'a transport official'), ('There are several junctions', 'said', 'a transport official'), ('heavy density corridors like GB', 'see', 'frequent accidents')]
+
+[{'tuple': ('There are several junctions , turns on heavy density corridors like GB need immediate solutions', 'said', 'a transport official')}, {'tuple': ('There are several junctions', 'said', 'a transport official')}, {'tuple': ('heavy density corridors like GB', 'see', 'frequent accidents')}]
+============
+[('The city', 'has witnessed', 'nearly 4,400 accidents', 'T:since nearly 800 proved fatal'), ('The city', 'has witnessed', 'nearly 4,400 accidents', 'T:since 2014 of')]
+
+[{'T': 'since nearly 800 proved fatal', 'tuple': ('The city', 'has witnessed', 'nearly 4,400 accidents', 'T:since nearly 800 proved fatal')}, {'T': 'since 2014 of', 'tuple': ('The city', 'has witnessed', 'nearly 4,400 accidents', 'T:since 2014 of')}]
+============
+[('their SUV', 'dashed', 'T:on NH-30', 'L:under Maner police station area in Patna district around 2.20am on Tuesday'), ('Five youths', 'died', 'T:when their SUV dashed against a stationary truck from behind near Mahadevsthan on NH-30 under Maner police station area in Patna district around 2.20am on Tuesday')]
+
+[{'T': 'on NH-30', 'L': 'under Maner police station area in Patna district around 2.20am on Tuesday', 'tuple': ('their SUV', 'dashed', 'T:on NH-30', 'L:under Maner police station area in Patna district around 2.20am on Tuesday')}, {'T': 'when their SUV dashed against a stationary truck from behind near Mahadevsthan on NH-30 under Maner police station area in Patna district around 2.20am on Tuesday', 'tuple': ('Five youths', 'died', 'T:when their SUV dashed against a stationary truck from behind near Mahadevsthan on NH-30 under Maner police station area in Patna district around 2.20am on Tuesday')}]
+============
+[('The deceased', 'were identified', 'as all', 'L:in their early 20s'), ('The deceased', 'were identified', 'as Nitesh Kumar'), ('The deceased', 'were identified', 'as Ankush Kumar'), ('The deceased', 'were identified', 'as Rajesh Kumar'), ('The deceased', 'were identified', 'as Pappu Kumar'), ('The deceased', 'were identified', 'as Sharwan Kumar')]
+
+[{'L': 'in their early 20s', 'tuple': ('The deceased', 'were identified', 'as all', 'L:in their early 20s')}, {'tuple': ('The deceased', 'were identified', 'as Nitesh Kumar')}, {'tuple': ('The deceased', 'were identified', 'as Ankush Kumar')}, {'tuple': ('The deceased', 'were identified', 'as Rajesh Kumar')}, {'tuple': ('The deceased', 'were identified', 'as Pappu Kumar')}, {'tuple': ('The deceased', 'were identified', 'as Sharwan Kumar')}]
+============
+[('The SUV driver', 'fled', 'the spot'), ('The SUV driver', 'managed to survive to survive', ''), ('The SUV driver', 'managed', 'to survive')]
+
+[{'tuple': ('The SUV driver', 'fled', 'the spot')}, {'tuple': ('The SUV driver', 'managed to survive to survive', '')}, {'tuple': ('The SUV driver', 'managed', 'to survive')}]
+============
+[('Ankush', 'was native of', 'Sahalichak'), ('the other four', 'belonged to Bhagu', 'Tola', 'L:under Maner police station area'), ('the other four', 'belonged', 'to Bhagu Tola under Maner police station area'), ('Ankush', 'was', 'native of Sahalichak', 'T:while the other four belonged to Bhagu Tola under Maner police station area')]
+
+[{'tuple': ('Ankush', 'was native of', 'Sahalichak')}, {'L': 'under Maner police station area', 'tuple': ('the other four', 'belonged to Bhagu', 'Tola', 'L:under Maner police station area')}, {'tuple': ('the other four', 'belonged', 'to Bhagu Tola under Maner police station area')}, {'T': 'while the other four belonged to Bhagu Tola under Maner police station area', 'tuple': ('Ankush', 'was', 'native of Sahalichak', 'T:while the other four belonged to Bhagu Tola under Maner police station area')}]
+============
+[('the five along with a driver', 'had gone', 'to Moudehi near Bihta', 'to attend the marriage ceremony'), ('the accident', 'took', 'place'), ('the five along with a driver', 'to attend', 'the marriage ceremony'), ('the five along with a driver', 'had gone', 'to Moudehi near Bihta', 'to attend the marriage ceremony of one Nagendra Rai'), ('Maner SHO Rajeev Kumar', 'said', 'the five along with a driver had gone to Moudehi near Bihta'), ('the five along with a driver', 'to attend', 'the marriage ceremony of one Nagendra Rai'), ('Rajesh', 'died', 'L:on the spot', 'T:while Nitesh were rushed to a private hospital in police vehicle'), ('Rajesh', 'died', 'L:on the spot', 'T:while Ankush were rushed to a private hospital in police vehicle'), ('Pappu', 'died', 'L:on the spot', 'T:while Nitesh were rushed to a private hospital in police vehicle'), ('Pappu', 'died', 'L:on the spot', 'T:while Ankush were rushed to a private hospital in police vehicle'), ('Sharwan', 'died', 'L:on the spot', 'T:while Nitesh were rushed to a private hospital in police vehicle'), ('Nitesh', 'were rushed', 'to a private hospital in police vehicle'), ('Sharwan', 'died', 'L:on the spot', 'T:while Ankush were rushed to a private hospital in police vehicle'), ('Ankush', 'were rushed', 'to a private hospital in police vehicle'), ('Rajesh', 'died', 'L:on the spot'), ('the SHO', 'adding', 'that Rajesh died on the spot'), ('Pappu', 'died', 'L:on the spot'), ('the SHO', 'adding', 'that Pappu died on the spot'), ('Sharwan', 'died', 'L:on the spot'), ('the SHO', 'adding', 'that Sharwan died on the spot'), ('it seems the SUV driver dozed off behind the wheel', 'said', 'the SHO'), ('the spot', 'succumbed', 'to their injuries')]
+
+[{'tuple': ('the five along with a driver', 'had gone', 'to Moudehi near Bihta', 'to attend the marriage ceremony')}, {'tuple': ('the accident', 'took', 'place')}, {'tuple': ('the five along with a driver', 'to attend', 'the marriage ceremony')}, {'tuple': ('the five along with a driver', 'had gone', 'to Moudehi near Bihta', 'to attend the marriage ceremony of one Nagendra Rai')}, {'tuple': ('Maner SHO Rajeev Kumar', 'said', 'the five along with a driver had gone to Moudehi near Bihta')}, {'tuple': ('the five along with a driver', 'to attend', 'the marriage ceremony of one Nagendra Rai')}, {'L': 'on the spot', 'T': 'while Nitesh were rushed to a private hospital in police vehicle', 'tuple': ('Rajesh', 'died', 'L:on the spot', 'T:while Nitesh were rushed to a private hospital in police vehicle')}, {'L': 'on the spot', 'T': 'while Ankush were rushed to a private hospital in police vehicle', 'tuple': ('Rajesh', 'died', 'L:on the spot', 'T:while Ankush were rushed to a private hospital in police vehicle')}, {'L': 'on the spot', 'T': 'while Nitesh were rushed to a private hospital in police vehicle', 'tuple': ('Pappu', 'died', 'L:on the spot', 'T:while Nitesh were rushed to a private hospital in police vehicle')}, {'L': 'on the spot', 'T': 'while Ankush were rushed to a private hospital in police vehicle', 'tuple': ('Pappu', 'died', 'L:on the spot', 'T:while Ankush were rushed to a private hospital in police vehicle')}, {'L': 'on the spot', 'T': 'while Nitesh were rushed to a private hospital in police vehicle', 'tuple': ('Sharwan', 'died', 'L:on the spot', 'T:while Nitesh were rushed to a private hospital in police vehicle')}, {'tuple': ('Nitesh', 'were rushed', 'to a private hospital in police vehicle')}, {'L': 'on the spot', 'T': 'while Ankush were rushed to a private hospital in police vehicle', 'tuple': ('Sharwan', 'died', 'L:on the spot', 'T:while Ankush were rushed to a private hospital in police vehicle')}, {'tuple': ('Ankush', 'were rushed', 'to a private hospital in police vehicle')}, {'L': 'on the spot', 'tuple': ('Rajesh', 'died', 'L:on the spot')}, {'tuple': ('the SHO', 'adding', 'that Rajesh died on the spot')}, {'L': 'on the spot', 'tuple': ('Pappu', 'died', 'L:on the spot')}, {'tuple': ('the SHO', 'adding', 'that Pappu died on the spot')}, {'L': 'on the spot', 'tuple': ('Sharwan', 'died', 'L:on the spot')}, {'tuple': ('the SHO', 'adding', 'that Sharwan died on the spot')}, {'tuple': ('it seems the SUV driver dozed off behind the wheel', 'said', 'the SHO')}, {'tuple': ('the spot', 'succumbed', 'to their injuries')}]
+============
+[('The locals', 'escaped', ''), ('the driver', 'was also injured', ''), ('The locals', 'told', 'the police that the driver was also injured')]
+
+[{'tuple': ('The locals', 'escaped', '')}, {'tuple': ('the driver', 'was also injured', '')}, {'tuple': ('The locals', 'told', 'the police that the driver was also injured')}]
+============
+[('the SUV', 'belonged', "to Ankush's father"), ('The SHO', 'said', "the SUV belonged to Ankush's father")]
+
+[{'tuple': ('the SUV', 'belonged', "to Ankush's father")}, {'tuple': ('The SHO', 'said', "the SUV belonged to Ankush's father")}]
+============
+[('a heavy earthmover', 'pulled', 'the mangled SUV', 'out of the truck'), ('a crane', 'to lift', 'a heavy earthmover pulled the mangled SUV out of the truck'), ('a crane', 'was used', 'to lift a heavy earthmover'), ('the impact of the collision', 'could be measured', 'from the fact that a crane was used to lift a heavy earthmover'), ('He', 'said', 'the impact of the collision could be measured from the fact that a crane was used to lift a heavy earthmover'), ('the impact of the collision', 'could be measured', 'from the fact that a crane was used to lift the truck'), ('He', 'said', 'the impact of the collision could be measured from the fact that a crane was used to lift the truck'), ('a crane', 'to lift', 'the truck'), ('a crane', 'was used', 'to lift the truck')]
+
+[{'tuple': ('a heavy earthmover', 'pulled', 'the mangled SUV', 'out of the truck')}, {'tuple': ('a crane', 'to lift', 'a heavy earthmover pulled the mangled SUV out of the truck')}, {'tuple': ('a crane', 'was used', 'to lift a heavy earthmover')}, {'tuple': ('the impact of the collision', 'could be measured', 'from the fact that a crane was used to lift a heavy earthmover')}, {'tuple': ('He', 'said', 'the impact of the collision could be measured from the fact that a crane was used to lift a heavy earthmover')}, {'tuple': ('the impact of the collision', 'could be measured', 'from the fact that a crane was used to lift the truck')}, {'tuple': ('He', 'said', 'the impact of the collision could be measured from the fact that a crane was used to lift the truck')}, {'tuple': ('a crane', 'to lift', 'the truck')}, {'tuple': ('a crane', 'was used', 'to lift the truck')}]
+============
+[('The bodies', 'after postmortem', 'L:at Danapur subdivisional hospital'), ('The bodies', 'were handed over', 'to the family members', 'T:after postmortem at Danapur subdivisional hospital')]
+
+[{'L': 'at Danapur subdivisional hospital', 'tuple': ('The bodies', 'after postmortem', 'L:at Danapur subdivisional hospital')}, {'T': 'after postmortem at Danapur subdivisional hospital', 'tuple': ('The bodies', 'were handed over', 'to the family members', 'T:after postmortem at Danapur subdivisional hospital')}]
+============
+[('A 27-year-old man', 'died', 'T:after being run over by a truck near Ramapir Crossroads on 150-feet Ring Road, on Tuesday afternoon')]
+
+[{'T': 'after being run over by a truck near Ramapir Crossroads on 150-feet Ring Road, on Tuesday afternoon', 'tuple': ('A 27-year-old man', 'died', 'T:after being run over by a truck near Ramapir Crossroads on 150-feet Ring Road, on Tuesday afternoon')}]
+============
+[('The deceased', 'was identified', 'as Dinesh Chagan Parmar')]
+
+[{'tuple': ('The deceased', 'was identified', 'as Dinesh Chagan Parmar')}]
+============
+[('he', 'fell', 'on the road'), ('an autorickshaw', 'hit', 'him', 'T:when Parmar was riding his motorcycle on 150 - feet Ring Road'), ('Parmar', 'was riding', 'his motorcycle', 'L:on 150 - feet Ring Road')]
+
+[{'tuple': ('he', 'fell', 'on the road')}, {'T': 'when Parmar was riding his motorcycle on 150 - feet Ring Road', 'tuple': ('an autorickshaw', 'hit', 'him', 'T:when Parmar was riding his motorcycle on 150 - feet Ring Road')}, {'L': 'on 150 - feet Ring Road', 'tuple': ('Parmar', 'was riding', 'his motorcycle', 'L:on 150 - feet Ring Road')}]
+============
+[('the truck', 'coming', 'from behind'), ('His head', 'got crushed', 'L:under the truck'), ('His head', 'got', 'crushed under the truck')]
+
+[{'tuple': ('the truck', 'coming', 'from behind')}, {'L': 'under the truck', 'tuple': ('His head', 'got crushed', 'L:under the truck')}, {'tuple': ('His head', 'got', 'crushed under the truck')}]
+============
+[('Parmar', 'was pursuing', 'a Master of Social Welfare course at Harivandana College'), ('Police', 'said', 'that Parmar was pursuing a Master of Social Welfare course at Harivandana College'), ('Parmar', 'was a resident of', 'MG Hostel'), ('Parmar', 'was', 'a resident of MG Hostel in the city'), ('Police', 'said', 'that Parmar was a resident of MG Hostel in the city')]
+
+[{'tuple': ('Parmar', 'was pursuing', 'a Master of Social Welfare course at Harivandana College')}, {'tuple': ('Police', 'said', 'that Parmar was pursuing a Master of Social Welfare course at Harivandana College')}, {'tuple': ('Parmar', 'was a resident of', 'MG Hostel')}, {'tuple': ('Parmar', 'was', 'a resident of MG Hostel in the city')}, {'tuple': ('Police', 'said', 'that Parmar was a resident of MG Hostel in the city')}]
+============
+[('He', 'worked part time to pay', 'for his studies'), ('He', 'worked', 'part time', 'L:at a shop', 'to pay for his studies')]
+
+[{'tuple': ('He', 'worked part time to pay', 'for his studies')}, {'L': 'at a shop', 'tuple': ('He', 'worked', 'part time', 'L:at a shop', 'to pay for his studies')}]
+============
+[('ten people', 'sustained', 'injuries when a tempo in which they were travelling overturned at Sachin GIDC crossroad at 8 pm on Monday'), ('a tempo in which they were travelling overturned at Sachin GIDC', 'crossroad', 'T:at 8 pm', 'T:on Monday'), ('they', 'were travelling overturned', 'L:at Sachin GIDC', 'L:a tempo'), ('Ten people, including two children', 'sustained', 'injuries when a tempo in which they were travelling overturned at Sachin GIDC crossroad at 8 pm on Monday')]
+
+[{'tuple': ('ten people', 'sustained', 'injuries when a tempo in which they were travelling overturned at Sachin GIDC crossroad at 8 pm on Monday')}, {'T': 'on Monday', 'tuple': ('a tempo in which they were travelling overturned at Sachin GIDC', 'crossroad', 'T:at 8 pm', 'T:on Monday')}, {'L': 'a tempo', 'tuple': ('they', 'were travelling overturned', 'L:at Sachin GIDC', 'L:a tempo')}, {'tuple': ('Ten people, including two children', 'sustained', 'injuries when a tempo in which they were travelling overturned at Sachin GIDC crossroad at 8 pm on Monday')}]
+============
+[('condition of one', 'to be', 'serious'), ('condition of one', 'is stated', ''), ('All', 'were rushed', 'to News Civil Hospital', 'for treatment')]
+
+[{'tuple': ('condition of one', 'to be', 'serious')}, {'tuple': ('condition of one', 'is stated', '')}, {'tuple': ('All', 'were rushed', 'to News Civil Hospital', 'for treatment')}]
+============
+[('labourers', 'living', 'L:near Udhna Jivan Jyot theatre'), ('information', 'received', 'from NCH')]
+
+[{'L': 'near Udhna Jivan Jyot theatre', 'tuple': ('labourers', 'living', 'L:near Udhna Jivan Jyot theatre')}, {'tuple': ('information', 'received', 'from NCH')}]
+============
+[('all', 'were', 'in the back of the vehicle'), ('the vehicle', 'resulting', 'in injuries to all'), ('the vehicle', 'overturned', 'resulting in injuries to all'), ('The tempo', 'had', 'a flat tyre near Sachin GIDC')]
+
+[{'tuple': ('all', 'were', 'in the back of the vehicle')}, {'tuple': ('the vehicle', 'resulting', 'in injuries to all')}, {'tuple': ('the vehicle', 'overturned', 'resulting in injuries to all')}, {'tuple': ('The tempo', 'had', 'a flat tyre near Sachin GIDC')}]
+============
+[('ten people', 'sustained', 'injuries when a tempo in which they were travelling overturned at Sachin GIDC crossroad at 8 pm on Monday'), ('a tempo in which they were travelling overturned at Sachin GIDC', 'crossroad', 'T:at 8 pm', 'T:on Monday'), ('they', 'were travelling overturned', 'L:at Sachin GIDC', 'L:a tempo'), ('Ten people, including two children', 'sustained', 'injuries when a tempo in which they were travelling overturned at Sachin GIDC crossroad at 8 pm on Monday')]
+
+[{'tuple': ('ten people', 'sustained', 'injuries when a tempo in which they were travelling overturned at Sachin GIDC crossroad at 8 pm on Monday')}, {'T': 'on Monday', 'tuple': ('a tempo in which they were travelling overturned at Sachin GIDC', 'crossroad', 'T:at 8 pm', 'T:on Monday')}, {'L': 'a tempo', 'tuple': ('they', 'were travelling overturned', 'L:at Sachin GIDC', 'L:a tempo')}, {'tuple': ('Ten people, including two children', 'sustained', 'injuries when a tempo in which they were travelling overturned at Sachin GIDC crossroad at 8 pm on Monday')}]
+============
+[('condition of one', 'to be', 'serious'), ('condition of one', 'is stated', ''), ('All', 'were rushed', 'to News Civil Hospital', 'for treatment')]
+
+[{'tuple': ('condition of one', 'to be', 'serious')}, {'tuple': ('condition of one', 'is stated', '')}, {'tuple': ('All', 'were rushed', 'to News Civil Hospital', 'for treatment')}]
+============
+[('labourers', 'living', 'L:near Udhna Jivan Jyot theatre'), ('information', 'received', 'from NCH')]
+
+[{'L': 'near Udhna Jivan Jyot theatre', 'tuple': ('labourers', 'living', 'L:near Udhna Jivan Jyot theatre')}, {'tuple': ('information', 'received', 'from NCH')}]
+============
+[('all', 'were', 'in the back of the vehicle'), ('the vehicle', 'resulting', 'in injuries to all'), ('the vehicle', 'overturned', 'resulting in injuries to all'), ('The tempo', 'had', 'a flat tyre near Sachin GIDC')]
+
+[{'tuple': ('all', 'were', 'in the back of the vehicle')}, {'tuple': ('the vehicle', 'resulting', 'in injuries to all')}, {'tuple': ('the vehicle', 'overturned', 'resulting in injuries to all')}, {'tuple': ('The tempo', 'had', 'a flat tyre near Sachin GIDC')}]
+============
