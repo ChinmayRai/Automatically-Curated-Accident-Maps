@@ -1,0 +1,4396 @@
+([u'travel'], ['in crashed into the barricades along BRTS (Bus Rapid Transit System) route in Akurdi'])
+([u'kill'], ['T:after the car'])
+T:after the car
+
+
+([u'fail'], ['to notice the barricades or the blinkers'])
+([u'say'], ['Kharage'])
+([u'crash'], ['into them'])
+(['notice'], ['the barricades or the blinkers'])
+
+
+([u'rush'], ['to the Yashwantrao Chavan Memorial Hospital in Pimpri'])
+([u'say'], ['Kharage'])
+([u'injure'], ['L:in the accident'])
+L:in the accident
+
+
+----------------------------------------------------------------------------
+([u'take'], ['place', 'L:near Chena creek bridge along Ghodbunder Road', 'T:at 5pm'])
+L:near Chena creek bridge along Ghodbunder Road
+T:at 5pm
+([u'head'], ['towards Kopri', 'from Mira Road'])
+
+
+([u'plunge'], ['into a ditch', 'T:along the road'])
+T:along the road
+([u'brush'], ['against the divider'])
+
+
+([u'go'], ['into a ditch', 'T:on Friday'])
+T:on Friday
+([], ['a close shave', 'T:after the driver went into a ditch on Friday'])
+T:after the driver went into a ditch on Friday
+([u'go'], ['off - road'])
+([], ['a close shave', 'T:after the driver went off - road'])
+T:after the driver went off - road
+([], ['a close shave'])
+([u'lose'], ['control of the vehicle'])
+([], ['a close shave', 'T:after the driver lost control of the vehicle'])
+T:after the driver lost control of the vehicle
+
+
+----------------------------------------------------------------------------
+(['fact'], ['him'])
+([], [' '])
+([u'meet'], ['with the accident'])
+([], [' '])
+
+
+([u'kill'], ['L:in separate accidents in the city on Thursday night'])
+L:in separate accidents in the city on Thursday night
+
+
+(['fact'], ['him'])
+(['hit'], ['by a vehicle', 'L:In the first incident'])
+L:In the first incident
+([u'report'], ["from the Nirankari Colony in north - west Delhi 's Mukherjee Nagar"])
+
+
+----------------------------------------------------------------------------
+(['hit', 'eight', u'park', 'vehicles', 'before', u'hit'], ['a pole', "L:in west Delhi 's Tilak Nagar", 'T:on Thursday evening'])
+L:in west Delhi 's Tilak Nagar
+T:on Thursday evening
+(['hit'], ['eight parked vehicles', "T:before hitting a pole in west Delhi 's Tilak Nagar on Thursday evening"])
+T:before hitting a pole in west Delhi 's Tilak Nagar on Thursday evening
+(['hit', '12', 'people', 'before', u'hit'], ['a pole', "L:in west Delhi 's Tilak Nagar", 'T:on Thursday evening'])
+L:in west Delhi 's Tilak Nagar
+T:on Thursday evening
+(['hit'], ['12 people', "T:before hitting a pole in west Delhi 's Tilak Nagar on Thursday evening"])
+T:before hitting a pole in west Delhi 's Tilak Nagar on Thursday evening
+
+
+([u'happen'], ['L:over a 400-metre stretch'])
+L:over a 400-metre stretch
+([u'say'], ['all this happened over a 400-metre stretch'])
+
+
+(['hit'], ['two scooters', 'T:first'])
+T:first
+([u'park'], ['along the road'])
+(['hit'], ['two scooters', 'T:first'])
+T:first
+([u'say'], ['a senior police officer'])
+
+
+----------------------------------------------------------------------------
+(['hit'], ['him', 'L:near Harsaru village', 'L:on Pataudi road', 'T:on Wednesday night'])
+L:near Harsaru village
+L:on Pataudi road
+T:on Wednesday night
+([u'kill'], ['T:after an unidentified vehicle hit him near Harsaru village on Pataudi road on Wednesday night'])
+T:after an unidentified vehicle hit him near Harsaru village on Pataudi road on Wednesday night
+
+
+([u'happen'], ['L:in Harsaru', 'L:on the Gurgaon-Pataudi road around 11pm'])
+L:in Harsaru
+L:on the Gurgaon-Pataudi road around 11pm
+(['fact'], ['the petrol pump'])
+([u'inform'], ['police', 'about the accident'])
+
+
+([u'die'], ['L:on the spot'])
+L:on the spot
+([u'say'], ['the victim died on the spot'])
+
+
+----------------------------------------------------------------------------
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+([u'carry'], ['about a dozen passengers near Sursangda village of Kalavad taluka of Jamnagar', 'T:on Saturday morning'])
+T:on Saturday morning
+([u'carry'], ['about a dozen passengers near Sursangda village of Kalavad taluka of Jamnagar', 'T:on Saturday morning'])
+T:on Saturday morning
+([u'injure'], [' '])
+([u'kill'], [' '])
+
+
+([u'collide'], ['with the speeding MUV going towards Rajkot', 'T:first'])
+T:first
+([u'occur'], ['T:when a state transport bus first collided with the speeding MUV going towards Rajkot'])
+T:when a state transport bus first collided with the speeding MUV going towards Rajkot
+(['fell'], ['off a small bridge'])
+([u'collide'], ['with a tanker fell off a small bridge into a dry river bed near Sursangda village', 'T:first'])
+T:first
+([u'occur'], ['T:when a state transport bus first collided with a tanker fell off a small bridge into a dry river bed near Sursangda village'])
+T:when a state transport bus first collided with a tanker fell off a small bridge into a dry river bed near Sursangda village
+([u'dash'], ['into the bus'])
+([u'collide'], ['with a tanker', 'T:first'])
+T:first
+([u'occur'], ['T:when a state transport bus first collided with a tanker'])
+T:when a state transport bus first collided with a tanker
+
+
+([u'die'], ['L:on the spot', 'T:while 11 others in the MUV were rushed to hospital in Kalavad'])
+L:on the spot
+T:while 11 others in the MUV were rushed to hospital in Kalavad
+([u'rush'], ['to hospital in Kalavad'])
+([u'die'], ['L:on the spot', 'T:while 11 others in the MUV were hurt'])
+L:on the spot
+T:while 11 others in the MUV were hurt
+([u'say'], ['that Balvant died on the spot'])
+(['hurt'], [' '])
+
+
+----------------------------------------------------------------------------
+([], ['in a passenger seat of the luxury car'])
+([u'show'], ['no signs of impairment'])
+([u'crash'], ['into another vehicle'])
+([u'travel', 'westbound'], ['on West Sahara Avenue east of Decatur Boulevard'])
+
+
+(['fact'], ['Pop Michael Jackson'])
+([u'hospitalise'], ['T:after a car accident in Las Vegas'])
+T:after a car accident in Las Vegas
+
+
+([u'confirm'], [' '])
+
+
+----------------------------------------------------------------------------
+(['run'], ['by a bus near Jhotwara area of the city on Saturday morning'])
+([u'die'], ['T:after she was run over by a bus near Jhotwara area of the city on Saturday morning'])
+T:after she was run over by a bus near Jhotwara area of the city on Saturday morning
+
+
+([u'travel', u'alight'], ['L:near Ram Nagar', 'L:in Bhatta Basti'])
+L:near Ram Nagar
+L:in Bhatta Basti
+([u'travel'], [' '])
+([u'travel'], ['with her parents'])
+
+
+(['fact'], ['hers'])
+([u'travel'], ['from their village in Jhujhunu', 'T:when the incident took place'])
+T:when the incident took place
+([u'add'], ['that she was travelling with her mother Mamta from their village in Jhujhunu to Jaipur'])
+(['fact'], ['hers'])
+([u'travel'], ['with her father', 'from their village in Jhujhunu'])
+([u'add'], ['that she was travelling with her father Ashish Mamta from their village in Jhujhunu to Jaipur'])
+([u'rush'], ['to hospital'])
+([u'tell'], ['TOI'])
+([u'declare'], ['T:upon arrival'])
+T:upon arrival
+([u'take'], ['place'])
+
+
+----------------------------------------------------------------------------
+([u'die'], ['L:in road accidents', 'T:Last year'])
+L:in road accidents
+T:Last year
+
+
+([u'die'], ['T:two of them children'])
+T:two of them children
+([u'say'], ['authorities'])
+
+
+([u'probe'], ['disasters'])
+([u'probe'], ['accidents'])
+([u'travel'], ['from Samara'])
+([u'say'], ['the Investigative Committee'])
+([u'happen'], [' '])
+
+
+----------------------------------------------------------------------------
+([u'ram'], ['into the pillar', 'T:after falling asleep at the wheel'])
+T:after falling asleep at the wheel
+(['believe'], ['Karan rammed into the pillar after falling asleep at the wheel'])
+
+
+([u'drive'], ['her brother', 'T:after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday'])
+T:after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday
+([u'sustain'], ['injuries', 'T:after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday'])
+T:after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday
+([u'die'], ['T:while her son , who was driving her brother sustained injuries after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday'])
+T:while her son , who was driving her brother sustained injuries after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday
+([u'drive'], ['the car', 'T:after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday'])
+T:after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday
+([u'sustain'], ['injuries', 'T:after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday'])
+T:after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday
+([u'ram'], ['the pillar of the bridge at Range Hill Corner on Ganeshkhind Road'])
+([u'die'], ['T:while her son , who was driving the car sustained injuries after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday'])
+T:while her son , who was driving the car sustained injuries after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday
+
+
+(['fact'], ['Hers'])
+([u'sustain'], ['serious injuries in the accident'])
+
+
+----------------------------------------------------------------------------
+([u'meet'], ['with an accident in Lacchiwala'])
+([u'come'], ['towards the main city area on his motorcycle', 'T:After completing duty hours'])
+T:After completing duty hours
+
+
+(['hit'], ['by a speeding vehicle'])
+([u'faint'], ['T:after his two - wheeler was hit by a speeding vehicle'])
+T:after his two - wheeler was hit by a speeding vehicle
+([u'do', 'not', 'suffer'], ['external injury'])
+([u'say'], ['that the injured , who is in his mid-40 s , did not suffer external injury'])
+([], ['in his mid-40 s'])
+
+
+(['can', 'save'], ['someone in an emergency'])
+([u'say'], ['CM Rawat'])
+
+
+----------------------------------------------------------------------------
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+([u'meet'], ['with the accident'])
+([u'leave'], ['the school', 'T:On Saturday morning'])
+T:On Saturday morning
+
+
+([u'rid'], ['L:in the Mangalwar peth area'])
+L:in the Mangalwar peth area
+(['hit'], ['a moped on which she was riding in the Mangalwar peth area'])
+([u'kill'], ['L:in an accident', 'T:when a Kolhapur Municipal Transport (KMT) bus hit a moped'])
+L:in an accident
+T:when a Kolhapur Municipal Transport (KMT) bus hit a moped
+([u'work'], ['as a school teacher'])
+
+
+([u'kill'], ['L:in a road accident', 'L:a month'])
+L:in a road accident
+L:a month
+([], ['the second case in a month'])
+
+
+----------------------------------------------------------------------------
+([u'ram', 'ahead'], ['the official Maruti Gypsy of an assistant commissioner of Delhi Police on Sunday morning'])
+
+
+([u'injure'], [' '])
+([], ['among the three persons'])
+
+
+([u'travel'], ['towards Noida'])
+([u'occur'], ['T:when both the vehicles were travelling towards Noida from Delhi via the DND flyway'])
+T:when both the vehicles were travelling towards Noida from Delhi via the DND flyway
+
+
+----------------------------------------------------------------------------
+([u'rail'], ['L:near Sidhwan Bet', 'T:on Saturday evening'])
+L:near Sidhwan Bet
+T:on Saturday evening
+([u'run'], ['into a roadside'])
+([u'injure'], ['T:after their speeding bike ran into a roadside'])
+T:after their speeding bike ran into a roadside
+([u'kill'], [' '])
+
+
+([u'rail'], ['on a roadside'])
+([u'ram'], ['into an iron railing on a roadside, adjacent to canal'])
+
+
+([], ['T:yet', 'to record the statement of Karamjeet'])
+T:yet
+([u'add'], ['a cop'])
+([u'suffer'], ['head injuries'])
+(['record'], ['the statement of Karamjeet'])
+
+
+----------------------------------------------------------------------------
+([u'mow'], ['down two persons near Shivdaspura', 'T:on late Saturday night'])
+T:on late Saturday night
+
+
+([u'ram'], ['into the bike'])
+([u'tell'], ['TOI'])
+([], ['why it lost control'])
+([u'tell'], ['TOI'])
+([u'lose'], ['control'])
+([u'witness'], ['several accidents'])
+([u'witness'], ['several accidents'])
+
+
+([u'die'], [' '])
+([u'die'], ['T:after an overloaded truck lost control', 'T:On June 13'])
+T:after an overloaded truck lost control
+T:On June 13
+([u'identify'], ['as Vikas'])
+([u'die'], [' '])
+([u'lose'], ['control'])
+([u'die'], ['T:after an overloaded truck lost control', 'T:On June 13'])
+T:after an overloaded truck lost control
+T:On June 13
+([u'identify'], ['as Bhanwarlal'])
+
+
+----------------------------------------------------------------------------
+([u'crash'], ['into their minibus near Wagholi', 'L:on the Pune - Ahmednagar highway', 'T:around 7 pm', 'T:on Sunday'])
+L:on the Pune - Ahmednagar highway
+T:around 7 pm
+T:on Sunday
+([u'kill'], ['T:after a speeding water tanker crashed into their minibus near Wagholi on the Pune - Ahmednagar highway around 7 pm on Sunday'])
+T:after a speeding water tanker crashed into their minibus near Wagholi on the Pune - Ahmednagar highway around 7 pm on Sunday
+([u'turn'], ['tragic', 'T:when six of them were killed after a speeding water tanker crashed into their minibus near Wagholi on the Pune - Ahmednagar highway around 7 pm on Sunday'])
+T:when six of them were killed after a speeding water tanker crashed into their minibus near Wagholi on the Pune - Ahmednagar highway around 7 pm on Sunday
+([u'jump'], ['over the road divider'])
+([u'kill'], ['T:after a speeding water tanker jumped over the road divider'])
+T:after a speeding water tanker jumped over the road divider
+([u'turn'], ['tragic', 'T:when six of them were killed after a speeding water tanker jumped over the road divider'])
+T:when six of them were killed after a speeding water tanker jumped over the road divider
+
+
+([u'come'], ['from the opposite direction'])
+(['hit'], ['the minibus which was coming from the opposite direction'])
+([u'jump'], ['over the road divider'])
+
+
+([u'die'], ['L:on the spot'])
+L:on the spot
+
+
+----------------------------------------------------------------------------
+([u'die'], ['L:in a road mishap in the US'])
+L:in a road mishap in the US
+
+
+([u'occur'], ['L:on his birthday', 'T:on Sunday'])
+L:on his birthday
+T:on Sunday
+
+
+([u'die'], ['L:in the mishap'])
+L:in the mishap
+(['fell'], ['into a valley'])
+
+
+----------------------------------------------------------------------------
+([u'involve'], ['KSRTC buses'])
+([u'kill'], ['L:in accidents'])
+L:in accidents
+([u'injure'], [' '])
+
+
+([u'kill', 'on'], ['June 23 when a KSRTC bus collided with their car at Koppam near Vembayam'])
+([u'kill'], ['L:in an accident', 'T:on June 23'])
+L:in an accident
+T:on June 23
+
+
+([u'overturn'], ['L:at Perayam near Palode'])
+L:at Perayam near Palode
+([u'injure'], ['T:when a transport corporation bus overturned at Perayam near Palode', 'T:while taking a sharp turn near the forest area', 'L:In another'])
+T:when a transport corporation bus overturned at Perayam near Palode
+T:while taking a sharp turn near the forest area
+L:In another
+
+
+----------------------------------------------------------------------------
+(['fact'], ['superintendent'])
+([u'attribute'], ['to the attitude of the riders'])
+([], ['mostly youngsters, who were involved in most of the accidents'])
+(['would', 'show'], ['that it was mostly youngsters'])
+([u'say'], ['the SP'])
+([u'involve'], ['in most of the accidents'])
+
+
+(['wo', "n't", 'approve'], [' '])
+([u'say'], ['the SP'])
+
+
+([u'direct'], ['the officials concerned'])
+([u'say'], ['that he has directed the officials'])
+([u'base'], ['on their age'])
+(['prepare'], ['a list of accident victims based on their age'])
+([u'concern'], ['to prepare a list of accident victims'])
+
+
+----------------------------------------------------------------------------
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+([u'die'], ['T:after being hit by a vehicle on Amravati Road in the wee hours of Sunday'])
+T:after being hit by a vehicle on Amravati Road in the wee hours of Sunday
+
+
+([u'collide'], [' '])
+
+
+(['claim'], ['the animal'])
+([u'do', 'not', 'turn'], ['to claim the animal'])
+([u'identify'], ['by the police'])
+([u'die'], [' '])
+
+
+----------------------------------------------------------------------------
+(['hit'], ['by a canter', 'T:on Sunday'])
+T:on Sunday
+([u'kill'], ['T:after his motorcycle was hit by a canter on Sunday'])
+T:after his motorcycle was hit by a canter on Sunday
+([u'ram'], ['his truck', 'into a shed of the Maruti plant in Manesar', 'T:on Saturday night', 'T:while a 19-year-old was killed after his motorcycle was hit by a canter on Sunday'])
+T:on Saturday night
+T:while a 19-year-old was killed after his motorcycle was hit by a canter on Sunday
+([u'kill'], ['T:after he rammed his truck into a shed of the Maruti plant in Manesar on Saturday night'])
+T:after he rammed his truck into a shed of the Maruti plant in Manesar on Saturday night
+
+
+([u'die'], ['L:on spot', 'L:In the first incident'])
+L:on spot
+L:In the first incident
+
+
+([u'build'], ['L:on the footpath'])
+L:on the footpath
+([u'crash'], ['into the shed'])
+([u'take'], ['a turn', 'T:As they reached the Press Shop A'])
+T:As they reached the Press Shop A
+([u'reach'], ['the Press Shop A'])
+
+
+----------------------------------------------------------------------------
+([u'take'], ['place', 'T:when the 22-year-old was going on his bike'])
+T:when the 22-year-old was going on his bike
+
+
+(['fact'], ['Rajkot - based hotelier'])
+([u'die'], ['L:in a road accident near Ghanteshwar village', 'L:on Jamnagar Road', 'T:on Monday evening'])
+L:in a road accident near Ghanteshwar village
+L:on Jamnagar Road
+T:on Monday evening
+
+
+([u'succumb'], ['to injuryies', 'T:during treatment', 'L:a private hospital'])
+T:during treatment
+L:a private hospital
+([u'rush'], ['to a private hospital'])
+
+
+----------------------------------------------------------------------------
+([u'injure'], ['his sister', 'L:at Thiruvalangadu near Tiruttani on'])
+L:at Thiruvalangadu near Tiruttani on
+([u'injure'], ['his mother', 'L:at Thiruvalangadu near Tiruttani'])
+L:at Thiruvalangadu near Tiruttani
+([u'mow'], [' '])
+([], ['drunk'])
+
+
+(['hit'], ['the trio', 'from behind'])
+([u'tell'], ['police', 'that the speeding car hit the trio from behind'])
+
+
+([u'hand'], ['to police'])
+([u'hold'], ['her daughter residents handed him over to police'])
+([u'nab'], ['the car driver Mohan'])
+([u'hold'], ['her daughter residents nabbed the car driver Mohan'])
+([u'walk'], ['L:on the side of the road'])
+L:on the side of the road
+(['fact'], ['hers'])
+([u'nab'], ['the car driver Mohan'])
+([u'hand'], ['to police', 'T:The deceased , Vasanth , a Class VI student of a private school in Thiruvalangadu , was walking on the side of the road'])
+T:The deceased , Vasanth , a Class VI student of a private school in Thiruvalangadu , was walking on the side of the road
+([u'walk'], ['L:on the side of the road', 'T:while his mother J Nirmala was holding her daughter'])
+L:on the side of the road
+T:while his mother J Nirmala was holding her daughter
+(['fact'], ['hers'])
+(['fact'], ['him'])
+([u'walk'], ['L:on the side of the road', 'T:while his mother J Nirmala was holding her daughter'])
+L:on the side of the road
+T:while his mother J Nirmala was holding her daughter
+([u'nab'], ['the car driver Mohan'])
+([u'hold'], ['her daughter'])
+
+
+----------------------------------------------------------------------------
+([u'speed'], ['T:when the accident happened'])
+T:when the accident happened
+([u'suggest'], ['that both the vehicles were speeding when the accident happened'])
+([u'happen'], [' '])
+([u'take'], ['place', 'L:at Bijabhat'])
+L:at Bijabhat
+
+
+([u'collide'], ['with a mini-truck in Bemetara district on Monday', 'L:a road accident'])
+L:a road accident
+([u'injure'], ['L:in a road accident'])
+L:in a road accident
+([u'kill'], [' '])
+
+
+([u'leave'], ['four people', 'dead', 'L:on the spot'])
+L:on the spot
+([u'collide'], ['with the mini-truck leaving four people dead on the spot'])
+([], ['on their way to Amota village in a jeep', 'T:when it collided with the mini-truck leaving four people dead on the spot'])
+T:when it collided with the mini-truck leaving four people dead on the spot
+
+
+----------------------------------------------------------------------------
+([u'refer'], ['hospitals'])
+([u'refer'], ['to hospitals'])
+([u'injure'], [' '])
+
+
+([u'injure'], ["T:when a matador overturned at the Ramkot belt of Kashmir 's Kathua district today"])
+T:when a matador overturned at the Ramkot belt of Kashmir 's Kathua district today
+([u'say'], ['the police'])
+([u'overturn'], ["L:at the Ramkot belt of Kashmir 's Kathua district today"])
+L:at the Ramkot belt of Kashmir 's Kathua district today
+([u'injure'], ['T:when a matador overturned at the Ramkot belt of Jammu'])
+T:when a matador overturned at the Ramkot belt of Jammu
+([u'say'], ['the police'])
+([u'overturn'], ['L:at the Ramkot belt of Jammu'])
+L:at the Ramkot belt of Jammu
+([u'kill'], [' '])
+([u'say'], ['the police'])
+
+
+([u'lose'], ['control of the vehicle'])
+([u'say'], ['the police'])
+([u'overturn'], ['L:at the Challari - Ramkot belt'])
+L:at the Challari - Ramkot belt
+([u'lose'], ['control of the vehicle'])
+([u'say'], ['the police'])
+([u'skid'], ['off the road'])
+([], ['on its way from Nagrota Gujjroo in Kathua to Khoon in Udhampur district'])
+
+
+----------------------------------------------------------------------------
+([u'injure'], ['L:in two separate accidents on Yamuna expressway on Monday morning'])
+L:in two separate accidents on Yamuna expressway on Monday morning
+([u'kill'], [' '])
+
+
+([u'occur'], ['L:near Bajna', 'L:under Naujheel police station jurisdiction', 'T:when a car coming from Agra knocked down two youths', 'T:a half hours later'])
+L:near Bajna
+L:under Naujheel police station jurisdiction
+T:when a car coming from Agra knocked down two youths
+T:a half hours later
+([u'wait'], ['L:along the roadside', 'for a bus'])
+L:along the roadside
+([u'wait'], ['L:along the roadside', 'for a bus'])
+L:along the roadside
+([u'knock'], ['two youths'])
+([u'come'], ['from Agra', 'T:knocked down two youths'])
+T:knocked down two youths
+([u'occur'], ['L:near Bajna', 'L:under Naujheel police station jurisdiction', 'T:when a car coming from Agra knocked down two youths', 'T:Just one hours later'])
+L:near Bajna
+L:under Naujheel police station jurisdiction
+T:when a car coming from Agra knocked down two youths
+T:Just one hours later
+
+
+([u'die'], ['L:on the spot', 'T:while the driver Waqeel Raza from Bihar sustained injuries'])
+L:on the spot
+T:while the driver Waqeel Raza from Bihar sustained injuries
+([u'sustain'], ['injuries'])
+([u'die'], ['L:on the spot', 'T:while the driver Waqeel Raza from Bihar sustained injuries'])
+L:on the spot
+T:while the driver Waqeel Raza from Bihar sustained injuries
+
+
+----------------------------------------------------------------------------
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+(['seem'], [' '])
+(['creek'], ['one seem to be the most notorious'])
+(['seem'], [' '])
+(['creek'], ['one seem to be the most notorious'])
+(['seem'], [' '])
+(['creek'], ['one seem to be the most notorious'])
+([u'topple'], [' '])
+([u'come'], [' '])
+([], ['the most notorious', 'T:when it comes to heavy vehicles'])
+T:when it comes to heavy vehicles
+
+
+([u'man'], ['the stretch'])
+([u'overturn'], ['T:in the recent past'])
+T:in the recent past
+([u'witness'], ['instances of vehicles'])
+
+
+([u'lose'], ['balance', 'L:the stretch'])
+L:the stretch
+([u'report'], ['L:at these three bends on the stretch'])
+L:at these three bends on the stretch
+
+
+----------------------------------------------------------------------------
+([u'dash'], ['T:on NH-30', 'L:under Maner police station area in Patna district around 2.20am on Tuesday'])
+T:on NH-30
+L:under Maner police station area in Patna district around 2.20am on Tuesday
+([u'die'], ['T:when their SUV dashed against a stationary truck from behind near Mahadevsthan on NH-30 under Maner police station area in Patna district around 2.20am on Tuesday'])
+T:when their SUV dashed against a stationary truck from behind near Mahadevsthan on NH-30 under Maner police station area in Patna district around 2.20am on Tuesday
+
+
+([u'escape'], [' '])
+([u'injure'], [' '])
+([u'tell'], ['the police that the driver was also injured'])
+
+
+([u'go'], ['to Moudehi near Bihta', 'to attend the marriage ceremony'])
+([u'take'], ['place'])
+(['attend'], ['the marriage ceremony'])
+([u'go'], ['to Moudehi near Bihta', 'to attend the marriage ceremony of one Nagendra Rai'])
+([u'say'], ['the five along with a driver had gone to Moudehi near Bihta'])
+(['attend'], ['the marriage ceremony of one Nagendra Rai'])
+([u'die'], ['L:on the spot', 'T:while Nitesh were rushed to a private hospital in police vehicle'])
+L:on the spot
+T:while Nitesh were rushed to a private hospital in police vehicle
+([u'die'], ['L:on the spot', 'T:while Ankush were rushed to a private hospital in police vehicle'])
+L:on the spot
+T:while Ankush were rushed to a private hospital in police vehicle
+([u'die'], ['L:on the spot', 'T:while Nitesh were rushed to a private hospital in police vehicle'])
+L:on the spot
+T:while Nitesh were rushed to a private hospital in police vehicle
+([u'die'], ['L:on the spot', 'T:while Ankush were rushed to a private hospital in police vehicle'])
+L:on the spot
+T:while Ankush were rushed to a private hospital in police vehicle
+([u'die'], ['L:on the spot', 'T:while Nitesh were rushed to a private hospital in police vehicle'])
+L:on the spot
+T:while Nitesh were rushed to a private hospital in police vehicle
+([u'rush'], ['to a private hospital in police vehicle'])
+([u'die'], ['L:on the spot', 'T:while Ankush were rushed to a private hospital in police vehicle'])
+L:on the spot
+T:while Ankush were rushed to a private hospital in police vehicle
+([u'rush'], ['to a private hospital in police vehicle'])
+([u'die'], ['L:on the spot'])
+L:on the spot
+([u'add'], ['that Rajesh died on the spot'])
+([u'die'], ['L:on the spot'])
+L:on the spot
+([u'add'], ['that Pappu died on the spot'])
+([u'die'], ['L:on the spot'])
+L:on the spot
+([u'add'], ['that Sharwan died on the spot'])
+([u'say'], ['the SHO'])
+([u'succumb'], ['to their injuries'])
+
+
+----------------------------------------------------------------------------
+([u'die'], ['T:after being run over by a truck near Ramapir Crossroads on 150-feet Ring Road, on Tuesday afternoon'])
+T:after being run over by a truck near Ramapir Crossroads on 150-feet Ring Road, on Tuesday afternoon
+
+
+(['fell'], ['on the road'])
+(['hit'], ['him', 'T:when Parmar was riding his motorcycle on 150 - feet Ring Road'])
+T:when Parmar was riding his motorcycle on 150 - feet Ring Road
+([u'rid'], ['his motorcycle', 'L:on 150 - feet Ring Road'])
+L:on 150 - feet Ring Road
+
+
+([u'come'], ['from behind'])
+([u'crush'], ['L:under the truck'])
+L:under the truck
+([], ['crushed under the truck'])
+
+
+----------------------------------------------------------------------------
+([], ['in the back of the vehicle'])
+([u'result'], ['in injuries to all'])
+([u'overturn'], ['resulting in injuries to all'])
+([], ['a flat tyre near Sachin GIDC'])
+
+
+([u'sustain'], ['injuries when a tempo overturned at Sachin GIDC crossroad at 8 pm on Monday'])
+(['crossroad'], ['T:at 8 pm', 'T:on Monday'])
+T:at 8 pm
+T:on Monday
+([u'overturn'], ['L:at Sachin GIDC'])
+L:at Sachin GIDC
+([u'sustain'], ['injuries when a tempo overturned at Sachin GIDC crossroad at 8 pm on Monday'])
+
+
+([], ['serious'])
+([u'state'], [' '])
+([u'rush'], ['to News Civil Hospital', 'for treatment'])
+
+
+----------------------------------------------------------------------------
+([], ['in the back of the vehicle'])
+([u'result'], ['in injuries to all'])
+([u'overturn'], ['resulting in injuries to all'])
+([], ['a flat tyre near Sachin GIDC'])
+
+
+([u'sustain'], ['injuries when a tempo overturned at Sachin GIDC crossroad at 8 pm on Monday'])
+(['crossroad'], ['T:at 8 pm', 'T:on Monday'])
+T:at 8 pm
+T:on Monday
+([u'overturn'], ['L:at Sachin GIDC'])
+L:at Sachin GIDC
+([u'sustain'], ['injuries when a tempo overturned at Sachin GIDC crossroad at 8 pm on Monday'])
+
+
+([], ['serious'])
+([u'state'], [' '])
+([u'rush'], ['to News Civil Hospital', 'for treatment'])
+
+
+----------------------------------------------------------------------------
+([u'intend'], ['to regulate traffic near the Melmaruvathur bypass road on Tuesday morning'])
+([u'ram'], ['into a set of metal drums'])
+([u'die'], ['L:on the spot', 'T:after his two-wheeler rammed into a set of metal drums', 'L:In a grim reminder of the danger'])
+L:on the spot
+T:after his two-wheeler rammed into a set of metal drums
+L:In a grim reminder of the danger
+([u'place'], ['by traffic cops on the city streets'])
+(['regulate'], ['traffic', 'L:near the Melmaruvathur bypass road on Tuesday morning'])
+L:near the Melmaruvathur bypass road on Tuesday morning
+([u'pose'], ['by barricades'])
+
+
+([u'kill', 'there'], ['L:in this manner', 'L:along this stretch', 'T:in the last few months'])
+L:in this manner
+L:along this stretch
+T:in the last few months
+([u'ram'], ['into barricades on the Manali stretch'])
+
+
+([], ['youngsters who overspeed on their two - wheelers'])
+(['should', 'ensure', 'proper', u'light', 'avoid'], ['such deaths'])
+(['should', 'ensure'], ['proper lighting', 'to avoid such deaths'])
+([], ['youngsters who overspeed on their two - wheelers'])
+(['should', 'ensure', 'proper', u'light', 'avoid'], ['such deaths'])
+(['should', 'ensure'], ['proper lighting', 'to avoid such deaths'])
+(['overspeed'], ['on their two - wheelers'])
+(['crash'], ['into these barricades'])
+
+
+----------------------------------------------------------------------------
+([u'injure'], ['L:in Damtal area of Kangra district'])
+L:in Damtal area of Kangra district
+
+
+([u'catch'], ['fire', 'T:immediately after the accident'])
+T:immediately after the accident
+([u'occur'], ['T:around 3.45am'])
+T:around 3.45am
+
+
+([u'come'], ['from other side'])
+([u'ram'], ['the Himachal Road Transport Corporation'])
+([u'break'], ['the median barrier'])
+
+
+----------------------------------------------------------------------------
+([u'die'], ["T:after being hit by a speeding car in northeast Delhi's Khanjhawala on Saturday"])
+T:after being hit by a speeding car in northeast Delhi's Khanjhawala on Saturday
+
+
+([u'run'], ['over her', 'T:then'])
+T:then
+([], ['on her way home'])
+(['hit'], ['her', 'from behind'])
+([], ['on her way home', 'T:when the speeding white sedan hit her from behind'])
+T:when the speeding white sedan hit her from behind
+
+
+(['fell'], ['on the road'])
+([u'say'], ['that she fell on the road'])
+(['hit'], ['Kajal', 'from behind'])
+([u'say'], ['that the car hit Kajal from behind'])
+
+
+----------------------------------------------------------------------------
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+([u'cross'], ['the road when a car that was heading towards Mumbra bypass rammed into him'])
+([u'take'], ['place', 'L:at Retibunder'])
+L:at Retibunder
+([u'ram'], ['into him'])
+([u'head'], ['towards Mumbra bypass'])
+
+
+([u'injure'], ['L:in separate road mishaps', 'T:on Wednesday'])
+L:in separate road mishaps
+T:on Wednesday
+
+
+([u'ram'], ['into him'])
+([u'wait'], ['for a passenger rammed into him'])
+([u'come'], ['from behind'])
+([u'wait'], ['for a passenger', 'T:when the speeding car came from behind'])
+T:when the speeding car came from behind
+(['fact'], ['Chembur'])
+([u'park'], ['his vehicle'])
+
+
+----------------------------------------------------------------------------
+(['hit'], ['a car', 'T:on Tuesday night'])
+T:on Tuesday night
+
+
+([u'drive'], ['ahead of it'])
+([u'ram'], ['a slow-moving dumper driving ahead of it'])
+([u'occur'], ['T:when a speeding Toyota Fortuner rammed a slow-moving dumper'])
+T:when a speeding Toyota Fortuner rammed a slow-moving dumper
+
+
+([u'occur'], [' '])
+([u'return'], ['home', 'from his factory in Ghaziabad', 'T:when the accident occurred'])
+T:when the accident occurred
+
+
+----------------------------------------------------------------------------
+(['hit'], ['a car', 'T:on Tuesday night'])
+T:on Tuesday night
+
+
+([u'drive'], ['ahead of it'])
+([u'ram'], ['a slow-moving dumper driving ahead of it'])
+([u'occur'], ['T:when a speeding Toyota Fortuner rammed a slow-moving dumper'])
+T:when a speeding Toyota Fortuner rammed a slow-moving dumper
+
+
+([u'occur'], [' '])
+([u'return'], ['home', 'from his factory in Ghaziabad', 'T:when the accident occurred'])
+T:when the accident occurred
+
+
+----------------------------------------------------------------------------
+([u'save'], ['the lives of five members of a family', 'T:when a car plunged into the Sirhind Canal near a bridge in Gurthali village in Khanna on Wednesday'])
+T:when a car plunged into the Sirhind Canal near a bridge in Gurthali village in Khanna on Wednesday
+([u'say'], ['the police'])
+([u'show'], ['by a group of villagers'])
+([u'save'], ['the lives of five members of a family', 'T:when a car plunged into the Sirhind Canal near a bridge in Gurthali village in Khanna on Wednesday'])
+T:when a car plunged into the Sirhind Canal near a bridge in Gurthali village in Khanna on Wednesday
+([u'say'], ['the police'])
+([u'plunge'], ['into the Sirhind Canal', 'near a bridge in Gurthali village in Khanna on Wednesday'])
+([u'show'], ['by a group of villagers'])
+
+
+([u'save'], [' '])
+([], ['because of timely action'])
+([u'say'], ['it was because of timely action taken by sarpanch Ajit Singh that the family was saved'])
+([u'take'], ['by sarpanch Ajit Singh'])
+
+
+(['go', 'buy'], ['something'])
+(['go'], ['buy something'])
+([u'ask'], ['the driver', 'to go buy something'])
+(['go'], ['out'])
+([u'ask'], ['the driver', 'to go out'])
+
+
+----------------------------------------------------------------------------
+([u'sleep'], ['L:outside their house'])
+L:outside their house
+([u'take'], ['place', 'T:at 6.30 am', 'T:when family was sleeping outside their house'])
+T:at 6.30 am
+T:when family was sleeping outside their house
+
+
+([u'injure'], ['L:in the accident'])
+L:in the accident
+(['fact'], ['Singh'])
+([u'injure'], ['L:in the accident'])
+L:in the accident
+
+
+(['hit'], ['into an electric police', 'T:later'])
+T:later
+
+
+----------------------------------------------------------------------------
+([u'collide'], ['T:on Wednesday'])
+T:on Wednesday
+([u'injure'], ['T:after a trailer'])
+T:after a trailer
+([u'kill'], [' '])
+
+
+([u'kill'], [' '])
+([], ['residents of Gurabandha'])
+([u'kill'], [' '])
+([], ['residents of Asanboni'])
+([u'kill'], [' '])
+([], ['residents of Maubhandar'])
+
+
+([], ['critical', 'L:Out of three persons'])
+L:Out of three persons
+([u'sustain'], ['grave injuries', 'L:Out of three persons'])
+L:Out of three persons
+
+
+----------------------------------------------------------------------------
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+([u'come'], ['from behind'])
+(['hit'], ['by a truck'])
+([u'take'], ['right'])
+([], ['break'])
+([], ['break'])
+
+
+(['hit'], ['their scooter', 'L:near Mankoli naka', 'L:on Mumbai - Nashik highway', 'T:on Thursday'])
+L:near Mankoli naka
+L:on Mumbai - Nashik highway
+T:on Thursday
+([u'suffer'], ['injuries', 'T:after a truck hit their scooter near Mankoli naka on Mumbai - Nashik highway on Thursday'])
+T:after a truck hit their scooter near Mankoli naka on Mumbai - Nashik highway on Thursday
+([u'die'], [' '])
+
+
+([u'lose'], ['her balance'])
+
+
+----------------------------------------------------------------------------
+([u'add'], ['ensure smooth flow of traffic at the junction'])
+(['fact'], ['Huda'])
+(['will', 'reduce'], ['jams'])
+([u'add'], ['the project will reduce jams'])
+([], ['likely to start by month - end'])
+([u'say'], ['Huda administrator Yashpal Yadav'])
+(['start'], ['T:by month - end'])
+T:by month - end
+
+
+(['fact'], ['Sector 50'])
+([u'emerge'], ['as an accident spot', 'due to faulty design'])
+([u'say'], ['Sachin Sharma'])
+
+
+([u'say'], ['shifting of the high - tension line'])
+
+
+----------------------------------------------------------------------------
+([u'kill', 'in'], ['road accidents'])
+([u'kill', 'in'], ['2015'])
+([u'go'], ['up', 'to 17,218', 'T:in 2016'])
+T:in 2016
+([u'kill'], ['L:in road accidents', 'T:in 2015'])
+L:in road accidents
+T:in 2015
+
+
+([u'fall'], ['under the ministry of highways'])
+([u'fall'], ['under the ministry of transport'])
+([u'report'], ['L:on these stretches'])
+L:on these stretches
+([u'fall'], ['under the ministry of road'])
+([u'coordinate'], ['with the road accident data management system', 'to redo the engineering faults on the city roads , especially highways , after studying road accidents'])
+
+
+([u'lose'], ['their lives'])
+([u'lose'], ['their lives', 'L:In the 7,486 accidents'])
+L:In the 7,486 accidents
+([u'report'], ['L:in Chennai city'])
+L:in Chennai city
+
+
+----------------------------------------------------------------------------
+([u'overturn'], ['L:near Arakkonam', 'T:on Wednesday'])
+L:near Arakkonam
+T:on Wednesday
+([u'sustain'], ['injuries', 'T:after the motorbike overturned near Arakkonam on Wednesday'])
+T:after the motorbike overturned near Arakkonam on Wednesday
+([u'die'], [' '])
+
+
+(['hit'], ['the side of the road', 'T:after Rahul lost control of the vehicle near Senthamangalam'])
+T:after Rahul lost control of the vehicle near Senthamangalam
+([u'say'], ['the two-wheeler hit the side of the road after Rahul lost control of the vehicle near Senthamangalam'])
+([u'lose'], ['control of the vehicle near Senthamangalam'])
+
+
+([u'head'], ["to a friend 's place in Arakonam"])
+([u'leave'], ['their houses', 'L:in Kancheepuram'])
+L:in Kancheepuram
+([u'identify'], ['as Rahul , of Podavur near Kancheepuram'])
+
+
+----------------------------------------------------------------------------
+([u'take'], ['place', 'T:while she was returning home after a check-up at KMCH'])
+T:while she was returning home after a check-up at KMCH
+([u'say'], ['the accident took place while she was returning home after a check-up at KMCH'])
+([u'return'], ['home', 'T:after a check-up at KMCH'])
+T:after a check-up at KMCH
+([u'accompany'], ["by the latter 's two - year - old daughter"])
+([u'accompany'], ['by her relative Gokila'])
+
+
+([u'try', 'cross'], ['the Avinashi Road', 'L:in front of Kovai Medical Hospital ( KMCH ) here on Thursday morning'])
+L:in front of Kovai Medical Hospital ( KMCH ) here on Thursday morning
+([u'try'], ['to cross the Avinashi Road in front of Kovai Medical Hospital ( KMCH ) here on Thursday morning'])
+(['hit'], ['her', 'T:while she was trying to cross the Avinashi Road in front of Kovai Medical Hospital ( KMCH ) here on Thursday morning'])
+T:while she was trying to cross the Avinashi Road in front of Kovai Medical Hospital ( KMCH ) here on Thursday morning
+([u'kill'], ['T:after a speeding motorcycle hit her while she was trying to cross the Avinashi Road in front of Kovai Medical Hospital ( KMCH ) here on Thursday morning'])
+T:after a speeding motorcycle hit her while she was trying to cross the Avinashi Road in front of Kovai Medical Hospital ( KMCH ) here on Thursday morning
+([u'try', 'cross'], ['the Avinashi Road', 'L:in front of Kovai Medical Centre'])
+L:in front of Kovai Medical Centre
+([u'try'], ['to cross the Avinashi Road in front of Kovai Medical Centre'])
+(['hit'], ['her', 'T:while she was trying to cross the Avinashi Road in front of Kovai Medical Centre'])
+T:while she was trying to cross the Avinashi Road in front of Kovai Medical Centre
+([u'kill'], ['T:after a speeding motorcycle hit her while she was trying to cross the Avinashi Road in front of Kovai Medical Centre'])
+T:after a speeding motorcycle hit her while she was trying to cross the Avinashi Road in front of Kovai Medical Centre
+
+
+([u'injure'], ['L:in the incident'])
+L:in the incident
+([u'injure'], ['L:in the incident'])
+L:in the incident
+([u'injure'], ['L:in the incident'])
+L:in the incident
+
+
+----------------------------------------------------------------------------
+(['fact'], ['him'])
+([u'take'], ['place', 'T:when his relative , Sumit Kumar , were coming from Karnal to Chandigarh on a bike'])
+T:when his relative , Sumit Kumar , were coming from Karnal to Chandigarh on a bike
+([u'say'], ['the incident took place when his relative , Sumit Kumar , were coming from Karnal to Chandigarh on a bike'])
+([u'come'], ['from Karnal', 'to Chandigarh'])
+([u'take'], ['place', 'T:when the Kumar , were coming from Karnal to Chandigarh on a bike'])
+T:when the Kumar , were coming from Karnal to Chandigarh on a bike
+([u'say'], ['the incident took place when the Kumar , were coming from Karnal to Chandigarh on a bike'])
+([u'come'], ['from Karnal'])
+
+
+([], ['on his way back to Patiala, with his brother-in-law'])
+([u'take'], ['place', 'T:late in the evening', 'T:when Heeralal was on his way back to Patiala, with his brother-in-law', 'T:after meeting his sister'])
+T:late in the evening
+T:when Heeralal was on his way back to Patiala, with his brother-in-law
+T:after meeting his sister
+
+
+([u'kill'], ['L:in two accidents', 'L:in Phase 11', 'L:at Mohali', 'T:on Thursday'])
+L:in two accidents
+L:in Phase 11
+L:at Mohali
+T:on Thursday
+([u'kill'], ['L:in two accidents in Dera Bassi', 'L:at Mohali', 'T:on Thursday'])
+L:in two accidents in Dera Bassi
+L:at Mohali
+T:on Thursday
+
+
+----------------------------------------------------------------------------
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+(['topple', u'cross'], ['the hairpin'])
+(['topple'], ['T:while crossing the hairpin', 'bends at the ghat road'])
+T:while crossing the hairpin
+([u'tell'], ['TOI'])
+([u'conduct'], ['a field study , which identified accident prone spots'])
+([u'identify'], ['accident prone spots'])
+([u'conduct'], ['a field study , which identified accident prone spots'])
+
+
+(['will', 'eliminate'], ['hairpin bends'])
+(['allocate'], ['land'])
+([u'approach'], ['the forest department', 'to allocate land to lay the new road,', 'T:then'])
+T:then
+([u'say'], ['the official'])
+([u'say'], ['the official'])
+
+
+(['will', 'plant'], ['them', 'in the nearby forest'])
+([u'say'], ['the official'])
+(['will', 'uproot', u'tree', u'use'], ['earthmovers'])
+(['will', 'uproot'], ['trees'])
+([u'say'], ['the official'])
+([u'add'], ['he'])
+
+
+----------------------------------------------------------------------------
+([u'take'], ['place', 'T:on Thursday evening', 'T:around 5.45pm'])
+T:on Thursday evening
+T:around 5.45pm
+([u'say'], ['that the accident took place on Thursday evening around 5.45pm'])
+
+
+([u'die'], ['T:instantly'])
+T:instantly
+([u'come'], ['under the wheels'])
+(['say'], ['that while after she came under the wheels and died instantly'])
+([u'sustain'], ['minor injuries'])
+(['say'], ['that while the biker who is yet to be identified sustained minor injuries and died instantly'])
+([u'die'], ['T:instantly'])
+T:instantly
+([u'identify'], [' '])
+([], ['T:yet', 'to be identified'])
+T:yet
+
+
+([u'escape', u'belong'], ['to Haryana Roadways'])
+([u'rid'], ['the bike'])
+([u'escape'], ['T:after a bus'])
+T:after a bus
+([u'travel'], ['in'])
+
+
+----------------------------------------------------------------------------
+([u'crash'], ['into the back of truck near Rajiv Chowk on the Gurgaon-Delhi expressway'])
+([u'die'], ['L:in a road accident', 'T:in the early hours of Friday', 'T:after her car crashed into the back of truck near Rajiv Chowk on the Gurgaon-Delhi expressway'])
+L:in a road accident
+T:in the early hours of Friday
+T:after her car crashed into the back of truck near Rajiv Chowk on the Gurgaon-Delhi expressway
+([u'return'], ['home', 'from a birthday party'])
+
+
+([], ['her', 'to the hospital', 'T:the time'])
+T:the time
+([u'die'], ['T:by the time'])
+T:by the time
+
+
+([u'plough'], ['into the truck'])
+([], ['in an auto', 'with some of his friends'])
+
+
+----------------------------------------------------------------------------
+([u'die'], ['L:in an accident at Koyambedu bus terminus', 'T:on Friday', 'T:at 5.30am'])
+L:in an accident at Koyambedu bus terminus
+T:on Friday
+T:at 5.30am
+
+
+([u'receive'], ['severe head injury'])
+(['hit'], ['the overhead rod'])
+
+
+([u'injure'], ['L:in the process'])
+L:in the process
+(['accompaning'], ['another passenger'])
+([u'injure'], ['L:in the process'])
+L:in the process
+(['accompaning'], ['her'])
+
+
+----------------------------------------------------------------------------
+([u'ram'], ['into a speeding truck', 'L:on Chhuchakwas-Gwalison road, near Maraut village of Jhajjar', 'T:during late night hours of Friday'])
+L:on Chhuchakwas-Gwalison road, near Maraut village of Jhajjar
+T:during late night hours of Friday
+([u'die'], ['T:after the SUV was rammed into a speeding truck on Chhuchakwas-Gwalison road, near Maraut village of Jhajjar, during late night hours of Friday'])
+T:after the SUV was rammed into a speeding truck on Chhuchakwas-Gwalison road, near Maraut village of Jhajjar, during late night hours of Friday
+
+
+([u'die'], ['L:on the spot'])
+L:on the spot
+
+
+([u'die'], ['T:while'])
+T:while
+
+
+----------------------------------------------------------------------------
+(["'m", u'do', 'everything', 'i', 'can', 'heal', 'faster'], [' '])
+(["'m", u'do'], ['everything I can', 'to heal faster'])
+([u'say'], ['Renner'])
+
+
+(['leave'], ['him', 'surprised'])
+([u'say'], ["visual effects in his movies like Marvel's 'Captain America: Civil War', leave him surprised"])
+
+
+([u'add'], [' '])
+([u'go'], ['into editing', "T:Once we 're done with principal photography"])
+T:Once we 're done with principal photography
+(["'re", u'do'], [' '])
+([], ['T:always', 'a surprise', "T:when it comes to films like ' the whole Marvel universe to see ( the finished movie"])
+T:always
+T:when it comes to films like ' the whole Marvel universe to see ( the finished movie
+([u'say'], ['he'])
+(['see'], ['the finished movie'])
+([], ['T:always', 'a surprise', "T:when it comes to films like ' Avengers ' to see ( the finished movie"])
+T:always
+T:when it comes to films like ' Avengers ' to see ( the finished movie
+([u'say'], ['he'])
+(['see'], ['the finished movie'])
+
+
+----------------------------------------------------------------------------
+([u'ram'], ['into a speeding truck', 'L:on Chhuchakwas-Gwalison road, near Maraut village of Jhajjar'])
+L:on Chhuchakwas-Gwalison road, near Maraut village of Jhajjar
+([u'die'], ['T:after the SUV rammed into a speeding truck on Chhuchakwas-Gwalison road, near Maraut village of Jhajjar', 'T:during late night hours of Friday'])
+T:after the SUV rammed into a speeding truck on Chhuchakwas-Gwalison road, near Maraut village of Jhajjar
+T:during late night hours of Friday
+
+
+([u'die'], ['L:on the spot'])
+L:on the spot
+
+
+([u'die'], ['T:while'])
+T:while
+
+
+----------------------------------------------------------------------------
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+([u'turn'], ['into an ugly fight with suspected cow vigilantes thrashing not only the animal transporters in seven other vehicles'])
+([u'turn'], ['into an ugly fight with suspected cow vigilantes thrashing not only the truck drivers'])
+([u'graze'], ['against a car'])
+([u'start'], ['as a spat over a truck'])
+
+
+([u'release'], ['the animals', 'L:on the road'])
+L:on the road
+([u'vandalise'], ['the vehicles', 'L:at Baba Haridass Nagar', 'T:on Friday night'])
+L:at Baba Haridass Nagar
+T:on Friday night
+(['of', u'transport'], ['cattle'])
+([u'accuse'], ['us', 'of transporting cattle illegally'])
+([u'turn'], ['ugly', 'T:when the four men in the car accused us of transporting cattle illegally'])
+T:when the four men in the car accused us of transporting cattle illegally
+([u'scrap'], ['an i10 car'])
+
+
+([u'die'], ['T:after being injured in the melee'])
+T:after being injured in the melee
+
+
+----------------------------------------------------------------------------
+([u'ram'], ['into a parked truck on the Sayla-Limbdi highway'])
+([u'take'], ['place', 'T:when the Gujarat State Road Transport Corporation (GSRTC) bus of Junagadh-Unjha route rammed into a parked truck on the Sayla-Limbdi highway'])
+T:when the Gujarat State Road Transport Corporation (GSRTC) bus of Junagadh-Unjha route rammed into a parked truck on the Sayla-Limbdi highway
+
+
+([u'ram'], ['into a parked truck near Vastavdi village', 'L:on Sayla - Limbdi highway', 'L:in Surendranagar', 'T:early morning'])
+L:on Sayla - Limbdi highway
+L:in Surendranagar
+T:early morning
+([u'injure'], ['T:when a state transport bus rammed into a parked truck near Vastavdi village on Sayla - Limbdi highway in Surendranagar early morning on Saturday'])
+T:when a state transport bus rammed into a parked truck near Vastavdi village on Sayla - Limbdi highway in Surendranagar early morning on Saturday
+([], ['injured', 'T:when a state transport bus rammed into a parked truck near Vastavdi village on Sayla - Limbdi highway in Surendranagar early morning on Saturday'])
+T:when a state transport bus rammed into a parked truck near Vastavdi village on Sayla - Limbdi highway in Surendranagar early morning on Saturday
+([u'kill'], [' '])
+
+
+([u'die'], ['L:on the spot'])
+L:on the spot
+([u'add'], ['police'])
+
+
+----------------------------------------------------------------------------
+([], ['on his way'])
+([u'die'], ['L:in a road accident near Mahavir Hall', 'L:on Ajwa Road', 'T:when he was on his way'])
+L:in a road accident near Mahavir Hall
+L:on Ajwa Road
+T:when he was on his way
+
+
+(['fact'], ['him'])
+(['hit'], ['them', 'L:near Mahavir Hall', 'L:on Ajwa Road'])
+L:near Mahavir Hall
+L:on Ajwa Road
+([], ['on his way to a computer class on Waghodia Road', 'T:when a pick-up van driver hit them near Mahavir Hall on Ajwa Road'])
+T:when a pick-up van driver hit them near Mahavir Hall on Ajwa Road
+([u'identify'], ['as Ashok Rajput'])
+
+
+([u'fling'], ['into air'])
+([u'say'], ['that the duo were flung into air'])
+
+
+----------------------------------------------------------------------------
+([u'kill'], ['by a speeding car near an under - construction house in Sector 43', 'L:In a hit - run accident'])
+L:In a hit - run accident
+([u'kill'], ['by a speeding car near an under - construction house in Sector 43', 'L:In a hit - accident'])
+L:In a hit - accident
+
+
+([u'crush'], ['the child', 'L:under its wheels'])
+L:under its wheels
+([u'rush'], ['past the house'])
+([u'go'], ['rushing past the house', 'T:The next moment'])
+T:The next moment
+
+
+([u'arrest'], ['T:soon'])
+T:soon
+([u'say'], ['inspector Gaurav Phogat'])
+
+
+----------------------------------------------------------------------------
+([u'meet'], ['with an accident on the Chinchbhuvan Bridge'])
+([u'injure'], ['T:after the car in'])
+T:after the car in
+([u'succumb'], ['to death'])
+
+
+([u'dash'], ['against the parapet of the bridge'])
+(['turn'], ['the car', 'on the wrong side', 'T:when it dashed against the parapet of the bridge'])
+T:when it dashed against the parapet of the bridge
+([u'bamboozle'], ['by something in a fraction of second'])
+([u'leave'], ['bamboozled by something in a fraction of second', 'T:As per police sources'])
+T:As per police sources
+
+
+([u'ram'], ['into the side wall', 'T:then'])
+T:then
+([u'uproot'], [' '])
+([u'move'], ['across the road on the right', 'T:After hitting the parapet on the left side'])
+T:After hitting the parapet on the left side
+
+
+----------------------------------------------------------------------------
+([u'carry'], ['sand'])
+([u'knock'], ['a biker', 'L:in the area'])
+L:in the area
+([u'burn'], ['11 sand-laden trucks', "L:at West Midnapore's Gurguripal", 'T:on Friday night', 'T:after a truck carrying sand knocked down a biker in the area'])
+L:at West Midnapore's Gurguripal
+T:on Friday night
+T:after a truck carrying sand knocked down a biker in the area
+
+
+([u'run'], ['him'])
+([u'return'], ['home', 'T:when the truck ran him over'])
+T:when the truck ran him over
+(['hit'], ['him'])
+([u'return'], ['home', 'T:when the truck hit him'])
+T:when the truck hit him
+
+
+([u'die'], ['L:on the spot'])
+L:on the spot
+
+
+----------------------------------------------------------------------------
+([u'go'], ['viral', 'L:on social media'])
+L:on social media
+([u'take'], ['place', 'T:on Thursday'])
+T:on Thursday
+
+
+(['fact'], ['Ahmedabad'])
+(['fact'], ['an Ahmedabad resident'])
+([u'arrive'], ['at the station'])
+([u'run'], [' '])
+([u'alight', 'buy'], ['water'])
+([u'alight'], ['to buy water'])
+([u'take'], ['place', 'T:at 11.15pm', 'T:when Gujarat Mail, which runs between Mumbai Central and Ahmedabad, arrived on'])
+T:at 11.15pm
+T:when Gujarat Mail, which runs between Mumbai Central and Ahmedabad, arrived on
+([u'say'], ['the incident took place at 11.15pm, when Gujarat Mail, which runs between Mumbai Central and Ahmedabad, arrived on'])
+
+
+([u'fall'], ['into the gap between a platform and train at Borivli'])
+([u'die'], ['T:after falling into the gap between a platform and train at Borivli'])
+T:after falling into the gap between a platform and train at Borivli
+
+
+----------------------------------------------------------------------------
+([u'run', 'him', u'crush'], ['him', 'L:beneath its tyres'])
+L:beneath its tyres
+([u'run'], ['over him'])
+([u'stand'], ['with his friends near the sewage treatment plant ( STP ) in Roopnagar Colony of Badhi Majra'])
+([u'identify'], ['as Muntzil ( 12'])
+([u'take'], ['place', 'T:when the deceased , identified as Muntzil ( 12 ) , was standing with his friends near the sewage treatment plant ( STP ) in Roopnagar Colony of Badhi Majra'])
+T:when the deceased , identified as Muntzil ( 12 ) , was standing with his friends near the sewage treatment plant ( STP ) in Roopnagar Colony of Badhi Majra
+
+
+([u'crush'], ['L:under the wheels of a dump truck in Badhi Majra area of Yamunanagar district', 'T:on Friday afternoon'])
+L:under the wheels of a dump truck in Badhi Majra area of Yamunanagar district
+T:on Friday afternoon
+
+
+([u'crush', 'muntzil', u'drag'], ['him', 'almost for 100 metres'])
+([u'crush'], ['Muntzil', 'T:while dragging him almost for 100 metres', 'T:suddenly'])
+T:while dragging him almost for 100 metres
+T:suddenly
+([u'talk'], ['to them', 'T:when a gravel - filled dumper suddenly crushed Muntzil'])
+T:when a gravel - filled dumper suddenly crushed Muntzil
+([u'come'], ['T:suddenly'])
+T:suddenly
+([u'talk'], ['to them', 'T:when a gravel - filled dumper suddenly came'])
+T:when a gravel - filled dumper suddenly came
+
+
+----------------------------------------------------------------------------
+([u'ram'], ['a trailer', 'L:at Manjari near Hadapsar'])
+L:at Manjari near Hadapsar
+([u'rid'], ['T:rammed a trailer at Manjari near Hadapsar on the Pune-Solapur highway'])
+T:rammed a trailer at Manjari near Hadapsar on the Pune-Solapur highway
+([u'injure'], ['T:when the motorbike they were riding rammed a trailer at Manjari near Hadapsar on the Pune-Solapur highway'])
+T:when the motorbike they were riding rammed a trailer at Manjari near Hadapsar on the Pune-Solapur highway
+([u'die'], ['T:while two others were injured when the motorbike they were riding rammed a trailer at Manjari near Hadapsar on the Pune-Solapur highway'])
+T:while two others were injured when the motorbike they were riding rammed a trailer at Manjari near Hadapsar on the Pune-Solapur highway
+
+
+
+
+([u'work'], ['for a painting contractor in theh Hadapsar area'])
+([u'work'], ['for a painting contractor in theh Hadapsar area'])
+([u'work'], ['for a painting contractor in theh Hadapsar area', 'L:in Manjari'])
+L:in Manjari
+([u'work'], ['for a painting contractor in theh Hadapsar area'])
+([u'work'], ['for a painting contractor in theh Hadapsar area'])
+([u'work'], ['for a painting contractor in theh Hadapsar area'])
+([u'work'], ['for a painting contractor in theh Hadapsar area', 'L:in Manjari'])
+L:in Manjari
+
+
+----------------------------------------------------------------------------
+([u'ram'], ['into a stationary bus on Sadlpur-Churu road', 'L:Churu'])
+L:Churu
+([u'report'], ['from Churu'])
+
+
+([u'injure'], ['L:in the mishap'])
+L:in the mishap
+([u'die'], ['L:in the accident'])
+L:in the accident
+([], ['on a return journey from Haridwar to Ladanu in Nagaur'])
+
+
+([u'die'], ['T:after an overloaded truck', 'T:hit her on Saturday morning', 'L:In another accident in Shahpura in Jaipur rural'])
+T:after an overloaded truck
+T:hit her on Saturday morning
+L:In another accident in Shahpura in Jaipur rural
+
+
+----------------------------------------------------------------------------
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+([], ['to bring the traffic investigation wing too under intelligence section (IS) scrutiny'])
+(['smash'], ['the broker menace', 'in police stations'])
+([u'offer'], ['by lawyers'])
+([], ['under IS radar'])
+([], ['under IS radar'])
+([], ['under IS radar'])
+
+
+([], ['a clear subversion of judicial process'])
+([u'say'], ['he'])
+
+
+(['dled'], ['by `station lawyers'])
+(['not'], ["han dled by `station lawyers'"])
+([u'delay', 'about'], [' '])
+(['go'], [' '])
+([u'say'], ['a lawyer'])
+
+
+----------------------------------------------------------------------------
+([u'die'], ['T:while another person was critical after a container truck'])
+T:while another person was critical after a container truck
+([u'topple'], ['on them', 'L:in Hapur', 'T:on Sunday'])
+L:in Hapur
+T:on Sunday
+([], ['critical', 'T:after a container truck'])
+T:after a container truck
+([u'die'], ['T:while another person was critical after a container truck'])
+T:while another person was critical after a container truck
+
+
+([], ['on a mother - daughter duo'])
+([], ['on his cycle'])
+([u'collapse'], ['T:on a boy'])
+T:on a boy
+([u'topple'], ['T:after hitting some material'])
+T:after hitting some material
+([u'topple'], ['T:after hitting some construction'])
+T:after hitting some construction
+([u'topple'], ['T:after hitting some stone'])
+T:after hitting some stone
+([u'be', u'construct'], ['L:on that route'])
+L:on that route
+([u'injure'], ['T:While a 15 - year - old boy -- who is yet to be identified -- died on the spot'])
+T:While a 15 - year - old boy -- who is yet to be identified -- died on the spot
+([], ['injured', 'T:While a 15 - year - old boy -- who is yet to be identified -- died on the spot'])
+T:While a 15 - year - old boy -- who is yet to be identified -- died on the spot
+([u'die'], ['L:on the spot'])
+L:on the spot
+([u'identify'], [' '])
+([], ['T:yet', 'to be identified'])
+T:yet
+(['fact'], ['Manvi'])
+([u'injure'], [' '])
+([], ['injured', 'T:While Manvi ( 5 ) died on the spot'])
+T:While Manvi ( 5 ) died on the spot
+([u'die'], ['L:on the spot'])
+L:on the spot
+
+
+(['fact'], ['station house officer'])
+([u'say'], ['The incident took place at 9am on Sunday'])
+([u'pass'], ['from Garh Road'])
+
+
+----------------------------------------------------------------------------
+([u'ram'], ['into the victims', 'T:after hitting three cars one after the other'])
+T:after hitting three cars one after the other
+([u'take'], ['place', 'T:when a speeding car rammed into the victims after hitting three cars one after the other'])
+T:when a speeding car rammed into the victims after hitting three cars one after the other
+
+
+([u'enjoy'], ['the fair of Baba Darshan Singh'])
+([u'take'], ['place', 'T:while people were enjoying the fair of Baba Darshan Singh'])
+T:while people were enjoying the fair of Baba Darshan Singh
+
+
+([u'injure'], ['L:in a road accident at Ghanupur Kale bypass near here on Sunday evening'])
+L:in a road accident at Ghanupur Kale bypass near here on Sunday evening
+([u'kill'], [' '])
+
+
+----------------------------------------------------------------------------
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+([u'head'], ['towards Dewas'])
+([u'take'], ['place', 'T:when the bus was heading towards Dewas from Indore'])
+T:when the bus was heading towards Dewas from Indore
+
+
+([u'injure'], [' '])
+
+
+([u'sustain'], ['severe injuries'])
+([u'commute'], ['L:between Indore and Dewas'])
+L:between Indore and Dewas
+([u'sustain'], ['severe injuries', 'T:when the bus hit a rotary in Rasulpur under Industrial Area'])
+T:when the bus hit a rotary in Rasulpur under Industrial Area
+(['hit'], ['a rotary in Rasulpur under Industrial Area'])
+
+
+----------------------------------------------------------------------------
+(['run'], ['by a speeding truck near Adalaj', 'T:on Sunday night'])
+T:on Sunday night
+
+
+([u'pass'], ['from the road towards SP Ring Road along with daughter', 'T:on Sunday night'])
+T:on Sunday night
+([u'pass', u'work'], ['L:at a farm house near Khoraj - Khodiar container depot'])
+L:at a farm house near Khoraj - Khodiar container depot
+([u'pass'], ['from the road towards SP Ring Road along with her husband', 'T:on Sunday night'])
+T:on Sunday night
+([u'carry'], ['iron rods'])
+(['hit'], ['by a truck'])
+
+
+(['run'], ['by the rear wheels of the truck', 'T:the iron rods'])
+T:the iron rods
+(['hit'], ['by the iron rods'])
+(['fell'], ['down', 'on road', 'T:after she was hit by the iron rods'])
+T:after she was hit by the iron rods
+
+
+----------------------------------------------------------------------------
+([u'kill'], ['L:in a head-on collision on the Ribandar-Old Goa bypass on Monday evening after the scooter'])
+L:in a head-on collision on the Ribandar-Old Goa bypass on Monday evening after the scooter
+([u'proceed'], [' '])
+([u'rid'], ['the scooter she was riding collided with a water tanker'])
+
+
+([u'identify'], ['as Mahirunissha Bi Naik'])
+([u'occur'], ['T:late in the evening', 'as the victim'])
+T:late in the evening
+
+
+(['fact'], ['Bainguinim'])
+([u'die'], ['L:on the spot'])
+L:on the spot
+
+
+----------------------------------------------------------------------------
+([u'injure'], ['L:in the accident'])
+L:in the accident
+([u'post'], ['at Kotwali police station'])
+([u'injure'], ['L:in the accident'])
+L:in the accident
+([u'post'], ['at Nandanvan police station'])
+([u'injure'], ['L:in the accident'])
+L:in the accident
+([u'post'], ['at Kotwali police station'])
+([u'injure'], ['L:in the accident'])
+L:in the accident
+([u'post'], ['at Nandanvan police station'])
+
+
+([u'return'], ['to the city'])
+([u'occur'], ['T:when they were returning to the city'])
+T:when they were returning to the city
+
+
+([u'suffer'], ['L:in an accident', 'T:on Saturday night'])
+L:in an accident
+T:on Saturday night
+([u'post'], ['at Sonegaon police station'])
+
+
+----------------------------------------------------------------------------
+([u'die'], ['L:on the spot'])
+L:on the spot
+([u'say'], ['police'])
+([u'meet'], ['with the mishap', 'T:While returning home'])
+T:While returning home
+([u'say'], ['police'])
+
+
+([u'ram'], ['his two-wheeler', 'into a Metro pillar near Moosapet station', 'T:on Sunday night'])
+T:on Sunday night
+([u'die'], ['T:after he rammed his two-wheeler into a Metro pillar near Moosapet station on Sunday night'])
+T:after he rammed his two-wheeler into a Metro pillar near Moosapet station on Sunday night
+([u'return'], ['home', 'T:after watching a movie at KPHB', 'T:after he rammed his two-wheeler into a Metro pillar near Moosapet station on Sunday night'])
+T:after watching a movie at KPHB
+T:after he rammed his two-wheeler into a Metro pillar near Moosapet station on Sunday night
+
+
+([u'bang'], ['against the pillar'])
+([u'fall'], [' '])
+
+
+----------------------------------------------------------------------------
+([u'involve'], ['three cars near Chengalpet'])
+([u'injure'], ['L:in an accident', 'T:on Sunday night'])
+L:in an accident
+T:on Sunday night
+([u'involve'], ['four TNSTC buses', 'T:on Sunday night'])
+T:on Sunday night
+([u'injure'], ['L:in an accident'])
+L:in an accident
+([u'die'], [' '])
+
+
+([u'kill'], ['its driver', 'Saravanan'])
+([u'crash'], ['into a car', 'L:on the opposite lane'])
+L:on the opposite lane
+
+
+([u'injure'], ['L:in the crash'])
+L:in the crash
+([u'be', u'treat'], ['L:the Rajiv Gandhi Government hospital'])
+L:the Rajiv Gandhi Government hospital
+([u'rush'], ['to the Rajiv Gandhi Government hospital'])
+
+
+----------------------------------------------------------------------------
+([u'kill'], ['L:in an accident in Manesar', 'T:on Monday afternoon'])
+L:in an accident in Manesar
+T:on Monday afternoon
+
+
+([u'manage', 'flee', u'leave'], ['his vehicle', 'L:on the spot'])
+L:on the spot
+([u'manage', 'flee', 'flee'], [' '])
+([u'manage'], ['to flee'])
+([u'die'], ['L:on the spot'])
+L:on the spot
+
+
+([u'return'], ['from their work from National Brain Research Centre (NBRC) in Manesar'])
+([u'occur', 'ahead'], ['T:on NH-8'])
+T:on NH-8
+
+
+----------------------------------------------------------------------------
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+([u'trap'], ['in the car'])
+([u'die'], ['T:as he was trapped in the car under water'])
+T:as he was trapped in the car under water
+
+
+(['fell'], ['into a rivulet at Pawlar bridge Navelim', 'on Tuesday at around 1 pm'])
+([u'injure'], ['T:after a car fell into a rivulet at Pawlar bridge Navelim , Bicholim , on Tuesday at around 1 pm'])
+T:after a car fell into a rivulet at Pawlar bridge Navelim , Bicholim , on Tuesday at around 1 pm
+([u'die'], ['T:while two others were injured after a car fell into a rivulet at Pawlar bridge Navelim , Bicholim , on Tuesday at around 1 pm'])
+T:while two others were injured after a car fell into a rivulet at Pawlar bridge Navelim , Bicholim , on Tuesday at around 1 pm
+([u'skid'], ['off the road'])
+([u'injure'], ['T:after a car skidded off the road'])
+T:after a car skidded off the road
+([u'die'], ['T:while two others were injured after a car skidded off the road'])
+T:while two others were injured after a car skidded off the road
+([u'say'], ['was a trainee while the injured person , Aftab Alam Shaikh , of Valpoi , Sattari , was a permanent employee of a company'])
+([u'base'], ['L:at Kundaim industrial estate'])
+L:at Kundaim industrial estate
+([], ['a permanent employee of a company'])
+([u'identify'], ['as Shailesh Dasharath Gawas , 20 , of Fanaswada , Latambarcem'])
+([u'say'], ['the deceased was identified as Shailesh Dasharath Gawas , 20 , of Fanaswada , Latambarcem'])
+
+
+(['fell'], ['into the river'])
+([u'skid'], ['off the road', 'T:when it fell into the river'])
+T:when it fell into the river
+([u'reach'], ['Pawlar bridge'])
+([u'skid'], ['off the road', 'T:when it reached Pawlar bridge'])
+T:when it reached Pawlar bridge
+([u'lose'], ['control over the vehicle'])
+
+
+----------------------------------------------------------------------------
+([u'die'], ['T:after ramming his i20 into a road divider at high speed near Green Mosque on Road No.', 'L:In another spine-chilling accident'])
+T:after ramming his i20 into a road divider at high speed near Green Mosque on Road No.
+L:In another spine-chilling accident
+
+
+(['fact'], ['year engineering'])
+(['fact'], ['Muffakham Jah College'])
+([u'escape'], ['with injuries'])
+([u'die'], ['L:on the spot', 'T:while two other occupants escaped with injuries'])
+L:on the spot
+T:while two other occupants escaped with injuries
+([], ['at the wheel'])
+
+
+([u'leave', 'their', 'college', 'campus'], ['food', 'L:at a restaurant'])
+L:at a restaurant
+([u'leave'], ['their college campus', 'T:during lunch break'])
+T:during lunch break
+([u'say'], ['two of his friends Syed Waiz Hussain - left their college campus in the i20 during lunch break'])
+([u'leave'], ['their college campus', 'L:in the i20', 'T:during lunch break'])
+L:in the i20
+T:during lunch break
+([u'say'], ['two of his friends - Danish Javed Waiz Hussain - left their college campus in the i20 during lunch break'])
+([], ['food', 'L:at a restaurant'])
+L:at a restaurant
+([u'say'], ['20 - year - old Fasahat Ali , a resident of MLA Colony at Jubilee Hills Syed Waiz Hussain - left their college campus in the i20 during lunch break'])
+([], ['food', 'L:at a restaurant'])
+L:at a restaurant
+([u'leave'], ['their college campus', 'L:in the i20', 'T:during lunch break'])
+L:in the i20
+T:during lunch break
+([u'say'], ['20 - year - old Fasahat Ali , a resident of MLA Colony at Jubilee Hills - Danish Javed Waiz Hussain - left their college campus in the i20 during lunch break'])
+([], ['food', 'L:at a restaurant'])
+L:at a restaurant
+
+
+----------------------------------------------------------------------------
+([u'collide'], ['headon'])
+([u'kill'], ['L:on the Srisailam highway'])
+L:on the Srisailam highway
+
+
+([u'go', 'almost'], ['L:under the front side of the bus'])
+L:under the front side of the bus
+([u'crush'], ['T:as the car went almost entirely under the front side of the bus'])
+T:as the car went almost entirely under the front side of the bus
+
+
+([u'smash'], ['into a parked lorry near a godown in Maheshwaram police on Tuesday'])
+([u'kill'], ['T:when their two-wheeler smashed into a parked lorry near a godown in Maheshwaram police on Tuesday', 'L:In another accident in the city'])
+T:when their two-wheeler smashed into a parked lorry near a godown in Maheshwaram police on Tuesday
+L:In another accident in the city
+
+
+----------------------------------------------------------------------------
+([u'kill'], ['L:in separate hit - run accidents', 'T:on Sunday night'])
+L:in separate hit - run accidents
+T:on Sunday night
+([u'kill'], ['L:in separate hit - accidents', 'T:on Sunday night'])
+L:in separate hit - accidents
+T:on Sunday night
+
+
+([], ['asleep', 'L:at a construction site'])
+L:at a construction site
+(['run'], ['by a truck', 'T:while he was asleep at a construction site', 'L:In one accident'])
+T:while he was asleep at a construction site
+L:In one accident
+([u'complete'], ['his shift'])
+
+
+(['hit'], ['by a truck'])
+([u'kill'], ['T:after his car was hit by a truck', 'L:In another accident'])
+T:after his car was hit by a truck
+L:In another accident
+([u'drive'], ["from his grandmother's home in Garhi Harsaru", 'to his home in Delhi', 'T:at around 12.30am'])
+T:at around 12.30am
+
+
+----------------------------------------------------------------------------
+([u'pacify'], ['the protesters'])
+([u'reach'], ['the spot', 'T:later'])
+T:later
+([u'take'], ['place', 'T:due to the negligence of local authority'])
+T:due to the negligence of local authority
+([u'allege'], ['the mishap took place due to the negligence of local authority'])
+
+
+([u'fall'], ['into an open sewage drain outside his house', 'T:on Tuesday'])
+T:on Tuesday
+([u'die'], ['T:after falling into an open sewage drain outside his house in Sector Mu in Dadri on Tuesday'])
+T:after falling into an open sewage drain outside his house in Sector Mu in Dadri on Tuesday
+
+
+(['fact'], ['a local resident'])
+(['fell'], ['into the drain', 'T:as soon as she went inside the house'])
+T:as soon as she went inside the house
+([u'say'], ['Saroj'])
+([u'go'], ['inside the house'])
+
+
+----------------------------------------------------------------------------
+(['hit'], ['by a truck at Sungam'])
+([u'die'], ['L:on the spot', 'T:after his moped was hit by a truck at Sungam on Tuesday'])
+L:on the spot
+T:after his moped was hit by a truck at Sungam on Tuesday
+
+
+([u'run'], ['a silver smithery unit', 'L:at Ukkadam'])
+L:at Ukkadam
+
+
+([u'die'], ['L:on the spot'])
+L:on the spot
+([u'come'], ['under the wheels of the truck'])
+
+
+----------------------------------------------------------------------------
+([u'take'], ['place', 'L:on Koodalnagar Bridge'])
+L:on Koodalnagar Bridge
+
+
+([], ['on his way to work'])
+([u'take'], ['place', 'T:at 9am', 'T:when the victim, a private company employee, was on his way to work'])
+T:at 9am
+T:when the victim, a private company employee, was on his way to work
+
+
+(['hit'], ['her cycle'])
+([u'kill'], ['T:after a water tanker hit her cycle', 'L:In another incident'])
+T:after a water tanker hit her cycle
+L:In another incident
+([u'take'], ['place', 'T:on May 20'])
+T:on May 20
+
+
+----------------------------------------------------------------------------
+([u'collide'], ['with a truck near Asaba Weigh Bridge on the outskirts of Anjar town in Kutch on Tuesday'])
+([u'injure'], ['T:when their school autorickshaw collided with a truck near Asaba Weigh Bridge on the outskirts of Anjar town in Kutch on Tuesday'])
+T:when their school autorickshaw collided with a truck near Asaba Weigh Bridge on the outskirts of Anjar town in Kutch on Tuesday
+([], ['injured when their school autorickshaw collided with a truck near Asaba Weigh Bridge on the outskirts of Anjar town in Kutch on Tuesday'])
+([u'die'], [' '])
+
+
+([u'include'], ['the driver of the auto'])
+([u'injure'], [' '])
+
+
+([u'come'], ['from the opposite side'])
+([u'collide'], ['with the truck'])
+([u'occur'], ['T:when the auto collided with the truck'])
+T:when the auto collided with the truck
+
+
+----------------------------------------------------------------------------
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+([u'rob'], ['of his WagonR'])
+
+
+([u'manage', 'flee', 'flee'], [' '])
+([u'manage'], ['to flee'])
+([u'manage', 'recover'], ['the car', 'from Sohna', 'T:after three hours'])
+T:after three hours
+([u'manage'], ['to recover the car from Sohna after three hours'])
+
+
+(['fact'], ['Lajpat Nagar'])
+(['drop'], ['a passenger'])
+([u'go'], ['to Sector 15', 'to drop a passenger'])
+
+
+----------------------------------------------------------------------------
+(['just', u'drop'], ['her son', 'to school minutes', 'T:before'])
+T:before
+([u'run'], [' '])
+
+
+(['hit', 'streets', 'protest'], ['against police inaction against such negligent drivers'])
+(['hit'], ['the streets', 'to protest against police inaction against such negligent drivers'])
+([u'spark'], ['chaos', 'T:as guardians of other schoolchildren hit the streets to protest against police inaction against such negligent drivers'])
+T:as guardians of other schoolchildren hit the streets to protest against police inaction against such negligent drivers
+(['hit', 'streets', 'protest'], ['against rash driving'])
+(['hit'], ['the streets', 'to protest against rash driving'])
+([u'spark'], ['chaos', 'T:as guardians of other schoolchildren hit the streets to protest against rash driving'])
+T:as guardians of other schoolchildren hit the streets to protest against rash driving
+
+
+([u'happen'], [' '])
+([u'return'], ['home', 'T:when the accident happened'])
+T:when the accident happened
+([u'drop'], ['their respective wards'])
+
+
+----------------------------------------------------------------------------
+([u'collide', 'on'], ['with a jeep near Adharpura'])
+([u'kill'], ['T:when an ambulance collided head-on with a jeep near Adharpura'])
+T:when an ambulance collided head-on with a jeep near Adharpura
+
+
+([u'flee'], ['the spot'])
+([u'rush'], ['to Palanpur civil hospital', 'T:while the ambulance driver fled the spot'])
+T:while the ambulance driver fled the spot
+([u'suffer'], ['serious injuries'])
+
+
+([], ['on way to Satlasna'])
+([u'travel'], ['in a jeep', 'T:while the ambulance was on way to Satlasna'])
+T:while the ambulance was on way to Satlasna
+
+
+----------------------------------------------------------------------------
+(['hit'], ['L:on the stretch', 'T:for an hour'])
+L:on the stretch
+T:for an hour
+
+
+([u'lose', 'control', 'vehicle', u'negotiate'], ['a blind turn'])
+([u'lose'], ['control over the vehicle', 'T:while negotiating a blind turn'])
+T:while negotiating a blind turn
+([u'overturn'], ['L:at Mottur Valavu on Attur-Thammampatti state highway', 'L:here on Wednesday', 'T:after the driver lost control over the vehicle while negotiating a blind turn'])
+L:at Mottur Valavu on Attur-Thammampatti state highway
+L:here on Wednesday
+T:after the driver lost control over the vehicle while negotiating a blind turn
+([u'injure'], ['T:when the school bus overturned at Mottur Valavu on Attur-Thammampatti state highway here on Wednesday'])
+T:when the school bus overturned at Mottur Valavu on Attur-Thammampatti state highway here on Wednesday
+
+
+([u'lose', 'control', 'vehicle', u'negotiate'], ['a blind curve'])
+([u'lose'], ['control over the vehicle', 'L:at Mottur Valavu', 'T:while negotiating a blind curve'])
+L:at Mottur Valavu
+T:while negotiating a blind curve
+([], ['on its way to the school', 'T:when the bus driver lost control over the vehicle at Mottur Valavu'])
+T:when the bus driver lost control over the vehicle at Mottur Valavu
+
+
+----------------------------------------------------------------------------
+(['fact'], ['him'])
+([u'cross'], ['Gaurav Path', 'T:on Tuesday evening'])
+T:on Tuesday evening
+([u'take'], ['place', 'T:when his father Denish were crossing Gaurav Path on Tuesday evening'])
+T:when his father Denish were crossing Gaurav Path on Tuesday evening
+([u'cross'], ['Gaurav Path', 'T:on Tuesday evening'])
+T:on Tuesday evening
+([u'take'], ['place', 'T:when Kiyan Mali were crossing Gaurav Path on Tuesday evening'])
+T:when Kiyan Mali were crossing Gaurav Path on Tuesday evening
+
+
+([u'knock'], ['them', 'T:When they were crossing the BRTS lane'])
+T:When they were crossing the BRTS lane
+([u'cross'], ['the BRTS lane'])
+
+
+(['run'], ['by the Surat Municipal Corporation'])
+([u'knock'], ['by a city bus'])
+([u'suffer'], ['severe injuries', 'T:when he was knocked down by a city bus'])
+T:when he was knocked down by a city bus
+([u'die'], ['T:on Wednesday', 'T:after he suffered severe injuries when he was knocked down by a city bus'])
+T:on Wednesday
+T:after he suffered severe injuries when he was knocked down by a city bus
+
+
+----------------------------------------------------------------------------
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+(['fell'], ['50 feet', 'into the valley'])
+([u'crash'], ['into the guard rail of the bridge in the Khandala section of the Pune - Mumbai expressway'])
+
+
+([u'occur'], ['T:around 5am', 'T:on Thursday'])
+T:around 5am
+T:on Thursday
+
+
+([u'miss'], [' '])
+([u'injure'], ['L:in the accident'])
+L:in the accident
+
+
+----------------------------------------------------------------------------
+([u'ram'], ['his car', 'into a cyclist near the Meldi Mata temple', 'L:in Behrampura', 'T:On Wednesday morning'])
+L:in Behrampura
+T:On Wednesday morning
+
+
+([u'ram'], ['his car', 'into him'])
+([u'pass'], ['T:early', 'T:on Monday morning', 'T:Vaghela'])
+T:early
+T:on Monday morning
+T:Vaghela
+([u'lodge'], ['by Vaghela'])
+
+
+([u'arrest'], ['him'])
+([u'say'], ['they have arrested him'])
+([u'lodge'], ['a complaint against the head constable'])
+([u'say'], ['they have lodged a complaint against the head constable'])
+
+
+----------------------------------------------------------------------------
+([], ['on his way to school'])
+([u'take'], ['place', 'T:at 7:30am', 'T:when Mohammad Ismail was on his way to school along with Mohammad Zain Khan (17) of class XI'])
+T:at 7:30am
+T:when Mohammad Ismail was on his way to school along with Mohammad Zain Khan (17) of class XI
+([u'rush'], ['to Vivekanand Hospital', 'by some passersby'])
+([u'rush'], ['to Vivekanand Hospital', 'by school staff'])
+
+
+([u'take'], ['place', 'T:when the metal barricading fell on the scooter'])
+T:when the metal barricading fell on the scooter
+([u'state'], ['the accident took place when the metal barricading fell on the scooter'])
+(['fell'], ['on the scooter'])
+([u'lodge'], ['by the families of the boys'])
+
+
+([u'take'], ['place', 'because of the barricading'])
+([u'deny'], ['the accident took place because of the barricading'])
+
+
+----------------------------------------------------------------------------
+([u'take'], ['place', 'L:around 200 meters away from Sadar police station in the early hours of Friday'])
+L:around 200 meters away from Sadar police station in the early hours of Friday
+
+
+(['before', u'crash'], ['into a roadside tree near Railway quarters', 'T:on Sadar'])
+T:on Sadar
+(['hit'], ['a signage', 'T:before crashing into a roadside tree near Railway quarters on Sadar'])
+T:before crashing into a roadside tree near Railway quarters on Sadar
+([u'kill'], ['T:after a car hit a signage before crashing into a roadside tree near Railway quarters on Sadar'])
+T:after a car hit a signage before crashing into a roadside tree near Railway quarters on Sadar
+
+
+([u'run', 'spot', u'hear'], ['the bang'])
+([u'run'], ['towards the spot', 'T:after hearing the bang'])
+T:after hearing the bang
+
+
+----------------------------------------------------------------------------
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+([u'ram'], ['a truck near Vallam', 'L:in Thanjavur district', 'T:around 7.30 pm', 'T:on Friday'])
+L:in Thanjavur district
+T:around 7.30 pm
+T:on Friday
+([u'kill'], ['T:after a TNSTC bus rammed a truck near Vallam in Thanjavur district around 7.30 pm on Friday'])
+T:after a TNSTC bus rammed a truck near Vallam in Thanjavur district around 7.30 pm on Friday
+
+
+([u'ram', 'against', 'truck', u'push'], ['it', 'back', 'to a certain distance'])
+([u'ram'], ['against the truck', 'T:subsequently'])
+T:subsequently
+
+
+([u'die'], ['L:on the spot', 'L:Under the impact'])
+L:on the spot
+L:Under the impact
+([u'die'], ['L:on the spot', 'L:Under the impact'])
+L:on the spot
+L:Under the impact
+([u'die'], ['L:on the spot', 'L:Under the impact'])
+L:on the spot
+L:Under the impact
+
+
+----------------------------------------------------------------------------
+([u'kill'], ['L:near Kherki Daula', 'L:In the second instance'])
+L:near Kherki Daula
+L:In the second instance
+([u'drive'], ['a truck'])
+
+
+(['fact'], ['him'])
+([], ['near the toll plaza', 'T:when another truck hit them from the right side'])
+T:when another truck hit them from the right side
+(['hit'], ['them', 'from the right side'])
+([], ['near the toll plaza', 'T:when another truck hit them from the right side'])
+T:when another truck hit them from the right side
+
+
+([u'kill'], ['L:in separate hit - run accidents'])
+L:in separate hit - run accidents
+([u'say'], ['police'])
+([u'kill'], ['L:in separate hit - accidents'])
+L:in separate hit - accidents
+([u'say'], ['police'])
+
+
+----------------------------------------------------------------------------
+(['hurt'], ['L:in a bus accident'])
+L:in a bus accident
+(['pay'], ['Rs 75,000 to two students hurt in a bus accident'])
+([u'ask'], ['Mount Carmel School', 'to pay Rs', 'T:recently'])
+T:recently
+
+
+(['can', 'not', 'run'], ['away', 'If'])
+(['should', 'stay'], ['away'])
+(['can', 'not', 'shoulder'], ['responsibility'])
+(['should', 'stay'], ['away from collecting transport fees'])
+
+
+([], ['in the required conditions'])
+(['do', 'not', 'check'], ['if buses are in the required conditions'])
+(['do', 'not'], ['technical knowledge to check if buses are in the required conditions'])
+([u'say'], ['Schools do not have technical knowledge'])
+
+
+----------------------------------------------------------------------------
+(['hit'], ['a signage', 'T:before ramming into a tree shortly before midnight on Thursday'])
+T:before ramming into a tree shortly before midnight on Thursday
+([u'fight', 'for', 'life', 'before', u'ram'], ['into a tree', 'T:shortly before midnight', 'T:on Thursday'])
+T:shortly before midnight
+T:on Thursday
+([u'fight'], ['for life', 'L:at a private hospital'])
+L:at a private hospital
+([], ['behind the wheel'])
+([u'die'], ['T:while their friend who was behind the wheel is fighting for life at a private hospital in city after their speeding car hit a signage on the footpath before ramming into a tree shortly before midnight on Thursday'])
+T:while their friend who was behind the wheel is fighting for life at a private hospital in city after their speeding car hit a signage on the footpath before ramming into a tree shortly before midnight on Thursday
+
+
+([u'happen'], ['L:in front of railway quarters'])
+L:in front of railway quarters
+
+
+(['hit'], ['a signage', 'L:on a concrete base on the footpath outside the gate of the railway quarters'])
+L:on a concrete base on the footpath outside the gate of the railway quarters
+
+
+----------------------------------------------------------------------------
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+([u'report'], ['L:in Muttukadu', 'T:on Saturday'])
+L:in Muttukadu
+T:on Saturday
+([u'report'], ['L:in Kancheepuram', 'T:on Saturday'])
+L:in Kancheepuram
+T:on Saturday
+([u'kill'], ['L:in two separate road accidents'])
+L:in two separate road accidents
+
+
+([u'kill'], [' '])
+([u'kill'], [' '])
+
+
+([u'ram'], ['into a lorry at Kalathur near Kancheepuram'])
+([u'kill'], ['T:after the vehicle rammed into a lorry at Kalathur near Kancheepuram', 'L:In one of the accidents'])
+T:after the vehicle rammed into a lorry at Kalathur near Kancheepuram
+L:In one of the accidents
+([u'travel'], [' '])
+
+
+----------------------------------------------------------------------------
+(['fact'], ['22 -'])
+([], ['two years younger than me'])
+([u'follow'], ['the verdict sentencing Utsav Bhasin, the accused, to two years in jail."He was two years younger than me'])
+([u'open'], ['about him', 'T:following the verdict sentencing'])
+T:following the verdict sentencing
+([u'die'], ['T:in 2008', 'T:following an accident with a BMW'])
+T:in 2008
+T:following an accident with a BMW
+
+
+([u'suffer'], ['for no reason'])
+
+
+([], ['with us', 'T:on that day'])
+T:on that day
+([u'say'], ['he'])
+([], ['his birthday', 'T:on September 5'])
+T:on September 5
+([u'say'], ['he'])
+
+
+----------------------------------------------------------------------------
+([u'injure'], ['L:in a grenade attack in Kulgam district on Saturday afternoon'])
+L:in a grenade attack in Kulgam district on Saturday afternoon
+([u'kill'], ['L:in ceasefire violation in Rajouri district', 'T:while a paramilitary officer was injured in a grenade attack in Kulgam district on Saturday afternoon'])
+L:in ceasefire violation in Rajouri district
+T:while a paramilitary officer was injured in a grenade attack in Kulgam district on Saturday afternoon
+
+
+(['hit'], ['T:during the Pakistani firing on a forward post'])
+T:during the Pakistani firing on a forward post
+
+
+([u'kill'], ['L:in an encounter with security forces at Satura forests of Tral in Pulwama district on Saturday'])
+L:in an encounter with security forces at Satura forests of Tral in Pulwama district on Saturday
+([u'say'], ['the police'])
+
+
+----------------------------------------------------------------------------
+([u'cross'], ['the road opposite to the hospital'])
+([u'take'], ['place', 'T:at 4.30pm near Gobind Hospital on Sohna road', 'T:when the deceased Premwati was crossing the road opposite to the hospital'])
+T:at 4.30pm near Gobind Hospital on Sohna road
+T:when the deceased Premwati was crossing the road opposite to the hospital
+
+
+([u'mow'], ['by a vehicle in Badshapur', 'T:on Friday evening', 'T:while crossing the road', 'L:In run accident'])
+T:on Friday evening
+T:while crossing the road
+L:In run accident
+([u'cross'], ['the road'])
+([u'mow'], ['by a vehicle in Badshapur', 'T:on Friday evening', 'T:while crossing the road', 'L:In a hit'])
+T:on Friday evening
+T:while crossing the road
+L:In a hit
+
+
+([u'flee'], ['the spot', 'T:an unidentified vehicle'])
+T:an unidentified vehicle
+(['hit'], ['from behind', 'by an unidentified vehicle'])
+
+
+----------------------------------------------------------------------------
+([u'die'], ['T:after being knocked down by a Thane Municipal Transport (TMT) bus on the Station Area Traffic Improvement Scheme (SATIS) Bridge on Saturday morning'])
+T:after being knocked down by a Thane Municipal Transport (TMT) bus on the Station Area Traffic Improvement Scheme (SATIS) Bridge on Saturday morning
+
+
+([u'occur'], ['T:at around 9am'])
+T:at around 9am
+([u'say'], ['the accident occurred at around 9am when the Diva-based Vaibhav Tankar, was walking on the bridge from the station towards Dada Patil Wadi'])
+([u'injure'], ['him'])
+([u'ram'], ['into him', 'from behind'])
+
+
+([], ['in pain'])
+([u'say'], ['Tankar was in pain'])
+(['fact'], ['Naupada police station'])
+([u'bleed'], [' '])
+([u'say'], ['Tankar was bleeding profusely'])
+
+
+----------------------------------------------------------------------------
+(['will', 'arrive'], ['at Rajiv Gandhi International Airport', 'L:here on Sunday'])
+L:here on Sunday
+([u'take'], ['place', 'T:on July 13'])
+T:on July 13
+
+
+([u'collide'], ['head-on'])
+([u'die'], ['T:when their car collided head-on with another vehicle in South Africa'])
+T:when their car collided head-on with another vehicle in South Africa
+
+
+(['fact'], ['the general administration ( NRI ) department'])
+([u'arrange'], ['to shift the bodies from the airport to their native places'])
+([u'say'], ['transport has been arranged to shift the bodies from the airport to their native places'])
+(['shift'], ['the bodies', 'from the airport', 'to their native places'])
+
+
+----------------------------------------------------------------------------
+([u'take'], ['place', 'into the tunnel'])
+([u'reveal'], ['that the accident took place around 500 meters into the tunnel'])
+
+
+(['hit'], ['by another car'])
+([u'injure'], ['T:as their four-wheeler was hit by another car from behind'])
+T:as their four-wheeler was hit by another car from behind
+([u'kill'], ['T:while three other passengers from Kolhapur were injured'])
+T:while three other passengers from Kolhapur were injured
+
+
+([u'occur'], ['L:in the new Katraj tunnel on Pune-Satara highway around 6.15pm', 'T:on Friday'])
+L:in the new Katraj tunnel on Pune-Satara highway around 6.15pm
+T:on Friday
+
+
+----------------------------------------------------------------------------
+([u'ram'], ['his bike', 'L:at Bavdhan', 'L:on the Pune-Bangalore highway', 'T:around 10.40pm on Thursday'])
+L:at Bavdhan
+L:on the Pune-Bangalore highway
+T:around 10.40pm on Thursday
+([u'kill'], ['T:after a speeding vehicle rammed his bike at Bavdhan on the Pune-Bangalore highway around 10.40pm on Thursday'])
+T:after a speeding vehicle rammed his bike at Bavdhan on the Pune-Bangalore highway around 10.40pm on Thursday
+
+
+([u'occur'], [' '])
+
+
+(['not', u'wear'], ['a helmet'])
+
+
+----------------------------------------------------------------------------
+([u'take'], ['place', 'T:on Friday afternoon on Jan Mohammed Street in Camp'])
+T:on Friday afternoon on Jan Mohammed Street in Camp
+
+
+([u'disrupt'], ['because of the stationary bus'])
+([u'take'], ['place', 'T:in 10 minutes'])
+T:in 10 minutes
+
+
+(['manoeuvre'], ['the bus', 'around the bike'])
+([], ['unable to manoeuvre the bus around the bike'])
+(['turn'], ['right', 'towards MG Road'])
+([u'raise', 'his', 'voice', u'request'], ['the boy', 'to remove his motorcycle from the way'])
+([u'raise'], ['his voice'])
+(['remove'], ['his motorcycle', 'from the way'])
+
+
+----------------------------------------------------------------------------
+([u'issue'], ['helpline numbers', 'to enquire about Amarnath Yatris travelling in the ill - fated bus'])
+([u'meet'], ['with accident', 'L:in Ramban', 'T:today'])
+L:in Ramban
+T:today
+([u'travel'], ['in the ill - fated bus'])
+([u'issue'], ['helpline numbers', 'to enquire about Amarnath Yatris travelling in the ill - fated bus'])
+
+
+([u'injure'], ['T:when a bus rolled down into a deep gorge in Ramban district of Kashmir on Sunday'])
+T:when a bus rolled down into a deep gorge in Ramban district of Kashmir on Sunday
+([u'say'], ['officials'])
+([u'roll'], ['down', 'into a deep gorge in Ramban district of Kashmir', 'T:on Sunday'])
+T:on Sunday
+([u'injure'], ['T:when a bus rolled down into a deep gorge in Ramban district of Jammu on Sunday'])
+T:when a bus rolled down into a deep gorge in Ramban district of Jammu on Sunday
+([u'say'], ['officials'])
+([u'roll'], ['down', 'into a deep gorge in Ramban district of Jammu', 'T:on Sunday'])
+T:on Sunday
+([u'injure'], ['T:when a bus skidded off the Jammu-Srinagar national highway'])
+T:when a bus skidded off the Jammu-Srinagar national highway
+([u'say'], ['officials'])
+([u'kill'], [' '])
+([u'say'], ['officials'])
+
+
+([u'be', u'airlift'], ['to Jammu', 'for specialised treatment'])
+([u'say'], ['that nineteen injured are being airlifted to Jammu for specialised treatment'])
+([u'injure'], [' '])
+
+
+----------------------------------------------------------------------------
+([u'issue'], ['helpline numbers', 'to enquire about Amarnath Yatris travelling in the ill - fated bus'])
+([u'meet'], ['with accident', 'L:in Ramban', 'T:today'])
+L:in Ramban
+T:today
+([u'travel'], ['in the ill - fated bus'])
+([u'issue'], ['helpline numbers', 'to enquire about Amarnath Yatris travelling in the ill - fated bus'])
+
+
+([u'announce'], ['an ex gratia of Rs', 'T:Meanwhile', 'T:PM'])
+T:Meanwhile
+T:PM
+([u'injure'], [' '])
+([u'kill'], ['for those'])
+([u'announce'], ['an ex gratia of Rs', 'T:Meanwhile'])
+T:Meanwhile
+
+
+(['hit'], ['the Amarnath pilgrimage since  killing eight people'])
+([], ['the second tragedy to hit the Amarnath pilgrimage since  killing eight people'])
+
+
+----------------------------------------------------------------------------
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+(['fell'], ['into Choral dam canal', 'L:near Chordiya village', 'T:on Sunday morning'])
+L:near Chordiya village
+T:on Sunday morning
+([], ['a close shave for three youths', 'T:after the car fell into Choral dam canal near Chordiya village on Sunday morning'])
+T:after the car fell into Choral dam canal near Chordiya village on Sunday morning
+([u'swerve'], ['out of control'])
+([], ['a close shave for three youths', 'T:after the car swerved out of control'])
+T:after the car swerved out of control
+
+
+(['fell'], ['into the canal'])
+(['fell'], [' '])
+
+
+([], [' '])
+(['hit'], ['the canal wall'])
+
+
+----------------------------------------------------------------------------
+(['fell'], ['into Choral dam canal', 'L:near Chordiya village', 'T:on Sunday morning'])
+L:near Chordiya village
+T:on Sunday morning
+([], ['a close shave for three youths', 'T:after the car fell into Choral dam canal near Chordiya village on Sunday morning'])
+T:after the car fell into Choral dam canal near Chordiya village on Sunday morning
+([u'swerve'], ['out of control'])
+([], ['a close shave for three youths', 'T:after the car swerved out of control'])
+T:after the car swerved out of control
+
+
+(['fell'], ['into the canal'])
+(['fell'], [' '])
+
+
+([], [' '])
+(['hit'], ['the canal wall'])
+
+
+----------------------------------------------------------------------------
+([u'take'], ['place', 'L:near Madap tunnel on the Mumbai corridor under Khalapur police station in Raigad'])
+L:near Madap tunnel on the Mumbai corridor under Khalapur police station in Raigad
+
+
+([u'kill'], ['L:on the Mumbai-Pune expressway', 'T:on Saturday'])
+L:on the Mumbai-Pune expressway
+T:on Saturday
+
+
+(['hit'], [' '])
+([], ['on the rear seats'])
+
+
+----------------------------------------------------------------------------
+([u'do', "n't", 'die'], ['L:in an air crash'])
+L:in an air crash
+(['come'], [' '])
+([u'date'], ['December 11'])
+([u'stumble'], ['upon a brief French secret service report', 'T:recently'])
+T:recently
+
+
+([u'die'], ['L:in the air crash', 'L:in Taiwan'])
+L:in the air crash
+L:in Taiwan
+(['not', u'state'], ['L:in the document'])
+L:in the document
+
+
+([u'do', 'not', 'die'], ['L:in the air crash', 'T:on August 18'])
+L:in the air crash
+T:on August 18
+([], ['that Bose did not die in the air crash on August 18'])
+
+
+----------------------------------------------------------------------------
+([u'overturn'], ['L:near Pipavav port', 'T:on Sunday'])
+L:near Pipavav port
+T:on Sunday
+([u'injure'], ['T:when their SUV overturned near Pipavav port on Sunday'])
+T:when their SUV overturned near Pipavav port on Sunday
+([u'kill'], [' '])
+
+
+([u'overturn'], ['it'])
+([u'overturn'], [' '])
+
+
+([u'happen'], ['T:on Sunday morning'])
+T:on Sunday morning
+
+
+----------------------------------------------------------------------------
+([u'plunge'], ["into a gorge in Kashmir 's Ramban district", 'T:on Sunday'])
+T:on Sunday
+([u'plunge'], ['into a gorge in Jammu'])
+([u'skid'], ['the Jammu-Srinagar national highway'])
+([u'kill'], [' '])
+
+
+([u'open'], ['fire', 'on their bus', 'L:in Anantnag district'])
+L:in Anantnag district
+([u'wound'], ['T:after terrorists opened fire on their bus in Anantnag district'])
+T:after terrorists opened fire on their bus in Anantnag district
+([], ['dozens wounded after terrorists opened fire on their bus in Anantnag district'])
+([u'strike'], ['days', 'T:after eight Amarnath yatris were dozens wounded'])
+T:after eight Amarnath yatris were dozens wounded
+([u'kill'], [' '])
+([u'strike'], ['days', 'T:after eight Amarnath yatris were killed'])
+T:after eight Amarnath yatris were killed
+
+
+([u'plunge'], ['into a nearly 200-foot-deep gorge of Nachlana Nullah near an Army camp in Ramsoo area in Ramban'])
+
+
+----------------------------------------------------------------------------
+([u'die'], ["T:when a bus falls into a gorge in J&K 's Ramban district"])
+T:when a bus falls into a gorge in J&K 's Ramban district
+([u'fall'], ["into a gorge in J&K 's Ramban district"])
+([u'die'], ["T:when a bus falls into a gorge in J&K 's Ramban district"])
+T:when a bus falls into a gorge in J&K 's Ramban district
+
+
+([u'announce'], ['a compensation of Rs'])
+([u'kill'], ['L:in the accident'])
+L:in the accident
+([u'announce'], ['a compensation of Rs 2 lakh for the next of kin of those'])
+
+
+(['may', 'rise'], ['T:as several of the injured are critical'])
+T:as several of the injured are critical
+([u'say'], ['an official'])
+([], ['critical'])
+
+
+----------------------------------------------------------------------------
+([u'die'], ['L:in hit - and - run at Jogeshwari ( west ) around 3 pm', 'T:on Saturday'])
+L:in hit - and - run at Jogeshwari ( west ) around 3 pm
+T:on Saturday
+([u'die'], ['L:in a and - run at Jogeshwari'])
+L:in a and - run at Jogeshwari
+([u'return'], ['home', 'T:after attending a job interview'])
+T:after attending a job interview
+
+
+([u'hit'], ["the victim's bike"])
+([u'notice'], ["a white tempo hitting the victim's bike"])
+
+
+(['run'], ['by a speeding tempo', 'T:after the interview'])
+T:after the interview
+([u'say'], ['Sahil Mishra, who was on his way home after the interview, was run over by a speeding tempo'])
+([u'collide'], ['with his bike', 'L:on Balasaheb Thackeray flyover'])
+L:on Balasaheb Thackeray flyover
+([], ['on his way home'])
+
+
+----------------------------------------------------------------------------
+([u'roll'], ['into a canal near Gohana', 'T:on Sunday'])
+T:on Sunday
+([u'injure'], ['T:when the car rolled into a canal near Gohana on Sunday'])
+T:when the car rolled into a canal near Gohana on Sunday
+([u'kill'], [' '])
+
+
+([u'deploy'], ["L:in his elder brother 's wife"])
+L:in his elder brother 's wife
+(['fact'], ['him'])
+([u'deploy'], ['L:in his wife'])
+L:in his wife
+(['fact'], ['Sub'])
+([u'deploy'], ['L:in the Jind district'])
+L:in the Jind district
+([u'identify'], ['as Sub Inspector Dharamvir Singh'])
+
+
+([u'recover'], [' '])
+([u'recover'], [' '])
+([u'need'], ['to be recovered', 'T:still'])
+T:still
+([u'recover'], [' '])
+
+
+----------------------------------------------------------------------------
+([u'rid'], ['in Trichy', 'T:on Sunday', 'L:a two wheeler'])
+T:on Sunday
+L:a two wheeler
+(['hit'], ['a two wheeler in which the victims were riding in Trichy on Sunday'])
+([u'kill'], [' '])
+
+
+(['hit'], ['the bike', 'from behind', 'T:at the same time'])
+T:at the same time
+([u'come'], ['from Chennai', 'to Trichy'])
+([u'push'], ['to the middle of the road'])
+([], ['on the left side of the road'])
+
+
+([u'push'], ['the vehicle', 'to the middle of the road'])
+([u'lose'], ['control', 'T:after strong winds pushed the vehicle to the middle of the road'])
+T:after strong winds pushed the vehicle to the middle of the road
+
+
+----------------------------------------------------------------------------
+([u'kill'], ['L:in a road accident on the Kulithalai - Musiri Road in Kulithalai', 'T:on Saturday'])
+L:in a road accident on the Kulithalai - Musiri Road in Kulithalai
+T:on Saturday
+
+
+([u'take'], ['a bus', 'to Namakkal'])
+([u'rid'], ['a motorcycle to drop Parameswari at the bus stop from where she takes a bus to Namakkal'])
+([u'occur'], ['T:when Praveen was riding a motorcycle'])
+T:when Praveen was riding a motorcycle
+
+
+([u'try', 'avoid', u'hit'], ['a sand-laden truck coming in the opposite direction'])
+([u'try', 'avoid'], ['hitting a sand-laden truck'])
+([u'try'], ['to avoid hitting a sand-laden truck', 'T:When the bike was going on bridge'])
+T:When the bike was going on bridge
+([u'come'], ['in the opposite direction'])
+([u'go'], [' '])
+
+
+----------------------------------------------------------------------------
+([u'roll'], ['into a canal near Gohana', 'T:on Sunday'])
+T:on Sunday
+([u'injure'], ['T:when the car rolled into a canal near Gohana on Sunday'])
+T:when the car rolled into a canal near Gohana on Sunday
+([u'kill'], [' '])
+
+
+([u'deploy'], ["L:in his elder brother 's wife"])
+L:in his elder brother 's wife
+(['fact'], ['him'])
+([u'deploy'], ['L:in his wife'])
+L:in his wife
+(['fact'], ['Sub'])
+([u'deploy'], ['L:in the Jind district'])
+L:in the Jind district
+([u'identify'], ['as Sub Inspector Dharamvir Singh'])
+
+
+([u'recover'], [' '])
+([u'recover'], [' '])
+([u'need'], ['to be recovered', 'T:still'])
+T:still
+([u'recover'], [' '])
+
+
+----------------------------------------------------------------------------
+([u'drive'], ['L:on the wrong side near RK Puram'])
+L:on the wrong side near RK Puram
+([u'ram'], ['into four vehicles', 'T:while driving on the wrong side near RK Puram'])
+T:while driving on the wrong side near RK Puram
+([u'injure'], ['T:when the BMW car rammed into four vehicles', 'T:In March'])
+T:when the BMW car rammed into four vehicles
+T:In March
+
+
+([u'lose', 'control', 'of', u'speed', 'car', u'try', 'avoid'], ['autorickshaws parked by the roadside'])
+([u'lose', 'control', 'of', u'speed', 'car', u'try'], ['to avoid autorickshaws'])
+([u'lose'], ['control of the speeding car', 'T:while trying to avoid autorickshaws'])
+T:while trying to avoid autorickshaws
+([u'explain'], ['that he had lost control of the speeding car while trying to avoid autorickshaws'])
+([u'park'], ['by the roadside'])
+([], ['in a hurry'])
+([u'explain'], ['that he was in a hurry'])
+
+
+([u'say', 'rather'], ['Kumar'])
+(['drive'], ['this way'])
+([u'say', 'rather'], ['Kumar'])
+
+
+----------------------------------------------------------------------------
+([u'ferry'], ['Amarnath passengers that fell into the gorge in Ramban district of J&K'])
+([u'claim'], ['16 pilgrims, including three from Rajasthan'])
+(['fell'], ['into the gorge in Ramban district of J&K'])
+
+
+([], ['there'])
+([u'injure'], [' '])
+
+
+(['fact'], ['Kashmir'])
+(['fact'], ['Jammu And Kashmir'])
+(['fact'], ['relief work'])
+([u'speak', 'manoj', 'know'], ['about those'])
+([u'speak'], ['to Manoj', 'to know about those'])
+([u'injure'], ['L:in the mishap'])
+L:in the mishap
+(['fact'], ['police'])
+([u'kill'], [' '])
+([u'speak'], ['to Manoj'])
+
+
+----------------------------------------------------------------------------
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+(['fact'], ['him'])
+([u'undergo'], ['treatment', 'L:a nearby hospital'])
+L:a nearby hospital
+([u'rush'], ['to a nearby hospital'])
+([u'kill'], ['L:on the spot', 'T:while his relative, M Kathiresan was rushed to a nearby hospital'])
+L:on the spot
+T:while his relative, M Kathiresan was rushed to a nearby hospital
+([u'identify'], ['as P Arunagiri'])
+
+
+([u'knock'], ['L:Sivaganga'])
+L:Sivaganga
+([], ['on their way back to Sivaganga'])
+([u'come'], ['to Madurai'])
+
+
+([u'plunge'], ['into a pit'])
+([u'bind'], ['L:in Ramanathapuram'])
+L:in Ramanathapuram
+([u'injure'], ['T:when the bus bound to Kamuthi in Ramanathapuram, plunged into a pit'])
+T:when the bus bound to Kamuthi in Ramanathapuram, plunged into a pit
+
+
+----------------------------------------------------------------------------
+([u'damage'], ['seven vehicles', 'L:in Lonikand', 'T:on March 25'])
+L:in Lonikand
+T:on March 25
+([u'kill'], ['four persons', 'damaging seven vehicles in Lonikand on the Pune - Ahmednagar highway on March 25'])
+([u'kill'], ['four persons'])
+([u'convict', u'damage'], ['seven vehicles', 'L:in Lonikand'])
+L:in Lonikand
+([u'convict'], ['on the Pune - Ahmednagar highway', 'T:on March 25'])
+T:on March 25
+([u'convict', u'injure'], ['four others'])
+([u'convict'], [' '])
+
+
+([u'die'], [' '])
+
+
+(['fact'], ['hers'])
+([u'die'], ['L:at a hospital in Pune'])
+L:at a hospital in Pune
+([u'kill'], ['L:on the spot', 'T:while her mother, Pratibha, died at a hospital in Pune'])
+L:on the spot
+T:while her mother, Pratibha, died at a hospital in Pune
+
+
+----------------------------------------------------------------------------
+([u'injure'], ['L:in an accident in Adoshi area on Mumbai - Pune Expressway in the wee hours of Sunday'])
+L:in an accident in Adoshi area on Mumbai - Pune Expressway in the wee hours of Sunday
+(['fact'], ['Pune'])
+([u'kill'], [' '])
+
+
+([u'lose'], ['control of the car'])
+([u'say'], ['the police'])
+
+
+([u'take'], ['Chandrkant Shindeto MGM Hospital in Kamothe'])
+([u'say'], ['A rescue team took Chandrkant Shindeto MGM Hospital in Kamothe'])
+([u'take'], ['the victimsBhimrao Umbale'])
+([u'say'], ['A rescue team took the victimsBhimrao Umbale'])
+([u'take'], ['the victimsBhimrao Umbale ( Suresh Gutimani ( 37'])
+([u'say'], ['A rescue team took the victimsBhimrao Umbale ( Suresh Gutimani ( 37'])
+([u'take'], ['the victimsBhimrao Umbale ( 25'])
+([u'say'], ['A rescue team took the victimsBhimrao Umbale ( 25'])
+
+
+----------------------------------------------------------------------------
+(['hit'], ['by a trailer truck', 'T:on Saturday'])
+T:on Saturday
+([u'kill'], ['T:after his car was hit by a trailer truck on Saturday'])
+T:after his car was hit by a trailer truck on Saturday
+([u'identify'], ['as Nitin Sharma'])
+
+
+([u'ram'], ['into their car'])
+([], ['near Badshahpur'])
+
+
+([u'die'], ['L:on the spot'])
+L:on the spot
+
+
+----------------------------------------------------------------------------
+([u'arm'], ['with hockey sticks', 'L:at Jhuljhuli village', 'L:near Najafgarh in southwest Delhi , on Monday'])
+L:at Jhuljhuli village
+L:near Najafgarh in southwest Delhi , on Monday
+([u'arm'], ['with rods at Jhuljhuli village', 'T:on Monday'])
+T:on Monday
+([u'crash'], ['into a tree', 'T:while trying to escape from a mob'])
+T:while trying to escape from a mob
+([u'injure'], ['T:when their car crashed into a tree while trying to escape from a mob'])
+T:when their car crashed into a tree while trying to escape from a mob
+([u'kill'], [' '])
+
+
+([u'injure'], [' '])
+([u'kill'], ['L:on the spot', 'T:while the others, including Wasim, were critically injured'])
+L:on the spot
+T:while the others, including Wasim, were critically injured
+
+
+([u'lose'], ['control of the vehicle'])
+
+
+----------------------------------------------------------------------------
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+(['attend'], ['a ritual'])
+([], ['on their way to Thane in three cars', 'to attend a ritual'])
+([u'take'], ['place', 'L:in Bhiwandi', 'T:on Sunday evening', 'T:when the two Nashik-based families were on their way to Thane in three cars'])
+L:in Bhiwandi
+T:on Sunday evening
+T:when the two Nashik-based families were on their way to Thane in three cars
+
+
+([u'lose'], ['conrol of the vehicle'])
+([u'injure'], ['T:after the tyre of an MUV burst on the Mumbai-Nashik highway'])
+T:after the tyre of an MUV burst on the Mumbai-Nashik highway
+([u'die'], ['T:while two others were injured after the tyre of an MUV burst on the Mumbai-Nashik highway'])
+T:while two others were injured after the tyre of an MUV burst on the Mumbai-Nashik highway
+
+
+([u'identify'], ['as Parveen Nasruddin Hudda'])
+([u'say'], ['the deceased have been identified as Parveen Nasruddin Hudda'])
+
+
+----------------------------------------------------------------------------
+([u'kill'], ['one of the bullocks on the spot'])
+([u'break'], ['into pieces', 'L:Under the impact'])
+L:Under the impact
+
+
+([u'ram'], ['against the lorry', 'from behind', 'T:In the meantime'])
+T:In the meantime
+
+
+([u'abandon'], ['L:on the middle of the road on the Trichy - Karur national highway in the wee hours of Wednesday'])
+L:on the middle of the road on the Trichy - Karur national highway in the wee hours of Wednesday
+([u'leave'], ['abandoned on the middle of the road on the Trichy - Karur national highway in the wee hours of Wednesday'])
+([u'ram'], ['a lorry left abandoned on the middle of the road on the Trichy - Karur national highway in the wee hours of Wednesday'])
+([u'sustain'], ['injuries', 'T:after a car rammed a lorry'])
+T:after a car rammed a lorry
+([u'kill'], ['T:while four others including a woman sustained injuries after a car rammed a lorry'])
+T:while four others including a woman sustained injuries after a car rammed a lorry
+
+
+----------------------------------------------------------------------------
+([u'ram'], ['into a parked truck'])
+([u'rid'], ['on'])
+([u'die'], ['L:in a road accident', 'T:on Tuesday', 'T:after the bike they were riding on rammed into a parked truck on National Highway 17-B at Shantinagar'])
+L:in a road accident
+T:on Tuesday
+T:after the bike they were riding on rammed into a parked truck on National Highway 17-B at Shantinagar
+
+
+([u'ram'], ['into a parked truck', 'T:When they reached Shantinagar'])
+T:When they reached Shantinagar
+([u'reach'], ['Shantinagar'])
+
+
+([u'rid'], ['T:when the incident occurred'])
+T:when the incident occurred
+(['suspect'], ['that they were riding at very high speed when the incident occurred'])
+([u'occur'], [' '])
+
+
+----------------------------------------------------------------------------
+([u'wait'], [' '])
+([u'ram'], ['by a Tata tempo'])
+(['hit'], ['by a Tata tempo'])
+([u'wait'], ['L:the spot'])
+L:the spot
+
+
+([u'injure'], [' '])
+([], ['so powerful that the two were seriously injured'])
+
+
+([u'bring'], ['to the police station for his own safety'])
+([u'harass'], [' '])
+(['stipulate'], ['that people who held victims of other calamities should not be harassed in any manner'])
+([u'hold'], ['victims of other calamities'])
+([u'bring'], ['to the police station for his own safety'])
+([u'say'], ['the 19 - year - old Sumit Kumar was brought to the police station for his own safety'])
+([u'harass'], [' '])
+(['stipulate'], ['that people who held victims of road accidents should not be harassed in any manner'])
+([u'hold'], ['victims of road accidents'])
+([u'raise'], ["questions on the Noida police 's compliance with the Supreme Court 's guidelines"])
+
+
+----------------------------------------------------------------------------
+([u'collide', 'on'], ['with a bus around 9 am near Purani Bazaar under Sarai police station area'])
+([u'injure'], ['T:on Tuesday', 'T:when the autorickshaw collided head - on with a bus around 9 am near Purani Bazaar under Sarai police station area'])
+T:on Tuesday
+T:when the autorickshaw collided head - on with a bus around 9 am near Purani Bazaar under Sarai police station area
+([u'die'], [' '])
+
+
+([u'die'], ['L:on the spot'])
+L:on the spot
+([u'say'], ['nine passengers died on the spot'])
+
+
+([u'escape'], [' '])
+([u'add'], ['the bus driver escaped'])
+([u'cross'], ['through the busy market on NH-77'])
+([u'say'], ['the SHO'])
+([u'collide'], [' '])
+
+
+----------------------------------------------------------------------------
+([u'wait'], [' '])
+([u'ram'], ['by a Tata tempo'])
+(['hit'], ['by a Tata tempo'])
+([u'wait'], ['L:the spot'])
+L:the spot
+
+
+([u'injure'], [' '])
+([], ['so powerful that the two were seriously injured'])
+
+
+([u'bring'], ['to the police station for his own safety'])
+([u'harass'], [' '])
+(['stipulate'], ['that people who held victims of other calamities should not be harassed in any manner'])
+([u'hold'], ['victims of other calamities'])
+([u'bring'], ['to the police station for his own safety'])
+([u'say'], ['19 - year - old Sumit Kumar was brought to the police station for his own safety', "T:While the incident raised questions on the Noida police 's compliance with the Supreme Court 's guidelines"])
+T:While the incident raised questions on the Noida police 's compliance with the Supreme Court 's guidelines
+([u'harass'], [' '])
+(['stipulate'], ['that people who held victims of road accidents should not be harassed in any manner'])
+([u'hold'], ['victims of road accidents'])
+([u'raise'], ["questions on the Noida police 's compliance with the Supreme Court 's guidelines"])
+
+
+----------------------------------------------------------------------------
+([u'arm'], ['with hockey sticks', 'L:at Jhuljhuli village near Najafgarh', 'L:in southwest Delhi', 'T:on Monday afternoon'])
+L:at Jhuljhuli village near Najafgarh
+L:in southwest Delhi
+T:on Monday afternoon
+([u'arm'], ['with rods at Jhuljhuli village near Najafgarh', 'L:in southwest Delhi', 'T:on Monday afternoon'])
+L:in southwest Delhi
+T:on Monday afternoon
+([u'crash'], ['into a tree', 'T:while trying to escape from a mob'])
+T:while trying to escape from a mob
+([u'injure'], ['T:when their car crashed into a tree while trying to escape from a mob'])
+T:when their car crashed into a tree while trying to escape from a mob
+([u'kill'], [' '])
+
+
+([u'injure'], [' '])
+([u'kill'], ['L:on the spot', 'T:while the others, including Wasim, were critically injured'])
+L:on the spot
+T:while the others, including Wasim, were critically injured
+
+
+([u'lose'], ['control of the vehicle'])
+
+
+----------------------------------------------------------------------------
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+([u'try', 'overtake'], ['an MTC bus', 'L:on Kodambakkam flyover on Tuesday'])
+L:on Kodambakkam flyover on Tuesday
+([u'try'], ['to overtake an MTC bus on Kodambakkam flyover on Tuesday'])
+([u'kill'], ['T:when he tried to overtake an MTC bus on Kodambakkam flyover on Tuesday'])
+T:when he tried to overtake an MTC bus on Kodambakkam flyover on Tuesday
+
+
+([u'injure'], ['L:in the accident'])
+L:in the accident
+
+
+([u'try', 'overtake'], ['an MTC bus', 'T:when he collided head on with a car coming from the opposite direction'])
+T:when he collided head on with a car coming from the opposite direction
+([u'try'], ['to overtake an MTC bus'])
+([u'come'], ['from the opposite direction'])
+([u'collide'], ['head'])
+([u'tell'], ['the police that Navateja was trying to overtake an MTC bus'])
+
+
+----------------------------------------------------------------------------
+([u'escape'], [' '])
+([u'sit'], ['inside a parked vehicle'])
+(['hit'], ['the car', 'T:before crashing into the stationary truck in an accident on Ghodbundar Road in the early hours of Wednesday'])
+T:before crashing into the stationary truck in an accident on Ghodbundar Road in the early hours of Wednesday
+([u'crush'], ['to death', 'T:while a car driver sitting inside a parked vehicle escaped with minor injuries, after a speeding truck hit the car before crashing into the stationary truck in an accident on Ghodbundar Road in the early hours of Wednesday'])
+T:while a car driver sitting inside a parked vehicle escaped with minor injuries, after a speeding truck hit the car before crashing into the stationary truck in an accident on Ghodbundar Road in the early hours of Wednesday
+
+
+([u'park'], ['in front of the car'])
+([u'ram'], ['into another truck', 'T:After hitting the car'])
+T:After hitting the car
+([u'go'], ['ahead', 'T:After hitting the car'])
+T:After hitting the car
+
+
+([u'stick'], ['L:inside'])
+L:inside
+([u'crush'], ['the cabin of the speeding truck'])
+
+
+----------------------------------------------------------------------------
+(['fact'], ['Kharegaon'])
+([u'crash'], ['into them', 'L:near the Kharegaon toll post', 'T:on Tuesday'])
+L:near the Kharegaon toll post
+T:on Tuesday
+([u'kill'], ['T:after a speeding SUV crashed into them near the Kharegaon toll post on Tuesday', 'T:A 28-year-old Kharegaon resident'])
+T:after a speeding SUV crashed into them near the Kharegaon toll post on Tuesday
+T:A 28-year-old Kharegaon resident
+
+
+([u'ram'], ['into them', 'from behind'])
+([u'slow'], ['T:when the SUV rammed into them from behind'])
+T:when the SUV rammed into them from behind
+([u'arrive'], ['at the toll post'])
+
+
+([u'suffer'], ['serious injuries'])
+(['fact'], ['Him'])
+([u'rid'], ['pillion'])
+
+
+----------------------------------------------------------------------------
+([u'knock'], ['on Palm Beach Road', 'L:in Navi Mumbai', 'T:last week'])
+L:in Navi Mumbai
+T:last week
+([u'arrest'], ['for allegedly escaping after abandoning'])
+
+
+([u'take'], ['him', 'to hospital'])
+([u'tell'], ['her', 'that the driver had taken him to hospital'])
+([u'injure'], ['L:in an accident'])
+L:in an accident
+([u'tell'], ['her', 'that the biker had been injured in an accident'])
+([u'involve'], ['a cab'])
+([u'enquire'], ['with a few autorickshaw drivers'])
+
+
+([u'dump'], ['the injured biker', 'L:at a desolate spot on the road', 'T:for nearly 12 hours'])
+L:at a desolate spot on the road
+T:for nearly 12 hours
+([u'say'], ['the police'])
+(['lay', u'bleed'], ['T:for nearly 12 hours', 'L:the road'])
+T:for nearly 12 hours
+L:the road
+
+
+----------------------------------------------------------------------------
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+([u'ram'], ['into kanwariyas'])
+(['set'], ['a motorcycle', 'on fire in Sohna area', 'T:on Thursday afternoon', 'T:after it rammed into kanwariyas'])
+T:on Thursday afternoon
+T:after it rammed into kanwariyas
+
+
+([u'carry'], ['three men'])
+([u'ram'], ['into a group of kanwariyas in the market area'])
+
+
+([u'turn'], ['into a brawl', 'T:soon'])
+T:soon
+
+
+----------------------------------------------------------------------------
+([u'injure'], ['L:in an accident at Sector 14 in Panchkula', 'T:on Wednesday'])
+L:in an accident at Sector 14 in Panchkula
+T:on Wednesday
+
+
+([u'come'], ['from opposite direction'])
+([u'brush'], ['by another car'])
+([u'occur'], ["T:when DSP's car was brushed by another car"])
+T:when DSP's car was brushed by another car
+
+
+([u'injure'], ["T:As the DSP's driver applied brakes suddenly"])
+T:As the DSP's driver applied brakes suddenly
+([], ['brakes'])
+
+
+----------------------------------------------------------------------------
+([u'crash'], ['into a metro rail pillat', 'L:at Chaitanyapuri'])
+L:at Chaitanyapuri
+([u'injure'], [' '])
+([u'leave'], ['three other occupants of the car'])
+
+
+(['ries'], ['T:a few hours later', 'T:while undergoing treatment at a nearby hospital'])
+T:a few hours later
+T:while undergoing treatment at a nearby hospital
+([u'sit'], ['next to him', 'T:succumbed to inju'])
+T:succumbed to inju
+([u'die'], ['L:on the spot'])
+L:on the spot
+([u'sit'], ['in the back seat'])
+
+
+([u'turn'], ['right', 'L:At Malabar Gold at Chaitanyapuri'])
+L:At Malabar Gold at Chaitanyapuri
+([u'travel'], ["L:in front of Sai Kumar's vehicle"])
+L:in front of Sai Kumar's vehicle
+
+
+----------------------------------------------------------------------------
+([u'injure'], ['L:in a fatal road accident near village Kaparda in Bilara on Jodhpur - Jaipur highway'])
+L:in a fatal road accident near village Kaparda in Bilara on Jodhpur - Jaipur highway
+([u'die'], [' '])
+
+
+([u'collide'], ['with a truck on Thursday morning near Kaparda'])
+([u'return'], ['from Haridwar'])
+
+
+(['relative', 'of'], ['a BJP Youth Morcha ( District'])
+(['fact'], ['BJP'])
+([], ['a relative of a BJP Youth Morcha ( District ) president'])
+([u'identify'], ['as Rewatlal Paliwal'])
+([u'identify'], ['as Durgaram Choudhary'])
+([u'die'], [' '])
+
+
+----------------------------------------------------------------------------
+([u'injure'], ['L:in a fatal road accident near village Kaparda in Bilara on Jodhpur - Jaipur highway'])
+L:in a fatal road accident near village Kaparda in Bilara on Jodhpur - Jaipur highway
+([u'die'], [' '])
+
+
+([u'collide'], ['with a truck on Thursday morning near Kaparda'])
+([u'return'], ['from Haridwar'])
+
+
+(['relative', 'of'], ['a BJP Youth Morcha ( District'])
+(['fact'], ['BJP'])
+([], ['a relative of a BJP Youth Morcha ( District ) president'])
+([u'identify'], ['as Rewatlal Paliwal'])
+([u'identify'], ['as Durgaram Choudhary'])
+([u'die'], [' '])
+
+
+----------------------------------------------------------------------------
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+([u'take'], ['place', 'L:near Khadki railway station', 'T:on the Pune-Mumbai highway around 12.30pm', 'T:on Friday'])
+L:near Khadki railway station
+T:on the Pune-Mumbai highway around 12.30pm
+T:on Friday
+
+
+(['hit'], ['the pavement', 'T:after entering the other side of the road'])
+T:after entering the other side of the road
+([u'enter'], ['the other side of the road'])
+([u'kill'], ['T:after the motorcyclist'])
+T:after the motorcyclist
+([u'rid'], ['pillion'])
+
+
+(['not', u'wear'], ['helmets'])
+([u'say'], ['Khadki police'])
+(['not', u'wear'], ['helmets'])
+([u'say'], ['Khadki police'])
+
+
+----------------------------------------------------------------------------
+([u'injure'], ['L:in two separate accidents on the Mumbai - Pune Expressway', 'T:on Friday'])
+L:in two separate accidents on the Mumbai - Pune Expressway
+T:on Friday
+([u'die'], [' '])
+
+
+(['hit'], ['a truck', 'T:then'])
+T:then
+([u'crash'], ['into a tanker', 'L:In the first mishap'])
+L:In the first mishap
+([u'collide'], ['L:on the Mumbai corridor near Dheku village'])
+L:on the Mumbai corridor near Dheku village
+
+
+([u'injure'], [' '])
+([u'die'], ['L:on the spot'])
+L:on the spot
+
+
+----------------------------------------------------------------------------
+([u'escape'], ['with minor injuries', 'T:after their bike collided with another two-wheeler on Bhamheta bridge on Friday morning'])
+T:after their bike collided with another two-wheeler on Bhamheta bridge on Friday morning
+([u'crush'], ['to death', 'T:while his son escaped with minor injuries after their bike collided with another two-wheeler on Bhamheta bridge on Friday morning'])
+T:while his son escaped with minor injuries after their bike collided with another two-wheeler on Bhamheta bridge on Friday morning
+
+
+(['fell'], ['a little away from the spot'])
+([u'carry'], ['kanwariyas'])
+(['run'], ['by a truck', 'T:while his son fell a little away from the spot', 'T:soon'])
+T:while his son fell a little away from the spot
+T:soon
+(['fell'], ['from the bike'])
+
+
+([u'arrive'], [' '])
+([u'run'], ['away', 'T:before the police arrived'])
+T:before the police arrived
+([u'break', 'out'], ['L:between Shamshad and the kanwariyas', 'T:Soon after the accident'])
+L:between Shamshad and the kanwariyas
+T:Soon after the accident
+
+
+----------------------------------------------------------------------------
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+([u'appear'], ['L:on its path without warning'])
+L:on its path without warning
+([], ['in order'])
+([u'take'], ['place', 'T:when the driver applied the brakes suddenly in order'])
+T:when the driver applied the brakes suddenly in order
+
+
+(['fact'], ['Udaipur'])
+([u'kill'], ['L:in a road accident near Nehla village', 'L:at Balicha Bypass on Ahmedabad-Udaipur National Highway 8'])
+L:in a road accident near Nehla village
+L:at Balicha Bypass on Ahmedabad-Udaipur National Highway 8
+
+
+([u'rush'], ['to the civil hospital'])
+(['hurt'], [' '])
+
+
+----------------------------------------------------------------------------
+([u'fail'], ['near Ulhas river in Ambivli'])
+([u'take'], ['place', 'T:at 6 pm', 'T:when the brakes of his bus failed near Ulhas river in Ambivli on Saturday evening'])
+T:at 6 pm
+T:when the brakes of his bus failed near Ulhas river in Ambivli on Saturday evening
+
+
+([u'ram'], ['his bus', 'into a compound wall'])
+([u'save'], ['lives of 80 passengers', 'T:after he rammed his bus into a compound wall deliberately'])
+T:after he rammed his bus into a compound wall deliberately
+
+
+([], ['a Ulhas river'])
+([], ['a ravine'])
+([u'run'], ['a railway track'])
+
+
+----------------------------------------------------------------------------
+([u'offer'], ['prayers', 'L:at Guruvayur temple in Kerala'])
+L:at Guruvayur temple in Kerala
+([u'return'], ['T:after offering prayers at Guruvayur temple in Kerala'])
+T:after offering prayers at Guruvayur temple in Kerala
+([u'take'], ['place', 'T:while they were returning after offering prayers at Guruvayur temple in Kerala'])
+T:while they were returning after offering prayers at Guruvayur temple in Kerala
+
+
+([u'overturn'], ['T:on Saturday'])
+T:on Saturday
+([u'injure'], [' '])
+([u'injure'], ['T:after the omni van hit the parapet wall of a flyover near Perumanallur in Tirupur district'])
+T:after the omni van hit the parapet wall of a flyover near Perumanallur in Tirupur district
+([u'kill'], ['overturned on Saturday'])
+(['van', 'hit'], ['the parapet wall of a flyover near Perumanallur in Tirupur district'])
+([u'kill'], ['T:after the omni van hit the parapet wall of a flyover near Perumanallur in Tirupur district'])
+T:after the omni van hit the parapet wall of a flyover near Perumanallur in Tirupur district
+
+
+([u'die'], ['L:on the spot'])
+L:on the spot
+([u'die'], ['L:on the spot'])
+L:on the spot
+
+
+----------------------------------------------------------------------------
+([u'die'], ['T:on Saturday'])
+T:on Saturday
+(['could', 'not', 'reach'], ['the hospital', 'T:on time'])
+T:on time
+([u'injure'], ['L:in an accident'])
+L:in an accident
+
+
+([u'knock'], ['his vehicle', 'from behind'])
+([u'wait'], ['for passengers in front of Kalicharan College near Koneshwar Crossing'])
+
+
+([u'injure'], [' '])
+([], ['injured critically'])
+([u'topple'], [' '])
+
+
+----------------------------------------------------------------------------
+([u'change'], ['lanes'])
+([u'happen'], ['T:after the driver of one the vehicles'])
+T:after the driver of one the vehicles
+
+
+([u'veer'], ['off the road to bump into the road divider'])
+([u'crash'], ['into the MUV'])
+
+
+([u'be', u'be', u'drive'], ['by the brother of two of the girls'])
+([u'injure'], [' '])
+([u'be', u'injure'], ['fortunately'])
+([u'damage'], [' '])
+
+
+----------------------------------------------------------------------------
+([u'return'], ['home', 'with her two friends , Kavita , from tuition classes', 'T:when they met with the accident'])
+T:when they met with the accident
+([u'say'], ['the victim , Divya Bharti , was returning home with her two friends , Kavita , from tuition classes'])
+([u'return'], ['home', 'with her two friends , Mamta , from tuition classes', 'T:when they met with the accident'])
+T:when they met with the accident
+([u'say'], ['the victim , Divya Bharti , was returning home with her two friends , Mamta , from tuition classes'])
+([u'meet'], ['with the accident'])
+
+
+([u'injure'], ["T:after being hit by a mini truck in northwest Delhi 's Jahangirpuri on Saturday afternoon"])
+T:after being hit by a mini truck in northwest Delhi 's Jahangirpuri on Saturday afternoon
+([u'kill'], [' '])
+
+
+([u'die'], ['L:on the spot', "T:while Mamta's legs were crushed under the truck's wheels"])
+L:on the spot
+T:while Mamta's legs were crushed under the truck's wheels
+([u'say'], ['the officer'])
+([u'crush'], ["L:under the truck's wheels"])
+L:under the truck's wheels
+
+
+----------------------------------------------------------------------------
+([u'carry'], ['some 55 pilgrims', 'from behind'])
+([u'crash'], ['into the bus'])
+([u'take'], ['place', 'T:on Saturday morning', 'T:when a speeding trailer crashed into the bus'])
+T:on Saturday morning
+T:when a speeding trailer crashed into the bus
+
+
+(['belong'], ['to Bhavnagar'])
+(['belong'], ['to Dehgam'])
+(['belong'], ['to Ahmedabad'])
+([u'kill'], [' '])
+
+
+([u'drive'], ['a gearless scooter', 'L:in front of it'])
+L:in front of it
+([u'run'], ['over a man'])
+([u'run'], ['over a biker'])
+([u'throw'], ['about five feet', 'off the road'])
+
+
+----------------------------------------------------------------------------
+(['resident', 'of'], ['Vejalpur area'])
+([], ['a resident of Vejalpur area'])
+([u'go'], ['home', 'T:on his two - wheeler on Thursday'])
+T:on his two - wheeler on Thursday
+([u'meet'], ['with an accident near Thaltej Crossroads', 'T:when he was going home on his two - wheeler on Thursday'])
+T:when he was going home on his two - wheeler on Thursday
+([], ['a pan shop owner'])
+
+
+([u'try'], ['to avoid hitting the animal'])
+(['fell'], ['T:while trying to avoid hitting the animal'])
+T:while trying to avoid hitting the animal
+([u'come'], ['T:suddenly'])
+T:suddenly
+([u'lose'], ['balance'])
+
+
+([u'result'], ['in internal bleeding'])
+([u'suffer'], ['severe brain injuries which had resulted in internal bleeding'])
+([u'result'], ['in haemorrhage'])
+([u'suffer'], ['severe brain injuries which had resulted in haemorrhage'])
+(['scan'], ['reports that he had suffered severe brain injuries'])
+([u'become'], ['clear', 'T:in the primary medical investigation'])
+T:in the primary medical investigation
+
+
+----------------------------------------------------------------------------
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+([u'transport'], ['them', 'to school'])
+([u'injure'], ['T:after the private van transporting them to school'])
+T:after the private van transporting them to school
+([], ['among 12 others'])
+([u'try', 'overtake'], ['a lorry'])
+([u'try'], ['to overtake a lorry'])
+([u'die'], [' '])
+
+
+([u'topple'], [' '])
+([u'run'], ['over a pothole'])
+
+
+([u'lose'], ['control of the vehicle'])
+([u'swerve'], ['to the right', 'T:then'])
+T:then
+
+
+----------------------------------------------------------------------------
+([u'take'], ['place', 'T:around 5pm'])
+T:around 5pm
+([u'say'], ['the incident took place around 5pm'])
+(['fact'], ['Pooja'])
+([u'lodge'], ['a police complaint'])
+
+
+([u'knock'], ['a year-old toddler', 'L:on Santacruz Link Road', 'T:on Saturday'])
+L:on Santacruz Link Road
+T:on Saturday
+
+
+([u'take'], ['place'])
+([u'cross'], ['the road', 'T:when the incident took place'])
+T:when the incident took place
+
+
+----------------------------------------------------------------------------
+([u'plunge'], ['into the Beas river near Vaishno Devi temple in Kullu', 'T:on Sunday afternoon'])
+T:on Sunday afternoon
+([u'drown'], ['T:after a car plunged into the Beas river near Vaishno Devi temple in Kullu on Sunday afternoon'])
+T:after a car plunged into the Beas river near Vaishno Devi temple in Kullu on Sunday afternoon
+([u'fear'], ['drowned after a car plunged into the Beas river near Vaishno Devi temple in Kullu on Sunday afternoon'])
+([u'kill'], [' '])
+
+
+([u'drive'], ['it', 'into a gorge'])
+([u'go'], ['from Kullu', 'to Manali', 'T:when the driver drove it into a gorge'])
+T:when the driver drove it into a gorge
+([u'lose'], ['control over the vehicle'])
+([u'go'], ['from Kullu', 'to Manali', 'T:when the driver lost control over the vehicle'])
+T:when the driver lost control over the vehicle
+
+
+([u'do', 'not', 'wish'], ['to be named'])
+([], ['T:yet', 'to be ascertained'])
+T:yet
+([u'say'], ['a policeman on the spot'])
+([u'ascertain'], [' '])
+([u'name'], [' '])
+([u'recover'], [' '])
+
+
+----------------------------------------------------------------------------
+([u'ram', 'his', 'vehicle', u'injure'], ['others', 'T:late on Saturday evening'])
+T:late on Saturday evening
+([u'ram'], ['his vehicle', 'into a house', 'L:on Karabara Road'])
+L:on Karabara Road
+([u'ram', 'his', 'vehicle', u'kill'], ['a five - year - old child'])
+([u'ram'], ['his vehicle', 'into a house on Karabara Road'])
+
+
+([u'identify'], ['as Ramji, 5'])
+([u'injure'], [' '])
+
+
+([u'rush'], ['to the civil hospital'])
+([u'injure'], [' '])
+
+
+----------------------------------------------------------------------------
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+([u'stag', 'protest', u'demand'], ['registration of a case against the car owner'])
+([u'stag'], ['a protest', 'L:outside the cremation ground', 'T:Two days after a 5-year-old boy was killed when a speeding car rammed his house in Karabara Road area'])
+L:outside the cremation ground
+T:Two days after a 5-year-old boy was killed when a speeding car rammed his house in Karabara Road area
+([u'ram'], ['his house', 'L:in Karabara Road area'])
+L:in Karabara Road area
+([u'kill'], ['T:when a speeding car rammed his house in Karabara Road area'])
+T:when a speeding car rammed his house in Karabara Road area
+
+
+([u'injure'], ['another child Anamika'])
+([u'kill'], ['5 - year - old Ramji'])
+([u'ram'], ['into the house', 'T:On Saturday evening'])
+T:On Saturday evening
+([u'drive'], ['by an inebriated man'])
+(['not', u'amount'], ['to murder'])
+([u'live'], ['L:in the same area under Section 304'])
+L:in the same area under Section 304
+([u'identify'], ['as 35-year-old Ashok Kumar'])
+([u'arrest'], ['the driver', 'T:identified as 35-year-old Ashok Kumar'])
+T:identified as 35-year-old Ashok Kumar
+
+
+([u'play'], ['the kids'])
+([u'ram'], ['the vehicle', 'into the gate of the house'])
+([u'lose'], ['control of his vehicle near the house'])
+
+
+----------------------------------------------------------------------------
+([u'arrest'], ['T:on Monday', 'T:after a manhunt across Haryana'])
+T:on Monday
+T:after a manhunt across Haryana
+([u'arrest'], ['T:on Monday', 'T:after a manhunt across Delhi'])
+T:on Monday
+T:after a manhunt across Delhi
+([u'track'], [' '])
+([u'mow'], ['a man on Bahadur Shah Zafar Marg', 'T:on Saturday night'])
+T:on Saturday night
+
+
+([u'hit'], ['Manoj'])
+([u'tell'], ['the cops about the white-coloured car'])
+
+
+([u'ask'], ['him', 'to leave without me', 'T:as I had some work on the way'])
+T:as I had some work on the way
+([u'say'], ['Lalit'])
+(['leave'], [' '])
+([], ['some work on the way'])
+(['fact'], ['the victim'])
+([u'finish'], ['work'])
+([u'say'], ['Lalit'])
+
+
+----------------------------------------------------------------------------
+([u'involve'], ['a speeding container at Shatrunjay Temple'])
+([u'kill'], ['L:in a hit - run incident'])
+L:in a hit - run incident
+([u'involve'], ['a speeding container at Shatrunjay Temple'])
+([u'kill'], ['L:in a hit - incident'])
+L:in a hit - incident
+([u'rid'], ['pillion', 'L:on a bike'])
+L:on a bike
+
+
+([u'die'], ['L:on the spot'])
+L:on the spot
+
+
+([u'undergo'], ['treatment', 'L:at a private hospital'])
+L:at a private hospital
+(['fact'], ['Hers'])
+([u'sustain'], ['injuries'])
+
+
+----------------------------------------------------------------------------
+(['fact'], ['him'])
+(['check'], ['their roll numbers', 'L:in the merit list for admission'])
+L:in the merit list for admission
+([], ['on their way to Industrial Training Institute'])
+([u'take'], ['place', 'T:when his friend Divakar of Pankaj Colony in Puranpur , were on their way to Industrial Training Institute'])
+T:when his friend Divakar of Pankaj Colony in Puranpur , were on their way to Industrial Training Institute
+([], ['on their way to Industrial Training Institute'])
+([u'take'], ['place', 'T:when the deceased , Shobhit Maurya ( 19 ) , a resident of Chant Firozpur village , were on their way to Industrial Training Institute'])
+T:when the deceased , Shobhit Maurya ( 19 ) , a resident of Chant Firozpur village , were on their way to Industrial Training Institute
+
+
+(['hit'], ['by a speeding car'])
+([u'rid'], ['on'])
+([u'sustain'], ['serious head injury when the motorcycle they were riding on allegedly hit by a speeding car on Puranpur - Pilibhit road , 1 km ahead of Madhotanda police station , on Monday morning'])
+([u'kill'], [' '])
+
+
+([], ['critical'])
+([u'say'], [' '])
+([u'shift'], ['the injured', 'to the Pilibhit district hospital'])
+
+
+----------------------------------------------------------------------------
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+([u'grant'], ['bail', 'T:on Tuesday'])
+T:on Tuesday
+([u'knock'], ['a juice vendor', 'T:on Saturday'])
+T:on Saturday
+
+
+([u'die'], ['L:on the spot'])
+L:on the spot
+(['hit'], ['L:at the Bahadur Shah Zafar Marg'])
+L:at the Bahadur Shah Zafar Marg
+
+
+([u'look'], ['for further legal options'])
+([u'say'], ['that they were looking for further legal options'])
+
+
+----------------------------------------------------------------------------
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+([], ['on'])
+([u'say'], ['the police'])
+
+
+([u'find'], ['dead', 'L:in a drainage in Angeripalayam here on Wednesday morning'])
+L:in a drainage in Angeripalayam here on Wednesday morning
+
+
+([u'identify'], ['as K Shenbagavalli of Mariamman Koil Street'])
+
+
+----------------------------------------------------------------------------
+([u'kill'], ['crushing the SUV beyond recognition'])
+([u'kill'], ['crushing the SUV beyond recognition'])
+([u'kill', 'when'], [' '])
+([u'kill'], [' '])
+([u'kill'], ['T:while another person was left battling for life'])
+T:while another person was left battling for life
+([u'battle'], [' '])
+([u'leave'], ['battling for life'])
+([u'kill'], ['T:while another person was left battling for life', 'L:In a horrific crash'])
+T:while another person was left battling for life
+L:In a horrific crash
+([u'bring'], ['home', 'the terror of speeding trucks on city roads past midnight'])
+
+
+([u'come'], ['to rest on its wheels'])
+([u'flip'], ['T:again'])
+T:again
+([u'turn'], ['turtle', 'T:while the truck flipped again, coming to rest on its wheels', 'L:Under the impact'])
+T:while the truck flipped again, coming to rest on its wheels
+L:Under the impact
+
+
+([u'bring'], ['out of the car', 'T:the time'])
+T:the time
+([u'die'], ['T:by the time'])
+T:by the time
+
+
+----------------------------------------------------------------------------
+([u'be', u'take'], ['to a hospital in the early hours of Tuesday'])
+([u'take'], ['place', 'T:when the man, Maha Singh, was being taken to a hospital in the early hours of Tuesday'])
+T:when the man, Maha Singh, was being taken to a hospital in the early hours of Tuesday
+
+
+([u'ram'], ['by a speeding car near Delhi Gate'])
+([u'carry'], ['him'])
+([u'kill'], ['T:when the ambulance carrying him was rammed by a speeding car near Delhi Gate'])
+T:when the ambulance carrying him was rammed by a speeding car near Delhi Gate
+
+
+([u'ram', 'there'], ['the left side of the emergency vehicle'])
+([u'come'], ['from ITO'])
+([u'reach'], ['Delhi Gate'])
+([u'roll'], ['T:over three times', 'T:before coming to a halt'])
+T:over three times
+T:before coming to a halt
+
+
+----------------------------------------------------------------------------
+([u'take'], ['place'])
+([u'take'], ['place', 'L:in the city', 'T:between January and June', 'T:this year'])
+L:in the city
+T:between January and June
+T:this year
+
+
+([u'take'], ['place'])
+([u'cross'], ['the road', 'T:at night'])
+T:at night
+([u'take'], ['place', 'either due to lack of designated footpaths in many places or for the reason that the victim was crossing the road at night'])
+
+
+([u'take'], ['place', 'L:near junctions'])
+L:near junctions
+([u'take'], ['place', 'L:near flyovers'])
+L:near flyovers
+
+
+----------------------------------------------------------------------------
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+(['fell'], ['down', 'on a teporary road due to rain on Thursday'])
+([u'divert'], ['towards Derabassi', 'T:after an old bridge on the highway fell down on a teporary road due to rain on Thursday'])
+T:after an old bridge on the highway fell down on a teporary road due to rain on Thursday
+([u'divert'], ['towards Derabassi', 'T:after an old bridge on the highway'])
+T:after an old bridge on the highway
+([u'damage'], [' '])
+([], ['damaged'])
+
+
+([u'say'], ['that, "I had to go to Derabassi first for coming to Panchkula due to the road closure'])
+(['go'], ['to Derabassi', 'T:first', 'T:for coming to Panchkula due to the road closure'])
+T:first
+T:for coming to Panchkula due to the road closure
+(['cross'], ['the road'])
+([u'help'], ['the pedestrians cross the road'])
+([u'call', 'in'], [' '])
+
+
+([u'say'], ['that, "The road was closed for sometime'])
+
+
+----------------------------------------------------------------------------
+([], ['head on'])
+([u'injure'], ['T:when a loaded truck collied head on with a bus near Bhup - Bhairow Chowk on NH - 104 under Dumra police station in Sitamarhi district'])
+T:when a loaded truck collied head on with a bus near Bhup - Bhairow Chowk on NH - 104 under Dumra police station in Sitamarhi district
+([u'kill'], [' '])
+
+
+([u'refer'], ['to SKMCH', 'L:in Muzaffarpur', 'T:as Sitamarhi district doctors are on indefinite strike', 'T:following frequent assault on doctors'])
+L:in Muzaffarpur
+T:as Sitamarhi district doctors are on indefinite strike
+T:following frequent assault on doctors
+([u'say'], ['more than two dozen critically injured passengers were referred to SKMCH in Muzaffarpur as Sitamarhi district doctors are on indefinite strike following frequent assault on doctors'])
+([], ['on indefinite strike'])
+
+
+([u'come'], ['to Sitamarhi'])
+([], ['on way to Pupri', 'T:while the truck was coming to Sitamarhi'])
+T:while the truck was coming to Sitamarhi
+
+
+----------------------------------------------------------------------------
+([u'decide', 'kill'], ['himself'])
+([u'decide'], ['to kill himself'])
+([], ['in a relationship with the woman for nearly 13 years'])
+([u'mention'], ['L:in his suicide note', 'he was in a relationship with the woman for nearly 13 years but after she broke up with him'])
+L:in his suicide note
+([u'break'], [' '])
+([u'decide', 'kill'], ['himself'])
+([u'decide'], ['to kill himself', 'T:after she broke up with him'])
+T:after she broke up with him
+([u'break'], ['with him'])
+([u'mention'], ['L:in his suicide note that but after she broke up with him he decided to kill himself'])
+L:in his suicide note that but after she broke up with him he decided to kill himself
+
+
+(['fact'], ['Sanpada police station'])
+(['fact'], ['a labour contractor'])
+([u'end'], ['his life', 'because of a woman'])
+([u'say'], ['L:in the suicide note', 'that he is ending his life because of a woman'])
+L:in the suicide note
+([u'say'], ['Kakade, a labour contractor, has said in the suicide note that he is ending his life because of a woman'])
+([u'leave'], ['him', 'for another man'])
+([u'decide', 'kill'], ['himself'])
+([u'decide'], ['to kill himself'])
+([u'mention'], ['L:in the letter', 'T:after she broke up with him', 'he decided to kill himself'])
+L:in the letter
+T:after she broke up with him
+([u'break'], ['with him'])
+([], ['in a relationship with the woman for nearly 13 years'])
+([u'live'], ['L:in Koparkhairane'])
+L:in Koparkhairane
+([u'mention'], ['L:in the letter', 'that he was in a relationship with the woman for nearly 13 years'])
+L:in the letter
+
+
+([u'commit', 'suicide', 'by', u'hang'], ['himself', 'from a tree in Sanpada on Thursday morning'])
+([u'commit'], ['suicide'])
+
+
+----------------------------------------------------------------------------
+([u'run'], ['into three cows', 'T:on Thursday', 'T:just after 6am'])
+T:on Thursday
+T:just after 6am
+
+
+([u'kill'], ['L:at the Chimbel-Ribandar junction near Our Lady of Conception', 'T:A week ago'])
+L:at the Chimbel-Ribandar junction near Our Lady of Conception
+T:A week ago
+
+
+([u'kill'], ['L:in an accident a fortnight ago near Sai Baba temple'])
+L:in an accident a fortnight ago near Sai Baba temple
+([u'injure'], [' '])
+
+
+----------------------------------------------------------------------------
+([u'overturn'], [' '])
+([u'start'], [' '])
+
+
+([u'lose'], ['control over the vehicle'])
+([u'skid'], ['off the road near Bhidbhanjan Hanuman temple', 'L:in Lathi town of Amreli district', 'T:after the driver lost control over the vehicle', 'L:In a separate incident'])
+L:in Lathi town of Amreli district
+T:after the driver lost control over the vehicle
+L:In a separate incident
+
+
+([u'strand'], ['L:in an overflowing causeway near Morbi town on Thursday morning'])
+L:in an overflowing causeway near Morbi town on Thursday morning
+([], ['stranded in an overflowing causeway near Morbi town on Thursday morning'])
+([], ['a providential escape', 'T:after their bus got stranded in an overflowing causeway near Morbi town on Thursday morning'])
+T:after their bus got stranded in an overflowing causeway near Morbi town on Thursday morning
+
+
+----------------------------------------------------------------------------
+([u'drive'], ['a hatchback', 'L:in an allegedly drunken state'])
+L:in an allegedly drunken state
+(['hit'], ['a road divider', 'T:at the Chingrighata crossing', 'T:on EM Bypass near Beliaghata traffic post on Wednesday night'])
+T:at the Chingrighata crossing
+T:on EM Bypass near Beliaghata traffic post on Wednesday night
+
+
+([u'injure'], [' '])
+([u'do', "n't", 'lodge'], ['any case', 'T:as no one was injured'])
+T:as no one was injured
+
+
+([u'move'], ['towards EM Bypass', 'T:at 12.15am', 'T:when it hit the divider'])
+T:at 12.15am
+T:when it hit the divider
+([u'say'], [' '])
+(['hit'], ['the divider'])
+
+
+----------------------------------------------------------------------------
+(['hit'], ['by a PMPML bus'])
+
+
+([u'live'], ['L:in Karvenagar'])
+L:in Karvenagar
+([u'bother', 'help'], ['the victim'])
+([u'bother'], ['to help the victim'])
+([u'say'], ['no one bothered to help the victim'])
+([u'say'], ['Budukh'])
+([u'live'], ['L:in Karvenagar'])
+L:in Karvenagar
+([u'jump'], ['the signal'])
+([u'say'], ['the bus driver had jumped the signal and the crowd was busy yelling at him'])
+([u'say'], ['Budukh'])
+([u'yell'], ['at him'])
+([], ['busy yelling at him'])
+
+
+([u'decide', 'go'], ['with him'])
+([u'decide'], ['to go with him'])
+([u'say'], ['Kulkarni'])
+
+
+----------------------------------------------------------------------------
+([u'reach'], ['the spot within a few minutes'])
+([u'occur'], ['L:opposite Sahnewal police station'])
+L:opposite Sahnewal police station
+
+
+(['fact'], ['Delhi'])
+([u'ram', 'into', 'them', u'travel'], [' '])
+([u'ram'], ['into them', 'L:near the Ludhiana-Delhi National Highway', 'L:at Sahnewal', 'T:on Thursday'])
+L:near the Ludhiana-Delhi National Highway
+L:at Sahnewal
+T:on Thursday
+([u'kill'], ['T:after a SUV travelling at almost 100km per hour rammed into them near the Ludhiana-Delhi National Highway at Sahnewal on Thursday'])
+T:after a SUV travelling at almost 100km per hour rammed into them near the Ludhiana-Delhi National Highway at Sahnewal on Thursday
+([u'stand'], ['on a road divider', 'T:while waiting for a bus'])
+T:while waiting for a bus
+
+
+([u'stand'], ['on the divider'])
+([u'ram'], ['into three persons'])
+([u'lose'], ['control', 'L:in the process'])
+L:in the process
+
+
+----------------------------------------------------------------------------
+([u'reach'], ['the spot within a few minutes'])
+([u'occur'], ['L:opposite Sahnewal police station'])
+L:opposite Sahnewal police station
+
+
+(['fact'], ['Delhi'])
+([u'ram', 'into', 'them', u'travel'], [' '])
+([u'ram'], ['into them', 'L:near the Ludhiana-Delhi National Highway', 'L:at Sahnewal', 'T:on Thursday'])
+L:near the Ludhiana-Delhi National Highway
+L:at Sahnewal
+T:on Thursday
+([u'kill'], ['T:after a SUV travelling at almost 100km per hour rammed into them near the Ludhiana-Delhi National Highway at Sahnewal on Thursday'])
+T:after a SUV travelling at almost 100km per hour rammed into them near the Ludhiana-Delhi National Highway at Sahnewal on Thursday
+([u'stand'], ['on a road divider', 'T:while waiting for a bus'])
+T:while waiting for a bus
+
+
+([u'stand'], ['on the divider'])
+([u'ram'], ['into three persons'])
+([u'lose'], ['control', 'L:in the process'])
+L:in the process
+
+
+----------------------------------------------------------------------------
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+([u'injure'], ['four others , near Padalur in Peramblur district on Saturday morning'])
+([u'kill'], ['two women', 'T:on Saturday morning'])
+T:on Saturday morning
+([u'undertake'], ['a padayatra', 'L:in Trichy'])
+L:in Trichy
+([u'plough'], ['into a group of pilgrims from Cuddalore district'])
+
+
+(['without', u'respond'], ['to treatment'])
+([u'die'], ['L:a government hospital in Perambalur'])
+L:a government hospital in Perambalur
+([u'take'], ['to a government hospital in Perambalur'])
+
+
+([u'admit'], ['to the hospital'])
+([u'injure'], ['L:in the accident'])
+L:in the accident
+
+
+----------------------------------------------------------------------------
+([u'carry'], ['schoolchildren'])
+([u'die'], ['L:on the spot', 'T:after the vehicle'])
+L:on the spot
+T:after the vehicle
+
+
+([u'injure'], ['L:in the incident'])
+L:in the incident
+
+
+([u'lose'], ['control over the vehicle'])
+
+
+----------------------------------------------------------------------------
+([u'collide'], ['L:on Pollachi-Pallada Road at Thookampatti near Pollachi', 'T:on Thursday night'])
+L:on Pollachi-Pallada Road at Thookampatti near Pollachi
+T:on Thursday night
+([u'kill'], ['T:after their motorcycles'])
+T:after their motorcycles
+
+
+([u'ram'], ['it', 'L:near Thookampatti bus stop'])
+L:near Thookampatti bus stop
+([u'come'], ['from the opposite direction'])
+
+
+([u'bring'], ['dead'])
+([u'declare'], ['Shanmugam brought dead', 'T:While Vellingiri died on the way to the hospital'])
+T:While Vellingiri died on the way to the hospital
+([u'die'], [' '])
+
+
+----------------------------------------------------------------------------
+([u'try', 'overtake'], ['a private bus met with an accident on Thursday'])
+([u'try', 'overtake'], ['a private bus when he lost control'])
+([u'try', 'for', u'kill'], ['two persons'])
+([u'arrest'], ['for killing two persons'])
+([u'try', 'overtake'], ['a private bus met with an accident on Thursday'])
+([u'try', 'overtake'], ['a private bus when he lost control'])
+([u'arrest'], ['for negligent driving'])
+([u'try', 'overtake'], ['a private bus met with an accident on Thursday'])
+([u'meet'], ['with an accident', 'T:on Thursday'])
+T:on Thursday
+([u'try', 'overtake'], ['a private bus when he lost control'])
+([u'try'], ['to overtake a private bus'])
+([u'lose'], ['control'])
+([u'arrest'], ['for rash'])
+
+
+([u'plan', 'an', u'out', u'run'], ['a travel agency in Byculla'])
+([u'plan'], ['an outing'])
+
+
+(['fell'], ['off the bridge', 'T:then'])
+T:then
+(['hit'], ['the labourers', 'T:first'])
+T:first
+
+
+----------------------------------------------------------------------------
+([], ['on its way to the hostel', 'T:when the accident occurred'])
+T:when the accident occurred
+([u'inform'], ['that the bus was on its way to the hostel'])
+([u'occur'], [' '])
+
+
+(['hit'], ['the bus', 'T:over'])
+T:over
+([u'reach'], ['L:near the Hartej Hospital'])
+L:near the Hartej Hospital
+([u'carry'], ['around fifty students'])
+([u'tell'], ['as the bus', 'carrying around fifty students'])
+
+
+(['fact'], ['semester'])
+(['fact'], ['the post-graduate programme'])
+(['hit'], ['by a Maruti Swift car here on Thursday evening'])
+([u'sustain'], ['injuries', "T:after the institution's bus was hit by a Maruti Swift car here on Thursday evening"])
+T:after the institution's bus was hit by a Maruti Swift car here on Thursday evening
+
+
+----------------------------------------------------------------------------
+([u'knock'], ['by a private car', 'L:at Amherst Street'])
+L:at Amherst Street
+([u'take'], ['place', 'T:around 2.40 pm', 'T:when an unidentified biker - aged around 35 - was knocked down by a private car at Amherst Street'])
+T:around 2.40 pm
+T:when an unidentified biker - aged around 35 - was knocked down by a private car at Amherst Street
+
+
+(['hit'], ['a crash barrier', 'T:before falling in to a ditch'])
+T:before falling in to a ditch
+(['suspect'], ['the victim hit a crash barrier before falling in to a ditch'])
+([u'miss'], ['a sharp turn'])
+(['suspect'], ['the victim missed a sharp turn'])
+
+
+(['run'], ['by an unidentified vehicle around 5.30 am on Thursday'])
+
+
+----------------------------------------------------------------------------
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+([u'occur'], ['L:on the Yamuna expressway early on Saturday morning'])
+L:on the Yamuna expressway early on Saturday morning
+([u'injure'], ['L:in an accident'])
+L:in an accident
+([u'die'], ['T:while another was injured in an accident'])
+T:while another was injured in an accident
+
+
+(['fact'], ['Aligarh'])
+(['hit'], ['him', 'from behind'])
+([u'approach'], ['the zero point', 'from Noida-Agra carriageway'])
+([u'die'], ['L:on the spot'])
+L:on the spot
+
+
+(['hit'], ['him'])
+([u'approach'], ['the zero point'])
+([u'stand'], ['on the road', 'T:when a tanker approaching the zero point hit him'])
+T:when a tanker approaching the zero point hit him
+([u'take'], ['a sharp left'])
+([u'try', 'save'], ['him'])
+([u'try'], ['to save him'])
+
+
+----------------------------------------------------------------------------
+([u'park'], ['on KIA (Kempegowda International Airport) expressway in Yelahanka'])
+([u'ram', 'late'], ['a truck parked on KIA (Kempegowda International Airport) expressway in Yelahanka'])
+([u'die'], ['L:on the spot', 'T:after their car rammed a truck parked on KIA (Kempegowda International Airport) expressway in Yelahanka late on Friday night'])
+L:on the spot
+T:after their car rammed a truck parked on KIA (Kempegowda International Airport) expressway in Yelahanka late on Friday night
+
+
+([u'run', 'out'], ['of fuel'])
+([u'park'], ['his vehicle', 'T:after it ran out of fuel'])
+T:after it ran out of fuel
+
+
+([u'stick'], ['between the two vehicles'])
+([u'crush'], ['T:as they were stuck between the two vehicles'])
+T:as they were stuck between the two vehicles
+
+
+----------------------------------------------------------------------------
+([u'injure'], ['T:after a speeding jeep hit their car from the rear on the road dividing sectors'])
+T:after a speeding jeep hit their car from the rear on the road dividing sectors
+([u'injure'], ['T:after a speeding jeep hit their car from the rear on the road dividing sectors 10 in a and - run on Friday night'])
+T:after a speeding jeep hit their car from the rear on the road dividing sectors 10 in a and - run on Friday night
+([u'injure'], ['T:after a speeding jeep hit their car from the rear on the road dividing sectors 9 in hit - and - run on Friday night'])
+T:after a speeding jeep hit their car from the rear on the road dividing sectors 9 in hit - and - run on Friday night
+(['hit'], ['their car', 'from the rear'])
+([u'injure'], ['T:after a speeding jeep hit their car from the rear on the road dividing sectors 9 in a and - run on Friday night'])
+T:after a speeding jeep hit their car from the rear on the road dividing sectors 9 in a and - run on Friday night
+
+
+(['hit'], ['them', 'T:around', 'T:11.30 pm', 'T:When he reached the sector'])
+T:around
+T:11.30 pm
+T:When he reached the sector
+([u'divide'], ['road'])
+([u'reach'], ['the sector'])
+
+
+([u'overturn'], [' '])
+(['hit'], ['the divider'])
+
+
+----------------------------------------------------------------------------
+([u'send'], ['it', 'T:hurtling into the smaller vehicles on IIM road crossing on Saturday'])
+T:hurtling into the smaller vehicles on IIM road crossing on Saturday
+([u'injure'], ["T:when a truck's tyre burst, sending it hurtling into the smaller vehicles on IIM road crossing on Saturday", 'L:In a freak incident'])
+T:when a truck's tyre burst, sending it hurtling into the smaller vehicles on IIM road crossing on Saturday
+L:In a freak incident
+
+
+([u'cross'], [' '])
+(['fell'], ['on a car'])
+(['hit'], ['an e - rickshaw'])
+([u'overturn'], ['T:then'])
+T:then
+([u'overturn'], ['T:When it reached Bithauli crossing and it hit an e - rickshaw', 'T:then'])
+T:When it reached Bithauli crossing and it hit an e - rickshaw
+T:then
+(['hit'], ['an e - rickshaw'])
+([u'reach'], ['Bithauli crossing'])
+
+
+([u'take'], ['to KGMU Trauma Centre'])
+([u'suffer'], ['multiple fractures'])
+
+
+----------------------------------------------------------------------------
+(['hit'], ['by a Tempo Traveller near Pizhaku bridge on Pala-Thodupuzha road around 10am on Saturday'])
+([u'kill'], ['T:after being hit by a Tempo Traveller near Pizhaku bridge on Pala-Thodupuzha road around 10am on Saturday'])
+T:after being hit by a Tempo Traveller near Pizhaku bridge on Pala-Thodupuzha road around 10am on Saturday
+
+
+([u'cross'], ['a zebra line'])
+([u'occur'], ['T:when Thomas was crossing a zebra line'])
+T:when Thomas was crossing a zebra line
+
+
+(['fell'], ['on the road'])
+([u'sever'], ['from the traveller'])
+([], ['severed from the traveller'])
+([u'reach'], ['Manathoor Junction'])
+
+
+----------------------------------------------------------------------------
+([u'head', 'saoner', 'hit'], ['the autorickshaw coming from the opposite direction'])
+([u'head'], ['to Saoner', 'hit the autorickshaw'])
+([u'come'], ['from the opposite direction'])
+([u'come'], ['from Nagpur'])
+([u'take'], ['place', 'T:when the bus coming from Nagpur'])
+T:when the bus coming from Nagpur
+
+
+([u'collide', 'on'], ['with an autorickshaw near soyabean factory in Malegaon in Saoner tehsil', 'T:on Saturday', 'T:between 8:30 pm'])
+T:on Saturday
+T:between 8:30 pm
+([u'kill'], ['T:after a private bus collided head - on with an autorickshaw near soyabean factory in Malegaon in Saoner tehsil , on Saturday between 8:30 pm'])
+T:after a private bus collided head - on with an autorickshaw near soyabean factory in Malegaon in Saoner tehsil , on Saturday between 8:30 pm
+([u'collide', 'on'], ['with an autorickshaw near soyabean factory in Malegaon in Saoner tehsil'])
+([u'kill'], ['T:after a private bus collided head - on with an autorickshaw near soyabean factory in Malegaon in Saoner tehsil'])
+T:after a private bus collided head - on with an autorickshaw near soyabean factory in Malegaon in Saoner tehsil
+
+
+([u'die'], ['L:on the spot'])
+L:on the spot
+([u'die'], ['L:on the spot'])
+L:on the spot
+([u'die'], ['L:on the spot'])
+L:on the spot
+
+
+----------------------------------------------------------------------------
+([u'hurtle'], [' '])
+(['hit'], ['the bike', 'with such force'])
+([u'take'], ['place', 'T:at 1.15 am'])
+T:at 1.15 am
+
+
+([u'rid'], ['he'])
+(['hit'], ['the bike he was riding with his colleague early Sunday on Bhattarahalli flyover near Hoskote'])
+([u'kill'], ['L:on the spot'])
+L:on the spot
+
+
+(['fact'], ['him'])
+(['hit'], ['their Suzuki Access bike'])
+([u'injure'], ['T:when a Honda City car hit their Suzuki Access bike'])
+T:when a Honda City car hit their Suzuki Access bike
+([u'kill'], [' '])
+
+
+----------------------------------------------------------------------------
+([u'hurtle'], [' '])
+(['hit'], ['the bike', 'with such force'])
+([u'take'], ['place', 'T:at 1.15 am'])
+T:at 1.15 am
+
+
+([u'rid'], ['he'])
+(['hit'], ['the bike he was riding with his colleague early Sunday on Bhattarahalli flyover near Hoskote'])
+([u'kill'], ['L:on spot', 'T:when a car hit the bike'])
+L:on spot
+T:when a car hit the bike
+
+
+(['fact'], ['him'])
+(['hit'], ['their Suzuki Access bike'])
+([u'injure'], ['T:when a Honda City car hit their Suzuki Access bike'])
+T:when a Honda City car hit their Suzuki Access bike
+([u'kill'], [' '])
+
+
+----------------------------------------------------------------------------
+(['run'], ['less than 500 metres'])
+(['run'], ['by a government bus hours', 'T:after less than 500 metres from the burial ground at Prince Anwar Shah Road on Saturday night'])
+T:after less than 500 metres from the burial ground at Prince Anwar Shah Road on Saturday night
+(['run'], ['by a government bus hours', 'T:after the burial on Saturday night'])
+T:after the burial on Saturday night
+([u'bury'], ['his kin'])
+([u'return'], ['home', 'T:after burying his kin'])
+T:after burying his kin
+
+
+(['fact'], ['Tollygunge'])
+(['attend'], ['the cremation of Tollygunge resident Md Shahnawaz'])
+([u'go'], ['to the Prince Gulam Muhammad Shah Muslim Burial Ground at Rajendra Prasad Colony off Prince Anwar Shah Road', 'to attend the cremation of Tollygunge resident Md Shahnawaz'])
+([u'die'], ['of cancer', 'T:earlier in the day'])
+T:earlier in the day
+([], ['among the family members'])
+
+
+([u'run'], ['L:at the Lake Gardens'])
+L:at the Lake Gardens
+([u'run'], ['him'])
+([], ['on his way back home', 'T:when an AC bus of route AC1 ( Jadavpur - Howrah ) ran him over at the Lake Gardens'])
+T:when an AC bus of route AC1 ( Jadavpur - Howrah ) ran him over at the Lake Gardens
+
+
+----------------------------------------------------------------------------
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+([u'ram'], ['into a multi-utility vehicle at Vadgaon bridge on the Katraj - Dehu Road bypass on Sunday evening'])
+([u'create'], ['a panic situation', 'T:after it rammed into a multi-utility vehicle at Vadgaon bridge on the Katraj - Dehu Road bypass on Sunday evening'])
+T:after it rammed into a multi-utility vehicle at Vadgaon bridge on the Katraj - Dehu Road bypass on Sunday evening
+([u'ram'], ['into a car', 'T:on Sunday evening'])
+T:on Sunday evening
+([u'create'], ['a panic situation', 'T:after it rammed into a car on Sunday evening'])
+T:after it rammed into a car on Sunday evening
+
+
+([u'injure'], ['L:in the accident'])
+L:in the accident
+
+
+([u'ram', 'into', 'drag', u'push'], ['it', 'for a few metres'])
+([u'ram'], ['into drag', 'T:then'])
+T:then
+([u'push'], ['it', 'for a few metres'])
+([u'ram'], ['into', 'T:then'])
+T:then
+
+
+----------------------------------------------------------------------------
+([u'roll'], ['down', 'into a rivulet under Sono police station in Jamui district on Saturday morning'])
+([u'turn'], ['turtle'])
+([u'skid'], ['off the road'])
+([u'injure'], ['T:when a private bus skidded off the road'])
+T:when a private bus skidded off the road
+([u'die'], ['L:on the spot', 'T:while 45 others , including seven minors , were injured when a private bus skidded off the road'])
+L:on the spot
+T:while 45 others , including seven minors , were injured when a private bus skidded off the road
+
+
+([u'refer'], ['to Hospital'])
+([u'refer'], ['to Patna Medical College'])
+([u'injure'], [' '])
+([u'undergo'], ['treatment', 'L:sadar hospital'])
+L:sadar hospital
+([u'confirm'], ['the incident'])
+
+
+([u'skid'], ['off the road'])
+([u'lose'], ['control'])
+([u'cross'], ['Talwana bridge'])
+
+
+----------------------------------------------------------------------------
+([u'die'], ['L:in two different accidents in Tirupur district', 'T:on Saturday'])
+L:in two different accidents in Tirupur district
+T:on Saturday
+
+
+(['hit'], ['their vehicle', 'T:When they reached the state highway 19'])
+T:When they reached the state highway 19
+([u'reach'], ['the state highway 19'])
+
+
+([u'crush'], ['by its rear wheels'])
+(['fell'], ['under the truck'])
+
+
+----------------------------------------------------------------------------
+([u'ram'], ['a Hyundai Santro', 'L:at Madhuban Chowk underpass'])
+L:at Madhuban Chowk underpass
+([u'take'], ['place', 'T:around 11pm', 'T:when a truck rammed a Hyundai Santro at Madhuban Chowk underpass'])
+T:around 11pm
+T:when a truck rammed a Hyundai Santro at Madhuban Chowk underpass
+
+
+([u'ram'], ['a Maruti Eeco'])
+([u'take'], ['place', 'L:near the Mangolpuri marble market', 'T:when a speeding Honda City rammed a Maruti Eeco at West Enclave crossing'])
+L:near the Mangolpuri marble market
+T:when a speeding Honda City rammed a Maruti Eeco at West Enclave crossing
+
+
+([u'take'], ['place', 'T:around 11.45pm'])
+T:around 11.45pm
+
+
+----------------------------------------------------------------------------
+([u'take'], ['place', 'L:at Parleshwar junction around 5am'])
+L:at Parleshwar junction around 5am
+([u'injure'], ['L:in the accident'])
+L:in the accident
+(['fact'], ['Juhu'])
+([u'take'], ['into custody'])
+([], ['at the wheel of the sedan'])
+
+
+([u'drive'], ['T:early', 'T:on Sunday'])
+T:early
+T:on Sunday
+([u'ram'], ['into the tempo'])
+([u'kill'], ['L:in Vile Parle east', 'T:after a BMW rammed into the tempo'])
+L:in Vile Parle east
+T:after a BMW rammed into the tempo
+
+
+([u'die'], ['due to severe head injuries'])
+([u'take'], ['to a hospital'])
+
+
+----------------------------------------------------------------------------
+([u'ram'], ['his truck', 'into him', 'T:late', 'T:on Friday'])
+T:late
+T:on Friday
+([u'kill'], ['by a fellow trucker'])
+
+
+([u'tell'], ['cops Salem'])
+([u'mow'], ['Salem'])
+([u'tell'], ['cops', 'Salem and he were sitting outside the godown mowed down Salem'])
+([u'tell'], ['cops', 'T:Salem and he were sitting outside the godown'])
+T:Salem and he were sitting outside the godown
+([u'kill'], ['him', 'L:on the spot'])
+L:on the spot
+([u'sit'], ['outside the godown'])
+([u'drive'], ['his truck', 'towards them'])
+([u'sit'], ['outside the godown', 'T:when the accused , Ajay , drove his truck towards them'])
+T:when the accused , Ajay , drove his truck towards them
+([u'tell'], ['cops'])
+
+
+(['fact'], ['the other truck'])
+([], ['personal enmity', 'T:earlier'])
+T:earlier
+([u'tell'], ['the police', 'that Ajay, the driver of the other truck, had personal enmity with him earlier'])
+(['mow'], ['th fellow trucker'])
+
+
+----------------------------------------------------------------------------
+([u'turn'], ['away', 'by a security guard'])
+([u'seek'], ['help'])
+([u'go'], ['to a nearby hospital', 'T:then'])
+T:then
+
+
+([u'engulf', 'too'], ['the one parked adjacent to it'])
+([u'say'], ['that fire engulfed the one parked adjacent to it too'])
+([u'park'], ['adjacent to it'])
+([u'break', 'out'], ['T:in one of the cars due to short - circuit'])
+T:in one of the cars due to short - circuit
+([u'say'], ['that fire broke out in one of the cars due to short - circuit'])
+
+
+(['would', 'help'], ['us'])
+([u'refuse', u'say'], ['it would help us in dousing the large blaze'])
+([u'refuse'], ['saying it would help us in dousing the large blaze'])
+([u'say'], ['Chauhan'])
+([], ['small'])
+([u'refuse', u'say'], ['that the bottle is small'])
+([u'refuse'], ['saying that the bottle is small'])
+([u'say'], ['Chauhan'])
+([u'request'], ['them', 'to give a fire extinguisher'])
+([u'say'], ['Chauhan'])
+([], ['L:in their car'])
+L:in their car
+(['give'], ['a fire extinguisher which they had in their car'])
+
+
+----------------------------------------------------------------------------
+([u'go', 'see'], ['L:off his brother-in-law Sk Moosa', 'L:at the RGI Airport around 2 pm'])
+L:off his brother-in-law Sk Moosa
+L:at the RGI Airport around 2 pm
+([u'go'], ['to see off his brother-in-law Sk Moosa at the RGI Airport around 2 pm'])
+([u'occur'], ['T:when Abdul Hakeem along with eight children of the family went'])
+T:when Abdul Hakeem along with eight children of the family went
+
+
+([u'crash'], ['into the culvert railing near Airport Novotel hotel'])
+(['fell'], ['L:in a road - side pit'])
+L:in a road - side pit
+([u'crash'], ['into the culvert railing near Airport Novotel hotel'])
+([u'go'], ['off the road'])
+([u'drive'], [' '])
+
+
+(['fell'], ['L:in a pit', 'at Shamshabad', 'T:on Sunday afternoon'])
+L:in a pit
+T:on Sunday afternoon
+([u'suffer'], ['injuries when their Alto car fell in a pit at Shamshabad on Sunday afternoon'])
+([u'suffer'], ['injuries when their Alto car veered off the road'])
+([u'die'], [' '])
+
+
+----------------------------------------------------------------------------
+(['witness'], ['the procession'])
+(['come'], ['out of his house', 'to witness the procession'])
+([u'pass'], ['through Kanota area'])
+([u'take'], ['place', 'T:at 8am', 'T:when a religious procession was passing through Kanota area'])
+T:at 8am
+T:when a religious procession was passing through Kanota area
+
+
+([u'run'], ['over him', 'L:in Kanota area of the city'])
+L:in Kanota area of the city
+([u'kill'], ['T:after a speeding truck ran over him in Kanota area of the city', 'L:On Sunday'])
+T:after a speeding truck ran over him in Kanota area of the city
+L:On Sunday
+
+
+([u'run'], ['over him'])
+([u'come'], ['from Jaipur', 'T:ran over him'])
+T:ran over him
+([u'run'], ['back to his house', 'T:when a truck coming from Jaipur ran over him'])
+T:when a truck coming from Jaipur ran over him
+
+
+----------------------------------------------------------------------------
+([u'take'], ['place', 'T:around 10:30pm', 'T:on Saturday'])
+T:around 10:30pm
+T:on Saturday
+
+
+(['run'], ['by a govern ment bus'])
+([u'return'], ['home', 'T:after burying his relative at a cemetery ne ar Anwar Shah Road'])
+T:after burying his relative at a cemetery ne ar Anwar Shah Road
+
+
+([u'run'], ['L:at the Lake Gardens'])
+L:at the Lake Gardens
+([u'cross'], ['the Prince Anwar Shah Road', 'T:when an AC 1, a Jadavpur-Howrah route bus, ran him over at the Lake Gardens'])
+T:when an AC 1, a Jadavpur-Howrah route bus, ran him over at the Lake Gardens
+
+
+----------------------------------------------------------------------------
+([u'kill', 'within'], ['24 hours in the city'])
+([u'kill', 'within'], ['within 24 hours'])
+([u'kill'], ['L:in separate accidents', 'T:within 24 hours in the city'])
+L:in separate accidents
+T:within 24 hours in the city
+
+
+([u'ram'], ['his truck', 'into him', 'T:late', 'T:on Friday'])
+T:late
+T:on Friday
+([u'kill'], ['by a fellow trucker'])
+
+
+([u'tell'], ['cops Salem'])
+([u'mow'], ['Salem'])
+([u'tell'], ['cops', 'Salem and he were sitting outside the godown mowed down Salem'])
+([u'tell'], ['cops', 'T:Salem and he were sitting outside the godown'])
+T:Salem and he were sitting outside the godown
+([u'kill'], ['him', 'L:on the spot'])
+L:on the spot
+([u'sit'], ['outside the godown'])
+([u'drive'], ['his truck', 'towards them'])
+([u'sit'], ['outside the godown', 'T:when the accused , Ajay , drove his truck towards them'])
+T:when the accused , Ajay , drove his truck towards them
+([u'tell'], ['cops'])
+
+
+----------------------------------------------------------------------------
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////

@@ -45,7 +45,7 @@ public class reg
 			{
 				num=numeral_time.substring(m1.start(),m1.end());
 				am_pm=numeral_time.substring(m1.end(),numeral_time.length()-1);
-				if(num.contains(".")){String[] data=num.split(".");a.hrs=Integer.valueOf(data[0]);a.min=Integer.valueOf(data[1]);}
+				if(num.contains(".")){String[] data=num.split("\\.");a.hrs=Integer.valueOf(data[0]);a.min=Integer.valueOf(data[1]);}
 				else if(num.contains(":")){String[] data=num.split(":");a.hrs=Integer.valueOf(data[0]);a.min=Integer.valueOf(data[1]);}
 			}
 			else

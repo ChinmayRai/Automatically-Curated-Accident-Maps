@@ -72,3 +72,18 @@ https://www.tutorialkart.com/opennlp/chunker-example-in-apache-opennlp/
 openNLP pretrained models - 
 http://opennlp.sourceforge.net/models-1.5/
 
+
+
+
+
+
+
+# sentence tokenizer made this split:
+In another spine-chilling accident, a 20-year-old engineering student died after ramming his i20 into a road divider at high speed near Green Mosque on Road No.
+3, Banjara Hills on Tuesday afternoon.
+
+
+# we need to use the sentence selector to eliminate the negative examples of accidents news from the selected sentences. The negative examples tend to have few/no instances of verb which are important to us.
+
+
+# limit the number of sentences that are marked relevant on basis of "took place" to 1.
