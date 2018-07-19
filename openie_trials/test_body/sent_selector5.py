@@ -1,7 +1,7 @@
 import json
 import sys
 from nltk.stem.wordnet import WordNetLemmatizer
-from root_verb_extractor import extract
+# from root_verb_extractor import extract
 
 # returns the common elements in the 2 lists
 def intersection(l1,l2):
@@ -17,19 +17,27 @@ def intersection(l1,l2):
 # removes extra spaces from edges of string
 def trim(s):
 	i=0
-	while(s[i]==" "):
-		i+=1
 	l=len(s)-1
-	while(s[l]==" "):
-		l-=1
+	try:
+		while(i<=l and s[i]==" "):
+			i+=1
+		while(l>=i and s[l]==" "):
+			l-=1
+		if(i>l):
+			return ""
+		else:
+			return s[i:l+1]
 
-	return s[i:l+1]
+	except Exception as e:
+		print e
+		print "string=",s,"=over"
+
 
 # converts openie output sentence to tuple, returns False if sentence is not a tuple
 def get_tuple(s):
 	if(not(s[0]=="0" and s[1]==".")):
 		return False
-	tup=s[5:]	# -1 to remove \n from the end
+	tup=s[5:-1]	# -1 to remove \n from the end
 	if(tup[0]=="("):
 		tup=tup[1:-1]
 	elif(tup[:7]=="Context"):
@@ -63,8 +71,10 @@ def root_verbs(sentence):
 		verbWords = tup[1].lower().split(" ")
 		lemWords = []
 		for i in range(len(verbWords)):
-			lemWords.append(lem.lemmatize(verbWords[i],'v'))
-
+			try:
+				lemWords.append(lem.lemmatize(verbWords[i],'v'))
+			except Exception as e:
+				continue
 		# printing part which lies after "be" part of verb
 		i=0;
 		while(i<len(lemWords)):
@@ -91,8 +101,7 @@ def root_verbs(sentence):
 
 
 
-# file_object = open(r"5day_5articles/july_sent_output.txt","r"))
-file_object = open(r"july2017/july_IE_output.txt","r")
+file_object = open(r"may2017/may_openie_output.txt","r")
 # month = file_object.read()
 # month = json.loads(month)
 
@@ -132,7 +141,8 @@ for line in lines:
 				elif(t[1]=="met" and t[2][:4]=="with"):
 					flag=True
 
-			rootVerbs = extract(sentence)
+			# rootVerbs = extract(sentence)
+			rootVerbs=root_verbs(sentence)
 			
 			if(flag):
 				# assigning max score to this sentence so that it is always taken unless there are more than maxSentFromArticle number of such sentences
@@ -155,15 +165,25 @@ for line in lines:
 
 			# sentence.append(rootVerbs)
 			for i in range(len(sentence)):
+				d=dict()
+				d['tuple']=sentence[i]
 				for cl in sentence[i]:
-					d=dict()
-					d['tuple']=tup
 					if(cl[:2]=="L:"):
 						d['L']=cl[2:]
 					if(cl[:2]=="T:"):
 						d['T']=cl[2:]
-					sentence[i]=d
+				sentence[i]=d
+
 			article.append(sentence)
+			if(not(flag)):
+				rv=set()
+				for i in inter1:
+					rv.add(i)
+				for i in inter2:
+					rv.add(i)
+				for i in inter3:
+					rv.add(i)
+				article.append([list(rv)])
 			sentence=[]
 
 	elif(line[0]=='='):
@@ -204,22 +224,22 @@ for line in lines:
 			sentence.append(tup)
 
 # FOR TXT OUTPUT
-file_object = open("july2017/july_sent_selected.txt","w")
+file_object = open("may2017/may_sent_selected.txt","w")
 file_object.close()
 
-file_object = open("july2017/july_sent_selected.txt","a")
+file_object = open("may2017/may_sent_selected.txt","a")
 for day in month:
 	for article in day:
 		for sentence in article:
 			for line in sentence:
 				file_object.write(str(line)+"\n")
-		file_object.write("---------------\n")
-	file_object.write("====================\n")
-file_object.write("++++++++++++++++++++++++\n")
+		file_object.write("\n---------------\n\n")
+	file_object.write("====================\n\n")
+file_object.write("++++++++++++++++++++++++\n\n")
 file_object.close()
 
 
 # FOR JSON OUTPUT
+with open('may2017/may_sent_selected.json', 'w+') as outfile:
 # with open('july2017/july_sent_selected.json', 'w+') as outfile:
-with open('july2017/july_sent_selected.json', 'w+') as outfile:
     json.dump(month, outfile)

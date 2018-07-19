@@ -1,254 +1,239 @@
-{'tuple': ('Ashok Kondiba Thakur', 'was killed', 'T:after the car)')}
-{'T': 'T:after the car)', 'tuple': ('Ashok Kondiba Thakur', 'was killed', 'T:after the car)')}
-{'tuple': ('Car driver Yogesh Surve ( 29 ) of Bopodi', 'was arrested', 'by the Nigdi police on charges of drunk driving)')}
-{'T': 'T:on Friday)', 'tuple': ('Car driver Yogesh Surve ( 29 ) of Bopodi', 'was arrested', 'by the Nigdi police on charges of drunk driving)')}
-{'tuple': ('Car driver Yogesh Surve ( 29 ) of Bopodi', 'was arrested', 'by the Nigdi police on charges of drunk driving)')}
-{'T': 'T:later)', 'tuple': ('Surve', 'was released', 'T:later)')}
+{'tuple': ('he', 'was travelling', 'in crashed into the barricades along BRTS (Bus Rapid Transit System) route in Akurdi')}
+{'T': 'after the car', 'tuple': ('Ashok Kondiba Thakur', 'was killed', 'T:after the car')}
+{'tuple': ('Surve', 'are', 'neighbours')}
+{'tuple': ('Assistant inspector G B Kharage of Nigdi police', 'told', 'TOI', 'that Surve are neighbours')}
+{'tuple': ('Thakur', 'are', 'neighbours')}
+{'tuple': ('Assistant inspector G B Kharage of Nigdi police', 'told', 'TOI', 'that Thakur are neighbours')}
+[]
+
 ---------------
-{'T': 'T:at 5pm)', 'tuple': ('The bus', 'was heading', 'towards Kopri', 'from Mira Road)')}
-{'tuple': ('The bus', 'was heading', 'towards Kopri', 'from Mira Road)')}
-{'T': 'T:on Friday)', 'tuple': ('As many as 37 passengers on board a Thane - bound TMT bus', 'had', 'a close shave', 'T:after the driver lost control of the vehicle)')}
-{'T': 'T:after the driver went into a ditch on Friday)', 'tuple': ('As many as 37 passengers on board a Thane - bound TMT bus', 'had', 'a close shave', 'T:after the driver lost control of the vehicle)')}
-{'tuple': ('As many as 37 passengers on board a Thane - bound TMT bus', 'had', 'a close shave', 'T:after the driver lost control of the vehicle)')}
-{'T': 'T:after the driver went off - road)', 'tuple': ('As many as 37 passengers on board a Thane - bound TMT bus', 'had', 'a close shave', 'T:after the driver lost control of the vehicle)')}
-{'tuple': ('As many as 37 passengers on board a Thane - bound TMT bus', 'had', 'a close shave', 'T:after the driver lost control of the vehicle)')}
-{'tuple': ('As many as 37 passengers on board a Thane - bound TMT bus', 'had', 'a close shave', 'T:after the driver lost control of the vehicle)')}
-{'T': 'T:after the driver lost control of the vehicle)', 'tuple': ('As many as 37 passengers on board a Thane - bound TMT bus', 'had', 'a close shave', 'T:after the driver lost control of the vehicle)')}
-{'tuple': ('the mishap', 'took', 'place)')}
-{'tuple': ('the mishap', 'took', 'place)')}
+
+[u'lose']
+{'tuple': ('Passengers', 'claimed', 'that there was a fault in the steering wheel because of which the mishap took place')}
+{'tuple': ('the mishap', 'took', 'place')}
+{'tuple': ('he', 'lost', 'control of the vehicle')}
+{'T': 'when he lost control of the vehicle', 'tuple': ('the driver', 'was negotiating', 'a turn', 'T:when he lost control of the vehicle')}
+
 ---------------
-{'tuple': ('Kumar', 'were', ')')}
-{'tuple': ('Kumar', 'were', ')')}
-{'tuple': ('Kumar', 'were', ')')}
-{'L': 'L:in separate accidents in the city on Thursday night)', 'tuple': ('Two men on scooters', 'were killed', 'L:in separate accidents in the city on Thursday night)')}
-{'L': 'L:in both cases)', 'tuple': ('pillion riders', 'have been critically injured', ')')}
-{'tuple': ('pillion riders', 'have been critically injured', ')')}
-{'tuple': ('pillion riders', 'have been critically injured', ')')}
+
+[u'say']
+{'L': 'in separate accidents in the city on Thursday night', 'tuple': ('Two men on scooters', 'were killed', 'L:in separate accidents in the city on Thursday night')}
+{'L': 'in both cases', 'tuple': ('the men', 'were travelling', 'L:in both cases')}
+{'tuple': ('Police', 'said', 'that in both cases the men were travelling with pillion riders')}
+{'tuple': ('pillion riders', 'have been critically injured', '')}
+
 ---------------
-{'T': 'T:on Thursday evening)', 'tuple': ('A driver', 'hit', '12 people', "T:before hitting a pole in west Delhi 's Tilak Nagar on Thursday evening)")}
-{'T': "T:before hitting a pole in west Delhi 's Tilak Nagar on Thursday evening)", 'tuple': ('A driver', 'hit', '12 people', "T:before hitting a pole in west Delhi 's Tilak Nagar on Thursday evening)")}
-{'T': 'T:on Thursday evening)', 'tuple': ('A driver', 'hit', '12 people', "T:before hitting a pole in west Delhi 's Tilak Nagar on Thursday evening)")}
-{'T': "T:before hitting a pole in west Delhi 's Tilak Nagar on Thursday evening)", 'tuple': ('A driver', 'hit', '12 people', "T:before hitting a pole in west Delhi 's Tilak Nagar on Thursday evening)")}
-{'L': 'L:over a 400-metre stretch)', 'tuple': ('Witnesses', 'said', 'all this happened over a 400-metre stretch)')}
-{'tuple': ('Witnesses', 'said', 'all this happened over a 400-metre stretch)')}
-{'T': 'T:after)', 'tuple': ('Police', 'received', 'a call', 'T:around 9.30 pm)')}
-{'tuple': ('Police', 'received', 'a call', 'T:around 9.30 pm)')}
-{'tuple': ('Police', 'received', 'a call', 'T:around 9.30 pm)')}
-{'tuple': ('Police', 'received', 'a call', 'T:around 9.30 pm)')}
-{'T': 'T:around 9.30 pm)', 'tuple': ('Police', 'received', 'a call', 'T:around 9.30 pm)')}
+
+{'L': "in west Delhi 's Tilak Nagar", 'T': 'on Thursday evening', 'tuple': ('A driver', 'hit eight parked vehicles before hitting', 'a pole', "L:in west Delhi 's Tilak Nagar", 'T:on Thursday evening')}
+{'T': "before hitting a pole in west Delhi 's Tilak Nagar on Thursday evening", 'tuple': ('A driver', 'hit', 'eight parked vehicles', "T:before hitting a pole in west Delhi 's Tilak Nagar on Thursday evening")}
+{'L': "in west Delhi 's Tilak Nagar", 'T': 'on Thursday evening', 'tuple': ('A driver', 'hit 12 people before hitting', 'a pole', "L:in west Delhi 's Tilak Nagar", 'T:on Thursday evening')}
+{'T': "before hitting a pole in west Delhi 's Tilak Nagar on Thursday evening", 'tuple': ('A driver', 'hit', '12 people', "T:before hitting a pole in west Delhi 's Tilak Nagar on Thursday evening")}
+['hit']
+[u'happen', u'say']
+
 ---------------
-{'T': 'T:on Wednesday night)', 'tuple': ('A 30-year-old pedestrian', 'was killed', 'T:after an unidentified vehicle hit him near Harsaru village on Pataudi road on Wednesday night)')}
-{'T': 'T:after an unidentified vehicle hit him near Harsaru village on Pataudi road on Wednesday night)', 'tuple': ('A 30-year-old pedestrian', 'was killed', 'T:after an unidentified vehicle hit him near Harsaru village on Pataudi road on Wednesday night)')}
-{'tuple': ('The driver', 'managed', 'to flee the spot with his vehicle)')}
-{'tuple': ('The driver', 'managed', 'to flee the spot with his vehicle)')}
-{'tuple': ('Police', 'are', 'T:yet', 'to identify the victim)')}
-{'tuple': ('Police', 'are', 'T:yet', 'to identify the victim)')}
-{'tuple': ('Police', 'are', 'T:yet', 'to identify the victim)')}
+
+{'L': 'on Pataudi road', 'T': 'on Wednesday night', 'tuple': ('an unidentified vehicle', 'hit', 'him', 'L:near Harsaru village', 'L:on Pataudi road', 'T:on Wednesday night')}
+{'T': 'after an unidentified vehicle hit him near Harsaru village on Pataudi road on Wednesday night', 'tuple': ('A 30-year-old pedestrian', 'was killed', 'T:after an unidentified vehicle hit him near Harsaru village on Pataudi road on Wednesday night')}
+[]
+{'tuple': ('an FIR', 'has been lodged', 'against the unknown driver at the Sector 10 police station')}
+{'tuple': ('Police', 'to identify', 'the victim')}
+{'T': 'yet', 'tuple': ('Police', 'are', 'T:yet', 'to identify the victim')}
+
 ---------------
+
 ====================
-{'T': 'T:on Saturday morning)', 'tuple': ('One person', 'was killed', ')')}
-{'T': 'T:on Saturday morning)', 'tuple': ('One person', 'was killed', ')')}
-{'tuple': ('One person', 'was killed', ')')}
-{'tuple': ('One person', 'was killed', ')')}
-{'tuple': ('The deceased', 'was identified', 'as Balvant Bhikabhai (26) of Khanderi in Jamnagar)')}
-{'T': 'T:first)', 'tuple': ('the accident', 'occurred', 'T:when a state transport bus first collided with a tanker)')}
-{'T': 'T:when a state transport bus first collided with the speeding MUV going towards Rajkot)', 'tuple': ('the accident', 'occurred', 'T:when a state transport bus first collided with a tanker)')}
-{'tuple': ('the accident', 'occurred', 'T:when a state transport bus first collided with a tanker)')}
-{'T': 'T:first)', 'tuple': ('the accident', 'occurred', 'T:when a state transport bus first collided with a tanker)')}
-{'T': 'T:when a state transport bus first collided with a tanker fell off a small bridge into a dry river bed near Sursangda village)', 'tuple': ('the accident', 'occurred', 'T:when a state transport bus first collided with a tanker)')}
-{'tuple': ('the accident', 'occurred', 'T:when a state transport bus first collided with a tanker)')}
-{'T': 'T:first)', 'tuple': ('the accident', 'occurred', 'T:when a state transport bus first collided with a tanker)')}
-{'T': 'T:when a state transport bus first collided with a tanker)', 'tuple': ('the accident', 'occurred', 'T:when a state transport bus first collided with a tanker)')}
+
+{'T': 'on Saturday morning', 'tuple': ('a multi-utility vehicle', 'carrying', 'about a dozen passengers near Sursangda village of Kalavad taluka of Jamnagar', 'T:on Saturday morning')}
+{'T': 'on Saturday morning', 'tuple': ('a state transport bus', 'carrying', 'about a dozen passengers near Sursangda village of Kalavad taluka of Jamnagar', 'T:on Saturday morning')}
+{'tuple': ('11 others', 'injured', '')}
+{'tuple': ('One person', 'was killed', '')}
+{'tuple': ('The deceased', 'was identified', 'as Balvant Bhikabhai (26) of Khanderi in Jamnagar')}
+[]
+
 ---------------
-{'T': 'T:after a car accident in Las Vegas)', 'tuple': ("King of Pop Michael Jackson's father", 'was hospitalised', 'T:after a car accident in Las Vegas)')}
-{'tuple': ('The Las Vegas Metropolitan Police Department', 'confirmed', ')')}
-{'tuple': ('the luxury car', 'was travelling westbound', 'on West Sahara Avenue east of Decatur Boulevard)')}
-{'tuple': ('the luxury car', 'was travelling westbound', 'on West Sahara Avenue east of Decatur Boulevard)')}
-{'tuple': ('the luxury car', 'was travelling westbound', 'on West Sahara Avenue east of Decatur Boulevard)')}
-{'tuple': ('the luxury car', 'was travelling westbound', 'on West Sahara Avenue east of Decatur Boulevard)')}
+
+{'tuple': ('The Las Vegas Metropolitan Police Department', 'confirmed', '')}
+{'T': 'after a car accident in Las Vegas', 'tuple': ("King of Pop Michael Jackson's father", 'was hospitalised', 'T:after a car accident in Las Vegas')}
+[]
+
 ---------------
-{'tuple': ('A five-year-old girl', 'died', 'T:after she was run over by a bus near Jhotwara area of the city on Saturday morning)')}
-{'T': 'T:after she was run over by a bus near Jhotwara area of the city on Saturday morning)', 'tuple': ('A five-year-old girl', 'died', 'T:after she was run over by a bus near Jhotwara area of the city on Saturday morning)')}
-{'L': 'L:in Bhatta Basti)', 'tuple': ('Jevika', 'was travelling', 'with her parents)')}
-{'tuple': ('Jevika', 'was travelling', 'with her parents)')}
-{'tuple': ('Jevika', 'was travelling', 'with her parents)')}
-{'T': 'T:She was standing near the bus)', 'tuple': ('She', 'was standing', 'near the bus)')}
-{'L': 'L:under the wheels)', 'tuple': ('She', 'was standing', 'near the bus)')}
-{'tuple': ('She', 'was standing', 'near the bus)')}
+
+[u'travel']
+{'tuple': ('she', 'was run over', 'by a bus near Jhotwara area of the city on Saturday morning')}
+{'T': 'after she was run over by a bus near Jhotwara area of the city on Saturday morning', 'tuple': ('A five-year-old girl', 'died', 'T:after she was run over by a bus near Jhotwara area of the city on Saturday morning')}
+[u'die', 'run']
+
 ---------------
-{'T': 'T:two of them children)', 'tuple': ('Thirteen people died, two of them children, when a long-haul passenger bus collided with a truck in Russia today', 'said', 'authorities)')}
-{'tuple': ('Thirteen people died, two of them children, when a long-haul passenger bus collided with a truck in Russia today', 'said', 'authorities)')}
-{'tuple': ('the accident', 'happened', ')')}
-{'tuple': ('the accident', 'happened', ')')}
-{'tuple': ('the accident', 'happened', ')')}
-{'tuple': ('the accident', 'happened', ')')}
-{'tuple': ('the accident', 'happened', ')')}
-{'tuple': ('It', 'said', 'it was possible the bus driver was blinded by headlights)')}
+
+[u'say']
+{'T': 'two of them children', 'tuple': ('Thirteen people', 'died', 'T:two of them children')}
+{'tuple': ('Thirteen people died, two of them children, when a long-haul passenger bus collided with a truck in Russia today', 'said', 'authorities')}
+[u'die', u'say']
+
 ---------------
-{'T': 'T:after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday)', 'tuple': ('A 66 - year - old woman', 'died', 'T:while her son , who was driving the car sustained injuries after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday)')}
-{'T': 'T:after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday)', 'tuple': ('A 66 - year - old woman', 'died', 'T:while her son , who was driving the car sustained injuries after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday)')}
-{'T': 'T:while her son , who was driving her brother sustained injuries after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday)', 'tuple': ('A 66 - year - old woman', 'died', 'T:while her son , who was driving the car sustained injuries after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday)')}
-{'T': 'T:after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday)', 'tuple': ('A 66 - year - old woman', 'died', 'T:while her son , who was driving the car sustained injuries after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday)')}
-{'T': 'T:after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday)', 'tuple': ('A 66 - year - old woman', 'died', 'T:while her son , who was driving the car sustained injuries after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday)')}
-{'tuple': ('A 66 - year - old woman', 'died', 'T:while her son , who was driving the car sustained injuries after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday)')}
-{'T': 'T:while her son , who was driving the car sustained injuries after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday)', 'tuple': ('A 66 - year - old woman', 'died', 'T:while her son , who was driving the car sustained injuries after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday)')}
-{'tuple': ('The deceased', 'was identified', 'as Kiran Mukund Makwana of Shukrawar Peth)')}
-{'tuple': ('Her son', 'sustained', 'serious injuries in the accident)')}
+
+{'tuple': ('Her son', 'sustained', 'serious injuries in the accident')}
+{'T': 'after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday', 'tuple': ('her son', 'was driving', 'her brother', 'T:after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday')}
+{'T': 'after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday', 'tuple': ('her son , who was driving her brother', 'sustained', 'injuries', 'T:after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday')}
+{'T': 'while her son , who was driving her brother sustained injuries after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday', 'tuple': ('A 66 - year - old woman', 'died', 'T:while her son , who was driving her brother sustained injuries after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday')}
+{'T': 'after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday', 'tuple': ('her son', 'was driving', 'the car', 'T:after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday')}
+{'T': 'after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday', 'tuple': ('her son , who was driving the car', 'sustained', 'injuries', 'T:after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday')}
+{'tuple': ('their vehicle', 'rammed', 'the pillar of the bridge at Range Hill Corner on Ganeshkhind Road')}
+{'T': 'while her son , who was driving the car sustained injuries after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday', 'tuple': ('A 66 - year - old woman', 'died', 'T:while her son , who was driving the car sustained injuries after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20 am on Thursday')}
+{'tuple': ('The deceased', 'was identified', 'as Kiran Mukund Makwana of Shukrawar Peth')}
+
 ---------------
+
 ====================
-{'tuple': ('she', 'left', 'the school', 'T:On Saturday morning)')}
-{'T': 'T:On Saturday morning)', 'tuple': ('she', 'left', 'the school', 'T:On Saturday morning)')}
-{'T': 'T:while driving)', 'tuple': ('The death of a 47-year-old woman in a road accident in the city on Saturday', 'has highlighted', 'the use of a helmet', 'T:while driving)')}
-{'L': 'L:in the Mangalwar peth area)', 'tuple': ('The woman', 'worked', 'as a school teacher)')}
-{'tuple': ('The woman', 'worked', 'as a school teacher)')}
-{'T': 'T:when a Kolhapur Municipal Transport (KMT) bus hit a moped)', 'tuple': ('The woman', 'worked', 'as a school teacher)')}
-{'tuple': ('The woman', 'worked', 'as a school teacher)')}
+
+[]
+[]
+{'tuple': ('she', 'met', 'with the accident')}
+{'T': 'On Saturday morning', 'tuple': ('she', 'left', 'the school', 'T:On Saturday morning')}
+
 ---------------
-{'tuple': ('A Mercedes Benz', 'rammed ahead', 'the official Maruti Gypsy of an assistant commissioner of Delhi Police on Sunday morning)')}
-{'tuple': ('The ACP', 'was', 'among the three persons)')}
-{'tuple': ('The ACP', 'was', 'among the three persons)')}
-{'tuple': ('The accident', 'occurred', 'T:when both the vehicles were travelling towards Noida from Delhi via the DND flyway)')}
-{'T': 'T:when both the vehicles were travelling towards Noida from Delhi via the DND flyway)', 'tuple': ('The accident', 'occurred', 'T:when both the vehicles were travelling towards Noida from Delhi via the DND flyway)')}
+
+{'tuple': ('A Mercedes Benz', 'rammed ahead', 'the official Maruti Gypsy of an assistant commissioner of Delhi Police on Sunday morning')}
+[u'ram']
+{'tuple': ('the three persons', 'injured', '')}
+{'tuple': ('The ACP', 'was', 'among the three persons')}
+
 ---------------
-{'T': 'T:on Saturday evening)', 'tuple': ('A former Armyman', 'was killed', ')')}
-{'tuple': ('A former Armyman', 'was killed', ')')}
-{'T': 'T:after their speeding bike ran into a roadside)', 'tuple': ('A former Armyman', 'was killed', ')')}
-{'tuple': ('A former Armyman', 'was killed', ')')}
-{'tuple': ('Dharampal Singh', 'to Sadarpura', 'T:on Saturday afternoon', 'to attend a wedding ceremony)')}
-{'tuple': ('Dharampal Singh', 'to Sadarpura', 'T:on Saturday afternoon', 'to attend a wedding ceremony)')}
-{'tuple': ('Dharampal Singh', 'to Sadarpura', 'T:on Saturday afternoon', 'to attend a wedding ceremony)')}
-{'T': 'T:around 4.30pm)', 'tuple': ('They', 'left', 'the venue', 'T:around 4.30pm)')}
+
+{'L': 'near Sidhwan Bet', 'T': 'on Saturday evening', 'tuple': ('a roadside', 'railing', 'L:near Sidhwan Bet', 'T:on Saturday evening')}
+{'tuple': ('their speeding bike', 'ran', 'into a roadside')}
+{'T': 'after their speeding bike ran into a roadside', 'tuple': ('his wife', 'critically injured', 'T:after their speeding bike ran into a roadside')}
+{'tuple': ('A former Armyman', 'was killed', '')}
+{'T': 'around 4.30pm', 'tuple': ('They', 'left', 'the venue', 'T:around 4.30pm')}
+[]
+
 ---------------
-{'T': 'T:on late Saturday night)', 'tuple': ('A speeding truck', 'mowed', 'down two persons near Shivdaspura', 'T:on late Saturday night)')}
-{'tuple': ('The victims', 'identified', 'as Man Singh)')}
-{'tuple': ('The victims', 'identified', 'as Man Singh)')}
-{'L': 'L:a nearby hospital)', 'tuple': ('The victims', 'identified', 'as Man Singh)')}
-{'tuple': ('The victims', 'identified', 'as Man Singh)')}
-{'tuple': ('The victims', 'identified', 'as Man Singh)')}
-{'tuple': ('the motorcycle', 'was riding', 'the duo)')}
-{'tuple': ('the motorcycle', 'was riding', 'the duo)')}
-{'tuple': ('the motorcycle', 'was riding', 'the duo)')}
-{'tuple': ('the motorcycle', 'was riding', 'the duo)')}
-{'L': 'L:in front of him)', 'tuple': ('the motorcycle', 'was riding', 'the duo)')}
-{'T': 'T:when Bhanwarlal spotted a heavy truck in front of him)', 'tuple': ('the motorcycle', 'was riding', 'the duo)')}
-{'tuple': ('the motorcycle', 'was riding', 'the duo)')}
+
+{'tuple': ('The victims , identified as Kanhaiya ( 20 )', 'were rushed', 'to a nearby hospital')}
+{'tuple': ('The victims', 'identified', 'as Kanhaiya')}
+{'L': 'a nearby hospital', 'tuple': ('doctors', 'declared', 'them dead on arrival', 'L:a nearby hospital')}
+{'tuple': ('The victims , identified as Man Singh ( 25 )', 'were rushed', 'to a nearby hospital')}
+{'tuple': ('The victims', 'identified', 'as Man Singh')}
+{'T': 'on late Saturday night', 'tuple': ('A speeding truck', 'mowed', 'down two persons near Shivdaspura', 'T:on late Saturday night')}
+{'tuple': ('A few villagers', 'attempted to catch', 'the driver who fled')}
+{'tuple': ('the driver', 'fled', '')}
+{'tuple': ('A few villagers', 'attempted to catch', 'the driver who jumped off the truck')}
+{'tuple': ('A few villagers', 'attempted', 'to catch the driver')}
+{'tuple': ('the driver', 'jumped', 'off the truck')}
+
 ---------------
-{'T': 'T:on Sunday)', 'tuple': ('The return journey from Ahmednagar of a group of 15 software engineers from the city', 'turned', 'tragic', 'T:when six of them were killed after a speeding water tanker jumped over the road divider)')}
-{'T': 'T:after a speeding water tanker crashed into their minibus near Wagholi on the Pune - Ahmednagar highway around 7 pm on Sunday)', 'tuple': ('The return journey from Ahmednagar of a group of 15 software engineers from the city', 'turned', 'tragic', 'T:when six of them were killed after a speeding water tanker jumped over the road divider)')}
-{'T': 'T:when six of them were killed after a speeding water tanker crashed into their minibus near Wagholi on the Pune - Ahmednagar highway around 7 pm on Sunday)', 'tuple': ('The return journey from Ahmednagar of a group of 15 software engineers from the city', 'turned', 'tragic', 'T:when six of them were killed after a speeding water tanker jumped over the road divider)')}
-{'tuple': ('The return journey from Ahmednagar of a group of 15 software engineers from the city', 'turned', 'tragic', 'T:when six of them were killed after a speeding water tanker jumped over the road divider)')}
-{'T': 'T:after a speeding water tanker jumped over the road divider)', 'tuple': ('The return journey from Ahmednagar of a group of 15 software engineers from the city', 'turned', 'tragic', 'T:when six of them were killed after a speeding water tanker jumped over the road divider)')}
-{'T': 'T:when six of them were killed after a speeding water tanker jumped over the road divider)', 'tuple': ('The return journey from Ahmednagar of a group of 15 software engineers from the city', 'turned', 'tragic', 'T:when six of them were killed after a speeding water tanker jumped over the road divider)')}
-{'tuple': ('the tanker', 'went on', 'T:After hitting the minibus)')}
-{'T': 'T:After hitting the minibus)', 'tuple': ('the tanker', 'went on', 'T:After hitting the minibus)')}
-{'tuple': ('A couple', 'travelling', 'L:in the car)')}
-{'tuple': ('A couple', 'travelling', 'L:in the car)')}
-{'L': 'L:in the car)', 'tuple': ('A couple', 'travelling', 'L:in the car)')}
+
+{'L': 'on the Pune - Ahmednagar highway', 'T': 'on Sunday', 'tuple': ('a speeding water tanker', 'crashed', 'into their minibus near Wagholi', 'L:on the Pune - Ahmednagar highway', 'T:around 7 pm', 'T:on Sunday')}
+{'T': 'after a speeding water tanker crashed into their minibus near Wagholi on the Pune - Ahmednagar highway around 7 pm on Sunday', 'tuple': ('six of them', 'were killed', 'T:after a speeding water tanker crashed into their minibus near Wagholi on the Pune - Ahmednagar highway around 7 pm on Sunday')}
+{'T': 'when six of them were killed after a speeding water tanker crashed into their minibus near Wagholi on the Pune - Ahmednagar highway around 7 pm on Sunday', 'tuple': ('The return journey from Ahmednagar of a group of 15 software engineers from the city', 'turned', 'tragic', 'T:when six of them were killed after a speeding water tanker crashed into their minibus near Wagholi on the Pune - Ahmednagar highway around 7 pm on Sunday')}
+{'tuple': ('a speeding water tanker', 'jumped', 'over the road divider')}
+{'T': 'after a speeding water tanker jumped over the road divider', 'tuple': ('six of them', 'were killed', 'T:after a speeding water tanker jumped over the road divider')}
+{'T': 'when six of them were killed after a speeding water tanker jumped over the road divider', 'tuple': ('The return journey from Ahmednagar of a group of 15 software engineers from the city', 'turned', 'tragic', 'T:when six of them were killed after a speeding water tanker jumped over the road divider')}
+{'T': 'over time', 'tuple': ('some', 'had shifted', 'to other IT firms', 'T:over time')}
+[]
+
 ---------------
+
 ====================
-{'L': 'L:In one of the rare instances of its kind)', 'tuple': ('the police', 'registered', 'a First Information Report', 'against unidentified cattle owner', 'L:In one of the rare instances of its kind)')}
-{'L': 'L:In one of the rare instances of its kind)', 'tuple': ('the police', 'registered', 'a First Information Report', 'against unidentified cattle owner', 'L:In one of the rare instances of its kind)')}
-{'T': 'T:after being hit by a vehicle on Amravati Road in the wee hours of Sunday)', 'tuple': ('Two stray cattle', 'had died', 'T:after being hit by a vehicle on Amravati Road in the wee hours of Sunday)')}
-{'tuple': ('a reportedly speeding car', 'collided', ')')}
+
+[]
+{'T': 'after being hit by a vehicle on Amravati Road in the wee hours of Sunday', 'tuple': ('Two stray cattle', 'had died', 'T:after being hit by a vehicle on Amravati Road in the wee hours of Sunday')}
+[u'say', 'hit']
+
 ---------------
-{'T': 'T:on Sunday)', 'tuple': ('A truck driver', 'was killed', 'T:after he rammed his truck into a shed of the Maruti plant in Manesar on Saturday night)')}
-{'T': 'T:after his motorcycle was hit by a canter on Sunday)', 'tuple': ('A truck driver', 'was killed', 'T:after he rammed his truck into a shed of the Maruti plant in Manesar on Saturday night)')}
-{'T': 'T:while a 19-year-old was killed after his motorcycle was hit by a canter on Sunday)', 'tuple': ('A truck driver', 'was killed', 'T:after he rammed his truck into a shed of the Maruti plant in Manesar on Saturday night)')}
-{'T': 'T:after he rammed his truck into a shed of the Maruti plant in Manesar on Saturday night)', 'tuple': ('A truck driver', 'was killed', 'T:after he rammed his truck into a shed of the Maruti plant in Manesar on Saturday night)')}
-{'L': 'L:In the first incident)', 'tuple': ('a 23-year-old truck driver', 'died', 'L:on spot', 'L:In the first incident)')}
-{'tuple': ('the truck', 'was', 'present at the time of the accident)')}
-{'tuple': ('the truck', 'was', 'present at the time of the accident)')}
+
+{'T': 'on Sunday', 'tuple': ('his motorcycle', 'was hit', 'by a canter', 'T:on Sunday')}
+{'T': 'after his motorcycle was hit by a canter on Sunday', 'tuple': ('a 19-year-old', 'was killed', 'T:after his motorcycle was hit by a canter on Sunday')}
+{'T': 'while a 19-year-old was killed after his motorcycle was hit by a canter on Sunday', 'tuple': ('he', 'rammed', 'his truck', 'into a shed of the Maruti plant in Manesar', 'T:on Saturday night', 'T:while a 19-year-old was killed after his motorcycle was hit by a canter on Sunday')}
+{'T': 'after he rammed his truck into a shed of the Maruti plant in Manesar on Saturday night', 'tuple': ('A truck driver', 'was killed', 'T:after he rammed his truck into a shed of the Maruti plant in Manesar on Saturday night')}
+[u'kill', u'ram', 'hit']
+[u'die']
+
 ---------------
-{'T': 'T:when the 22-year-old was going on his bike)', 'tuple': ('The accident', 'took', 'place', 'T:when the 22-year-old was going on his bike)')}
-{'T': 'T:on Monday evening)', 'tuple': ('Dilipsinh Rana', 'died', 'L:in a road accident near Ghanteshwar village', 'L:on Jamnagar Road', 'T:on Monday evening)')}
-{'tuple': ('he', 'neared', 'Ghanteshwar village)')}
-{'tuple': ('he', 'neared', 'Ghanteshwar village)')}
+
+[u'die']
+{'L': 'on Jamnagar Road', 'T': 'on Monday evening', 'tuple': ('Dilipsinh Rana', 'died', 'L:in a road accident near Ghanteshwar village', 'L:on Jamnagar Road', 'T:on Monday evening')}
+{'tuple': ('a tractor', 'causing', 'severe head injuries')}
+{'tuple': ('he', 'neared', 'Ghanteshwar village')}
+
 ---------------
-{'L': 'L:at Thiruvalangadu near Tiruttani on)', 'tuple': ('A driver', 'was', 'drunk)')}
-{'L': 'L:at Thiruvalangadu near Tiruttani)', 'tuple': ('A driver', 'was', 'drunk)')}
-{'tuple': ('A driver', 'was', 'drunk)')}
-{'tuple': ('A driver', 'was', 'drunk)')}
-{'tuple': ('his mother', 'was holding', 'her daughter)')}
-{'tuple': ('his mother', 'was holding', 'her daughter)')}
-{'tuple': ('his mother', 'was holding', 'her daughter)')}
-{'tuple': ('his mother', 'was holding', 'her daughter)')}
-{'L': 'L:on the side of the road)', 'tuple': ('his mother', 'was holding', 'her daughter)')}
-{'tuple': ('his mother', 'was holding', 'her daughter)')}
-{'T': 'T:The deceased , Vasanth , a Class VI student of a private school in Thiruvalangadu , was walking on the side of the road)', 'tuple': ('his mother', 'was holding', 'her daughter)')}
-{'T': 'T:while his mother J Nirmala was holding her daughter)', 'tuple': ('his mother', 'was holding', 'her daughter)')}
-{'T': 'T:while his mother J Nirmala was holding her daughter)', 'tuple': ('his mother', 'was holding', 'her daughter)')}
-{'tuple': ('his mother', 'was holding', 'her daughter)')}
-{'tuple': ('his mother', 'was holding', 'her daughter)')}
-{'tuple': ('Witnesses', 'told', 'police', 'that the speeding car hit the trio from behind)')}
-{'tuple': ('Witnesses', 'told', 'police', 'that the speeding car hit the trio from behind)')}
+
+{'L': 'at Thiruvalangadu near Tiruttani on', 'tuple': ('A driver', 'injured', 'his sister', 'L:at Thiruvalangadu near Tiruttani on')}
+{'L': 'at Thiruvalangadu near Tiruttani', 'tuple': ('A driver', 'injured', 'his mother', 'L:at Thiruvalangadu near Tiruttani')}
+{'tuple': ('A driver , who was drunk', 'mowed down', '')}
+{'tuple': ('A driver', 'was', 'drunk')}
+{'tuple': ('her daughter residents', 'handed over', 'to police')}
+{'tuple': ('his mother', 'was holding', 'her daughter residents handed him over to police')}
+{'tuple': ('her daughter residents', 'nabbed', 'the car driver Mohan')}
+{'tuple': ('his mother', 'was holding', 'her daughter residents nabbed the car driver Mohan')}
+{'L': 'on the side of the road', 'tuple': ('The deceased', 'was walking', 'L:on the side of the road')}
+{'tuple': ('The deceased', 'nabbed', 'the car driver Mohan')}
+{'T': 'The deceased , Vasanth , a Class VI student of a private school in Thiruvalangadu , was walking on the side of the road', 'tuple': ('9', 'handed over', 'to police', 'T:The deceased , Vasanth , a Class VI student of a private school in Thiruvalangadu , was walking on the side of the road')}
+{'L': 'on the side of the road', 'T': 'while his mother J Nirmala was holding her daughter', 'tuple': ('The deceased', 'was walking', 'L:on the side of the road', 'T:while his mother J Nirmala was holding her daughter')}
+{'L': 'on the side of the road', 'T': 'while his mother J Nirmala was holding her daughter', 'tuple': ('The deceased', 'was walking', 'L:on the side of the road', 'T:while his mother J Nirmala was holding her daughter')}
+{'tuple': ('9', 'nabbed', 'the car driver Mohan')}
+{'tuple': ('his mother', 'was holding', 'her daughter')}
+[u'mow', u'injure']
+
 ---------------
-{'T': 'T:when the accident happened)', 'tuple': ('The incident', 'took', 'place', 'L:at Bijabhat)')}
-{'tuple': ('The incident', 'took', 'place', 'L:at Bijabhat)')}
-{'tuple': ('The incident', 'took', 'place', 'L:at Bijabhat)')}
-{'L': 'L:at Bijabhat)', 'tuple': ('The incident', 'took', 'place', 'L:at Bijabhat)')}
-{'tuple': ('Four people', 'were killed', ')')}
-{'L': 'L:in a road accident)', 'tuple': ('Four people', 'were killed', ')')}
-{'tuple': ('Four people', 'were killed', ')')}
-{'tuple': ('The injured', 'were sent', 'to Raipur hospital', 'for treatment)')}
+
+{'tuple': ('The injured', 'were sent', 'to Raipur hospital', 'for treatment')}
+{'tuple': ('when the jeep they were travelling in', 'collided', 'with a mini-truck in Bemetara district on Monday')}
+{'L': 'in a road accident', 'tuple': ('five others', 'were injured', 'L:in a road accident')}
+{'tuple': ('Four people', 'were killed', '')}
+{'T': 'when the accident happened', 'tuple': ('both the vehicles', 'were speeding', 'T:when the accident happened')}
+{'tuple': ('preliminary investigation', 'suggests', 'that both the vehicles were speeding when the accident happened')}
+{'tuple': ('the accident', 'happened', '')}
+{'L': 'at Bijabhat', 'tuple': ('The incident', 'took', 'place', 'L:at Bijabhat')}
+
 ---------------
+
 ====================
-{'tuple': ('The Monday fuel tanker accident at Kajupada', 'has highlighted', 'the need for identifying and correcting accident-prone spots on Thane roads especially on the Ghodbunder stretch', 'T:once again)')}
-{'T': 'T:once again)', 'tuple': ('The Monday fuel tanker accident at Kajupada', 'has highlighted', 'the need for identifying and correcting accident-prone spots on Thane roads especially on the Ghodbunder stretch', 'T:once again)')}
-{'tuple': ('A joint commitee comprising transport department', 'to identify', 'the dangerous spots in the district)')}
-{'tuple': ('A joint commitee comprising transport department', 'to identify', 'the dangerous spots in the district)')}
-{'tuple': ('A joint commitee comprising transport department', 'to identify', 'the dangerous spots in the district)')}
-{'tuple': ('A joint commitee comprising transport department', 'to identify', 'the dangerous spots in the district)')}
-{'tuple': ('A joint commitee comprising transport department', 'to identify', 'the dangerous spots in the district)')}
-{'tuple': ('A joint commitee comprising transport department', 'to identify', 'the dangerous spots in the district)')}
-{'tuple': ('A joint commitee comprising transport department', 'to identify', 'the dangerous spots in the district)')}
-{'tuple': ('A joint commitee comprising transport department', 'to identify', 'the dangerous spots in the district)')}
-{'tuple': ('A joint commitee comprising transport department', 'to identify', 'the dangerous spots in the district)')}
-{'tuple': ('A joint commitee comprising transport department', 'to identify', 'the dangerous spots in the district)')}
-{'tuple': ('A joint commitee comprising transport department', 'to identify', 'the dangerous spots in the district)')}
-{'tuple': ('A joint commitee comprising transport department', 'to identify', 'the dangerous spots in the district)')}
-{'tuple': ('A joint commitee comprising transport department', 'to identify', 'the dangerous spots in the district)')}
-{'tuple': ('A joint commitee comprising transport department', 'to identify', 'the dangerous spots in the district)')}
-{'tuple': ('it', 'was formed', ')')}
-{'tuple': ('it', 'was formed', ')')}
-{'tuple': ('it', 'was formed', ')')}
+
+[]
+{'L': 'the stretch', 'tuple': ('heavy vehicles', 'have lost', 'balance', 'L:the stretch')}
+{'L': 'at these three bends on the stretch', 'tuple': ('several mishaps', 'reported', 'L:at these three bends on the stretch')}
+{'tuple': ('several mishaps', 'could be avoided', '')}
+{'tuple': ('an official', 'claims', 'that several mishaps could be avoided if certain changes are made in the road designs')}
+{'tuple': ('it', 'was formed', '')}
+
 ---------------
-{'L': 'L:under Maner police station area in Patna district around 2.20am on Tuesday)', 'tuple': ('Five youths', 'died', 'T:when their SUV dashed against a stationary truck from behind near Mahadevsthan on NH-30 under Maner police station area in Patna district around 2.20am on Tuesday)')}
-{'T': 'T:when their SUV dashed against a stationary truck from behind near Mahadevsthan on NH-30 under Maner police station area in Patna district around 2.20am on Tuesday)', 'tuple': ('Five youths', 'died', 'T:when their SUV dashed against a stationary truck from behind near Mahadevsthan on NH-30 under Maner police station area in Patna district around 2.20am on Tuesday)')}
-{'L': 'L:in their early 20s)', 'tuple': ('The deceased', 'were identified', 'as Sharwan Kumar)')}
-{'tuple': ('The deceased', 'were identified', 'as Sharwan Kumar)')}
-{'tuple': ('The deceased', 'were identified', 'as Sharwan Kumar)')}
-{'tuple': ('The deceased', 'were identified', 'as Sharwan Kumar)')}
-{'tuple': ('The deceased', 'were identified', 'as Sharwan Kumar)')}
-{'tuple': ('The deceased', 'were identified', 'as Sharwan Kumar)')}
-{'tuple': ('The SUV driver', 'managed', 'to survive)')}
-{'tuple': ('The SUV driver', 'managed', 'to survive)')}
-{'tuple': ('The SUV driver', 'managed', 'to survive)')}
+
+{'tuple': ('The SUV driver', 'fled', 'the spot')}
+{'tuple': ('The SUV driver', 'managed to survive to survive', '')}
+{'tuple': ('The SUV driver', 'managed', 'to survive')}
+{'T': 'on NH-30', 'L': 'under Maner police station area in Patna district around 2.20am on Tuesday', 'tuple': ('their SUV', 'dashed', 'T:on NH-30', 'L:under Maner police station area in Patna district around 2.20am on Tuesday')}
+{'T': 'when their SUV dashed against a stationary truck from behind near Mahadevsthan on NH-30 under Maner police station area in Patna district around 2.20am on Tuesday', 'tuple': ('Five youths', 'died', 'T:when their SUV dashed against a stationary truck from behind near Mahadevsthan on NH-30 under Maner police station area in Patna district around 2.20am on Tuesday')}
+[]
+
 ---------------
-{'T': 'T:after being run over by a truck near Ramapir Crossroads on 150-feet Ring Road, on Tuesday afternoon)', 'tuple': ('A 27-year-old man', 'died', 'T:after being run over by a truck near Ramapir Crossroads on 150-feet Ring Road, on Tuesday afternoon)')}
-{'tuple': ('The deceased', 'was identified', 'as Dinesh Chagan Parmar)')}
-{'tuple': ('Parmar', 'was riding', 'his motorcycle', 'L:on 150 - feet Ring Road)')}
-{'T': 'T:when Parmar was riding his motorcycle on 150 - feet Ring Road)', 'tuple': ('Parmar', 'was riding', 'his motorcycle', 'L:on 150 - feet Ring Road)')}
-{'L': 'L:on 150 - feet Ring Road)', 'tuple': ('Parmar', 'was riding', 'his motorcycle', 'L:on 150 - feet Ring Road)')}
+
+{'T': 'after being run over by a truck near Ramapir Crossroads on 150-feet Ring Road, on Tuesday afternoon', 'tuple': ('A 27-year-old man', 'died', 'T:after being run over by a truck near Ramapir Crossroads on 150-feet Ring Road, on Tuesday afternoon')}
+{'tuple': ('The deceased', 'was identified', 'as Dinesh Chagan Parmar')}
+[]
+
 ---------------
-{'tuple': ('Ten people, including two children', 'sustained', 'injuries when a tempo in which they were travelling overturned at Sachin GIDC crossroad at 8 pm on Monday)')}
-{'T': 'T:on Monday)', 'tuple': ('Ten people, including two children', 'sustained', 'injuries when a tempo in which they were travelling overturned at Sachin GIDC crossroad at 8 pm on Monday)')}
-{'L': 'L:a tempo)', 'tuple': ('Ten people, including two children', 'sustained', 'injuries when a tempo in which they were travelling overturned at Sachin GIDC crossroad at 8 pm on Monday)')}
-{'tuple': ('Ten people, including two children', 'sustained', 'injuries when a tempo in which they were travelling overturned at Sachin GIDC crossroad at 8 pm on Monday)')}
-{'tuple': ('All', 'were rushed', 'to News Civil Hospital', 'for treatment)')}
-{'tuple': ('All', 'were rushed', 'to News Civil Hospital', 'for treatment)')}
-{'tuple': ('All', 'were rushed', 'to News Civil Hospital', 'for treatment)')}
-{'L': 'L:near Udhna Jivan Jyot theatre)', 'tuple': ('information', 'received', 'from NCH)')}
-{'tuple': ('information', 'received', 'from NCH)')}
+
+[]
+{'tuple': ('ten people', 'sustained', 'injuries when a tempo in which they were travelling overturned at Sachin GIDC crossroad at 8 pm on Monday')}
+{'T': 'on Monday', 'tuple': ('a tempo in which they were travelling overturned at Sachin GIDC', 'crossroad', 'T:at 8 pm', 'T:on Monday')}
+{'L': 'a tempo', 'tuple': ('they', 'were travelling overturned', 'L:at Sachin GIDC', 'L:a tempo')}
+{'tuple': ('Ten people, including two children', 'sustained', 'injuries when a tempo in which they were travelling overturned at Sachin GIDC crossroad at 8 pm on Monday')}
+[u'travel', u'overturn', u'sustain']
+
 ---------------
-{'tuple': ('Ten people, including two children', 'sustained', 'injuries when a tempo in which they were travelling overturned at Sachin GIDC crossroad at 8 pm on Monday)')}
-{'T': 'T:on Monday)', 'tuple': ('Ten people, including two children', 'sustained', 'injuries when a tempo in which they were travelling overturned at Sachin GIDC crossroad at 8 pm on Monday)')}
-{'L': 'L:a tempo)', 'tuple': ('Ten people, including two children', 'sustained', 'injuries when a tempo in which they were travelling overturned at Sachin GIDC crossroad at 8 pm on Monday)')}
-{'tuple': ('Ten people, including two children', 'sustained', 'injuries when a tempo in which they were travelling overturned at Sachin GIDC crossroad at 8 pm on Monday)')}
-{'tuple': ('All', 'were rushed', 'to News Civil Hospital', 'for treatment)')}
-{'tuple': ('All', 'were rushed', 'to News Civil Hospital', 'for treatment)')}
-{'tuple': ('All', 'were rushed', 'to News Civil Hospital', 'for treatment)')}
-{'L': 'L:near Udhna Jivan Jyot theatre)', 'tuple': ('information', 'received', 'from NCH)')}
-{'tuple': ('information', 'received', 'from NCH)')}
+
+[]
+{'tuple': ('ten people', 'sustained', 'injuries when a tempo in which they were travelling overturned at Sachin GIDC crossroad at 8 pm on Monday')}
+{'T': 'on Monday', 'tuple': ('a tempo in which they were travelling overturned at Sachin GIDC', 'crossroad', 'T:at 8 pm', 'T:on Monday')}
+{'L': 'a tempo', 'tuple': ('they', 'were travelling overturned', 'L:at Sachin GIDC', 'L:a tempo')}
+{'tuple': ('Ten people, including two children', 'sustained', 'injuries when a tempo in which they were travelling overturned at Sachin GIDC crossroad at 8 pm on Monday')}
+[u'travel', u'overturn', u'sustain']
+
 ---------------
+
 ====================
+
 ++++++++++++++++++++++++
+
