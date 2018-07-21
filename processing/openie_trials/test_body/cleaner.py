@@ -3,7 +3,7 @@ from nltk import word_tokenize, pos_tag
 # removed redundant phrases to improve openie output
 def clean(s):
 	# the following phrases will be removed from the string
-	phrases = ["in which they were travelling","on which they were travelling","in which the victims were travelling","in which the victims were riding","they were on","they were in"]
+	phrases = ["in which they were travelling","in which he was travelling","in which she was travelling","on which they were travelling","on which he was travelling","on which she was travelling","in which the victims were travelling","in which the victim was travelling","in which the victims were riding","in which the victim was riding","they were on","they were in"]
 	for phrase in phrases:
 		i=s.find(phrase)
 		if(i!=-1):

@@ -22,6 +22,7 @@ Thakur, who was severely injured in the accident, was rushed to the Yashwantrao 
 {'L': 'in the accident', 'tuple': ('Thakur', 'was severely injured', 'L:in the accident')}
 ['the accident was rushed to the Yashwantrao Chavan Memorial Hospital', 'Pimpri where he was declared dead by the doctors Kharage said.']
 ['Pimpri']
+['the accident']
 
 ---------------
 
@@ -47,7 +48,7 @@ He brushed against the divider and plunged into a ditch along the road.
 {'T': 'along the road', 'tuple': ('He', 'plunged', 'into a ditch', 'T:along the road')}
 {'tuple': ('He', 'brushed', 'against the divider')}
 ['a ditch along the road.']
-['a ditchT:along the road']
+['a ditchalong the road']
 
 ---------------
 
@@ -65,7 +66,7 @@ Kumar and his friend Ashish were on their way to have dinner on Kumar’s scoote
 Two men on scooters were killed in separate accidents in the city on Thursday night.
 {'L': 'in separate accidents in the city on Thursday night', 'tuple': ('Two men on scooters', 'were killed', 'L:in separate accidents in the city on Thursday night')}
 ['scooters were killed', 'separate accidents', 'the city', 'Thursday night.']
-['the city', 'Thursday night']
+['separate accidents', 'the city', 'Thursday night']
 
 ---------------
 
@@ -124,7 +125,7 @@ The accident happened opposite Essar petrol pump in Harsaru on the Gurgaon-Patau
 {'tuple': '0.89 (Ishwar Singh; [is] a salesman of; the petrol pump)'}
 {'tuple': ('Ishwar Singh', 'informed', 'police', 'about the accident')}
 ['Harsaru', 'the Gurgaon-Pataudi road', '11pm. -----------.']
-['11pm']
+['Harsaruon the Gurgaon-Pataudi road', '11pm']
 
 ---------------
 
@@ -132,6 +133,7 @@ Cops said the victim died on the spot.
 {'L': 'on the spot', 'tuple': ('the victim', 'died', 'L:on the spot')}
 {'tuple': ('Cops', 'said', 'the victim died on the spot')}
 ['the spot.']
+['the spot']
 ['the spot']
 
 ---------------
@@ -146,8 +148,8 @@ One person was killed and 11 others injured following collision between a state 
 {'tuple': ('11 others', 'injured', '')}
 {'tuple': ('One person', 'was killed', '')}
 ['Sursangda village of Kalavad taluka of Jamnagar', 'Saturday morning.']
-['Sursangda village of Kalavad taluka of JamnagarT:on Saturday morning']
-['Sursangda village of Kalavad taluka of JamnagarT:on Saturday morning']
+['Sursangda village of Kalavad taluka of Jamnagaron Saturday morning']
+['Sursangda village of Kalavad taluka of Jamnagaron Saturday morning']
 
 ---------------
 
@@ -161,7 +163,7 @@ According to police, the accident occurred when a state transport bus first coll
 {'T': 'first', 'tuple': ('a state transport bus', 'collided', 'with a tanker', 'T:first')}
 {'T': 'when a state transport bus first collided with a tanker', 'tuple': ('the accident', 'occurred', 'T:when a state transport bus first collided with a tanker')}
 ['the bus and fell off a small bridge', 'a dry river bed', 'Sursangda village.']
-['a dry river bed', 'Sursangda villageT:first']
+['a dry river bed', 'Sursangda villagefirst']
 ['a dry river bed', 'Sursangda village']
 ['the bus']
 
@@ -174,9 +176,9 @@ Police said that Balvant died on the spot, while 11 others in the MUV were hurt 
 {'tuple': ('Police', 'said', 'that Balvant died on the spot')}
 {'tuple': ('11 others in the MUV', 'were hurt', '')}
 ['the spot while 11 others', 'the MUV were hurt and rushed to hospital', 'Kalavad.']
-['the MUV were rushed to hospital', 'Kalavad']
+['the spotwhile 11 others', 'the MUV were rushed to hospital', 'Kalavad']
 ['Kalavad']
-['the MUV were hurt']
+['the spotwhile 11 others', 'the MUV were hurt']
 ['the spot']
 
 ---------------
@@ -223,7 +225,7 @@ She was rushed to hospital where she was declared dead upon arrival,” the poli
 {'T': 'upon arrival', 'tuple': ('she', 'was declared', 'T:upon arrival')}
 {'tuple': ('the incident', 'took', 'place')}
 ['Jhujhunu to Jaipur when the incident took place.']
-['JhujhunuT:when the incident took place']
+['Jhujhunuwhen the incident took place']
 ['Jhujhunu to Jaipur']
 ['Jhujhunu']
 ['Jhujhunu to Jaipur']
@@ -244,6 +246,7 @@ According to police, Jevika was travelling with her parents in the same bus and 
 {'tuple': ('Jevika', 'was travelling', '')}
 {'tuple': ('Jevika', 'was travelling', 'with her parents')}
 ['the same bus and had alighted', 'Ram Nagar', 'Bhatta Basti.']
+['Ram Nagarin Bhatta Basti']
 
 ---------------
 
@@ -252,6 +255,7 @@ According to police, Jevika was travelling with her parents in the same bus and 
 Last year more than 20,000 people died in road accidents, a 12-percent drop compared to 2015.
 {'L': 'in road accidents', 'T': 'Last year', 'tuple': ('more than 20,000 people', 'died', 'L:in road accidents', 'T:Last year')}
 ['road accidents a 12-percent drop compared to 2015.']
+['road accidentsLast year']
 
 ---------------
 
@@ -278,7 +282,7 @@ Police believe Karan rammed into the pillar after falling asleep at the wheel.
 {'T': 'after falling asleep at the wheel', 'tuple': ('Karan', 'rammed', 'into the pillar', 'T:after falling asleep at the wheel')}
 {'tuple': ('Police', 'believe', 'Karan rammed into the pillar after falling asleep at the wheel')}
 ['the pillar after falling asleep', 'the wheel.']
-['the pillarT:after falling asleep', 'the wheel']
+['the pillarafter falling asleep', 'the wheel']
 ['the pillar after falling asleep', 'the wheel']
 
 ---------------
@@ -317,7 +321,7 @@ After completing duty hours, Singh was coming towards the main city area on his 
 {'T': 'After completing duty hours', 'tuple': ('Singh', 'was coming', 'towards the main city area on his motorcycle', 'T:After completing duty hours')}
 ['his motorcycle when he met with an accident', 'Lacchiwala.']
 ['Lacchiwala']
-['his motorcycleT:After completing duty hours']
+['his motorcycleAfter completing duty hours']
 
 ---------------
 
@@ -358,7 +362,9 @@ The woman, who worked as a school teacher, was killed in an accident when a Kolh
 {'L': 'in an accident', 'T': 'when a Kolhapur Municipal Transport (KMT) bus hit a moped', 'tuple': ('The woman, who worked as a school teacher', 'was killed', 'L:in an accident', 'T:when a Kolhapur Municipal Transport (KMT) bus hit a moped')}
 {'tuple': ('The woman', 'worked', 'as a school teacher')}
 ['an accident when a Kolhapur Municipal Transport (KMT) bus hit a moped', 'which she was riding', 'the Mangalwar peth area.']
+['the Mangalwar peth area']
 ['which she was riding', 'the Mangalwar peth area']
+['an accidentwhen a Kolhapur Municipal Transport (KMT) bus hit a moped']
 
 ---------------
 
@@ -366,6 +372,7 @@ This is the second case in a month, where a woman was killed in a road accident.
 {'L': 'a month', 'tuple': ('a woman', 'was killed', 'L:in a road accident', 'L:a month')}
 {'tuple': ('This', 'is', 'the second case in a month')}
 ['a month where a woman was killed', 'a road accident.']
+['a road accidenta month']
 ['a month']
 
 ---------------
@@ -402,6 +409,7 @@ A former Armyman was killed and his wife critically injured after their speeding
 {'T': 'after their speeding bike ran into a roadside', 'tuple': ('his wife', 'critically injured', 'T:after their speeding bike ran into a roadside')}
 {'tuple': ('A former Armyman', 'was killed', '')}
 ['a roadside railing', 'Sidhwan Bet Jagraon', 'Saturday evening.']
+['Sidhwan Beton Saturday evening']
 ['a roadside']
 ['a roadside']
 
@@ -438,14 +446,14 @@ The police have learned that the duo were residents of Prahladpura village and w
 {'tuple': ('the motorcycle', 'was riding', 'the duo')}
 []
 ['Saturday the motorcycle', 'which the duo was riding was taking a turn', 'Sitapura Circle when Bhanwarlal spotted a heavy truck', 'front of him.']
-['Sitapura CircleT:when Bhanwarlal spotted a heavy truck', 'front of him']
+['Sitapura Circlewhen Bhanwarlal spotted a heavy truck', 'front of him']
 
 ---------------
 
 A speeding truck mowed down two persons near Shivdaspura on late Saturday night.
 {'T': 'on late Saturday night', 'tuple': ('A speeding truck', 'mowed', 'down two persons near Shivdaspura', 'T:on late Saturday night')}
 ['Shivdaspura', 'late Saturday night.']
-['ShivdaspuraT:on late Saturday night']
+['Shivdaspuraon late Saturday night']
 
 ---------------
 
@@ -474,7 +482,7 @@ The return journey from Ahmednagar of a group of 15 software engineers from the 
 {'T': 'after a speeding water tanker jumped over the road divider', 'tuple': ('six of them', 'were killed', 'T:after a speeding water tanker jumped over the road divider')}
 {'T': 'when six of them were killed after a speeding water tanker jumped over the road divider', 'tuple': ('The return journey from Ahmednagar of a group of 15 software engineers from the city', 'turned', 'tragic', 'T:when six of them were killed after a speeding water tanker jumped over the road divider')}
 ['their minibus', 'Wagholi', 'the Pune-Ahmednagar highway', '7pm', 'Sunday.']
-['their minibus', 'WagholiL:on the Pune - Ahmednagar highwayT:around 7 pmT:on Sunday']
+['their minibus', 'Wagholion the Pune - Ahmednagar highwayaround 7 pmon Sunday']
 ['their minibus', 'Wagholi', 'the Pune - Ahmednagar highway', '7 pm', 'Sunday']
 ['their minibus', 'Wagholi', 'the Pune - Ahmednagar highway', '7 pm', 'Sunday']
 
@@ -491,6 +499,7 @@ The return journey from Ahmednagar of a group of 15 software engineers from the 
 All six victims died on the spot.
 {'L': 'on the spot', 'tuple': ('All six victims', 'died', 'L:on the spot')}
 ['the spot.']
+['the spot']
 
 ---------------
 
@@ -499,13 +508,14 @@ All six victims died on the spot.
 A 29-year-old software engineer died in a road mishap in the US.
 {'L': 'in a road mishap in the US', 'tuple': ('A 29-year-old software engineer', 'died', 'L:in a road mishap in the US')}
 ['a road mishap', 'the US.']
-['the US']
+['a road mishap', 'the US']
 
 ---------------
 
 As per reports, the tragedy occured on his birthday on Sunday.
 {'L': 'on his birthday', 'T': 'on Sunday', 'tuple': ('the tragedy', 'occured', 'L:on his birthday', 'T:on Sunday')}
 ['his birthday', 'Sunday.']
+['his birthdayon Sunday']
 
 ---------------
 
@@ -513,6 +523,7 @@ The vehicle fell into a valley and Pradeep died in the mishap.
 {'L': 'in the mishap', 'tuple': ('Pradeep', 'died', 'L:in the mishap')}
 {'tuple': ('The vehicle', 'fell', 'into a valley')}
 ['a valley and Pradeep died', 'the mishap.']
+['the mishap']
 ['a valley']
 
 ---------------
@@ -524,6 +535,7 @@ THIRUVANANTHAPURAM: More than 50 people were injured and five were killed in acc
 {'L': 'in accidents', 'tuple': ('five', 'were killed', 'L:in accidents')}
 {'tuple': ('More than 50 people', 'were injured', '')}
 ['accidents involving KSRTC buses', 'the district', 'past one month.']
+['accidents']
 
 ---------------
 
@@ -532,6 +544,7 @@ Three persons, including a 13-year-old boy were killed in an accident on June 23
 {'L': 'in an accident', 'T': 'on June 23', 'tuple': ('Three persons, including a 13-year-old boy', 'were killed', 'L:in an accident', 'T:on June 23')}
 ['an accident', 'June 23 when a KSRTC bus collided with their car', 'Koppam', 'Vembayam.']
 ['Koppam', 'Vembayam']
+['an accidenton June 23']
 
 ---------------
 
@@ -539,8 +552,8 @@ In another, accident 49 people were injured when a transport corporation bus ove
 {'L': 'at Perayam near Palode', 'tuple': ('a transport corporation bus', 'overturned', 'L:at Perayam near Palode')}
 {'T': 'while taking a sharp turn near the forest area', 'L': 'In another', 'tuple': ('accident 49 people', 'were injured', 'T:when a transport corporation bus overturned at Perayam near Palode', 'T:while taking a sharp turn near the forest area', 'L:In another')}
 ['Perayam', 'Palode while taking a sharp turn', 'the forest area.']
-['Palode']
-['Perayam', 'PalodeT:while taking a sharp turn', 'the forest areaL:In another']
+['Perayam', 'Palode']
+['Perayam', 'Palodewhile taking a sharp turn', 'the forest areaIn another']
 
 ---------------
 
@@ -615,7 +628,7 @@ A truck driver was killed after he rammed his truck into a shed of the Maruti pl
 {'T': 'after he rammed his truck into a shed of the Maruti plant in Manesar on Saturday night', 'tuple': ('A truck driver', 'was killed', 'T:after he rammed his truck into a shed of the Maruti plant in Manesar on Saturday night')}
 ['a shed of the Maruti plant', 'Manesar', 'Saturday night while a 19-year-old was killed after his motorcycle was hit by a canter', 'Sunday.']
 ['Sunday']
-['ManesarT:on Saturday nightT:while a 19-year-old was killed after his motorcycle was hit by a canter', 'Sunday']
+['Manesaron Saturday nightwhile a 19-year-old was killed after his motorcycle was hit by a canter', 'Sunday']
 ['a shed of the Maruti plant', 'Manesar', 'Saturday night']
 
 ---------------
@@ -623,6 +636,7 @@ A truck driver was killed after he rammed his truck into a shed of the Maruti pl
 In the first incident, a 23-year-old truck driver, Rajesh, died on spot.
 {'L': 'In the first incident', 'tuple': ('a 23-year-old truck driver', 'died', 'L:on spot', 'L:In the first incident')}
 ['spot.']
+['spotIn the first incident']
 
 ---------------
 
@@ -632,6 +646,7 @@ As they reached the Press Shop A, Rajesh took a turn and crashed into the shed, 
 {'T': 'As they reached the Press Shop A', 'tuple': ('Rajesh', 'took', 'a turn', 'T:As they reached the Press Shop A')}
 {'tuple': ('they', 'reached', 'the Press Shop A')}
 ['the shed which was built', 'the footpath.']
+['the footpath']
 ['the shed']
 
 ---------------
@@ -649,7 +664,7 @@ Yashrajsinh, son of Rajkot-based hotelier, Dilipsinh Rana died in a road acciden
 {'tuple': '0.88 (Yashrajsinh; [is] son of; Rajkot - based hotelier)'}
 {'L': 'on Jamnagar Road', 'T': 'on Monday evening', 'tuple': ('Dilipsinh Rana', 'died', 'L:in a road accident near Ghanteshwar village', 'L:on Jamnagar Road', 'T:on Monday evening')}
 ['a road accident', 'Ghanteshwar village', 'Jamnagar Road', 'the outskirts of the city', 'Monday evening.']
-['Ghanteshwar villageL:on Jamnagar RoadT:on Monday evening']
+['a road accident', 'Ghanteshwar villageon Jamnagar Roadon Monday evening']
 
 ---------------
 
@@ -696,7 +711,10 @@ The deceased, Vasanth, a Class VI student of a private school in Thiruvalangadu,
 {'tuple': ('9', 'nabbed', 'the car driver Mohan')}
 {'tuple': ('his mother', 'was holding', 'her daughter')}
 ['Thiruvalangadu was walking', 'the side of the road while his mother J Nirmala was holding her daughter Haripriya 9 Passersby and residents nabbed the car driver Mohan and handed him over to police.']
+['the side of the road']
 ['Thiruvalangadu  was walking', 'the side of the road']
+['the side of the roadwhile his mother J Nirmala was holding her daughter']
+['the side of the roadwhile his mother J Nirmala was holding her daughter']
 
 ---------------
 
@@ -716,7 +734,8 @@ Four people were killed and five others were injured in a road accident when the
 {'L': 'in a road accident', 'tuple': ('five others', 'were injured', 'L:in a road accident')}
 {'tuple': ('Four people', 'were killed', '')}
 ['a road accident when the jeep collided with a mini-truck', 'Bemetara district', 'Monday.']
-['Bemetara district', 'MondayL:a road accident']
+['Bemetara district', 'Mondaya road accident']
+['a road accident']
 
 ---------------
 
@@ -726,7 +745,7 @@ The family was on their way to Amota village in a jeep when it collided with the
 {'T': 'when it collided with the mini-truck leaving four people dead on the spot', 'tuple': ('The family', 'was', 'on their way to Amota village in a jeep', 'T:when it collided with the mini-truck leaving four people dead on the spot')}
 ['their way to Amota village', 'a jeep when it collided with the mini-truck leaving four people dead', 'the spot.']
 ['the spot']
-['their way to Amota village', 'a jeepT:when it collided with the mini-truck leaving four people dead', 'the spot']
+['their way to Amota village', 'a jeepwhen it collided with the mini-truck leaving four people dead', 'the spot']
 
 ---------------
 
@@ -751,6 +770,8 @@ Three people were killed and 32 others injured when a matador overturned at the 
 {'tuple': ('Three people were killed', 'said', 'the police')}
 ["the Ramkot belt of Jammu and Kashmir's Kathua district today the police said."]
 ["the Ramkot belt of Kashmir 's Kathua district today"]
+["the Ramkot belt of Kashmir 's Kathua district today"]
+['the Ramkot belt of Jammu']
 ['the Ramkot belt of Jammu']
 
 ---------------
@@ -764,6 +785,7 @@ The driver of the "overloaded" matador, which was on its way from Nagrota Gujjro
 {'tuple': ('the vehicle', 'skidded', 'off the road')}
 {'tuple': ('the " overloaded " matador', 'was', 'on its way from Nagrota Gujjroo in Kathua to Khoon in Udhampur district')}
 ['its way from Nagrota Gujjroo', 'Kathua to Khoon', 'Udhampur district lost control of the vehicle which skidded off the road and overturned', 'the Challari-Ramkot belt the police said.']
+['the Challari - Ramkot belt']
 ['its way from Nagrota Gujjroo', 'Kathua to Khoon', 'Udhampur district']
 
 ---------------
@@ -774,7 +796,7 @@ As many as four persons were killed and one injured in two separate accidents on
 {'L': 'in two separate accidents on Yamuna expressway on Monday morning', 'tuple': ('one', 'injured', 'L:in two separate accidents on Yamuna expressway on Monday morning')}
 {'tuple': ('As many as four persons', 'were killed', '')}
 ['two separate accidents', 'Yamuna expressway', 'Monday morning.']
-['Yamuna expressway', 'Monday morning']
+['two separate accidents', 'Yamuna expressway', 'Monday morning']
 
 ---------------
 
@@ -786,6 +808,8 @@ Just one and a half hours later, the other accident occurred near Bajna under Na
 {'T': 'knocked down two youths', 'tuple': ('a car', 'coming', 'from Agra', 'T:knocked down two youths')}
 {'L': 'under Naujheel police station jurisdiction', 'T': 'Just one hours later', 'tuple': ('the other accident', 'occurred', 'L:near Bajna', 'L:under Naujheel police station jurisdiction', 'T:when a car coming from Agra knocked down two youths', 'T:Just one hours later')}
 ['Bajna', 'Naujheel police station jurisdiction when a car coming from Agra knocked down two youths Alimuddin and Sonu who were waiting along the roadside for a bus.']
+['Bajnaunder Naujheel police station jurisdictionwhen a car coming from Agra knocked down two youthsa half hours later']
+['Bajnaunder Naujheel police station jurisdictionwhen a car coming from Agra knocked down two youthsJust one hours later']
 
 ---------------
 
@@ -794,6 +818,8 @@ Two persons, Gupreet Singh from Amritsar and Shabuddin from Bihar, died on the s
 {'tuple': ('the driver', 'sustained', 'injuries')}
 {'L': 'on the spot', 'T': 'while the driver Waqeel Raza from Bihar sustained injuries', 'tuple': ('Two persons', 'died', 'L:on the spot', 'T:while the driver Waqeel Raza from Bihar sustained injuries')}
 ['the spot while the driver Waqeel Raza from Bihar sustained injuries.']
+['the spotwhile the driver Waqeel Raza from Bihar sustained injuries']
+['the spotwhile the driver Waqeel Raza from Bihar sustained injuries']
 
 ---------------
 
@@ -820,6 +846,7 @@ As many as three spots along the Ghodbunder stretch including the Kajupada turn,
 {'T': 'in the recent past', 'tuple': ('vehicles', 'overturning', 'T:in the recent past')}
 {'tuple': ('Few sharp turns along the GB stretch', 'have witnessed', 'instances of vehicles')}
 ['the recent past inform experts\xe2\x80\x9d admit officials manning the stretch.']
+['the recent past']
 
 ---------------
 
@@ -827,7 +854,7 @@ There have been several mishaps reported at these three bends on the stretch whe
 {'L': 'the stretch', 'tuple': ('heavy vehicles', 'have lost', 'balance', 'L:the stretch')}
 {'L': 'at these three bends on the stretch', 'tuple': ('several mishaps', 'reported', 'L:at these three bends on the stretch')}
 ['these three bends', 'the stretch wherein heavy vehicles have lost balance.']
-['the stretch']
+['these three bends', 'the stretch']
 
 ---------------
 
@@ -862,14 +889,17 @@ Maner SHO Rajeev Kumar said the five along with a driver had gone to Moudehi nea
 ['Bihtato attend the marriage ceremony of one Nagendra Rai']
 ['Bihta']
 ['the accident site and it seems the SUV driver dozed off behind the wheel\xe2\x80\x9d the SHO said adding that Sharwan Pappu and Rajesh died', 'the spot while Ankush and Nitesh were rushed to a private hospital', 'police vehicle but succumbed to their injuries', 'the way.']
+['the spotwhile Nitesh were rushed to a private hospital', 'police vehicle']
+['the spotwhile Ankush were rushed to a private hospital', 'police vehicle']
+['the spotwhile Nitesh were rushed to a private hospital', 'police vehicle']
+['the spotwhile Ankush were rushed to a private hospital', 'police vehicle']
+['the spotwhile Nitesh were rushed to a private hospital', 'police vehicle']
 ['police vehicle']
+['the spotwhile Ankush were rushed to a private hospital', 'police vehicle']
 ['police vehicle']
-['police vehicle']
-['police vehicle']
-['police vehicle']
-['police vehicle']
-['police vehicle']
-['police vehicle']
+['the spot']
+['the spot']
+['the spot']
 ['the spot']
 ['the spot']
 ['the spot']
@@ -880,7 +910,7 @@ Five youths died when their SUV dashed against a stationary truck from behind ne
 {'T': 'on NH-30', 'L': 'under Maner police station area in Patna district around 2.20am on Tuesday', 'tuple': ('their SUV', 'dashed', 'T:on NH-30', 'L:under Maner police station area in Patna district around 2.20am on Tuesday')}
 {'T': 'when their SUV dashed against a stationary truck from behind near Mahadevsthan on NH-30 under Maner police station area in Patna district around 2.20am on Tuesday', 'tuple': ('Five youths', 'died', 'T:when their SUV dashed against a stationary truck from behind near Mahadevsthan on NH-30 under Maner police station area in Patna district around 2.20am on Tuesday')}
 ['Mahadevsthan', 'NH-30', 'Maner police station area', 'Patna district', '2.20am', 'Tuesday.']
-['Patna district', '2.20am', 'Tuesday']
+['NH-30under Maner police station area', 'Patna district', '2.20am', 'Tuesday']
 ['Mahadevsthan', 'NH-30', 'Maner police station area', 'Patna district', '2.20am', 'Tuesday']
 
 ---------------
@@ -918,6 +948,7 @@ His head got crushed under the truck coming from behind.
 {'tuple': ('His head', 'got', 'crushed under the truck')}
 ['the truck coming from behind.']
 ['the truck']
+['the truck']
 
 ---------------
 
@@ -943,6 +974,8 @@ Ten people, including two children, sustained injuries when a tempo overturned a
 {'tuple': ('Ten people, including two children', 'sustained', 'injuries when a tempo overturned at Sachin GIDC crossroad at 8 pm on Monday')}
 ['Sachin GIDC crossroad', '8 pm', 'Monday.']
 ['Sachin GIDC crossroad', '8 pm', 'Monday']
+['8 pmon Monday']
+['Sachin GIDC']
 ['Sachin GIDC crossroad', '8 pm', 'Monday']
 
 ---------------
@@ -977,6 +1010,8 @@ Ten people, including two children, sustained injuries when a tempo overturned a
 {'tuple': ('Ten people, including two children', 'sustained', 'injuries when a tempo overturned at Sachin GIDC crossroad at 8 pm on Monday')}
 ['Sachin GIDC crossroad', '8 pm', 'Monday.']
 ['Sachin GIDC crossroad', '8 pm', 'Monday']
+['8 pmon Monday']
+['Sachin GIDC']
 ['Sachin GIDC crossroad', '8 pm', 'Monday']
 
 ---------------
@@ -1001,7 +1036,7 @@ In a grim reminder of the danger posed by barricades placed by traffic cops on t
 ['the city streets a 38-year-old man died', 'the spot after his two-wheeler rammed', 'a set of metal drums intended to regulate traffic', 'the Melmaruvathur bypass road', 'Tuesday morning.']
 ['the Melmaruvathur bypass road', 'Tuesday morning']
 ['a set of metal drums']
-['a set of metal drumsL:In a grim reminder of the danger']
+['the spotafter his two-wheeler rammed', 'a set of metal drumsIn a grim reminder of the danger']
 ['the city streets']
 ['Tuesday morning']
 
@@ -1012,6 +1047,7 @@ At least four people have been killed in this manner along this stretch in the l
 {'tuple': 'have been several incidents of tanker lorries ramming into barricades on the Manali stretch.'}
 {'tuple': ('tanker lorries', 'ramming', 'into barricades on the Manali stretch')}
 ['this manner along this stretch', 'the last few months.\xe2\x80\x9dThere']
+['this manneralong this stretchin the last few months']
 ['barricades', 'the Manali stretch.']
 ['barricades', 'the Manali stretch']
 
@@ -1039,6 +1075,7 @@ The traffic police and civic authorities should ensure proper lighting to avoid 
 Twenty people were injured in Damtal area of Kangra district after a head-on collision between two roadways buses on Pathankot–Jalandhar highway on Tuesday.
 {'L': 'in Damtal area of Kangra district', 'tuple': ('Twenty people', 'were injured', 'L:in Damtal area of Kangra district')}
 ['Damtal area of Kangra district after a head-on collision between two roadways buses', 'Pathankot\xe2\x80\x93Jalandhar highway', 'Tuesday.']
+['Damtal area of Kangra district']
 
 ---------------
 
@@ -1046,6 +1083,7 @@ The accident, which occurred around 3.45am, could have been more serious had the
 {'T': 'immediately after the accident', 'tuple': ('the buses', 'caught', 'fire', 'T:immediately after the accident')}
 {'T': 'around 3.45am', 'tuple': ('The accident', 'occurred', 'T:around 3.45am')}
 ['3.45am could have been more serious had the passengers not left the buses which caught fire immediately after the accident.']
+['3.45am']
 
 ---------------
 
@@ -1073,7 +1111,7 @@ The girl, Kajal, was on her way home with her aunt when the speeding white sedan
 {'T': 'when the speeding white sedan hit her from behind', 'tuple': ('The girl', 'was', 'on her way home', 'T:when the speeding white sedan hit her from behind')}
 ['her way home with her aunt when the speeding white sedan hit her from behind and then ran over her.']
 ['her way home']
-['her way homeT:when the speeding white sedan hit her from behind']
+['her way homewhen the speeding white sedan hit her from behind']
 
 ---------------
 
@@ -1106,6 +1144,7 @@ The incident took place at Retibunder.“The victim, Bapu Mane, was crossing the
 Two persons were injured in separate road mishaps on Wednesday.
 {'L': 'in separate road mishaps', 'T': 'on Wednesday', 'tuple': ('Two persons', 'were injured', 'L:in separate road mishaps', 'T:on Wednesday')}
 ['separate road mishaps', 'Wednesday.']
+['separate road mishapson Wednesday']
 
 ---------------
 
@@ -1142,7 +1181,7 @@ Tomar was returning home from his factory in Ghaziabad when the accident occurre
 {'tuple': ('the accident', 'occurred', '')}
 {'T': 'when the accident occurred', 'tuple': ('Tomar', 'was returning', 'home', 'from his factory in Ghaziabad', 'T:when the accident occurred')}
 ['Ghaziabad when the accident occurred.']
-['GhaziabadT:when the accident occurred']
+['Ghaziabadwhen the accident occurred']
 
 ---------------
 
@@ -1166,7 +1205,7 @@ Tomar was returning home from his factory in Ghaziabad when the accident occurre
 {'tuple': ('the accident', 'occurred', '')}
 {'T': 'when the accident occurred', 'tuple': ('Tomar', 'was returning', 'home', 'from his factory in Ghaziabad', 'T:when the accident occurred')}
 ['Ghaziabad when the accident occurred.']
-['GhaziabadT:when the accident occurred']
+['Ghaziabadwhen the accident occurred']
 
 ---------------
 
@@ -1220,13 +1259,15 @@ Singh’s father Sanjay and her mother have been injured in the accident.
 {'tuple': '0.88 (Sanjay; [is] father [of]; Singh)'}
 {'L': 'in the accident', 'tuple': ("Singh 's father", 'have been injured', 'L:in the accident')}
 ['the accident.']
+['the accident']
+['the accident']
 
 ---------------
 
 The truck later hit into an electric police.
 {'T': 'later', 'tuple': ('The truck', 'hit', 'into an electric police', 'T:later')}
 ['an electric police.']
-['an electric policeT:later']
+['an electric policelater']
 
 ---------------
 
@@ -1237,6 +1278,7 @@ Five persons including two women were killed and three others were seriously inj
 {'T': 'after a trailer', 'tuple': ('three others', 'were seriously injured', 'T:after a trailer')}
 {'tuple': ('Five persons including two women', 'were killed', '')}
 ['Wednesday', 'Dhalbhumgarh', 'Ghatshila sub division', 'NH-33.']
+['Wednesday']
 
 ---------------
 
@@ -1324,6 +1366,7 @@ At least 15,642 people were killed in road accidents in 2015, which has gone up 
 {'T': 'in 2016', 'tuple': ('2015', 'has gone', 'up', 'to 17,218', 'T:in 2016')}
 {'L': 'in road accidents', 'T': 'in 2015', 'tuple': ('At least 15,642 people', 'were killed', 'L:in road accidents', 'T:in 2015')}
 ['road accidents', '2015 which has gone up to 17218', '2016.']
+['road accidentsin 2015']
 
 ---------------
 
@@ -1336,6 +1379,7 @@ The state traffic planning cell is coordinating with the road accident data mana
 ['the ministry of road transport and highways to redo the engineering faults', 'the city roads especially highways after studying road accidents reported', 'these stretches.']
 ['the ministry of highways']
 ['the ministry of transport']
+['these stretches']
 ['the ministry of road']
 ['the city roads  especially highways  after studying road accidents']
 
@@ -1346,6 +1390,7 @@ In the 7,486 accidents reported in Chennai city, at least 1,155 people lost thei
 {'L': 'In the 7,486 accidents', 'tuple': ('at least 1,155 people', 'lost', 'their lives', 'L:In the 7,486 accidents')}
 {'L': 'in Chennai city', 'tuple': ('the 7,486 accidents', 'reported', 'L:in Chennai city')}
 ['Chennai city', 'least 1155 people lost their lives.']
+['Chennai city']
 
 ---------------
 
@@ -1356,6 +1401,7 @@ A 26-year-old man died and his girlfriend sustained injuries after the motorbike
 {'T': 'after the motorbike overturned near Arakkonam on Wednesday', 'tuple': ('his girlfriend', 'sustained', 'injuries', 'T:after the motorbike overturned near Arakkonam on Wednesday')}
 {'tuple': ('A 26 - year - old man', 'died', '')}
 ['Arakkonam', 'Wednesday.']
+['Arakkonamon Wednesday']
 ['Arakkonam', 'Wednesday']
 
 ---------------
@@ -1422,6 +1468,9 @@ A two-year-old girl, her mother and two persons, including the bike rider, were 
 {'L': 'in the incident', 'tuple': ('her mother', 'were also critically injured', 'L:in the incident')}
 {'L': 'in the incident', 'tuple': ('A two - year - old girl', 'were also critically injured', 'L:in the incident')}
 ['the incident.']
+['the incident']
+['the incident']
+['the incident']
 
 ---------------
 
@@ -1448,7 +1497,7 @@ The incident took place late in the evening when Heeralal was on his way back to
 {'T': 'after meeting his sister', 'tuple': ('The incident', 'took', 'place', 'T:late in the evening', 'T:when Heeralal was on his way back to Patiala, with his brother-in-law', 'T:after meeting his sister')}
 ['the evening when Heeralal was', 'his way back to Patiala with his brother-in-law after meeting his sister.']
 ['his way back to Patiala with his brother-in-law']
-['the eveningT:when Heeralal was', 'his way back to Patiala with his brother-in-lawT:after meeting his sister']
+['the eveningwhen Heeralal was', 'his way back to Patiala with his brother-in-lawafter meeting his sister']
 
 ---------------
 
@@ -1456,7 +1505,8 @@ Two persons were killed in two accidents in Dera Bassi and Phase 11 at Mohali on
 {'L': 'at Mohali', 'T': 'on Thursday', 'tuple': ('Two persons', 'were killed', 'L:in two accidents', 'L:in Phase 11', 'L:at Mohali', 'T:on Thursday')}
 {'L': 'at Mohali', 'T': 'on Thursday', 'tuple': ('Two persons', 'were killed', 'L:in two accidents in Dera Bassi', 'L:at Mohali', 'T:on Thursday')}
 ['two accidents', 'Dera Bassi and Phase 11', 'Mohali', 'Thursday.']
-['Dera BassiL:at MohaliT:on Thursday']
+['two accidentsin Phase 11at Mohalion Thursday']
+['two accidents', 'Dera Bassiat Mohalion Thursday']
 
 ---------------
 
@@ -1543,7 +1593,7 @@ A 24-year-old woman returning home from a birthday party died in a road accident
 {'tuple': ('A 24-year-old woman', 'returning', 'home', 'from a birthday party')}
 ['a road accident', 'the early hours of Friday after her car crashed', 'the back of truck', 'Rajiv Chowk', 'the Gurgaon-Delhi expressway.']
 ['the back of truck', 'Rajiv Chowk', 'the Gurgaon-Delhi expressway']
-['the back of truck', 'Rajiv Chowk', 'the Gurgaon-Delhi expressway']
+['a road accidentin the early hours of Fridayafter her car crashed', 'the back of truck', 'Rajiv Chowk', 'the Gurgaon-Delhi expressway']
 
 ---------------
 
@@ -1568,7 +1618,7 @@ Eyewitness Amit Kumar, a resident of Shiv Nagar, was in an auto with some of his
 A 40-year-old government employee died in an accident at Koyambedu bus terminus on Friday at 5.30am.
 {'L': 'in an accident at Koyambedu bus terminus', 'T': 'at 5.30am', 'tuple': ('A 40-year-old government employee', 'died', 'L:in an accident at Koyambedu bus terminus', 'T:on Friday', 'T:at 5.30am')}
 ['an accident', 'Koyambedu bus terminus', 'Friday', '5.30am.']
-['Koyambedu bus terminusT:on FridayT:at 5.30am']
+['an accident', 'Koyambedu bus terminuson Fridayat 5.30am']
 
 ---------------
 
@@ -1585,6 +1635,8 @@ Her mother who was accompaning her and another passenger were also injured in th
 {'L': 'in the process', 'tuple': ('Her mother who was accompaning her', 'were also injured', 'L:in the process')}
 {'tuple': ('Her mother', 'was accompaning', 'her')}
 ['the process.']
+['the process']
+['the process']
 
 ---------------
 
@@ -1594,7 +1646,7 @@ Eight persons on board a Sports Utility Vehicle (SUV) died after the SUV was ram
 {'L': 'on Chhuchakwas-Gwalison road, near Maraut village of Jhajjar', 'T': 'during late night hours of Friday', 'tuple': ('the SUV', 'was rammed', 'into a speeding truck', 'L:on Chhuchakwas-Gwalison road, near Maraut village of Jhajjar', 'T:during late night hours of Friday')}
 {'T': 'after the SUV was rammed into a speeding truck on Chhuchakwas-Gwalison road, near Maraut village of Jhajjar, during late night hours of Friday', 'tuple': ('a Sports Utility Vehicle', 'died', 'T:after the SUV was rammed into a speeding truck on Chhuchakwas-Gwalison road, near Maraut village of Jhajjar, during late night hours of Friday')}
 ['board a Sports Utility Vehicle (SUV) died after the SUV was rammed', 'a speeding truck', 'Chhuchakwas-Gwalison road', 'Maraut village of Jhajjar during late night hours of Friday.']
-['a speeding truckL:on Chhuchakwas-Gwalison road', 'Maraut village of JhajjarT:during late night hours of Friday']
+['a speeding truckon Chhuchakwas-Gwalison road', 'Maraut village of Jhajjarduring late night hours of Friday']
 ['a speeding truck', 'Chhuchakwas-Gwalison road', 'Maraut village of Jhajjar during late night hours of Friday']
 
 ---------------
@@ -1602,6 +1654,7 @@ Eight persons on board a Sports Utility Vehicle (SUV) died after the SUV was ram
 Seven persons including the driver died on the spot.
 {'L': 'on the spot', 'tuple': ('Seven persons including the driver', 'died', 'L:on the spot')}
 ['the spot.']
+['the spot']
 
 ---------------
 
@@ -1641,7 +1694,7 @@ Once we're done with principal photography, it goes into editing and the effects
 {'tuple': ("So it is always a surprise when it comes to films like ' Avengers ' to see ( the finished movie )", 'said', 'he')}
 {'tuple': ('Avengers', 'to see', 'the finished movie')}
 ['editing and the effects are added... -----------.']
-["editingT:Once we 're done with principal photography"]
+["editingOnce we 're done with principal photography"]
 
 ---------------
 
@@ -1651,14 +1704,15 @@ Eight persons on board a Sports Utility Vehicle (SUV) died after the SUV rammed 
 {'L': 'on Chhuchakwas-Gwalison road, near Maraut village of Jhajjar', 'tuple': ('the SUV', 'rammed', 'into a speeding truck', 'L:on Chhuchakwas-Gwalison road, near Maraut village of Jhajjar')}
 {'T': 'during late night hours of Friday', 'tuple': ('a Sports Utility Vehicle', 'died', 'T:after the SUV rammed into a speeding truck on Chhuchakwas-Gwalison road, near Maraut village of Jhajjar', 'T:during late night hours of Friday')}
 ['board a Sports Utility Vehicle (SUV) died after the SUV rammed', 'a speeding truck', 'Chhuchakwas-Gwalison road', 'Maraut village of Jhajjar during late night hours of Friday.']
-['a speeding truckL:on Chhuchakwas-Gwalison road', 'Maraut village of Jhajjar']
-['a speeding truck', 'Chhuchakwas-Gwalison road', 'Maraut village of JhajjarT:during late night hours of Friday']
+['a speeding truckon Chhuchakwas-Gwalison road', 'Maraut village of Jhajjar']
+['a speeding truck', 'Chhuchakwas-Gwalison road', 'Maraut village of Jhajjarduring late night hours of Friday']
 
 ---------------
 
 Seven persons, including the driver, died on the spot.
 {'L': 'on the spot', 'tuple': ('Seven persons, including the driver', 'died', 'L:on the spot')}
 ['the spot.']
+['the spot']
 
 ---------------
 
@@ -1721,7 +1775,7 @@ Three persons were killed and three others got injured when a state transport bu
 {'T': 'when a state transport bus rammed into a parked truck near Vastavdi village on Sayla - Limbdi highway in Surendranagar early morning on Saturday', 'tuple': ('three others', 'got', 'injured', 'T:when a state transport bus rammed into a parked truck near Vastavdi village on Sayla - Limbdi highway in Surendranagar early morning on Saturday')}
 {'tuple': ('Three persons', 'were killed', '')}
 ['a parked truck', 'Vastavdi village', 'Sayla-Limbdi highway', 'Surendranagar early morning', 'Saturday.']
-['a parked truck', 'Vastavdi villageL:on Sayla - Limbdi highwayL:in SurendranagarT:early morning']
+['a parked truck', 'Vastavdi villageon Sayla - Limbdi highwayin Surendranagarearly morning']
 ['a parked truck', 'Vastavdi village', 'Sayla - Limbdi highway', 'Surendranagar early morning', 'Saturday']
 ['a parked truck', 'Vastavdi village', 'Sayla - Limbdi highway', 'Surendranagar early morning', 'Saturday']
 
@@ -1731,6 +1785,7 @@ All three deceased died on the spot, police added.
 {'L': 'on the spot', 'tuple': ('All three deceased', 'died', 'L:on the spot')}
 {'tuple': ('All three deceased died on the spot', 'added', 'police')}
 ['the spot police added.']
+['the spot']
 
 ---------------
 
@@ -1741,7 +1796,7 @@ A 20-year-old youth died in a road accident near Mahavir Hall on Ajwa Road when 
 {'L': 'on Ajwa Road', 'T': 'when he was on his way', 'tuple': ('A 20-year-old youth', 'died', 'L:in a road accident near Mahavir Hall', 'L:on Ajwa Road', 'T:when he was on his way')}
 ['a road accident', 'Mahavir Hall', 'Ajwa Road when he was', 'his way to take an exam', 'a computer class', 'his two-wheeler with his friend', 'Saturday morning.']
 ['his way']
-['Mahavir HallL:on Ajwa RoadT:when he was', 'his way']
+['a road accident', 'Mahavir Hallon Ajwa Roadwhen he was', 'his way']
 
 ---------------
 
@@ -1751,7 +1806,7 @@ The deceased identified as Ashok Rajput, was on his way to a computer class on W
 {'T': 'when a pick-up van driver hit them near Mahavir Hall on Ajwa Road', 'tuple': ('The deceased identified as Ashok Rajput', 'was', 'on his way to a computer class on Waghodia Road', 'T:when a pick-up van driver hit them near Mahavir Hall on Ajwa Road')}
 {'tuple': ('The deceased', 'identified', 'as Ashok Rajput')}
 ['his way to a computer class', 'Waghodia Road with his friend Dhruv Joshi when a pick-up van driver hit them', 'Mahavir Hall', 'Ajwa Road.']
-['his way to a computer class', 'Waghodia RoadT:when a pick-up van driver hit them', 'Mahavir Hall', 'Ajwa Road']
+['his way to a computer class', 'Waghodia Roadwhen a pick-up van driver hit them', 'Mahavir Hall', 'Ajwa Road']
 
 ---------------
 
@@ -1770,8 +1825,8 @@ In a hit-and-run accident, a one-and-half-year-old boy was killed by a speeding 
 {'L': 'In a hit - run accident', 'tuple': ('a one - and - half - year - old boy', 'was killed', 'by a speeding car near an under - construction house in Sector 43', 'L:In a hit - run accident')}
 {'L': 'In a hit - accident', 'tuple': ('a one - and - half - year - old boy', 'was killed', 'by a speeding car near an under - construction house in Sector 43', 'L:In a hit - accident')}
 ['an under-construction house', 'Sector 43 late Friday evening.']
-['an', '- construction house', 'Sector 43L:In a hit - run accident']
-['an', '- construction house', 'Sector 43L:In a hit - accident']
+['an', '- construction house', 'Sector 43In a hit - run accident']
+['an', '- construction house', 'Sector 43In a hit - accident']
 
 ---------------
 
@@ -1808,7 +1863,7 @@ As per police sources, the driver may have been left bamboozled by something in 
 {'T': 'As per police sources', 'tuple': ('the driver', 'may have been left', 'bamboozled by something in a fraction of second', 'T:As per police sources')}
 ['a fraction of second for which he had to drastically turn the car', 'the wrong side when it dashed against the parapet of the bridge.']
 ['a fraction of second']
-['a fraction of secondT:As per police sources']
+['a fraction of secondAs per police sources']
 
 ---------------
 
@@ -1817,8 +1872,8 @@ After hitting the parapet on the left side, the car moved across the road on the
 {'tuple': ('a billboard', 'was uprooted', '')}
 {'T': 'After hitting the parapet on the left side', 'tuple': ('the car', 'moved', 'across the road on the right', 'T:After hitting the parapet on the left side')}
 ['the left side the car moved across the road', 'the right to first hit a billboard which was uprooted and then rammed', 'the side wall.']
-['the side wallT:then']
-['the rightT:After hitting the parapet', 'the left side']
+['the side wallthen']
+['the rightAfter hitting the parapet', 'the left side']
 
 ---------------
 
@@ -1846,6 +1901,7 @@ He was returning home when the truck hit him and ran him over.
 Ghosh died on the spot.
 {'L': 'on the spot', 'tuple': ('Ghosh', 'died', 'L:on the spot')}
 ['the spot.']
+['the spot']
 
 ---------------
 
@@ -1898,7 +1954,7 @@ The incident took place when the deceased, identified as Muntzil (12), was stand
 A class VI student was crushed under the wheels of a dump truck in Badhi Majra area of Yamunanagar district on Friday afternoon.
 {'L': 'under the wheels of a dump truck in Badhi Majra area of Yamunanagar district', 'T': 'on Friday afternoon', 'tuple': ('A class VI student', 'was crushed', 'L:under the wheels of a dump truck in Badhi Majra area of Yamunanagar district', 'T:on Friday afternoon')}
 ['the wheels of a dump truck', 'Badhi Majra area of Yamunanagar district', 'Friday afternoon.']
-['Badhi Majra area of Yamunanagar districtT:on Friday afternoon']
+['the wheels of a dump truck', 'Badhi Majra area of Yamunanagar districton Friday afternoon']
 
 ---------------
 
@@ -1943,11 +1999,11 @@ The accident occurred around 8.15am on Saturday.
 ['Manjari worked for a painting contractor', 'theh Hadapsar area.']
 ['theh Hadapsar area']
 ['theh Hadapsar area']
-['theh Hadapsar areaL:in Manjari']
+['theh Hadapsar areain Manjari']
 ['theh Hadapsar area']
 ['theh Hadapsar area']
 ['theh Hadapsar area']
-['theh Hadapsar areaL:in Manjari']
+['theh Hadapsar areain Manjari']
 
 ---------------
 
@@ -1957,7 +2013,7 @@ The first accident was reported from Churu where an uncontrolled dumper truck ra
 {'L': 'Churu', 'tuple': ('an uncontrolled dumper truck', 'rammed', 'into a stationary bus on Sadlpur-Churu road', 'L:Churu')}
 {'tuple': ('The first accident', 'was reported', 'from Churu')}
 ['a stationary bus', 'Sadlpur-Churu road.']
-['a stationary bus', 'Sadlpur-Churu roadL:Churu']
+['a stationary bus', 'Sadlpur-Churu roadChuru']
 
 ---------------
 
@@ -1967,6 +2023,8 @@ Three women died in the accident whereas several others were reportedly injured 
 {'tuple': 'bus was on a return journey from Haridwar to Ladanu in Nagaur.'}
 {'tuple': ('bus', 'was', 'on a return journey from Haridwar to Ladanu in Nagaur')}
 ['the accident whereas several others were reportedly injured', 'the mishap.\xe2\x80\x9cThe']
+['the mishap']
+['the accident']
 ['a return journey from Haridwar to Ladanu', 'Nagaur.']
 ['a return journey from Haridwar to Ladanu', 'Nagaur']
 
@@ -1975,7 +2033,7 @@ Three women died in the accident whereas several others were reportedly injured 
 In another accident in Shahpura in Jaipur rural, a 20-year-old girl died after an overloaded truck hit her on Saturday morning.
 {'T': 'hit her on Saturday morning', 'L': 'In another accident in Shahpura in Jaipur rural', 'tuple': ('a 20-year-old girl', 'died', 'T:after an overloaded truck', 'T:hit her on Saturday morning', 'L:In another accident in Shahpura in Jaipur rural')}
 ['Shahpura', 'Jaipur rural a 20-year-old girl died after an overloaded truck hit her', 'Saturday morning.']
-['Saturday morningL:In another accident', 'Shahpura', 'Jaipur rural']
+['Saturday morningIn another accident', 'Shahpura', 'Jaipur rural']
 
 ---------------
 
@@ -2026,7 +2084,7 @@ As many as two people, including a five-year-old girl and a 15-year-old boy, die
 {'T': 'after a container truck', 'tuple': ('another person', 'was', 'critical', 'T:after a container truck')}
 {'T': 'while another person was critical after a container truck', 'tuple': ('As many as two people , including a five - year - old girl', 'died', 'T:while another person was critical after a container truck')}
 ['them', 'Hapur', 'Sunday.']
-['themL:in HapurT:on Sunday']
+['themin Hapuron Sunday']
 
 ---------------
 
@@ -2051,7 +2109,11 @@ Since a flyover is being constructed on that route, the truck toppled after hitt
 ['that route the truck toppled after hitting some stone and construction material and collapsed', 'a boy who was', 'his cycle and a mother-daughter duo.\xe2\x80\x9d']
 ['a mother - daughter duo']
 ['his cycle']
+['a boy']
+['that route']
 ['the spot Manvi\xe2\x80\x99s mother Seema (23) got injured and is struggling for her life', 'a local hospital.']
+['the spot']
+['the spot']
 ['the spot']
 ['the spot']
 ['the spot']
@@ -2073,7 +2135,7 @@ The accident took place when a speeding car rammed into the victims after hittin
 {'T': 'after hitting three cars one after the other', 'tuple': ('a speeding car', 'rammed', 'into the victims', 'T:after hitting three cars one after the other')}
 {'T': 'when a speeding car rammed into the victims after hitting three cars one after the other', 'tuple': ('The accident', 'took', 'place', 'T:when a speeding car rammed into the victims after hitting three cars one after the other')}
 ['the victims after hitting three cars one after the other.']
-['the victimsT:after hitting three cars one after the other']
+['the victimsafter hitting three cars one after the other']
 ['the victims after hitting three cars one after the other']
 
 ---------------
@@ -2089,7 +2151,7 @@ Two women were killed and a kid seriously injured in a road accident at Ghanupur
 {'L': 'in a road accident at Ghanupur Kale bypass near here on Sunday evening', 'tuple': ('a kid', 'seriously injured', 'L:in a road accident at Ghanupur Kale bypass near here on Sunday evening')}
 {'tuple': ('Two women', 'were killed', '')}
 ['a road accident', 'Ghanupur Kale bypass', 'here', 'Sunday evening.']
-['Ghanupur Kale bypass', 'here', 'Sunday evening']
+['a road accident', 'Ghanupur Kale bypass', 'here', 'Sunday evening']
 
 ---------------
 
@@ -2126,7 +2188,7 @@ Over 30 passengers commuting between Indore and Dewas sustained severe injuries 
 A 35-year-old woman was run over by a speeding truck near Adalaj on Sunday night.
 {'T': 'on Sunday night', 'tuple': ('A 35-year-old woman', 'was run over', 'by a speeding truck near Adalaj', 'T:on Sunday night')}
 ['Adalaj', 'Sunday night.']
-['AdalajT:on Sunday night']
+['Adalajon Sunday night']
 
 ---------------
 
@@ -2137,7 +2199,7 @@ As per investigators, Babli Saroj, working at a farm house near Khoraj-Khodiar c
 {'tuple': ('a truck', 'carrying', 'iron rods')}
 {'tuple': ('she', 'was hit', 'by a truck')}
 ['a farm house', 'Khoraj-Khodiar container depot was passing from the road towards SP Ring Road along with her husband and daughter', 'Sunday night when she was hit by a truck carrying iron rods.']
-['Khoraj - Khodiar container depot']
+['a farm house', 'Khoraj - Khodiar container depot']
 
 ---------------
 
@@ -2157,7 +2219,7 @@ A 36-year-old woman was killed in a head-on collision on the Ribandar-Old Goa by
 {'tuple': ('a water tanker', 'was proceeding', '')}
 {'tuple': ('she', 'was riding', 'the scooter she was riding collided with a water tanker')}
 ['a head-on collision', 'the Ribandar-Old Goa bypass', 'Monday evening after the scooter she was riding collided with a water tanker that was proceeding to Panaji Old Goa police said.']
-['the Ribandar-Old Goa bypass', 'Monday evening after the scooter']
+['a head-on collision', 'the Ribandar-Old Goa bypass', 'Monday evening after the scooter']
 ['a head-on collision', 'the Ribandar-Old Goa bypass', 'Monday evening after the scooter; said; Old Goa police)']
 
 ---------------
@@ -2174,6 +2236,7 @@ Naik, a resident of Bainguinim, died on the spot.
 {'tuple': '0.88 (Naik; [is] a resident of; Bainguinim)'}
 {'L': 'on the spot', 'tuple': ('Naik', 'died', 'L:on the spot')}
 ['the spot.']
+['the spot']
 
 ---------------
 
@@ -2189,9 +2252,13 @@ Two more constables, identified as Roshan Nimbarte and Pankaj Masram, posted at 
 {'L': 'in the accident', 'tuple': ('Two more constables , identified as Roshan Nimbarte , posted at Nandanvan police station respectively', 'were also severely injured', 'L:in the accident')}
 {'tuple': ('Two more constables , identified as Roshan Nimbarte', 'posted respectively', 'at Nandanvan police station')}
 ['Nandanvan and Kotwali police station respectively were also severely injured', 'the accident.']
+['the accident']
 ['Kotwali police station']
+['the accident']
 ['Nandanvan police station']
+['the accident']
 ['Kotwali police station']
+['the accident']
 ['Nandanvan police station']
 
 ---------------
@@ -2207,6 +2274,7 @@ Constable Manish Kadwe, posted at Sonegaon police station, succumbed to serious 
 {'L': 'in an accident', 'T': 'on Saturday night', 'tuple': ('serious injuries', 'suffered', 'L:in an accident', 'T:on Saturday night')}
 {'tuple': ('Constable Manish Kadwe', 'posted', 'at Sonegaon police station')}
 ['Sonegaon police station succumbed to serious injuries suffered', 'an accident', 'Saturday night.']
+['an accidenton Saturday night']
 ['Sonegaon police station']
 
 ---------------
@@ -2219,6 +2287,7 @@ While returning home, he met with the mishap and died on the spot, police said.
 {'T': 'While returning home', 'tuple': ('he', 'met', 'with the mishap', 'T:While returning home')}
 {'tuple': ('While returning home , he met with the mishap', 'said', 'police')}
 ['the spot police said.']
+['the spot']
 
 ---------------
 
@@ -2227,9 +2296,9 @@ A 21-year-old youth, who was returning home after watching a movie at KPHB, died
 {'T': 'after he rammed his two-wheeler into a Metro pillar near Moosapet station on Sunday night', 'tuple': ('A 21-year-old youth, who was returning home after watching a movie at KPHB', 'died', 'T:after he rammed his two-wheeler into a Metro pillar near Moosapet station on Sunday night')}
 {'T': 'after he rammed his two-wheeler into a Metro pillar near Moosapet station on Sunday night', 'tuple': ('A 21-year-old youth', 'was returning', 'home', 'T:after watching a movie at KPHB', 'T:after he rammed his two-wheeler into a Metro pillar near Moosapet station on Sunday night')}
 ['KPHB died after he rammed his two-wheeler', 'a Metro pillar', 'Moosapet station', 'Sunday night.']
-['Moosapet stationT:on Sunday night']
+['Moosapet stationon Sunday night']
 ['a Metro pillar', 'Moosapet station', 'Sunday night']
-['KPHBT:after he rammed his two-wheeler', 'a Metro pillar', 'Moosapet station', 'Sunday night']
+['KPHBafter he rammed his two-wheeler', 'a Metro pillar', 'Moosapet station', 'Sunday night']
 
 ---------------
 
@@ -2250,6 +2319,8 @@ One man died and two others were injured in an accident involving four TNSTC bus
 {'tuple': ('One man', 'died', '')}
 ['an accident involving four TNSTC buses and three cars', 'Chengalpet', 'Sunday night.']
 ['Chengalpet']
+['an accidenton Sunday night']
+['an accident']
 
 ---------------
 
@@ -2257,7 +2328,7 @@ The speeding bus crashed into a car on the opposite lane killing its driver, Sar
 {'tuple': ('The speeding bus', 'killing', 'its driver', 'Saravanan')}
 {'L': 'on the opposite lane', 'tuple': ('The speeding bus', 'crashed', 'into a car', 'L:on the opposite lane')}
 ['a car', 'the opposite lane killing its driver Saravanan', 'the spot.']
-['a carL:on the opposite lane']
+['a caron the opposite lane']
 
 ---------------
 
@@ -2266,6 +2337,7 @@ Saravanan’s co-passengers, Shivkumar, 27, and Vignesh, 28, were injured in the
 {'L': 'the Rajiv Gandhi Government hospital', 'tuple': ('they', 'are being treated', 'L:the Rajiv Gandhi Government hospital')}
 {'tuple': ('Saravanan', 'were rushed', 'to the Rajiv Gandhi Government hospital')}
 ['the crash and were rushed to the Rajiv Gandhi Government hospital where they are being treated.']
+['the crash']
 
 ---------------
 
@@ -2274,7 +2346,7 @@ Saravanan’s co-passengers, Shivkumar, 27, and Vignesh, 28, were injured in the
 Two youths, including the brother of a local councillor, were killed in an accident in Manesar on Monday afternoon.
 {'L': 'in an accident in Manesar', 'T': 'on Monday afternoon', 'tuple': ('Two youths, including the brother of a local councillor', 'were killed', 'L:in an accident in Manesar', 'T:on Monday afternoon')}
 ['an accident', 'Manesar', 'Monday afternoon.']
-['ManesarT:on Monday afternoon']
+['an accident', 'Manesaron Monday afternoon']
 
 ---------------
 
@@ -2284,6 +2356,7 @@ Both of them died on the spot but the driver of the canter managed to flee, leav
 {'tuple': ('the driver of the canter', 'managed', 'to flee')}
 {'L': 'on the spot', 'tuple': ('Both of them', 'died', 'L:on the spot')}
 ['the spot but the driver of the canter managed to flee leaving his vehicle', 'the spot.']
+['the spot']
 
 ---------------
 
@@ -2292,6 +2365,7 @@ According to police, the accident occurred ahead of the NSG camp gate on NH-8 ar
 {'T': 'on NH-8', 'tuple': ('the accident', 'occurred ahead', 'T:on NH-8')}
 ['NH-8', '4 pm when both the boys were returning from their work from National Brain Research Centre (NBRC)', 'Manesar.']
 ['Manesar']
+['NH-8']
 
 ---------------
 
@@ -2326,6 +2400,7 @@ One person died while two others were injured after a car skidded off the road a
 ['a rivulet', 'Pawlar bridge Navelim  Bicholim ', 'Tuesday', 'around 1 pm']
 ['a rivulet', 'Pawlar bridge Navelim  Bicholim ', 'Tuesday', 'around 1 pm']
 ['Kundaim industrial estate.']
+['Kundaim industrial estate']
 
 ---------------
 
@@ -2347,7 +2422,7 @@ In another spine-chilling accident, a 20-year-old engineering student died after
 {'T': 'after ramming his i20 into a road divider at high speed near Green Mosque on Road No.', 'L': 'In another spine-chilling accident', 'tuple': ('a 20-year-old engineering student', 'died', 'T:after ramming his i20 into a road divider at high speed near Green Mosque on Road No.', 'L:In another spine-chilling accident')}
 {'tuple': '3, Banjara Hills on Tuesday afternoon.'}
 ['a road divider', 'high speed', 'Green Mosque', 'Road No. -----------.']
-['a road divider', 'high speed', 'Green Mosque', 'Road No.L:In another spine-chilling accident']
+['a road divider', 'high speed', 'Green Mosque', 'Road No.In another spine-chilling accident']
 ['Tuesday afternoon.']
 
 ---------------
@@ -2359,6 +2434,7 @@ Fasahat Ali, a second year engineering student of Muffakham Jah College of Engin
 {'L': 'on the spot', 'T': 'while two other occupants escaped with injuries', 'tuple': ('Fasahat Ali', 'died', 'L:on the spot', 'T:while two other occupants escaped with injuries')}
 {'tuple': ('a second year engineering student of Muffakham Jah College of Engineering', 'was', 'at the wheel')}
 ['the wheel died', 'the spot while two other occupants escaped with injuries.']
+['the spotwhile two other occupants escaped with injuries']
 ['the wheel']
 
 ---------------
@@ -2410,6 +2486,7 @@ Three members of a family were killed on the Srisailam highway when their car co
 {'tuple': ('their car', 'collided', 'headon')}
 {'L': 'on the Srisailam highway', 'tuple': ('Three members of a family', 'were killed', 'L:on the Srisailam highway')}
 ['the Srisailam highway when their car collided headon with a TSRTC bus', 'Tuesday evening.']
+['the Srisailam highway']
 
 ---------------
 
@@ -2419,6 +2496,8 @@ Two people were killed in separate hit-and-run accidents on Sunday night.
 {'L': 'in separate hit - run accidents', 'T': 'on Sunday night', 'tuple': ('Two people', 'were killed', 'L:in separate hit - run accidents', 'T:on Sunday night')}
 {'L': 'in separate hit - accidents', 'T': 'on Sunday night', 'tuple': ('Two people', 'were killed', 'L:in separate hit - accidents', 'T:on Sunday night')}
 ['separate hit-and-run accidents', 'Sunday night.']
+['separate hit - run accidentson Sunday night']
+['separate hit - accidentson Sunday night']
 
 ---------------
 
@@ -2427,7 +2506,7 @@ In one accident, a security guard who had completed his shift, was run over by a
 {'T': 'while he was asleep at a construction site', 'L': 'In one accident', 'tuple': ('a security guard who had completed his shift', 'was run over', 'by a truck', 'T:while he was asleep at a construction site', 'L:In one accident')}
 {'tuple': ('a security guard', 'had completed', 'his shift')}
 ['a construction site.']
-['a construction siteL:In one accident']
+['a construction siteIn one accident']
 
 ---------------
 
@@ -2436,7 +2515,7 @@ In another accident, 29-year-old Ravi, who was driving from his grandmother’s 
 {'T': 'after his car was hit by a truck', 'L': 'In another accident', 'tuple': ('29-year-old Ravi', 'was killed', 'T:after his car was hit by a truck', 'L:In another accident')}
 {'T': 'at around 12.30am', 'tuple': ('29-year-old Ravi', 'was driving', "from his grandmother's home in Garhi Harsaru", 'to his home in Delhi', 'T:at around 12.30am')}
 ['Garhi Harsaru to his home', 'Delhi', 'around 12.30am was killed after his car was hit by a truck.']
-['Garhi Harsaruto his home', 'DelhiT:at', '12.30am']
+['Garhi Harsaruto his home', 'Delhiat', '12.30am']
 
 ---------------
 
@@ -2456,7 +2535,7 @@ A one-and-a-half year-old boy died after falling into an open sewage drain outsi
 {'T': 'on Tuesday', 'tuple': ('A one-and-a-half year-old boy', 'after falling', 'into an open sewage drain outside his house', 'T:on Tuesday')}
 {'T': 'after falling into an open sewage drain outside his house in Sector Mu in Dadri on Tuesday', 'tuple': ('A one-and-a-half year-old boy', 'died', 'T:after falling into an open sewage drain outside his house in Sector Mu in Dadri on Tuesday')}
 ['an open sewage drain outside his house', 'Sector Mu', 'Dadri', 'Tuesday.']
-['an open sewage drain outside his houseT:on Tuesday']
+['an open sewage drain outside his houseon Tuesday']
 ['an open sewage drain outside his house', 'Sector Mu', 'Dadri', 'Tuesday']
 
 ---------------
@@ -2467,7 +2546,7 @@ But as soon as she went inside the house, Aarab fell into the drain,” said Sar
 {'tuple': ('as soon as she went inside the house, Aarab fell into the drain', 'said', 'Saroj')}
 {'tuple': ('she', 'went', 'inside the house')}
 ['the drain\xe2\x80\x9d said Saroj a local resident.']
-['the drainT:as soon as she went inside the house']
+['the drainas soon as she went inside the house']
 
 ---------------
 
@@ -2478,7 +2557,7 @@ A man died on the spot after his moped was hit by a truck at Sungam on Tuesday.
 {'L': 'on the spot', 'T': 'after his moped was hit by a truck at Sungam on Tuesday', 'tuple': ('A man', 'died', 'L:on the spot', 'T:after his moped was hit by a truck at Sungam on Tuesday')}
 ['the spot after his moped was hit by a truck', 'Sungam', 'Tuesday.']
 ['Sungam']
-['Sungam', 'Tuesday']
+['the spotafter his moped was hit by a truck', 'Sungam', 'Tuesday']
 
 ---------------
 
@@ -2492,6 +2571,7 @@ Kumar came under the wheels of the truck and died on the spot.
 {'L': 'on the spot', 'tuple': ('Kumar', 'died', 'L:on the spot')}
 {'tuple': ('Kumar', 'came', 'under the wheels of the truck')}
 ['the wheels of the truck and died', 'the spot.']
+['the spot']
 ['the wheels of the truck']
 
 ---------------
@@ -2629,7 +2709,7 @@ They were travelling in a jeep while the ambulance was on way to Satlasna.
 {'T': 'while the ambulance was on way to Satlasna', 'tuple': ('They', 'were travelling', 'in a jeep', 'T:while the ambulance was on way to Satlasna')}
 ['a jeep while the ambulance was', 'way to Satlasna.']
 ['way to Satlasna']
-['a jeepT:while the ambulance was', 'way to Satlasna']
+['a jeepwhile the ambulance was', 'way to Satlasna']
 
 ---------------
 
@@ -2638,6 +2718,7 @@ They were travelling in a jeep while the ambulance was on way to Satlasna.
 Traffic was hit on the stretch for an hour.
 {'L': 'on the stretch', 'T': 'for an hour', 'tuple': ('Traffic', 'was hit', 'L:on the stretch', 'T:for an hour')}
 ['the stretch for an hour.']
+['the stretchfor an hour']
 
 ---------------
 
@@ -2647,7 +2728,7 @@ More than 20 students of a private school were injured when the school bus overt
 {'L': 'here on Wednesday', 'T': 'after the driver lost control over the vehicle while negotiating a blind turn', 'tuple': ('the school bus', 'overturned', 'L:at Mottur Valavu on Attur-Thammampatti state highway', 'L:here on Wednesday', 'T:after the driver lost control over the vehicle while negotiating a blind turn')}
 {'T': 'when the school bus overturned at Mottur Valavu on Attur-Thammampatti state highway here on Wednesday', 'tuple': ('More than 20 students of a private school', 'were injured', 'T:when the school bus overturned at Mottur Valavu on Attur-Thammampatti state highway here on Wednesday')}
 ['Mottur Valavu', 'Attur-Thammampatti state highway here', 'Wednesday after the driver lost control over the vehicle while negotiating a blind turn.']
-['Attur-Thammampatti state highwayL:here', 'WednesdayT:after the driver lost control over the vehicle while negotiating a blind turn']
+['Mottur Valavu', 'Attur-Thammampatti state highwayhere', 'Wednesdayafter the driver lost control over the vehicle while negotiating a blind turn']
 ['Mottur Valavu', 'Attur-Thammampatti state highway here', 'Wednesday']
 
 ---------------
@@ -2657,7 +2738,7 @@ More than 20 students of a private school were injured when the school bus overt
 {'L': 'at Mottur Valavu', 'T': 'while negotiating a blind curve', 'tuple': ('the bus driver', 'lost', 'control over the vehicle', 'L:at Mottur Valavu', 'T:while negotiating a blind curve')}
 {'T': 'when the bus driver lost control over the vehicle at Mottur Valavu', 'tuple': ('The bus', 'was', 'on its way to the school', 'T:when the bus driver lost control over the vehicle at Mottur Valavu')}
 ['its way to the school when the bus driver lost control over the vehicle', 'Mottur Valavu while negotiating a blind curve.']
-['its way to the schoolT:when the bus driver lost control over the vehicle', 'Mottur Valavu']
+['its way to the schoolwhen the bus driver lost control over the vehicle', 'Mottur Valavu']
 
 ---------------
 
@@ -2688,6 +2769,7 @@ A two-year-old boy died on Wednesday after he suffered severe injuries when he w
 {'T': 'when he was knocked down by a city bus', 'tuple': ('he', 'suffered', 'severe injuries', 'T:when he was knocked down by a city bus')}
 {'T': 'after he suffered severe injuries when he was knocked down by a city bus', 'tuple': ('A two-year-old boy', 'died', 'T:on Wednesday', 'T:after he suffered severe injuries when he was knocked down by a city bus')}
 ['Wednesday after he suffered severe injuries when he was knocked down by a city bus run by the Surat Municipal Corporation (SMC).']
+['Wednesdayafter he suffered severe injuries when he was knocked down by a city bus']
 
 ---------------
 
@@ -2706,6 +2788,7 @@ A speeding trailer truck crashed into the guard rail of the bridge in the Khanda
 The mishap occured around 5am on Thursday.
 {'T': 'on Thursday', 'tuple': ('The mishap', 'occured', 'T:around 5am', 'T:on Thursday')}
 ['5am', 'Thursday.']
+['5amon Thursday']
 
 ---------------
 
@@ -2713,6 +2796,7 @@ No one was injured in the accident, but the driver of the truck is missing.
 {'tuple': ('the driver of the truck', 'is missing', '')}
 {'L': 'in the accident', 'tuple': ('No one', 'was injured', 'L:in the accident')}
 ['the accident but the driver of the truck is missing.']
+['the accident']
 
 ---------------
 
@@ -2721,7 +2805,7 @@ No one was injured in the accident, but the driver of the truck is missing.
 On Wednesday morning, head constable Ramesh Kharadi of Shaherkotda police station, allegedly ramming his car into a cyclist near the Meldi Mata temple in Behrampura while drunk.
 {'L': 'in Behrampura', 'T': 'On Wednesday morning', 'tuple': ('head constable Ramesh Kharadi of Shaherkotda police station', 'allegedly ramming', 'his car', 'into a cyclist near the Meldi Mata temple', 'L:in Behrampura', 'T:On Wednesday morning')}
 ['a cyclist', 'the Meldi Mata temple', 'Behrampura while drunk.']
-['the Meldi Mata templeL:in BehrampuraT:On Wednesday morning']
+['the Meldi Mata templein BehrampuraOn Wednesday morning']
 
 ---------------
 
@@ -2788,7 +2872,7 @@ The car, driven Maske was heading towards old VCA stadium in Sadar from the dire
 {'tuple': ('the incident', 'took', 'place')}
 {'T': 'The car', 'tuple': ('driven Maske', 'was heading', 'towards old VCA stadium in Sadar from the direction of Japanese garden', 'T:The car')}
 ['Sadar from the direction of Japanese garden when the incident took place.']
-['Sadar from the direction of Japanese gardenT:The car']
+['Sadar from the direction of Japanese gardenThe car']
 
 ---------------
 
@@ -2797,7 +2881,7 @@ Two youngsters were killed after a car hit a signage before crashing into a road
 {'T': 'before crashing into a roadside tree near Railway quarters on Sadar', 'tuple': ('a car', 'hit', 'a signage', 'T:before crashing into a roadside tree near Railway quarters on Sadar')}
 {'T': 'after a car hit a signage before crashing into a roadside tree near Railway quarters on Sadar', 'tuple': ('Two youngsters', 'were killed', 'T:after a car hit a signage before crashing into a roadside tree near Railway quarters on Sadar')}
 ['a roadside tree', 'Railway quarters', 'Sadar.']
-['a roadside tree', 'Railway quartersT:on Sadar']
+['a roadside tree', 'Railway quarterson Sadar']
 ['a roadside tree', 'Railway quarters', 'Sadar']
 ['a roadside tree', 'Railway quarters', 'Sadar']
 
@@ -2811,7 +2895,7 @@ Nine persons, including five women passengers, were killed after a TNSTC bus ram
 {'L': 'in Thanjavur district', 'T': 'on Friday', 'tuple': ('a TNSTC bus', 'rammed', 'a truck near Vallam', 'L:in Thanjavur district', 'T:around 7.30 pm', 'T:on Friday')}
 {'T': 'after a TNSTC bus rammed a truck near Vallam in Thanjavur district around 7.30 pm on Friday', 'tuple': ('Nine persons, including five women passengers', 'were killed', 'T:after a TNSTC bus rammed a truck near Vallam in Thanjavur district around 7.30 pm on Friday')}
 ['Vallam', 'Thanjavur district', '7.30 pm', 'Friday.']
-['VallamL:in Thanjavur districtT:around 7.30 pmT:on Friday']
+['Vallamin Thanjavur districtaround 7.30 pmon Friday']
 ['Vallam', 'Thanjavur district', '7.30 pm', 'Friday']
 
 ---------------
@@ -2828,6 +2912,9 @@ Under the impact, seven people including bus driver Ravichandran, truck driver S
 {'L': 'Under the impact', 'tuple': ('seven people including bus truck driver Sathishkumar', 'died', 'L:on the spot', 'L:Under the impact')}
 {'L': 'Under the impact', 'tuple': ('seven people including bus driver Ravichandran', 'died', 'L:on the spot', 'L:Under the impact')}
 ['the spot.']
+['the spotUnder the impact']
+['the spotUnder the impact']
+['the spotUnder the impact']
 
 ---------------
 
@@ -2837,6 +2924,7 @@ In the second instance, 40-year-old Rajender Bahadur, who was driving a truck, w
 {'L': 'In the second instance', 'tuple': ('40-year-old Rajender Bahadur', 'was killed', 'L:near Kherki Daula', 'L:In the second instance')}
 {'tuple': ('40-year-old Rajender Bahadur', 'was driving', 'a truck')}
 ['Kherki Daula.']
+['Kherki DaulaIn the second instance']
 
 ---------------
 
@@ -2846,8 +2934,8 @@ According to Deepu Bahadur, his nephew, he and Rajender were near the toll plaza
 {'tuple': ('another truck', 'hit', 'them', 'from the right side')}
 {'T': 'when another truck hit them from the right side', 'tuple': ('he', 'were', 'near the toll plaza', 'T:when another truck hit them from the right side')}
 ['the toll plaza when another truck hit them from the right side.']
-['the toll plazaT:when another truck hit them from the right side']
-['the toll plazaT:when another truck hit them from the right side']
+['the toll plazawhen another truck hit them from the right side']
+['the toll plazawhen another truck hit them from the right side']
 
 ---------------
 
@@ -2857,6 +2945,8 @@ Two people were killed in separate hit-and-run accidents, police said.
 {'L': 'in separate hit - accidents', 'tuple': ('Two people', 'were killed', 'L:in separate hit - accidents')}
 {'tuple': ('Two people were killed in separate hit - accidents', 'said', 'police')}
 ['separate hit-and-run accidents police said.']
+['separate hit - run accidents']
+['separate hit - accidents']
 
 ---------------
 
@@ -2867,6 +2957,7 @@ Chandigarh Commission for Protection of Child Rights (CCPCR) had recently asked 
 {'tuple': ('Mount Carmel School', 'to pay', 'Rs 75,000 to two students hurt in a bus accident')}
 {'T': 'recently', 'tuple': ('Chandigarh Commission for Protection of Child Rights', 'had asked', 'Mount Carmel School', 'to pay Rs', 'T:recently')}
 ['a bus accident.']
+['a bus accident']
 ['a bus accident']
 
 ---------------
@@ -2903,7 +2994,7 @@ Two youngsters died while their friend who was behind the wheel is fighting for 
 {'T': 'while their friend who was behind the wheel is fighting for life at a private hospital in city after their speeding car hit a signage on the footpath before ramming into a tree shortly before midnight on Thursday', 'tuple': ('Two youngsters', 'died', 'T:while their friend who was behind the wheel is fighting for life at a private hospital in city after their speeding car hit a signage on the footpath before ramming into a tree shortly before midnight on Thursday')}
 ['a private hospital', 'city after their speeding car hit a signage', 'the footpath before ramming', 'a tree shortly before midnight', 'Thursday.']
 ['a tree shortly before midnight', 'Thursday']
-['a treeT:shortly before midnightT:on Thursday']
+['a treeshortly before midnighton Thursday']
 ['a private hospital', 'city after their speeding car hit a signage', 'the footpath before ramming', 'a tree shortly before midnight', 'Thursday']
 
 ---------------
@@ -2911,6 +3002,7 @@ Two youngsters died while their friend who was behind the wheel is fighting for 
 The accident happened in front of railway quarters, around 200 meters from Sadar police station.
 {'L': 'in front of railway quarters', 'tuple': ('The accident', 'happened', 'L:in front of railway quarters')}
 ['front of railway quarters', '200 meters from Sadar police station.']
+['front of railway quarters']
 
 ---------------
 
@@ -2930,6 +3022,9 @@ Four people were killed in two separate road accidents reported in Kancheepuram 
 {'L': 'in Kancheepuram', 'T': 'on Saturday', 'tuple': ('two separate road accidents', 'reported', 'L:in Kancheepuram', 'T:on Saturday')}
 {'L': 'in two separate road accidents', 'tuple': ('Four people', 'were killed', 'L:in two separate road accidents')}
 ['two separate road accidents reported', 'Kancheepuram and Muttukadu', 'Saturday.']
+['Muttukaduon Saturday']
+['Kancheepuramon Saturday']
+['two separate road accidents']
 
 ---------------
 
@@ -2946,7 +3041,7 @@ In one of the accidents, at least three people travelling in a car were killed a
 {'tuple': ('at least three people', 'travelling', '')}
 ['least three people travelling', 'a car were killed after the vehicle rammed', 'a lorry', 'Kalathur', 'Kancheepuram.']
 ['a lorry', 'Kalathur', 'Kancheepuram']
-['a lorry', 'Kalathur', 'KancheepuramL:In one of the accidents']
+['a lorry', 'Kalathur', 'KancheepuramIn one of the accidents']
 
 ---------------
 
@@ -2960,6 +3055,7 @@ Kshitij, the brother of 22-year-old Anuj who died in 2008 following an accident 
 {'T': 'following an accident with a BMW', 'tuple': ('the brother of 22-year-old Anuj', 'died', 'T:in 2008', 'T:following an accident with a BMW')}
 ['2008 following an accident with a BMW opened up about him following the verdict sentencing Utsav Bhasin the accused to two years', 'jail.\xe2\x80\x9cHe was two years younger than me.']
 ['jail."He was two years younger than me']
+['2008following an accident with a BMW']
 
 ---------------
 
@@ -2984,8 +3080,8 @@ An Indian soldier was killed in ceasefire violation in Rajouri district while a 
 {'L': 'in a grenade attack in Kulgam district on Saturday afternoon', 'tuple': ('a paramilitary officer', 'was injured', 'L:in a grenade attack in Kulgam district on Saturday afternoon')}
 {'L': 'in ceasefire violation in Rajouri district', 'T': 'while a paramilitary officer was injured in a grenade attack in Kulgam district on Saturday afternoon', 'tuple': ('An Indian soldier', 'was killed', 'L:in ceasefire violation in Rajouri district', 'T:while a paramilitary officer was injured in a grenade attack in Kulgam district on Saturday afternoon')}
 ['ceasefire violation', 'Rajouri district while a paramilitary officer was injured', 'a grenade attack', 'Kulgam district', 'Saturday afternoon.']
-['Kulgam district', 'Saturday afternoon']
-['Rajouri districtT:while a paramilitary officer was injured', 'a grenade attack', 'Kulgam district', 'Saturday afternoon']
+['a grenade attack', 'Kulgam district', 'Saturday afternoon']
+['ceasefire violation', 'Rajouri districtwhile a paramilitary officer was injured', 'a grenade attack', 'Kulgam district', 'Saturday afternoon']
 
 ---------------
 
@@ -3000,7 +3096,7 @@ Three Jaish-e-Mohammad terrorists, including one Pakistani national, were killed
 {'L': 'in an encounter with security forces at Satura forests of Tral in Pulwama district on Saturday', 'tuple': ('Three Jaish-e-Mohammad terrorists, including one Pakistani national', 'were killed', 'L:in an encounter with security forces at Satura forests of Tral in Pulwama district on Saturday')}
 {'tuple': ('Three Jaish-e-Mohammad terrorists, including one Pakistani national, were killed in an encounter with security forces at Satura forests of Tral in Pulwama district on Saturday', 'said', 'the police')}
 ['an encounter with security forces', 'Satura forests of Tral', 'Pulwama district', 'Saturday the police said.']
-['Satura forests of Tral', 'Pulwama district', 'Saturday']
+['an encounter with security forces', 'Satura forests of Tral', 'Pulwama district', 'Saturday']
 
 ---------------
 
@@ -3010,7 +3106,7 @@ According to the police, the accident took place at 4.30pm near Gobind Hospital 
 {'tuple': ('the deceased Premwati', 'was crossing', 'the road opposite to the hospital')}
 {'T': 'when the deceased Premwati was crossing the road opposite to the hospital', 'tuple': ('the accident', 'took', 'place', 'T:at 4.30pm near Gobind Hospital on Sohna road', 'T:when the deceased Premwati was crossing the road opposite to the hospital')}
 ['4.30pm', 'Gobind Hospital', 'Sohna road when the deceased Premwati was crossing the road opposite to the hospital.']
-['Gobind Hospital', 'Sohna roadT:when the deceased Premwati was crossing the road opposite to the hospital']
+['Gobind Hospital', 'Sohna roadwhen the deceased Premwati was crossing the road opposite to the hospital']
 
 ---------------
 
@@ -3019,8 +3115,8 @@ In a hit and run accident, a 50-year-old woman was mowed down by a vehicle in Ba
 {'tuple': ('a 50 - year - old woman', 'crossing', 'the road')}
 {'T': 'while crossing the road', 'L': 'In a hit', 'tuple': ('a 50 - year - old woman', 'was mowed down', 'by a vehicle in Badshapur', 'T:on Friday evening', 'T:while crossing the road', 'L:In a hit')}
 ['Badshapur', 'Friday evening while crossing the road.']
-['BadshapurT:on Friday eveningT:while crossing the roadL:In run accident']
-['BadshapurT:on Friday eveningT:while crossing the roadL:In a hit']
+['Badshapuron Friday eveningwhile crossing the roadIn run accident']
+['Badshapuron Friday eveningwhile crossing the roadIn a hit']
 
 ---------------
 
@@ -3046,7 +3142,7 @@ Police said the accident occurred at around 9am when the Diva-based Vaibhav Tank
 {'tuple': ('the TMT bus', 'injuring severely', 'him')}
 {'tuple': ('the TMT bus', 'rammed', 'into him', 'from behind')}
 ['around 9am when the Diva-based Vaibhav Tankar was walking', 'the bridge from the station towards Dada Patil Wadi when the TMT bus rammed', 'him from behind injuring him severely.']
-['9am']
+['around 9am']
 ['around 9am when the Diva-based Vaibhav Tankar was walking', 'the bridge from the station towards Dada Patil Wadi']
 ['himfrom behind']
 
@@ -3070,7 +3166,7 @@ The accident took place on July 13 and the bodies will arrive at Rajiv Gandhi In
 {'L': 'here on Sunday', 'tuple': ('the bodies', 'will arrive', 'at Rajiv Gandhi International Airport', 'L:here on Sunday')}
 {'T': 'on July 13', 'tuple': ('The accident', 'took', 'place', 'T:on July 13')}
 ['July 13 and the bodies will arrive', 'Rajiv Gandhi International Airport here', 'Sunday.']
-['Rajiv Gandhi International AirportL:here', 'Sunday']
+['Rajiv Gandhi International Airporthere', 'Sunday']
 
 ---------------
 
@@ -3112,7 +3208,7 @@ An 83-year-old woman from Pune was killed while three other passengers from Kolh
 The incident occurred in the new Katraj tunnel on Pune-Satara highway around 6.15pm on Friday.
 {'L': 'in the new Katraj tunnel on Pune-Satara highway around 6.15pm', 'T': 'on Friday', 'tuple': ('The incident', 'occurred', 'L:in the new Katraj tunnel on Pune-Satara highway around 6.15pm', 'T:on Friday')}
 ['the new Katraj tunnel', 'Pune-Satara highway', '6.15pm', 'Friday.']
-['Pune-Satara highway', '6.15pmT:on Friday']
+['the new Katraj tunnel', 'Pune-Satara highway', '6.15pmon Friday']
 
 ---------------
 
@@ -3195,9 +3291,9 @@ At least 16 Amarnath pilgrims were killed and over 30 injured when a bus skidded
 {'tuple': ('At least 16 Amarnath pilgrims were killed', 'said', 'officials')}
 ['a deep gorge', 'Ramban district of Jammu and Kashmir', 'Sunday officials said.']
 ['a deep gorge', 'Ramban district of Kashmir', 'Sunday']
-['Ramban district of KashmirT:on Sunday']
+['Ramban district of Kashmiron Sunday']
 ['a deep gorge', 'Ramban district of Jammu', 'Sunday']
-['Ramban district of JammuT:on Sunday']
+['Ramban district of Jammuon Sunday']
 
 ---------------
 
@@ -3251,7 +3347,7 @@ It was a close shave for three youths after the car swerved out of control and f
 {'tuple': ('the car', 'swerved', 'out of control')}
 {'T': 'after the car swerved out of control', 'tuple': ('It', 'was', 'a close shave for three youths', 'T:after the car swerved out of control')}
 ['Choral dam canal', 'Chordiya village', 'Sunday morning.']
-['Choral dam canalL:near Chordiya villageT:on Sunday morning']
+['Choral dam canalnear Chordiya villageon Sunday morning']
 ['Choral dam canal', 'Chordiya village', 'Sunday morning']
 
 ---------------
@@ -3279,7 +3375,7 @@ It was a close shave for three youths after the car swerved out of control and f
 {'tuple': ('the car', 'swerved', 'out of control')}
 {'T': 'after the car swerved out of control', 'tuple': ('It', 'was', 'a close shave for three youths', 'T:after the car swerved out of control')}
 ['Choral dam canal', 'Chordiya village', 'Sunday morning.']
-['Choral dam canalL:near Chordiya villageT:on Sunday morning']
+['Choral dam canalnear Chordiya villageon Sunday morning']
 ['Choral dam canal', 'Chordiya village', 'Sunday morning']
 
 ---------------
@@ -3311,6 +3407,7 @@ The accident took place near Madap tunnel on the Mumbai corridor under Khalapur 
 A senior citizen from Dapoli, Ratnagiri, was killed on the Mumbai-Pune expressway on Saturday.
 {'L': 'on the Mumbai-Pune expressway', 'T': 'on Saturday', 'tuple': ('A senior citizen from Dapoli', 'was killed', 'L:on the Mumbai-Pune expressway', 'T:on Saturday')}
 ['the Mumbai-Pune expressway', 'Saturday.']
+['the Mumbai-Pune expresswayon Saturday']
 
 ---------------
 
@@ -3330,6 +3427,7 @@ Paris-based historian J B P More, who recently stumbled upon a brief French secr
 {'tuple': ('a brief French secret service report', 'dated', 'December 11')}
 {'T': 'recently', 'tuple': ('Paris - based historian J B P More', 'stumbled', 'upon a brief French secret service report', 'T:recently')}
 ['the National Archives of France has come up with a finding that Bose didn\xe2\x80\x99t die', 'an air crash and was still alive', '1947.']
+['an air crash']
 
 ---------------
 
@@ -3337,6 +3435,8 @@ Paris-based historian J B P More, who recently stumbled upon a brief French secr
 {'L': 'in Taiwan', 'tuple': ('the document', 'died', 'L:in the air crash', 'L:in Taiwan')}
 {'L': 'in the document', 'tuple': ('It', 'is not stated', 'L:in the document')}
 ['the document that Subhas Chandra Bose died', 'the air crash', 'Taiwan.']
+['the air crashin Taiwan']
+['the document']
 
 ---------------
 
@@ -3344,6 +3444,7 @@ The gist of the matter for the French secret service, according to More, is that
 {'L': 'in the air crash', 'T': 'on August 18', 'tuple': ('Bose', 'did not die', 'L:in the air crash', 'T:on August 18')}
 {'tuple': ('The gist of the matter for the French secret service', 'is', 'that Bose did not die in the air crash on August 18')}
 ['the air crash', 'August 18 1945 as commonly held.']
+['the air crashon August 18']
 ['the air crash', 'August 18']
 
 ---------------
@@ -3355,6 +3456,7 @@ Two women were killed and 17 others injured when their SUV overturned near Pipav
 {'T': 'when their SUV overturned near Pipavav port on Sunday', 'tuple': ('17 others', 'injured', 'T:when their SUV overturned near Pipavav port on Sunday')}
 {'tuple': ('Two women', 'were killed', '')}
 ['Pipavav port', 'Sunday.']
+['Pipavav porton Sunday']
 ['Pipavav port', 'Sunday']
 
 ---------------
@@ -3369,6 +3471,7 @@ However, the SUV’s tyre burst near Pipavav and it overturned.
 The accident happened on Sunday morning.
 {'T': 'on Sunday morning', 'tuple': ('The accident', 'happened', 'T:on Sunday morning')}
 ['Sunday morning.']
+['Sunday morning']
 
 ---------------
 
@@ -3380,7 +3483,7 @@ At least 16 Amarnath pilgrims were killed and over 30 sustained injuries after t
 {'tuple': ('over 30 sustained injuries after', 'skidded', 'the Jammu-Srinagar national highway')}
 {'tuple': ('At least 16 Amarnath pilgrims', 'were killed', '')}
 ['a gorge', 'Jammu and Kashmir\xe2\x80\x99s Ramban district', 'Sunday.']
-['a gorge', "Kashmir 's Ramban districtT:on Sunday"]
+['a gorge', "Kashmir 's Ramban districton Sunday"]
 ['a gorge', 'Jammu']
 
 ---------------
@@ -3423,6 +3526,7 @@ The PM announced a compensation of Rs 2 lakh for the next of kin of those killed
 {'L': 'in the accident', 'tuple': ('those', 'killed', 'L:in the accident')}
 {'tuple': ('The PM', 'announced', 'a compensation of Rs 2 lakh for the next of kin of those')}
 ['the accident and Rs 50000 for the seriously injured.']
+['the accident']
 
 ---------------
 
@@ -3441,8 +3545,8 @@ A 21-year-old biker who was returning home after attending a job interview died 
 {'L': 'in a and - run at Jogeshwari', 'tuple': ('A 21 - year - old biker who was returning home after attending a job interview', 'died', 'L:in a and - run at Jogeshwari')}
 {'T': 'after attending a job interview', 'tuple': ('A 21 - year - old biker', 'was returning', 'home', 'T:after attending a job interview')}
 ['a hit-and-run', 'Jogeshwari (west)', '3 pm', 'Saturday .']
-['Jogeshwari ( west )', '3 pmT:on Saturday']
-['Jogeshwari']
+['hit - and - run', 'Jogeshwari ( west )', '3 pmon Saturday']
+['a and - run', 'Jogeshwari']
 
 ---------------
 
@@ -3471,7 +3575,7 @@ Three persons, including a sub-inspector of Haryana police, were killed and two 
 {'T': 'when the car rolled into a canal near Gohana on Sunday', 'tuple': ('two others', 'were injured', 'T:when the car rolled into a canal near Gohana on Sunday')}
 {'tuple': ('Three persons , including a sub-inspector of Haryana police', 'were killed', '')}
 ['a canal', 'Gohana', 'Sunday.']
-['a canal', 'GohanaT:on Sunday']
+['a canal', 'Gohanaon Sunday']
 ['a canal', 'Gohana', 'Sunday']
 
 ---------------
@@ -3484,6 +3588,9 @@ Deceased were identified as Sub Inspector Dharamvir Singh, who was deployed in t
 {'L': 'in the Jind district', 'tuple': ('Sub Inspector Dharamvir Singh', 'was deployed', 'L:in the Jind district')}
 {'tuple': ('Deceased', 'were identified', 'as Sub Inspector Dharamvir Singh')}
 ['the Jind district his wife Sangeeta Saini and his elder brother\xe2\x80\x99s wife Krishna Saini.']
+["his elder brother 's wife"]
+['his wife']
+['the Jind district']
 
 ---------------
 
@@ -3503,7 +3610,7 @@ wo youths were killed and seriously injured in a road accident after a lorry hit
 {'tuple': ('a lorry', 'hit', 'a two wheeler in which the victims were riding in Trichy on Sunday')}
 {'tuple': ('youths', 'were killed', '')}
 ['a road accident after a lorry hit a two wheeler', 'which the victims were riding', 'Trichy', 'Sunday.']
-['TrichyT:on SundayL:a two wheeler']
+['Trichyon Sundaya two wheeler']
 ['which the victims were riding', 'Trichy', 'Sunday']
 
 ---------------
@@ -3530,7 +3637,7 @@ The driver of the motorcycle allegedly lost control after strong winds pushed th
 A 23-year-old TNPSC (Tamil Nadu Public Service Commission) aspirant and her 18-year-old nephew, a BE student were killed in a road accident on the Kulithalai – Musiri Road in Kulithalai on Saturday.
 {'L': 'in a road accident on the Kulithalai - Musiri Road in Kulithalai', 'T': 'on Saturday', 'tuple': ('a BE student', 'were killed', 'L:in a road accident on the Kulithalai - Musiri Road in Kulithalai', 'T:on Saturday')}
 ['a road accident', 'the Kulithalai \xe2\x80\x93 Musiri Road', 'Kulithalai', 'Saturday.']
-['the Kulithalai - Musiri Road', 'KulithalaiT:on Saturday']
+['a road accident', 'the Kulithalai - Musiri Road', 'Kulithalaion Saturday']
 
 ---------------
 
@@ -3563,7 +3670,7 @@ Three persons, including a sub-inspector of Haryana police, were killed and two 
 {'T': 'when the car rolled into a canal near Gohana on Sunday', 'tuple': ('two others', 'were injured', 'T:when the car rolled into a canal near Gohana on Sunday')}
 {'tuple': ('Three persons , including a sub-inspector of Haryana police', 'were killed', '')}
 ['a canal', 'Gohana', 'Sunday .']
-['a canal', 'GohanaT:on Sunday']
+['a canal', 'Gohanaon Sunday']
 ['a canal', 'Gohana', 'Sunday']
 
 ---------------
@@ -3576,6 +3683,9 @@ Deceased were identified as Sub Inspector Dharamvir Singh, who was deployed in t
 {'L': 'in the Jind district', 'tuple': ('Sub Inspector Dharamvir Singh', 'was deployed', 'L:in the Jind district')}
 {'tuple': ('Deceased', 'were identified', 'as Sub Inspector Dharamvir Singh')}
 ["the Jind district his wife Sangeeta Saini and his elder brother's wife Krishna Saini."]
+["his elder brother 's wife"]
+['his wife']
+['the Jind district']
 
 ---------------
 
@@ -3595,9 +3705,9 @@ In March, four people were severely injured when the BMW car rammed into four ve
 {'T': 'while driving on the wrong side near RK Puram', 'tuple': ('the BMW car', 'rammed', 'into four vehicles', 'T:while driving on the wrong side near RK Puram')}
 {'T': 'In March', 'tuple': ('four people', 'were severely injured', 'T:when the BMW car rammed into four vehicles', 'T:In March')}
 ['four vehicles while driving', 'the wrong side', 'RK Puram.']
-['RK Puram']
-['four vehiclesT:while driving', 'the wrong side', 'RK Puram']
-['four vehiclesT:In March']
+['the wrong side', 'RK Puram']
+['four vehicleswhile driving', 'the wrong side', 'RK Puram']
+['four vehiclesIn March']
 
 ---------------
 
@@ -3655,6 +3765,7 @@ TOI on Sunday spoke to Manoj, senior superintendent of police, relief work, Jamm
 {'tuple': ('those', 'killed', '')}
 {'tuple': ('TOI on Sunday', 'spoke', 'to Manoj')}
 ['Sunday spoke to Manoj senior superintendent of police relief work Jammu and Kashmir to know about those killed and injured', 'the mishap.']
+['the mishap']
 
 ---------------
 
@@ -3678,6 +3789,7 @@ The victims were identified as P Arunagiri from Erumaipatti near Singampunari in
 {'L': 'on the spot', 'T': 'while his relative, M Kathiresan was rushed to a nearby hospital', 'tuple': ('Sivaganga district', 'was killed', 'L:on the spot', 'T:while his relative, M Kathiresan was rushed to a nearby hospital')}
 {'tuple': ('The victims', 'were identified', 'as P Arunagiri')}
 ['Singampunari', 'Sivaganga district who was killed', 'the spot while his relative M Kathiresan was rushed to a nearby hospital where he is undergoing treatment.']
+['the spotwhile his relative M Kathiresan was rushed to a nearby hospital']
 
 ---------------
 
@@ -3702,7 +3814,7 @@ A sessions court here has convicted and sentenced a truck driver from Chaskaman 
 {'tuple': ('A sessions court here', 'has convicted', '')}
 ['Khed to eight years\xe2\x80\x99 rigorous imprisonment for an accident that killed four persons injured four others and damaging seven vehicles', 'Lonikand', 'the Pune-Ahmednagar highway', 'March 25 2012.']
 ['Lonikand', 'the Pune - Ahmednagar highway', 'March 25']
-['the Pune - Ahmednagar highwayT:on March 25']
+['the Pune - Ahmednagar highwayon March 25']
 
 ---------------
 
@@ -3717,8 +3829,8 @@ The girl, Priya Chavan, was killed on the spot while her mother, Pratibha, died 
 {'L': 'at a hospital in Pune', 'tuple': ('her mother', 'died', 'L:at a hospital in Pune')}
 {'L': 'on the spot', 'T': 'while her mother, Pratibha, died at a hospital in Pune', 'tuple': ('The girl', 'was killed', 'L:on the spot', 'T:while her mother, Pratibha, died at a hospital in Pune')}
 ['the spot while her mother Pratibha died', 'a hospital', 'Pune.']
-['Pune']
 ['a hospital', 'Pune']
+['the spotwhile her mother Pratibha died', 'a hospital', 'Pune']
 
 ---------------
 
@@ -3729,7 +3841,7 @@ A Pune resident, Imran Altaf Shaikh (33), was killed and four others were injure
 {'tuple': '0.38 (Imran Altaf Shaikh; [is] resident [from]; Pune)'}
 {'tuple': ('A Pune resident', 'was killed', '')}
 ['an accident', 'Adoshi area', 'Mumbai-Pune Expressway', 'the wee hours of Sunday.']
-['Adoshi area', 'Mumbai - Pune Expressway', 'the wee hours of Sunday']
+['an accident', 'Adoshi area', 'Mumbai - Pune Expressway', 'the wee hours of Sunday']
 
 ---------------
 
@@ -3778,6 +3890,7 @@ When they were near Badshahpur, a trailer truck came onto the road suddenly and 
 Sharma died on the spot.
 {'L': 'on the spot', 'tuple': ('Sharma', 'died', 'L:on the spot')}
 ['the spot.']
+['the spot']
 
 ---------------
 
@@ -3791,8 +3904,8 @@ A BSES engineer was killed and four of his colleagues were injured when their ca
 {'tuple': ('A BSES engineer', 'was killed', '')}
 ['a tree while trying to escape from a mob armed with rods and hockey sticks', 'Jhuljhuli village', 'Najafgarh', 'southwest Delhi', 'Monday.']
 ['southwest Delhi ', 'Monday']
-['Jhuljhuli villageT:on Monday']
-['a treeT:while trying to escape from a mob']
+['Jhuljhuli villageon Monday']
+['a treewhile trying to escape from a mob']
 ['a tree while trying to escape from a mob']
 
 ---------------
@@ -3801,6 +3914,7 @@ Singh, 28, was killed on the spot while the others, including Wasim, were critic
 {'tuple': ('the others, including Wasim', 'were critically injured', '')}
 {'L': 'on the spot', 'T': 'while the others, including Wasim, were critically injured', 'tuple': ('Singh', 'was killed', 'L:on the spot', 'T:while the others, including Wasim, were critically injured')}
 ['the spot while the others including Wasim were critically injured.']
+['the spotwhile the others including Wasim were critically injured']
 
 ---------------
 
@@ -3848,7 +3962,7 @@ Under the impact, the cart broke into pieces killing one of the bullocks on the 
 {'L': 'Under the impact', 'tuple': ('the cart', 'broke', 'into pieces', 'L:Under the impact')}
 ['pieces killing one of the bullocks', 'the spot.']
 ['the spot']
-['piecesL:Under the impact']
+['piecesUnder the impact']
 
 ---------------
 
@@ -3865,7 +3979,7 @@ A septuagenarian was killed while four others including a woman sustained injuri
 {'T': 'after a car rammed a lorry', 'tuple': ('four others including a woman', 'sustained', 'injuries', 'T:after a car rammed a lorry')}
 {'T': 'while four others including a woman sustained injuries after a car rammed a lorry', 'tuple': ('A septuagenarian', 'was killed', 'T:while four others including a woman sustained injuries after a car rammed a lorry')}
 ['the middle of the road', 'the Trichy \xe2\x80\x93 Karur national highway', 'the wee hours of Wednesday.']
-['the Trichy - Karur national highway', 'the wee hours of Wednesday']
+['the middle of the road', 'the Trichy - Karur national highway', 'the wee hours of Wednesday']
 ['the middle of the road', 'the Trichy - Karur national highway', 'the wee hours of Wednesday']
 ['the middle of the road', 'the Trichy - Karur national highway', 'the wee hours of Wednesday']
 
@@ -3879,7 +3993,7 @@ Two youth, natives of Odisha, died in a road accident on Tuesday after the bike 
 {'L': 'in a road accident', 'T': 'after the bike they were riding on rammed into a parked truck on National Highway 17-B at Shantinagar', 'tuple': ('Two youth', 'died', 'L:in a road accident', 'T:on Tuesday', 'T:after the bike they were riding on rammed into a parked truck on National Highway 17-B at Shantinagar')}
 ['a road accident', 'Tuesday after the bike they were riding', 'rammed', 'a parked truck', 'National Highway 17-B', 'Shantinagar Vasco.']
 ['a parked truck']
-['rammed', 'a parked truck', 'National Highway 17-B', 'Shantinagar']
+['a road accidenton Tuesdayafter the bike they were riding', 'rammed', 'a parked truck', 'National Highway 17-B', 'Shantinagar']
 
 ---------------
 
@@ -3887,7 +4001,7 @@ When they reached Shantinagar, they rammed into a parked truck.
 {'T': 'When they reached Shantinagar', 'tuple': ('they', 'rammed', 'into a parked truck', 'T:When they reached Shantinagar')}
 {'tuple': ('they', 'reached', 'Shantinagar')}
 ['a parked truck.']
-['a parked truckT:When they reached Shantinagar']
+['a parked truckWhen they reached Shantinagar']
 
 ---------------
 
@@ -3944,7 +4058,7 @@ Eleven persons died and six others were seriously injured on Tuesday when the au
 {'tuple': ('Eleven persons', 'died', '')}
 ['Tuesday when the autorickshaw collided head-on with a bus', '9am', 'Purani Bazaar', 'Sarai police station area 15km from Hajipur', 'Vaishali district.']
 ['9 am', 'Purani Bazaar', 'Sarai police station area']
-['with a bus', '9 am', 'Purani Bazaar', 'Sarai police station area']
+['Tuesdaywhen the autorickshaw collided head -', 'with a bus', '9 am', 'Purani Bazaar', 'Sarai police station area']
 
 ---------------
 
@@ -3952,6 +4066,7 @@ She said nine passengers died on the spot.
 {'L': 'on the spot', 'tuple': ('nine passengers', 'died', 'L:on the spot')}
 {'tuple': ('She', 'said', 'nine passengers died on the spot')}
 ['the spot.']
+['the spot']
 ['the spot']
 
 ---------------
@@ -4013,9 +4128,9 @@ Bhattacharya@timesgroup.comNew Delhi: A BSES engineer was killed and four of his
 {'T': 'when their car crashed into a tree while trying to escape from a mob', 'tuple': ('four of his colleagues', 'injured', 'T:when their car crashed into a tree while trying to escape from a mob')}
 {'tuple': ('A BSES engineer', 'was killed', '')}
 ['a tree while trying to escape from a mob armed with rods and hockey sticks', 'Jhuljhuli village', 'Najafgarh', 'southwest Delhi', 'Monday afternoon.']
-['NajafgarhL:in southwest DelhiT:on Monday afternoon']
-['Jhuljhuli village', 'NajafgarhL:in southwest DelhiT:on Monday afternoon']
-['a treeT:while trying to escape from a mob']
+['Najafgarhin southwest Delhion Monday afternoon']
+['Jhuljhuli village', 'Najafgarhin southwest Delhion Monday afternoon']
+['a treewhile trying to escape from a mob']
 ['a tree while trying to escape from a mob']
 
 ---------------
@@ -4024,6 +4139,7 @@ Singh, 28, was killed on the spot while the others, including Wasim, were critic
 {'tuple': ('the others, including Wasim', 'were critically injured', '')}
 {'L': 'on the spot', 'T': 'while the others, including Wasim, were critically injured', 'tuple': ('Singh', 'was killed', 'L:on the spot', 'T:while the others, including Wasim, were critically injured')}
 ['the spot while the others including Wasim were critically injured.']
+['the spotwhile the others including Wasim were critically injured']
 
 ---------------
 
@@ -4051,6 +4167,7 @@ A college student was killed when he tried to overtake an MTC bus on Kodambakkam
 One of his friends was also injured in the accident.
 {'L': 'in the accident', 'tuple': ('One of his friends', 'was also injured', 'L:in the accident')}
 ['the accident.']
+['the accident']
 
 ---------------
 
@@ -4084,7 +4201,7 @@ After hitting the car, the truck went ahead and rammed into another truck parked
 {'T': 'After hitting the car', 'tuple': ('the truck', 'went', 'ahead', 'T:After hitting the car')}
 ['another truck parked', 'front of the car.']
 ['front of the car']
-['another truckT:After hitting the car']
+['another truckAfter hitting the car']
 
 ---------------
 
@@ -4102,8 +4219,8 @@ A 28-year-old Kharegaon resident, Ajay Sharma was killed after a speeding SUV cr
 {'L': 'near the Kharegaon toll post', 'T': 'on Tuesday', 'tuple': ('a speeding SUV', 'crashed', 'into them', 'L:near the Kharegaon toll post', 'T:on Tuesday')}
 {'T': 'A 28-year-old Kharegaon resident', 'tuple': ('Ajay Sharma', 'was killed', 'T:after a speeding SUV crashed into them near the Kharegaon toll post on Tuesday', 'T:A 28-year-old Kharegaon resident')}
 ['them', 'the Kharegaon toll post', 'Tuesday.']
-['themL:near the Kharegaon toll postT:on Tuesday']
-['them', 'the Kharegaon toll post', 'TuesdayT:A 28-year-old Kharegaon resident']
+['themnear the Kharegaon toll poston Tuesday']
+['them', 'the Kharegaon toll post', 'TuesdayA 28-year-old Kharegaon resident']
 
 ---------------
 
@@ -4132,7 +4249,7 @@ The driver of an Ola cab has been arrested for allegedly escaping after abandoni
 {'L': 'in Navi Mumbai', 'T': 'last week', 'tuple': ('he', 'had knocked down', 'on Palm Beach Road', 'L:in Navi Mumbai', 'T:last week')}
 {'tuple': ('The driver of an Ola cab', 'has been arrested', 'for allegedly escaping after abandoning')}
 ['Palm Beach Road', 'Navi Mumbai last week.']
-['Palm Beach RoadL:in Navi MumbaiT:last week']
+['Palm Beach Roadin Navi Mumbailast week']
 
 ---------------
 
@@ -4145,6 +4262,7 @@ She enquired with a few autorickshaw drivers who told her that the biker had bee
 {'tuple': ('She', 'enquired', 'with a few autorickshaw drivers')}
 ['an accident involving a cab and that the driver had taken him to hospital.']
 ['an accident']
+['an accident']
 
 ---------------
 
@@ -4153,7 +4271,7 @@ The cabbie allegedly dumped the injured biker at a desolate spot on the road whe
 {'tuple': ('The cabbie allegedly dumped the injured biker at a desolate spot on the road where he lay bleeding for nearly 12 hours', 'said', 'the police')}
 {'T': 'for nearly 12 hours', 'L': 'the road', 'tuple': ('he', 'lay bleeding', 'T:for nearly 12 hours', 'L:the road')}
 ['a desolate spot', 'the road where he lay bleeding for nearly 12 hours said the police.']
-['the roadT:for nearly 12 hours']
+['the roadfor nearly 12 hours']
 
 ---------------
 
@@ -4166,7 +4284,7 @@ A mob set a motorcycle on fire in Sohna area on Thursday afternoon after it ramm
 {'T': 'after it rammed into kanwariyas', 'tuple': ('A mob', 'set', 'a motorcycle', 'on fire in Sohna area', 'T:on Thursday afternoon', 'T:after it rammed into kanwariyas')}
 ['fire', 'Sohna area', 'Thursday afternoon after it rammed', 'kanwariyas.']
 ['kanwariyas']
-['Sohna areaT:on Thursday afternoonT:after it rammed', 'kanwariyas']
+['Sohna areaon Thursday afternoonafter it rammed', 'kanwariyas']
 
 ---------------
 
@@ -4181,7 +4299,7 @@ The incident happened around 11.30am when a motorcycle, carrying three men, ramm
 The altercation betwen them soon turned into a brawl.
 {'T': 'soon', 'tuple': ('The altercation betwen them', 'turned', 'into a brawl', 'T:soon')}
 ['a brawl.']
-['a brawlT:soon']
+['a brawlsoon']
 
 ---------------
 
@@ -4190,7 +4308,7 @@ The altercation betwen them soon turned into a brawl.
 Hisar deputy superintendent of police (DSP) Shilakshi Bhardwaj was injured in an accident at Sector 14 in Panchkula on Wednesday.
 {'L': 'in an accident at Sector 14 in Panchkula', 'T': 'on Wednesday', 'tuple': ('DSP) Shilakshi Bhardwaj', 'was injured', 'L:in an accident at Sector 14 in Panchkula', 'T:on Wednesday')}
 ['an accident', 'Sector 14', 'Panchkula', 'Wednesday.']
-['Sector 14', 'PanchkulaT:on Wednesday']
+['an accident', 'Sector 14', 'Panchkulaon Wednesday']
 
 ---------------
 
@@ -4217,7 +4335,7 @@ Drunk driving snuffed out the lives of two more youngsters in city on Thursday w
 {'tuple': ('the car', 'injured', '')}
 {'tuple': ('The tragedy', 'left', 'three other occupants of the car')}
 ['city', 'Thursday when a car crashed', 'a metro rail pillat', 'Chaitanyapuri. -----------.']
-['a metro rail pillatL:at Chaitanyapuri']
+['a metro rail pillatat Chaitanyapuri']
 
 ---------------
 
@@ -4228,6 +4346,7 @@ Chaitanya who was sitting in the back seat died on the spot and Srinath who was 
 {'tuple': ('Chaitanya', 'was sitting', 'in the back seat')}
 ['the back seat died', 'the spot and Srinath who was sitting next to him succumbed to inju ries a few hours later while undergoing treatment', 'a nearby hospital.']
 ['a nearby hospital']
+['the spot']
 ['the back seat']
 
 ---------------
@@ -4237,6 +4356,7 @@ At Malabar Gold at Chaitanyapuri, another car travelling in front of Sai Kumar's
 {'L': "in front of Sai Kumar's vehicle", 'tuple': ('another car', 'travelling', "L:in front of Sai Kumar's vehicle")}
 ['Chaitanyapuri another car travelling', "front of Sai Kumar's vehicle suddenly turned right without any indication."]
 ['Chaitanyapuri']
+["front of Sai Kumar's vehicle"]
 
 ---------------
 
@@ -4246,7 +4366,7 @@ Two persons died and five others injured in a fatal road accident near village K
 {'L': 'in a fatal road accident near village Kaparda in Bilara on Jodhpur - Jaipur highway', 'tuple': ('five others', 'injured', 'L:in a fatal road accident near village Kaparda in Bilara on Jodhpur - Jaipur highway')}
 {'tuple': ('Two persons', 'died', '')}
 ['a fatal road accident', 'village Kaparda', 'Bilara', 'Jodhpur-Jaipur highway.']
-['village Kaparda', 'Bilara', 'Jodhpur - Jaipur highway']
+['a fatal road accident', 'village Kaparda', 'Bilara', 'Jodhpur - Jaipur highway']
 
 ---------------
 
@@ -4275,7 +4395,7 @@ Two persons died and five others injured in a fatal road accident near village K
 {'L': 'in a fatal road accident near village Kaparda in Bilara on Jodhpur - Jaipur highway', 'tuple': ('five others', 'injured', 'L:in a fatal road accident near village Kaparda in Bilara on Jodhpur - Jaipur highway')}
 {'tuple': ('Two persons', 'died', '')}
 ['a fatal road accident', 'village Kaparda', 'Bilara', 'Jodhpur-Jaipur highway.']
-['village Kaparda', 'Bilara', 'Jodhpur - Jaipur highway']
+['a fatal road accident', 'village Kaparda', 'Bilara', 'Jodhpur - Jaipur highway']
 
 ---------------
 
@@ -4305,7 +4425,7 @@ Those who died have been identified as Durgaram Choudhary and Rewatlal Paliwal, 
 The accident took place near Khadki railway station on the Pune-Mumbai highway around 12.30pm on Friday.
 {'L': 'near Khadki railway station', 'T': 'on Friday', 'tuple': ('The accident', 'took', 'place', 'L:near Khadki railway station', 'T:on the Pune-Mumbai highway around 12.30pm', 'T:on Friday')}
 ['Khadki railway station', 'the Pune-Mumbai highway', '12.30pm', 'Friday.']
-['12.30pmT:on Friday']
+['12.30pmon Friday']
 
 ---------------
 
@@ -4333,7 +4453,7 @@ One person died and three others were injured in two separate accidents on the M
 {'L': 'in two separate accidents on the Mumbai - Pune Expressway', 'T': 'on Friday', 'tuple': ('three others', 'were injured', 'L:in two separate accidents on the Mumbai - Pune Expressway', 'T:on Friday')}
 {'tuple': ('One person', 'died', '')}
 ['two separate accidents', 'the Mumbai-Pune Expressway', 'Friday.']
-['the Mumbai - Pune ExpresswayT:on Friday']
+['two separate accidents', 'the Mumbai - Pune Expresswayon Friday']
 
 ---------------
 
@@ -4342,8 +4462,8 @@ In the first mishap, around 6am, four vehicles collided on the Mumbai corridor n
 {'L': 'In the first mishap', 'tuple': ('a speeding luxury bus', 'crashed', 'into a tanker', 'L:In the first mishap')}
 {'L': 'on the Mumbai corridor near Dheku village', 'tuple': ('four vehicles', 'collided', 'L:on the Mumbai corridor near Dheku village')}
 ['6am four vehicles collided', 'the Mumbai corridor', 'Dheku village\xe2\x80\x94a speeding luxury bus crashed', 'a tanker which rammed', 'a container truck which then hit a truck.']
-['a tankerL:In the first mishap']
-['Dheku village']
+['a tankerIn the first mishap']
+['the Mumbai corridor', 'Dheku village']
 
 ---------------
 
@@ -4351,6 +4471,7 @@ The container truck driver, Vikas Khedekar (22), died on the spot and two others
 {'tuple': ('The two others', 'were injured', '')}
 {'L': 'on the spot', 'tuple': ('The container truck driver', 'died', 'L:on the spot')}
 ['the spot and two others were injured.']
+['the spot']
 
 ---------------
 
@@ -4391,6 +4512,7 @@ The accident took place when the driver applied the brakes suddenly in order to 
 {'tuple': ('the driver', 'applied suddenly', 'in order')}
 {'T': 'when the driver applied the brakes suddenly in order', 'tuple': ('The accident', 'took', 'place', 'T:when the driver applied the brakes suddenly in order')}
 ['order to save a two-wheeler which had appeared', 'its path without warning.']
+['its path without warning']
 ['order']
 ['order']
 
@@ -4400,7 +4522,7 @@ Nine people, including seven pilgrims from various cities of Gujarat, were kille
 {'tuple': '0.38 (Highway; [is] National [of]; Udaipur)'}
 {'L': 'at Balicha Bypass on Ahmedabad-Udaipur National Highway 8', 'tuple': ('Nine people, including seven pilgrims from various cities of Gujarat', 'were killed', 'L:in a road accident near Nehla village', 'L:at Balicha Bypass on Ahmedabad-Udaipur National Highway 8')}
 ['a road accident', 'Nehla village', 'Balicha Bypass', 'Ahmedabad-Udaipur National Highway 8', 'Saturday morning.']
-['Nehla villageL:at Balicha Bypass', 'Ahmedabad-Udaipur National Highway 8']
+['a road accident', 'Nehla villageat Balicha Bypass', 'Ahmedabad-Udaipur National Highway 8']
 
 ---------------
 
@@ -4459,6 +4581,7 @@ Two members of a family, one of them a six month-old baby, were killed and five 
 {'tuple': ('the omni', 'van hit', 'the parapet wall of a flyover near Perumanallur in Tirupur district')}
 {'T': 'after the omni van hit the parapet wall of a flyover near Perumanallur in Tirupur district', 'tuple': ('Two members of a family', 'were killed', 'T:after the omni van hit the parapet wall of a flyover near Perumanallur in Tirupur district')}
 ['Perumanallur', 'Tirupur district and overturned', 'Saturday.']
+['Saturday']
 ['Perumanallur', 'Tirupur district']
 ['Saturday']
 ['Perumanallur', 'Tirupur district']
@@ -4470,6 +4593,8 @@ Dharmesh and Prema died on the spot.
 {'L': 'on the spot', 'tuple': ('Prema', 'died', 'L:on the spot')}
 {'L': 'on the spot', 'tuple': ('Dharmesh', 'died', 'L:on the spot')}
 ['the spot.']
+['the spot']
+['the spot']
 
 ---------------
 
@@ -4480,6 +4605,8 @@ A man injured critically in an accident could not reach the hospital on time bec
 {'T': 'on time', 'tuple': ('A man injured critically in an accident', 'could not reach', 'the hospital', 'T:on time')}
 {'L': 'in an accident', 'tuple': ('A man', 'injured critically', 'L:in an accident')}
 ['an accident could not reach the hospital', 'time because of a traffic jam and died', 'the way', 'Thakurganj', 'Saturday.']
+['Saturday']
+['an accident']
 
 ---------------
 
@@ -4551,6 +4678,7 @@ She died on the spot, while Mamta’s legs were crushed under the truck’s whee
 {'tuple': ("She died on the spot, while Mamta's legs were crushed under the truck's wheels", 'said', 'the officer')}
 {'L': "under the truck's wheels", 'tuple': ("Mamta's legs", 'were crushed', "L:under the truck's wheels")}
 ['the spot while Mamta\xe2\x80\x99s legs were crushed', 'the truck\xe2\x80\x99s wheels\xe2\x80\x9d said the officer.']
+["the spotwhile Mamta's legs were crushed", "the truck's wheels"]
 ["the truck's wheels"]
 
 ---------------
@@ -4595,7 +4723,7 @@ Ajit Chaurasia, who was a pan shop owner and a resident of Vejalpur area, met wi
 {'tuple': ('Ajit Chaurasia', 'was', 'a pan shop owner')}
 ['Thaltej Crossroads when he was going home', 'his two-wheeler', 'Thursday.']
 ['Thursday']
-['Thaltej CrossroadsT:when he was going home', 'his two - wheeler', 'Thursday']
+['Thaltej Crossroadswhen he was going home', 'his two - wheeler', 'Thursday']
 
 ---------------
 
@@ -4686,7 +4814,7 @@ A person was killed and three others feared drowned after a car plunged into the
 {'tuple': ('three others', 'feared', 'drowned after a car plunged into the Beas river near Vaishno Devi temple in Kullu on Sunday afternoon')}
 {'tuple': ('A person', 'was killed', '')}
 ['the Beas river', 'Vaishno Devi temple', 'Kullu', 'Sunday afternoon.']
-['the Beas river', 'Vaishno Devi temple', 'KulluT:on Sunday afternoon']
+['the Beas river', 'Vaishno Devi temple', 'Kulluon Sunday afternoon']
 ['the Beas river', 'Vaishno Devi temple', 'Kullu', 'Sunday afternoon']
 ['the Beas river', 'Vaishno Devi temple', 'Kullu', 'Sunday afternoon']
 
@@ -4768,9 +4896,9 @@ On Saturday evening, a speeding car, driven by an inebriated man, rammed into th
 {'tuple': ('the driver', 'identified', 'as 35-year-old Ashok Kumar')}
 {'T': 'identified as 35-year-old Ashok Kumar', 'tuple': ('Police', 'arrested', 'the driver', 'T:identified as 35-year-old Ashok Kumar')}
 ['the house killing 5-year-old Ramji and seriously injuring another child Anamika 6. -----------.']
-['the houseT:On Saturday evening']
+['the houseOn Saturday evening']
 ['the same area', 'Section 304 (culpable homicide not amounting to murder) of IPC.']
-['Section 304']
+['the same area', 'Section 304']
 
 ---------------
 
@@ -4791,7 +4919,9 @@ The driver of the Audi who had allegedly mowed down a man on Bahadur Shah Zafar 
 {'tuple': ('The driver of the Audi', 'was tracked down', '')}
 {'T': 'on Saturday night', 'tuple': ('The driver of the Audi', 'had allegedly mowed down', 'a man on Bahadur Shah Zafar Marg', 'T:on Saturday night')}
 ['Bahadur Shah Zafar Marg', 'Saturday night was tracked down and arrested', 'Monday after a manhunt across Delhi and Haryana.']
-['Bahadur Shah Zafar MargT:on Saturday night']
+['Mondayafter a manhunt across Haryana']
+['Mondayafter a manhunt across Delhi']
+['Bahadur Shah Zafar Margon Saturday night']
 
 ---------------
 
@@ -4826,13 +4956,16 @@ A 54-year-old woman riding pillion on a bike with her husband was killed in a hi
 {'L': 'on a bike', 'tuple': ('A 54 - year - old woman', 'riding', 'pillion', 'L:on a bike')}
 ['a bike with her husband was killed', 'a hit-and-run incident involving a speeding container', 'Shatrunjay Temple chowk', 'Katraj-Kondhwa bypass', '7.30pm', 'Sunday.']
 ['Shatrunjay Temple']
+['a hit - run incident']
 ['Shatrunjay Temple']
+['a hit - incident']
 
 ---------------
 
 “The woman died on the spot.
 {'L': 'on the spot', 'tuple': ('The woman', 'died', 'L:on the spot')}
 ['the spot.']
+['the spot']
 
 ---------------
 
@@ -4894,6 +5027,8 @@ The victim was hit at the Bahadur Shah Zafar Marg and had died on the spot.
 {'L': 'on the spot', 'tuple': ('The victim', 'had died', 'L:on the spot')}
 {'L': 'at the Bahadur Shah Zafar Marg', 'tuple': ('The victim', 'was hit', 'L:at the Bahadur Shah Zafar Marg')}
 ['the Bahadur Shah Zafar Marg and had died', 'the spot.']
+['the spot']
+['the Bahadur Shah Zafar Marg']
 
 ---------------
 
@@ -4951,7 +5086,7 @@ Under the impact, the SUV turned turtle while the truck flipped again, coming to
 {'T': 'while the truck flipped again, coming to rest on its wheels', 'L': 'Under the impact', 'tuple': ('the SUV', 'turned', 'turtle', 'T:while the truck flipped again, coming to rest on its wheels', 'L:Under the impact')}
 ['its wheels.']
 ['its wheels']
-['its wheelsL:Under the impact']
+['its wheelsUnder the impact']
 
 ---------------
 
@@ -5069,7 +5204,7 @@ Police sources said more than two dozen critically injured passengers were refer
 {'tuple': ('Police sources', 'said', 'more than two dozen critically injured passengers were referred to SKMCH in Muzaffarpur as Sitamarhi district doctors are on indefinite strike following frequent assault on doctors')}
 {'tuple': ('Sitamarhi district doctors', 'are', 'on indefinite strike')}
 ['Muzaffarpur as Sitamarhi district doctors are', 'indefinite strike following frequent assault', 'doctors.']
-['indefinite strikeT:following frequent assault', 'doctors']
+['indefinite strikefollowing frequent assault', 'doctors']
 ['Muzaffarpur as Sitamarhi district doctors are', 'indefinite strike following frequent assault', 'doctors']
 ['indefinite strike']
 
@@ -5079,7 +5214,7 @@ The bus was on way to Pupri while the truck was coming to Sitamarhi.
 {'tuple': ('the truck', 'was coming', 'to Sitamarhi')}
 {'T': 'while the truck was coming to Sitamarhi', 'tuple': ('The bus', 'was', 'on way to Pupri', 'T:while the truck was coming to Sitamarhi')}
 ['way to Pupri while the truck was coming to Sitamarhi.']
-['way to PupriT:while the truck was coming to Sitamarhi']
+['way to Pupriwhile the truck was coming to Sitamarhi']
 
 ---------------
 
@@ -5097,7 +5232,8 @@ The victim has mentioned in his suicide note that he was in a relationship with 
 {'L': 'in his suicide note that but after she broke up with him he decided to kill himself', 'tuple': ('The victim', 'has mentioned', 'L:in his suicide note that but after she broke up with him he decided to kill himself')}
 ['his suicide note that he was', 'a relationship with the woman for nearly 13 years but after she broke up with him he decided to kill himself.']
 ['a relationship with the woman for nearly 13 years']
-['a relationship with the woman for nearly 13 years but after she broke up with him']
+['his suicide notehe was', 'a relationship with the woman for nearly 13 years but after she broke up with him']
+['his suicide note that but after she broke up with him he decided to kill himself']
 
 ---------------
 
@@ -5117,10 +5253,13 @@ Senior inspector of Sanpada police station, Suraj Padvi, said, “Kakade, a labo
 {'L': 'in Koparkhairane', 'tuple': ('victim', 'lived', 'L:in Koparkhairane')}
 {'L': 'in the letter', 'tuple': ('victim , who lived in Koparkhairane', 'has mentioned', 'L:in the letter', 'that he was in a relationship with the woman for nearly 13 years')}
 ['the suicide note that he is ending his life because of a woman who has left him for another man.\xe2\x80\x9dThe']
+['the suicide notethat he is ending his life because of a woman']
 ['the suicide note that he is ending his life because of a woman']
 ['Koparkhairane has also mentioned', 'the letter that he was', 'a relationship with the woman for nearly 13 years but after she broke up with him he decided to kill himself.']
+['the letterafter she broke up with himhe decided to kill himself']
 ['a relationship with the woman for nearly 13 years']
-['a relationship with the woman for nearly 13 years']
+['Koparkhairane']
+['the letterthat he was', 'a relationship with the woman for nearly 13 years']
 
 ---------------
 
@@ -5137,14 +5276,14 @@ A 35-year-old man allegedly committed suicide by hanging himself from a tree in 
 A speeding vehicle on the Panaji-Old Goa bypass ran into three cows on Thursday just after 6am, killing them on the spot.
 {'T': 'just after 6am', 'tuple': ('A speeding vehicle on the Panaji-Old Goa bypass', 'ran', 'into three cows', 'T:on Thursday', 'T:just after 6am')}
 ['the Panaji-Old Goa bypass ran', 'three cows', 'Thursday just after 6am killing them', 'the spot.']
-['three cowsT:on ThursdayT:just after 6am']
+['three cowson Thursdayjust after 6am']
 
 ---------------
 
 A week ago, three cattle were killed at the Chimbel-Ribandar junction near Our Lady of Conception chapel at Chinchwada, Chimbel.
 {'L': 'at the Chimbel-Ribandar junction near Our Lady of Conception', 'T': 'A week ago', 'tuple': ('three cattle', 'were killed', 'L:at the Chimbel-Ribandar junction near Our Lady of Conception', 'T:A week ago')}
 ['the Chimbel-Ribandar junction', 'Our Lady of Conception chapel', 'Chinchwada Chimbel.']
-['Our Lady of ConceptionT:A week ago']
+['the Chimbel-Ribandar junction', 'Our Lady of ConceptionA week ago']
 
 ---------------
 
@@ -5152,7 +5291,7 @@ Three cattle were injured and one killed in an accident a fortnight ago near Sai
 {'L': 'in an accident a fortnight ago near Sai Baba temple', 'tuple': ('one', 'killed', 'L:in an accident a fortnight ago near Sai Baba temple')}
 {'tuple': ('Three cattle', 'were injured', '')}
 ['an accident a fortnight ago', 'Sai Baba temple.']
-['Sai Baba temple']
+['an accident a fortnight ago', 'Sai Baba temple']
 
 ---------------
 
@@ -5169,7 +5308,7 @@ In a separate incident, a private luxury bus skidded off the road near Bhidbhanj
 {'tuple': ('the driver', 'lost', 'control over the vehicle')}
 {'L': 'In a separate incident', 'T': 'after the driver lost control over the vehicle', 'tuple': ('a private luxury bus', 'skidded', 'off the road near Bhidbhanjan Hanuman temple', 'L:in Lathi town of Amreli district', 'T:after the driver lost control over the vehicle', 'L:In a separate incident')}
 ['Bhidbhanjan Hanuman temple', 'Lathi town of Amreli district after the driver lost control over the vehicle.']
-['Bhidbhanjan Hanuman templeL:in Lathi town of Amreli districtT:after the driver lost control over the vehicleL:In a separate incident']
+['Bhidbhanjan Hanuman templein Lathi town of Amreli districtafter the driver lost control over the vehicleIn a separate incident']
 
 ---------------
 
@@ -5178,7 +5317,7 @@ RAJKOT/AHMEDABAD: Around 35 school children had a providential escape after thei
 {'tuple': ('their bus', 'got', 'stranded in an overflowing causeway near Morbi town on Thursday morning')}
 {'T': 'after their bus got stranded in an overflowing causeway near Morbi town on Thursday morning', 'tuple': ('Around 35 school children', 'had', 'a providential escape', 'T:after their bus got stranded in an overflowing causeway near Morbi town on Thursday morning')}
 ['an overflowing causeway', 'Morbi town', 'Thursday morning.']
-['Morbi town', 'Thursday morning']
+['an overflowing causeway', 'Morbi town', 'Thursday morning']
 ['an overflowing causeway', 'Morbi town', 'Thursday morning']
 ['an overflowing causeway', 'Morbi town', 'Thursday morning']
 
@@ -5230,6 +5369,8 @@ People said the bus driver had jumped the signal and the crowd was busy yelling 
 {'tuple': ('the crowd', 'yelling', 'at him')}
 {'tuple': ('the crowd', 'was', 'busy yelling at him')}
 ['him but no one bothered to help the victim\xe2\x80\x9d Budukh who lives', 'Karvenagar said.']
+['Karvenagar']
+['Karvenagar']
 ['him']
 ['him']
 ['him']
@@ -5260,9 +5401,9 @@ Three persons, who were standing on a road divider while waiting for a bus, were
 {'T': 'after a SUV travelling at almost 100km per hour rammed into them near the Ludhiana-Delhi National Highway at Sahnewal on Thursday', 'tuple': ('Three persons, who were standing on a road divider', 'were killed', 'T:after a SUV travelling at almost 100km per hour rammed into them near the Ludhiana-Delhi National Highway at Sahnewal on Thursday')}
 {'T': 'while waiting for a bus', 'tuple': ('Three persons', 'were standing', 'on a road divider', 'T:while waiting for a bus')}
 ['a road divider while waiting for a bus were killed after a SUV travelling', 'almost 100km per hour rammed', 'them', 'the Ludhiana-Delhi National Highway', 'Sahnewal', 'Thursday.']
-['themL:near the Ludhiana-Delhi National HighwayL:at SahnewalT:on Thursday']
+['themnear the Ludhiana-Delhi National Highwayat Sahnewalon Thursday']
 ['almost 100km per hour rammed', 'them', 'the Ludhiana-Delhi National Highway', 'Sahnewal', 'Thursday']
-['a road dividerT:while waiting for a bus']
+['a road dividerwhile waiting for a bus']
 
 ---------------
 
@@ -5292,9 +5433,9 @@ Three persons, who were standing on a road divider while waiting for a bus, were
 {'T': 'after a SUV travelling at almost 100km per hour rammed into them near the Ludhiana-Delhi National Highway at Sahnewal on Thursday', 'tuple': ('Three persons, who were standing on a road divider', 'were killed', 'T:after a SUV travelling at almost 100km per hour rammed into them near the Ludhiana-Delhi National Highway at Sahnewal on Thursday')}
 {'T': 'while waiting for a bus', 'tuple': ('Three persons', 'were standing', 'on a road divider', 'T:while waiting for a bus')}
 ['a road divider while waiting for a bus were killed after a SUV travelling', 'almost 100km per hour rammed', 'them', 'the Ludhiana-Delhi National Highway', 'Sahnewal', 'Thursday.']
-['themL:near the Ludhiana-Delhi National HighwayL:at SahnewalT:on Thursday']
+['themnear the Ludhiana-Delhi National Highwayat Sahnewalon Thursday']
 ['almost 100km per hour rammed', 'them', 'the Ludhiana-Delhi National Highway', 'Sahnewal', 'Thursday']
-['a road dividerT:while waiting for a bus']
+['a road dividerwhile waiting for a bus']
 
 ---------------
 
@@ -5337,6 +5478,7 @@ Four more devotees injured in the accident were also admitted to the hospital.
 {'tuple': ('Four more devotees injured in the accident', 'were also admitted', 'to the hospital')}
 {'L': 'in the accident', 'tuple': ('Four more devotees', 'injured', 'L:in the accident')}
 ['the accident were also admitted to the hospital.']
+['the accident']
 
 ---------------
 
@@ -5346,12 +5488,14 @@ A 25-year-old car driver died on the spot after the vehicle, carrying schoolchil
 {'tuple': ('A 25-year-old car driver', 'carrying', 'schoolchildren')}
 {'L': 'on the spot', 'T': 'after the vehicle', 'tuple': ('A 25-year-old car driver', 'died', 'L:on the spot', 'T:after the vehicle')}
 ['the spot after the vehicle carrying schoolchildren plunged', 'a 90 feet deep gorge', 'Lovedale', 'Ooty', 'Friday.']
+['the spotafter the vehicle']
 
 ---------------
 
 Five schoolchildren were seriously injured in the incident.
 {'L': 'in the incident', 'tuple': ('Five schoolchildren', 'were seriously injured', 'L:in the incident')}
 ['the incident.']
+['the incident']
 
 ---------------
 
@@ -5369,7 +5513,7 @@ Two men were killed after their motorcycles collided on Pollachi–Pallada Road 
 {'L': 'on Pollachi-Pallada Road at Thookampatti near Pollachi', 'T': 'on Thursday night', 'tuple': ('their motorcycles', 'collided', 'L:on Pollachi-Pallada Road at Thookampatti near Pollachi', 'T:on Thursday night')}
 {'T': 'after their motorcycles', 'tuple': ('Two men', 'were killed', 'T:after their motorcycles')}
 ['Pollachi\xe2\x80\x93Pallada Road', 'Thookampatti', 'Pollachi', 'Thursday night.']
-['Thookampatti', 'PollachiT:on Thursday night']
+['Pollachi-Pallada Road', 'Thookampatti', 'Pollachion Thursday night']
 
 ---------------
 
@@ -5434,7 +5578,7 @@ An official of IIM, Lalit Bhalla informed that the bus was on its way to the hos
 {'tuple': ('Lalit Bhalla', 'informed', 'that the bus was on its way to the hostel')}
 {'tuple': ('the accident', 'occurred', '')}
 ['its way to the hostel when the accident occurred.']
-['its way to the hostelT:when the accident occurred']
+['its way to the hostelwhen the accident occurred']
 ['its way to the hostel']
 
 ---------------
@@ -5445,6 +5589,7 @@ He told as the bus carrying around fifty students reached near the Hartej Hospit
 {'tuple': ('the bus', 'carrying', 'around fifty students')}
 {'tuple': ('He', 'told', 'as the bus', 'carrying around fifty students')}
 ['fifty students reached', 'the Hartej Hospital an over speeding Swift car hit the bus.']
+['the Hartej Hospital']
 ['fifty students']
 ['fifty students']
 
@@ -5498,7 +5643,8 @@ A truck driver died while another was injured in an accident which occurred on t
 {'L': 'in an accident', 'tuple': ('another', 'was injured', 'L:in an accident')}
 {'T': 'while another was injured in an accident', 'tuple': ('A truck driver', 'died', 'T:while another was injured in an accident')}
 ['an accident which occurred', 'the Yamuna expressway early', 'Saturday morning.']
-['Saturday morning']
+['the Yamuna expressway early', 'Saturday morning']
+['an accident']
 ['an accident']
 
 ---------------
@@ -5509,6 +5655,7 @@ The driver, Chanderpal, a resident of Aligarh, died on the spot when a high-way 
 {'tuple': ('a high-way tanker', 'approaching', 'the zero point', 'from Noida-Agra carriageway')}
 {'L': 'on the spot', 'tuple': ('The driver', 'died', 'L:on the spot')}
 ['the spot when a high-way tanker approaching the zero point from Noida-Agra carriageway hit him from behind.']
+['the spot']
 
 ---------------
 
@@ -5521,7 +5668,7 @@ He was standing on the road when a tanker approaching the zero point hit him.“
 {'tuple': ('tanker driver', 'tried to save', 'him')}
 {'tuple': ('tanker driver', 'tried', 'to save him')}
 ['the road when a tanker approaching the zero point hit him.\xe2\x80\x9cThe']
-['the roadT:when a tanker approaching the zero point hit him']
+['the roadwhen a tanker approaching the zero point hit him']
 
 ---------------
 
@@ -5534,7 +5681,7 @@ Two men, including a cab driver, died on the spot after their car rammed a truck
 ['the spot after their car rammed a truck parked', 'KIA (Kempegowda International Airport) expressway', 'Yelahanka late', 'Friday night.']
 ['KIA (Kempegowda International Airport) expressway', 'Yelahanka']
 ['KIA (Kempegowda International Airport) expressway', 'Yelahanka']
-['KIA (Kempegowda International Airport) expressway', 'Yelahanka late', 'Friday night']
+['the spotafter their car rammed a truck parked', 'KIA (Kempegowda International Airport) expressway', 'Yelahanka late', 'Friday night']
 
 ---------------
 
@@ -5590,7 +5737,7 @@ In a freak incident, an occupant of a car and an e-rickshaw driver were injured 
 {'T': "when a truck's tyre burst, sending it hurtling into the smaller vehicles on IIM road crossing on Saturday", 'L': 'In a freak incident', 'tuple': ('rickshaw driver', 'were injured', "T:when a truck's tyre burst, sending it hurtling into the smaller vehicles on IIM road crossing on Saturday", 'L:In a freak incident')}
 ['the smaller vehicles', 'IIM road crossing', 'Saturday.']
 ['the smaller vehicles', 'IIM road crossing', 'Saturday']
-['the smaller vehicles', 'IIM road crossing', 'SaturdayL:In a freak incident']
+['the smaller vehicles', 'IIM road crossing', 'SaturdayIn a freak incident']
 
 ---------------
 
@@ -5660,7 +5807,7 @@ Four persons, including an 84-year-old woman, were killed after a private bus co
 {'tuple': ('a private bus', 'collided on', 'with an autorickshaw near soyabean factory in Malegaon in Saoner tehsil')}
 {'T': 'after a private bus collided head - on with an autorickshaw near soyabean factory in Malegaon in Saoner tehsil', 'tuple': ('Four persons , including an 84 - year - old woman', 'were killed', 'T:after a private bus collided head - on with an autorickshaw near soyabean factory in Malegaon in Saoner tehsil')}
 ['soyabean factory', 'Malegaon', 'Saoner tehsil 35km from Nagpur', 'Saturday between 8:30pm and 9pm.']
-['soyabean factory', 'Malegaon', 'Saoner tehsilT:on SaturdayT:between 8:30 pm']
+['soyabean factory', 'Malegaon', 'Saoner tehsilon Saturdaybetween 8:30 pm']
 ['with an autorickshaw', 'soyabean factory', 'Malegaon', 'Saoner tehsil ', 'Saturday between 8:30 pm']
 ['soyabean factory', 'Malegaon', 'Saoner tehsil']
 ['with an autorickshaw', 'soyabean factory', 'Malegaon', 'Saoner tehsil']
@@ -5672,6 +5819,9 @@ Auto driver Gajendra Chandurkar (45), and two auto passengers Umesh Dahikar (36)
 {'L': 'on the spot', 'tuple': ('two auto passengers', 'died', 'L:on the spot')}
 {'L': 'on the spot', 'tuple': ('Auto driver Gajendra Chandurkar', 'died', 'L:on the spot')}
 ['the spot.']
+['the spot']
+['the spot']
+['the spot']
 
 ---------------
 
@@ -5689,6 +5839,7 @@ Both were working in private mobile company and were retuning home after work wh
 {'tuple': ('the accident', 'took', 'place')}
 {'L': 'in private mobile company', 'tuple': ('Both', 'were working', 'L:in private mobile company')}
 ['private mobile company and were retuning home after work when the accident took place.']
+['private mobile company']
 
 ---------------
 
@@ -5698,6 +5849,7 @@ A pillion rider was killed on the spot when a car hit the bike he was riding wit
 {'L': 'on the spot', 'tuple': ('A pillion rider', 'was killed', 'L:on the spot')}
 ['the spot when a car hit the bike he was riding with his colleague early Sunday', 'Bhattarahalli flyover', 'Hoskote.']
 ['Bhattarahalli flyover', 'Hoskote']
+['the spot']
 
 ---------------
 
@@ -5715,6 +5867,7 @@ Both were working in private mobile company and were retuning home after work wh
 {'tuple': ('the accident', 'took', 'place')}
 {'L': 'in private mobile company', 'tuple': ('Both', 'were working', 'L:in private mobile company')}
 ['private mobile company and were retuning home after work when the accident took place.']
+['private mobile company']
 
 ---------------
 
@@ -5724,6 +5877,7 @@ A pillion rider was killed on spot when a car hit the bike he was riding with hi
 {'L': 'on spot', 'T': 'when a car hit the bike', 'tuple': ('A pillion rider', 'was killed', 'L:on spot', 'T:when a car hit the bike')}
 ['spot when a car hit the bike he was riding with his colleague early Sunday', 'Bhattarahalli flyover', 'Hoskote.']
 ['Bhattarahalli flyover', 'Hoskote']
+['spotwhen a car hit the bike']
 
 ---------------
 
@@ -5758,7 +5912,8 @@ Zahid was on his way back home and was crossing the Prince Anwar Shah Road when 
 {'tuple': ('an AC bus of route AC1', 'ran over', 'him')}
 {'T': 'when an AC bus of route AC1 ( Jadavpur - Howrah ) ran him over at the Lake Gardens', 'tuple': ('Zahid', 'was', 'on his way back home', 'T:when an AC bus of route AC1 ( Jadavpur - Howrah ) ran him over at the Lake Gardens')}
 ['his way back home and was crossing the Prince Anwar Shah Road when an AC bus of route AC1 (Jadavpur \xe2\x80\x93 Howrah) ran him over', 'the Lake Gardens flyover crossing', '10.30pm.']
-['his way back homeT:when an AC bus of route AC1 ( Jadavpur - Howrah ) ran him over', 'the Lake Gardens']
+['the Lake Gardens']
+['his way back homewhen an AC bus of route AC1 ( Jadavpur - Howrah ) ran him over', 'the Lake Gardens']
 
 ---------------
 
@@ -5774,7 +5929,7 @@ A speeding container truck created a panic situation after it rammed into a car 
 ['a car and a multi-utility vehicle', 'Vadgaon bridge', 'the Katraj\xe2\x80\x93Dehu Road bypass', 'Sunday evening.']
 ['a multi-utility vehicle', 'Vadgaon bridge', 'the Katraj - Dehu Road bypass', 'Sunday evening']
 ['a multi-utility vehicle', 'Vadgaon bridge', 'the Katraj - Dehu Road bypass', 'Sunday evening']
-['a carT:on Sunday evening']
+['a caron Sunday evening']
 ['a car', 'Sunday evening']
 
 ---------------
@@ -5782,6 +5937,7 @@ A speeding container truck created a panic situation after it rammed into a car 
 No one was injured in the accident.
 {'L': 'in the accident', 'tuple': ('No one', 'was injured', 'L:in the accident')}
 ['the accident.']
+['the accident']
 
 ---------------
 
@@ -5791,7 +5947,7 @@ The container then rammed into the MUV and drag-pushed it for a few metres.
 {'tuple': ('the MUV', 'pushed', 'it', 'for a few metres')}
 {'T': 'then', 'tuple': ('The container', 'rammed', 'into', 'T:then')}
 ['the MUV and drag-pushed it for a few metres.']
-['dragT:then']
+['dragthen']
 
 ---------------
 
@@ -5805,6 +5961,7 @@ One woman kanwariya died on the spot, while 45 others, including seven minors, w
 {'L': 'on the spot', 'T': 'while 45 others , including seven minors , were injured when a private bus skidded off the road', 'tuple': ('One woman', 'died', 'L:on the spot', 'T:while 45 others , including seven minors , were injured when a private bus skidded off the road')}
 ['the spot while 45 others including seven minors were injured when a private bus skidded off the road turned turtle and rolled down', 'a rivulet', 'Sono police station', 'Jamui district', 'Saturday morning.']
 ['Sono police station', 'Jamui district', 'Saturday morning']
+['the spotwhile 45 others  including seven minors  were injured when a private bus skidded off the road']
 
 ---------------
 
@@ -5831,7 +5988,7 @@ When the bus was crossing Talwana bridge loacted about 40 km from the Jamui dist
 Two youths including a woman died in two different accidents in Tirupur district on Saturday.
 {'L': 'in two different accidents in Tirupur district', 'T': 'on Saturday', 'tuple': ('Two youths including a woman', 'died', 'L:in two different accidents in Tirupur district', 'T:on Saturday')}
 ['two different accidents', 'Tirupur district', 'Saturday.']
-['Tirupur districtT:on Saturday']
+['two different accidents', 'Tirupur districton Saturday']
 
 ---------------
 
@@ -5885,6 +6042,7 @@ Another man in the tempo was injured in the accident that took place at Parleshw
 {'tuple': ('a Juhu resident', 'was', 'at the wheel of the sedan')}
 ['the tempo was injured', 'the accident that took place', 'Parleshwar junction', '5am. -----------.']
 ['5am']
+['the accident']
 ['the wheel of the sedan was taken', 'custody.']
 ['custody']
 ['the wheel of the sedan']
@@ -5897,7 +6055,7 @@ A man was killed in Vile Parle east after a BMW rammed into the tempo he was dri
 {'L': 'in Vile Parle east', 'T': 'after a BMW rammed into the tempo', 'tuple': ('A man', 'was killed', 'L:in Vile Parle east', 'T:after a BMW rammed into the tempo')}
 ['Vile Parle east after a BMW rammed', 'the tempo he was driving early', 'Sunday.']
 ['the tempo']
-['the tempo']
+['Vile Parle eastafter a BMW rammed', 'the tempo']
 
 ---------------
 
@@ -5958,6 +6116,7 @@ Sources said that fire broke out in one of the cars due to short-circuit and eng
 {'tuple': ('Sources', 'said', 'that fire broke out in one of the cars due to short - circuit')}
 ['one of the cars due to short-circuit and engulfed the one parked adjacent to it too.']
 ['one of the cars due to short - circuit']
+['one of the cars due to short - circuit']
 
 ---------------
 
@@ -5977,6 +6136,7 @@ Sources said that fire broke out in one of the cars due to short-circuit and eng
 ['their car but they refused saying that the bottle is small and it would help us', 'dousing the large blaze\xe2\x80\x9d said Chauhan.']
 ['dousing the large blaze']
 ['dousing the large blaze']
+['their car']
 ['their car']
 
 ---------------
@@ -6001,6 +6161,7 @@ Due to his rash driving, the vehicle crashed into the culvert railing near Airpo
 {'tuple': ('his rash', 'driving', '')}
 ['the culvert railing', 'Airport Novotel hotel it went off the road and fell', 'a road-side pit.']
 ['the culvert railing', 'Airport Novotel hotel']
+['a road - side pit']
 ['the culvert railing', 'Airport Novotel hotel']
 
 ---------------
@@ -6011,6 +6172,7 @@ A nine-year-old boy died and eight others suffered injuries when their Alto car 
 {'tuple': ('eight others', 'suffered', 'injuries when their Alto car veered off the road')}
 {'tuple': ('A nine - year - old boy', 'died', '')}
 ['a pit', 'Shamshabad', 'Sunday afternoon.']
+['a pitat Shamshabadon Sunday afternoon']
 ['a pit', 'Shamshabad', 'Sunday afternoon']
 
 ---------------
@@ -6030,7 +6192,7 @@ On Sunday a 10-year-old boy was killed after a speeding truck ran over him in Ka
 {'L': 'in Kanota area of the city', 'tuple': ('a speeding truck', 'ran', 'over him', 'L:in Kanota area of the city')}
 {'T': 'after a speeding truck ran over him in Kanota area of the city', 'L': 'On Sunday', 'tuple': ('a 10-year-old boy', 'was killed', 'T:after a speeding truck ran over him in Kanota area of the city', 'L:On Sunday')}
 ['Kanota area of the city.']
-['Kanota area of the cityL:On Sunday']
+['Kanota area of the cityOn Sunday']
 
 ---------------
 
@@ -6063,6 +6225,7 @@ Zahid was crossing the Prince Anwar Shah Road on his way back when an AC 1, a Ja
 {'T': 'when an AC 1, a Jadavpur-Howrah route bus, ran him over at the Lake Gardens', 'tuple': ('Zahid', 'was crossing', 'the Prince Anwar Shah Road', 'T:when an AC 1, a Jadavpur-Howrah route bus, ran him over at the Lake Gardens')}
 ['his way back when an AC 1 a Jadavpur-Howrah route bus ran him over', 'the Lake Gardens flyover crossing.']
 ['the Lake Gardens']
+['the Lake Gardens']
 
 ---------------
 
@@ -6074,7 +6237,7 @@ Two people were killed in separate accidents within 24 hours in the city.
 {'L': 'in separate accidents', 'T': 'within 24 hours in the city', 'tuple': ('Two people', 'were killed', 'L:in separate accidents', 'T:within 24 hours in the city')}
 ['separate accidents within 24 hours', 'the city.']
 ['the city']
-['the city']
+['separate accidentswithin 24 hours', 'the city']
 
 ---------------
 
