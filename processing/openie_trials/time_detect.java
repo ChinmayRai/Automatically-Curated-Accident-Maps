@@ -2,14 +2,14 @@ import java.util.regex.*;
 import java.util.*;
 
 enum Day{	unspecified,monday,tuesday,wednesday,thursday,friday,saturday,sunday;	}
-enum TimePeriod{	none,early_morning,late_night,noon;   }
+enum TimePeriod{	none,early_morning,late_night,noon,evening;   }
 class date_time
 {
 	public int hrs,min;	public boolean am; public TimePeriod period; public int date; public int month; public Day day;
 	public date_time(){}
 }
 
-public class reg
+public class time_detect
 {
 	public static void main(String[] args) {
 
@@ -25,9 +25,10 @@ public class reg
 
 		String day_of_week="([Mm]on(day)?|[Tt]ue(sday)?|[Ww]ed(nesday)?|[Tt]hu(rsday)?|[Ff]ri(day)?|[Ss]at(urday)?|[Ss]un(day)?)";
 		String num_time="([\\d]{1,2}[[\\.:][\\d]{2}]*[\\s]{0,1}[ap][\\.]{0,1}[m][\\.]{0,1})";
-		String late="("+day_of_week+" midnight|late on "+day_of_week+"( night){0,1}|"+day_of_week+" night)";
+		String late="("+day_of_week+" midnight|late on "+day_of_week+"( night){0,1}|"+day_of_week+" night|late night on "+day_of_week+"|late night hours of "+day_of_week+")";
 		String early="((wee|early) hours of "+day_of_week+"|((early|wee) on ){0,1}"+day_of_week+" morning|(early|wee) on "+day_of_week+")";
 		String noon="("+day_of_week+" (after)?noon)";
+		String evening="("+day_of_week+" evening)";
 
 		
 		String month="([Jj]an(?:uary)?|[Ff]eb(?:ruary)?|[Mm]ar(?:ch)?|[Aa]pr(?:il)?|[Mm]ay|[Jj]un(?:e)?|[Jj]ul(?:y)?|[Aa]ug(?:ust)?|[Ss]ept(?:ember)?|[Oo]ct(?:ober)?|[Nn]ov(?:ember)?|[Dd]ec(?:ember)?)";
@@ -60,6 +61,7 @@ public class reg
 		if(Pattern.compile(late).matcher(s).find()){a.period=TimePeriod.late_night;}
 		else if(Pattern.compile(noon).matcher(s).find())a.period=TimePeriod.noon;
 		else if(Pattern.compile(early).matcher(s).find()){a.period=TimePeriod.early_morning;}
+		else if(Pattern.compile(evening).matcher(s).find()){a.period=TimePeriod.evening;}
 		else a.period=TimePeriod.none;
 		
 		Matcher m3= Pattern.compile(day_of_week).matcher(s);
