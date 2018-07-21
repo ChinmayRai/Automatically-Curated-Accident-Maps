@@ -100,6 +100,16 @@ def root_verbs(sentence):
 	return rootVerbs
 
 
+def pos_break(s):
+	delimiters = ["into","in","on","at","near","under","around"]
+	# along(!along with)
+	s=s.replace(',','')
+	for i in delimiters:
+		delim=" "+i+" "
+		s=s.replace(delim,"xdelimx")
+	l=s.split("xdelimx")
+	return l
+
 
 file_object = open(r"july2017/july_openie_output.txt","r")
 # month = file_object.read()
@@ -133,7 +143,7 @@ for line in lines:
 		if(len(sentence)>0):
 
 			flag=False
-			for t in sentence:
+			for t in sentence[1:]:
 				# t=get_tuple(i)
 				# if(t!=False):
 				if(t[1]=="took" and t[2]=="place"):
@@ -142,7 +152,7 @@ for line in lines:
 					flag=True
 
 			# rootVerbs = extract(sentence)
-			rootVerbs=root_verbs(sentence)
+			rootVerbs=root_verbs(sentence[1:])
 			
 			if(flag):
 				# assigning max score to this sentence so that it is always taken unless there are more than maxSentFromArticle number of such sentences
@@ -164,7 +174,7 @@ for line in lines:
 				score.append(currScore)
 
 			# sentence.append(rootVerbs)
-			for i in range(len(sentence)):
+			for i in range(len(sentence[1:])):
 				d=dict()
 				d['tuple']=sentence[i]
 				for cl in sentence[i]:
@@ -172,18 +182,21 @@ for line in lines:
 						d['L']=cl[2:]
 					if(cl[:2]=="T:"):
 						d['T']=cl[2:]
-				sentence[i]=d
+				sentence[1+i]=d
 
+			sentence.append(pos_break(sentence[0]))
 			article.append(sentence)
-			if(not(flag)):
-				rv=set()
-				for i in inter1:
-					rv.add(i)
-				for i in inter2:
-					rv.add(i)
-				for i in inter3:
-					rv.add(i)
-				article.append([list(rv)])
+
+			# to print intersection of root verbs with key verbs
+			# if(not(flag)):
+			# 	rv=set()
+			# 	for i in inter1:
+			# 		rv.add(i)
+			# 	for i in inter2:
+			# 		rv.add(i)
+			# 	for i in inter3:
+			# 		rv.add(i)
+			# 	article.append([list(rv)])
 			sentence=[]
 
 	elif(line[0]=='='):
@@ -222,6 +235,8 @@ for line in lines:
 		tup=get_tuple(line)
 		if(tup!=False and tup[1][0]!='['):
 			sentence.append(tup)
+		else:
+			sentence.append(line[:-1])	# to remove \n at end of line
 
 # FOR TXT OUTPUT
 file_object = open("july2017/july_sent_selected.txt","w")
@@ -231,11 +246,14 @@ file_object = open("july2017/july_sent_selected.txt","a")
 for day in month:
 	for article in day:
 		for sentence in article:
-			for line in sentence:
-				file_object.write(str(line)+"\n")
-		file_object.write("\n---------------\n\n")
-	file_object.write("====================\n\n")
-file_object.write("++++++++++++++++++++++++\n\n")
+			# for line in sentence:
+			# 	file_object.write(str(line)+"\n")
+			file_object.write(str(sentence[0])+"\n\n")
+			l=sentence[-1]
+			file_object.write(str(l[1:])+"\n")
+			file_object.write("\n---------------\n\n")
+		file_object.write("====================\n\n")
+	file_object.write("++++++++++++++++++++++++\n\n")
 file_object.close()
 
 

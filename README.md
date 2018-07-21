@@ -1,6 +1,9 @@
 # SURA
 
-TO DO: 15/7 - Complete Sentence Selection and automated pipeline
+TO DO: 21/7
+1) add he was travelling in type of phrases from openie input
+
+
 1) Exp with - diff weights of lists
 			- adding list 0 containing only kill, die, injure
 			- shuffling verbs amongst lists
@@ -82,12 +85,15 @@ http://opennlp.sourceforge.net/models-1.5/
 In another spine-chilling accident, a 20-year-old engineering student died after ramming his i20 into a road divider at high speed near Green Mosque on Road No.
 3, Banjara Hills on Tuesday afternoon.
 
+=== soln - replace No. with number, Mr. with mister
 
 # we need to use the sentence selector to eliminate the negative examples of accidents news from the selected sentences. The negative examples tend to have few/no instances of verb which are important to us.
 
+=== remove sentence having score=0 or (score = some threshold)
 
 # limit the number of sentences that are marked relevant on basis of "took place" to 1.
 
+=== implement this
 
 
 riju@10.208.23.195
