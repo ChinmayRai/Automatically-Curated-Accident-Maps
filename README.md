@@ -1,14 +1,20 @@
 # SURA
 
-TO DO: 21/7
-1) Exp with - diff weights of lists
-			- adding list 0 containing only kill, die, injure
-			- shuffling verbs amongst lists
+TO DO: 22/7
+1. add boolean in sent_selector telling whether to print tuples or not
+2. run full pipeline on july2017 to get proper inferences on updated results
+3. resolve pending issues
+4. run pos/ner on clauses to remove redundant words
 
-2) start extracting loc, time, casualities from selected lists
+# Pending Pipeline
+1. get pinpointed location and time from clauses between prepositions
+2. get number of casualities by analysing the subject part of sentences and developing a similar procedure for casualities
+3. integrate the processes of getting loc, time and casualities
+4. getting coordinated from location names
+5. data plotting
 
 
-Issues:
+# Pending Issues:
 1. body output - may 2017 - day11, article 0 - body has numbers 1 to 6 in it.
 2. sentence tokenizer made this split:
 In another spine-chilling accident, a 20-year-old engineering student died after ramming his i20 into a road divider at high speed near Green Mosque on Road No.
@@ -25,7 +31,7 @@ In another spine-chilling accident, a 20-year-old engineering student died after
 
 
 
-Negative Examples(May 2017):
+# Negative Examples(May 2017):
 1. Woman who lost kin in road accident made Swachh ambassador
 2. Man claims his car was stolen on SG Road
 3. On the road: Prevent a car blaze, get vehicle serviced at right place
@@ -52,14 +58,20 @@ For headline classification:
 	2. Score Assignment
 	3. Threshold guessing
 
-for automation of pipeline
-3. automate openie by Popen
+
+3. for automation of pipeline -> automate openie by Popen
+
+4. for sentence selection from openie output -> Exp with - diff weights of lists
+														- adding list 0 containing only kill, die, injure
+														- shuffling verbs amongst lists
+
+5. decide if selection of sentence having "met with" is useful in sentence selection
 
 
 scrapy runspider news.py -o article.json
 scrapy runspider news.py -o article.jl
 
-Difficult to predict positive example:
+# Difficult to predict positive example:
 1. 25may:
 "46-year-old cyclist dies in hit-and-run",
 
