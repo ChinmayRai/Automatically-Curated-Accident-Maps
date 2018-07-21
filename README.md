@@ -1,30 +1,29 @@
 # SURA
 
 TO DO: 21/7
-1) add he was travelling in type of phrases from openie input
-2) update ." to . " ==> put it in correct file
-
 1) Exp with - diff weights of lists
 			- adding list 0 containing only kill, die, injure
 			- shuffling verbs amongst lists
 
-3) start extracting loc, time, casualities from selected lists
-	
-MESSAGE TO CHINMAY - 15/7:
-cleaner removes redundant phrases from openie_input, this improves the performance of openie. sent_to_openie updated to use cleaner. openie_input for all months is now updated but the new outputs are not processed yet. For july2017, july_openie_input.txt contains old input and july_sent.txt contains new input. Here both the files have been left for comparison of the new sent_to_openie.py from its older version. 
+2) start extracting loc, time, casualities from selected lists
 
-Postponed:
-1) run openNLP chunker, dont spend a lot of time
-2) try running GeoParsePy - no zada matha pachi
-3) Read about text mining
-4) automate openie by Popen
-
-
-how to filter out sentences on which to run NER - summarization tools filter out sentences containing facts
 
 Issues:
 1. body output - may 2017 - day11, article 0 - body has numbers 1 to 6 in it.
-2. 
+2. sentence tokenizer made this split:
+In another spine-chilling accident, a 20-year-old engineering student died after ramming his i20 into a road divider at high speed near Green Mosque on Road No.
+3, Banjara Hills on Tuesday afternoon.
+
+	=== soln - replace No. with number, Mr. with mister
+
+3. we need to use the sentence selector to eliminate the negative examples of accidents news from the selected sentences. The negative examples tend to have few/no instances of verb which are important to us.
+
+	=== remove sentence having score=0 or (score = some threshold)
+
+4. limit the number of sentences that are marked relevant on basis of "took place" to 1.
+	=== implement this
+
+
 
 Negative Examples(May 2017):
 1. Woman who lost kin in road accident made Swachh ambassador
@@ -45,19 +44,23 @@ Negative Examples(May 2017):
 16. Hurt in bus shelter crash month before exam, she scores
 
 	
-Postponed for fine-tuning afterwards:
+# Postponed for fine-tuning afterwards:
+For headline classification:
 1. nonML approach accuracy test using ml approach training set
 2.	Non ML Approach :
 	1. Key word extraction
 	2. Score Assignment
 	3. Threshold guessing
 
+for automation of pipeline
+3. automate openie by Popen
+
 
 scrapy runspider news.py -o article.json
 scrapy runspider news.py -o article.jl
 
-
-25may:
+Difficult to predict positive example:
+1. 25may:
 "46-year-old cyclist dies in hit-and-run",
 
 
@@ -77,25 +80,7 @@ http://opennlp.sourceforge.net/models-1.5/
 
 
 
-
-
-
-
-# sentence tokenizer made this split:
-In another spine-chilling accident, a 20-year-old engineering student died after ramming his i20 into a road divider at high speed near Green Mosque on Road No.
-3, Banjara Hills on Tuesday afternoon.
-
-=== soln - replace No. with number, Mr. with mister
-
-# we need to use the sentence selector to eliminate the negative examples of accidents news from the selected sentences. The negative examples tend to have few/no instances of verb which are important to us.
-
-=== remove sentence having score=0 or (score = some threshold)
-
-# limit the number of sentences that are marked relevant on basis of "took place" to 1.
-
-=== implement this
-
-
-riju@10.208.23.195
-riju
+Access of internal server:
+	riju@10.208.23.195
+	riju
 
