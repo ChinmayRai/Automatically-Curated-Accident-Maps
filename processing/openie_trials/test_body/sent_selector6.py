@@ -104,9 +104,16 @@ def prep_break(s):
 	delimiters = ["into","in","on","at","near","under","around"]
 	# along(!along with)
 	s=s.replace(',','')
+	token="xdelimx"
 	for i in delimiters:
 		delim=" "+i+" "
-		s=s.replace(delim,"xdelimx")
+		s=s.replace(delim,token)
+		delim=i+" "
+		if(s[:len(delim)]==delim):
+			l=list(s)
+			l[:len(delim)]=list(token)
+			s=''.join(l)
+
 	l=s.split("xdelimx")
 	return l[1:]
 
@@ -175,27 +182,37 @@ for line in lines:
 
 			# sentence.append(rootVerbs)
 			for i in range(len(sentence[1:])):
+				index=1+i
 				d=dict()
-				d['tuple']=sentence[i]
-				for cl in sentence[i]:
+				d['tuple']=sentence[index]
+				for cl in sentence[index]:
 					if(cl[:2]=="L:"):
 						d['L']=cl[2:]
 					if(cl[:2]=="T:"):
 						d['T']=cl[2:]
-				sentence[1+i]=d
+				sentence[index]=d
 
+			posSentence=[]
+			posSentence.append(prep_break(sentence[0]))
+			for tup in sentence[1:]:
+				s="".join(tup['tuple'][2:])
+				s.replace("T:",'')
+				s.replace("L:",'')
+				
+				l=prep_break(s)
+				if(l!=[]):
+					posSentence.append(l)
+
+				# try:
+				# 	s="".join(tup['tuple'][2:])
+				# 	posSentence.append(prep_break(s))
+				# except Exception as e:
+				# 	print e
+				# 	print tup['tuple']
+			# sentence.append(posSentence)
 			
-			article.append(sentence)
-			# posSentence=[]
-			# posSentence.append(prep_break(sentence[0]))
-			# for tup in sentence[1:]:
-			# 	try:
-			# 		s="".join(tup['tuple'][2:])
-			# 		posSentence.append(prep_break(s))
-			# 	except Exception as e:
-			# 		print e
-			# 		print tup['tuple']
-			# article.append(posSentence)
+			article.append(sentence+posSentence)
+			
 
 			# to print intersection of root verbs with key verbs
 			# if(not(flag)):
