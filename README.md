@@ -2,7 +2,7 @@
 
 TO DO: 21/7
 1) add he was travelling in type of phrases from openie input
-
+2) update ." to . " ==> put it in correct file
 
 1) Exp with - diff weights of lists
 			- adding list 0 containing only kill, die, injure

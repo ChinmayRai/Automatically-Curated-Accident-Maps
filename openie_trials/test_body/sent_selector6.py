@@ -100,7 +100,7 @@ def root_verbs(sentence):
 	return rootVerbs
 
 
-def pos_break(s):
+def prep_break(s):
 	delimiters = ["into","in","on","at","near","under","around"]
 	# along(!along with)
 	s=s.replace(',','')
@@ -108,7 +108,7 @@ def pos_break(s):
 		delim=" "+i+" "
 		s=s.replace(delim,"xdelimx")
 	l=s.split("xdelimx")
-	return l
+	return l[1:]
 
 
 file_object = open(r"july2017/july_openie_output.txt","r")
@@ -184,8 +184,18 @@ for line in lines:
 						d['T']=cl[2:]
 				sentence[1+i]=d
 
-			sentence.append(pos_break(sentence[0]))
+			
 			article.append(sentence)
+			# posSentence=[]
+			# posSentence.append(prep_break(sentence[0]))
+			# for tup in sentence[1:]:
+			# 	try:
+			# 		s="".join(tup['tuple'][2:])
+			# 		posSentence.append(prep_break(s))
+			# 	except Exception as e:
+			# 		print e
+			# 		print tup['tuple']
+			# article.append(posSentence)
 
 			# to print intersection of root verbs with key verbs
 			# if(not(flag)):
@@ -246,11 +256,11 @@ file_object = open("july2017/july_sent_selected.txt","a")
 for day in month:
 	for article in day:
 		for sentence in article:
-			# for line in sentence:
-			# 	file_object.write(str(line)+"\n")
-			file_object.write(str(sentence[0])+"\n\n")
-			l=sentence[-1]
-			file_object.write(str(l[1:])+"\n")
+			for line in sentence:
+				file_object.write(str(line)+"\n")
+			# file_object.write(str(sentence[0])+"\n\n")
+			# l=sentence[-1]
+			# file_object.write(str(l[1:])+"\n")
 			file_object.write("\n---------------\n\n")
 		file_object.write("====================\n\n")
 	file_object.write("++++++++++++++++++++++++\n\n")
