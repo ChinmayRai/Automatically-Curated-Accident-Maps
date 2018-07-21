@@ -118,7 +118,7 @@ def prep_break(s):
 	return l[1:]
 
 
-file_object = open(r"july2017/july_openie_output.txt","r")
+file_object = open(r"5day_5articles/july_openie_output.txt","r")
 # month = file_object.read()
 # month = json.loads(month)
 
@@ -196,8 +196,8 @@ for line in lines:
 			posSentence.append(prep_break(sentence[0]))
 			for tup in sentence[1:]:
 				s="".join(tup['tuple'][2:])
-				s.replace("T:",'')
-				s.replace("L:",'')
+				s=s.replace("T:","")
+				s=s.replace("L:","")
 				
 				l=prep_break(s)
 				if(l!=[]):
@@ -266,10 +266,10 @@ for line in lines:
 			sentence.append(line[:-1])	# to remove \n at end of line
 
 # FOR TXT OUTPUT
-file_object = open("july2017/july_sent_selected.txt","w")
+file_object = open("5day_5articles/july_sent_selected.txt","w")
 file_object.close()
 
-file_object = open("july2017/july_sent_selected.txt","a")
+file_object = open("5day_5articles/july_sent_selected.txt","a")
 for day in month:
 	for article in day:
 		for sentence in article:
@@ -285,6 +285,6 @@ file_object.close()
 
 
 # FOR JSON OUTPUT
-with open('july2017/july_sent_selected.json', 'w+') as outfile:
+with open('5day_5articles/july_sent_selected.json', 'w+') as outfile:
 # with open('july2017/july_sent_selected.json', 'w+') as outfile:
     json.dump(month, outfile)
