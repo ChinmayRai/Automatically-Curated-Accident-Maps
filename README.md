@@ -96,3 +96,10 @@ Access of internal server:
 	riju@10.208.23.195
 	riju
 
+
+# Baadal VM access:
+
+ssh baadalvm@10.17.51.49
+password : acam123
+
+
