@@ -16,22 +16,20 @@ TO DO: 22/7
 
 # Pending Issues:
 1. body output - may 2017 - day11, article 0 - body has numbers 1 to 6 in it.
-
-	DONE
+	=== solve after rerunning pipeline on may 2017
+	
 2. sentence tokenizer made this split:
 In another spine-chilling accident, a 20-year-old engineering student died after ramming his i20 into a road divider at high speed near Green Mosque on Road No.
 3, Banjara Hills on Tuesday afternoon.
 
-	=== soln - replace No. with number, Mr. with mister
+	=== soln - replace No. with number, Mr. with mister == done
 
-	DONE
 3. we need to use the sentence selector to eliminate the negative examples of accidents news from the selected sentences. The negative examples tend to have few/no instances of verb which are important to us.
 
-	=== remove sentence having score=0 or (score = some threshold)
+	=== remove sentence having score=0 or (score = some threshold) == done
 
-	DONE
 4. limit the number of sentences that are marked relevant on basis of "took place" to 1.
-	=== implement this
+	=== implement this == done
 
 
 

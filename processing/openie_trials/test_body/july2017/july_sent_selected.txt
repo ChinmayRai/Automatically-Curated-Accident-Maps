@@ -36,14 +36,6 @@ Passengers claimed that there was a fault in the steering wheel because of which
 
 ---------------
 
-The incident took place near Chena creek bridge along Ghodbunder Road at 5pm. -----------.
-{'L': 'near Chena creek bridge along Ghodbunder Road', 'T': 'at 5pm', 'tuple': ('The incident', 'took', 'place', 'L:near Chena creek bridge along Ghodbunder Road', 'T:at 5pm')}
-{'tuple': 'The bus was heading towards Kopri from Mira Road.'}
-{'tuple': ('The bus', 'was heading', 'towards Kopri', 'from Mira Road')}
-['Chena creek bridge along Ghodbunder Road', '5pm. -----------.']
-
----------------
-
 He brushed against the divider and plunged into a ditch along the road.
 {'T': 'along the road', 'tuple': ('He', 'plunged', 'into a ditch', 'T:along the road')}
 {'tuple': ('He', 'brushed', 'against the divider')}
@@ -194,20 +186,6 @@ Jackson was in a passenger seat of the luxury car that was travelling westbound 
 ['a passenger seat of the luxury car']
 ['another vehicle']
 ['West Sahara Avenue east of Decatur Boulevard']
-
----------------
-
-King of Pop Michael Jackson's father Joe Jackson was hospitalised after a car accident in Las Vegas.
-{'tuple': '0.38 (Joe Jackson; [is] father [of]; Pop Michael Jackson)'}
-{'T': 'after a car accident in Las Vegas', 'tuple': ("King of Pop Michael Jackson's father", 'was hospitalised', 'T:after a car accident in Las Vegas')}
-['Las Vegas.']
-['Las Vegas']
-
----------------
-
-The Las Vegas Metropolitan Police Department confirmed.
-{'tuple': ('The Las Vegas Metropolitan Police Department', 'confirmed', '')}
-[]
 
 ---------------
 
@@ -695,29 +673,6 @@ Witnesses told police that the speeding car hit the trio from behind.
 
 ---------------
 
-The deceased, Vasanth, a Class VI student of a private school in Thiruvalangadu, was walking on the side of the road, while his mother J Nirmala was holding her daughter Haripriya, 9, Passersby and residents nabbed the car driver Mohan and handed him over to police.
-{'tuple': ('her daughter residents', 'handed over', 'to police')}
-{'tuple': ('his mother', 'was holding', 'her daughter residents handed him over to police')}
-{'tuple': ('her daughter residents', 'nabbed', 'the car driver Mohan')}
-{'tuple': ('his mother', 'was holding', 'her daughter residents nabbed the car driver Mohan')}
-{'L': 'on the side of the road', 'tuple': ('The deceased', 'was walking', 'L:on the side of the road')}
-{'tuple': '0.39 (Passersby; [is] daughter [of]; hers)'}
-{'tuple': ('The deceased', 'nabbed', 'the car driver Mohan')}
-{'T': 'The deceased , Vasanth , a Class VI student of a private school in Thiruvalangadu , was walking on the side of the road', 'tuple': ('9', 'handed over', 'to police', 'T:The deceased , Vasanth , a Class VI student of a private school in Thiruvalangadu , was walking on the side of the road')}
-{'L': 'on the side of the road', 'T': 'while his mother J Nirmala was holding her daughter', 'tuple': ('The deceased', 'was walking', 'L:on the side of the road', 'T:while his mother J Nirmala was holding her daughter')}
-{'tuple': '0.39 (Haripriya; [is] daughter [of]; hers)'}
-{'tuple': '0.39 (J Nirmala; [is] mother [of]; him)'}
-{'L': 'on the side of the road', 'T': 'while his mother J Nirmala was holding her daughter', 'tuple': ('The deceased', 'was walking', 'L:on the side of the road', 'T:while his mother J Nirmala was holding her daughter')}
-{'tuple': ('9', 'nabbed', 'the car driver Mohan')}
-{'tuple': ('his mother', 'was holding', 'her daughter')}
-['Thiruvalangadu was walking', 'the side of the road while his mother J Nirmala was holding her daughter Haripriya 9 Passersby and residents nabbed the car driver Mohan and handed him over to police.']
-['the side of the road']
-['Thiruvalangadu  was walking', 'the side of the road']
-['the side of the roadwhile his mother J Nirmala was holding her daughter']
-['the side of the roadwhile his mother J Nirmala was holding her daughter']
-
----------------
-
 ====================
 
 "The incident took place at Bijabhat and preliminary investigation suggests that both the vehicles were speeding when the accident happened.
@@ -980,14 +935,6 @@ Ten people, including two children, sustained injuries when a tempo overturned a
 
 ---------------
 
-All were rushed to News Civil Hospital (NCH) for treatment where condition of one is stated to be serious.
-{'tuple': ('condition of one', 'to be', 'serious')}
-{'tuple': ('condition of one', 'is stated', '')}
-{'tuple': ('All', 'were rushed', 'to News Civil Hospital', 'for treatment')}
-[]
-
----------------
-
 ====================
 
 The tempo had a flat tyre near Sachin GIDC and as a result the vehicle overturned resulting in injuries to all who were in the back of the vehicle.
@@ -1013,14 +960,6 @@ Ten people, including two children, sustained injuries when a tempo overturned a
 ['8 pmon Monday']
 ['Sachin GIDC']
 ['Sachin GIDC crossroad', '8 pm', 'Monday']
-
----------------
-
-All were rushed to News Civil Hospital (NCH) for treatment where condition of one is stated to be serious.
-{'tuple': ('condition of one', 'to be', 'serious')}
-{'tuple': ('condition of one', 'is stated', '')}
-{'tuple': ('All', 'were rushed', 'to News Civil Hospital', 'for treatment')}
-[]
 
 ---------------
 
@@ -1232,16 +1171,6 @@ DIG Yurinder Singh Hayer said it was because of timely action taken by sarpanch 
 {'tuple': ('DIG Yurinder Singh Hayer', 'said', 'it was because of timely action taken by sarpanch Ajit Singh that the family was saved')}
 {'tuple': ('timely action', 'taken', 'by sarpanch Ajit Singh')}
 []
-
----------------
-
-DIG Ludhiana police range Gurinder Gayee said the family was sitting in the car when they asked the driver to go out and buy something.
-{'tuple': ('the driver', 'to go buy', 'something')}
-{'tuple': ('the driver', 'to go', 'buy something')}
-{'tuple': ('they', 'asked', 'the driver', 'to go buy something')}
-{'tuple': ('the driver', 'to go', 'out')}
-{'tuple': ('they', 'asked', 'the driver', 'to go out')}
-['the car when they asked the driver to go out and buy something.']
 
 ---------------
 
@@ -1489,15 +1418,6 @@ Police sources said the incident took place when the Kumar and his relative, Sum
 ['a bike']
 ['a bike']
 ['a bike']
-
----------------
-
-The incident took place late in the evening when Heeralal was on his way back to Patiala, with his brother-in-law, after meeting his sister.
-{'tuple': ('Heeralal', 'was', 'on his way back to Patiala, with his brother-in-law')}
-{'T': 'after meeting his sister', 'tuple': ('The incident', 'took', 'place', 'T:late in the evening', 'T:when Heeralal was on his way back to Patiala, with his brother-in-law', 'T:after meeting his sister')}
-['the evening when Heeralal was', 'his way back to Patiala with his brother-in-law after meeting his sister.']
-['his way back to Patiala with his brother-in-law']
-['the eveningwhen Heeralal was', 'his way back to Patiala with his brother-in-lawafter meeting his sister']
 
 ---------------
 
@@ -1914,29 +1834,6 @@ A video of the incident which took place on Thursday has gone viral on social me
 
 ---------------
 
-A GRP personnel said the incident took place at 11.15pm, when Gujarat Mail, which runs between Mumbai Central and Ahmedabad, arrived on Borivli’s platform number 6.”After the train arrived at the station, Mahesh Atra, an Ahmedabad resident, alighted to buy water.
-{'tuple': '0.38 (Mahesh Atra; [is] an resident [of]; Ahmedabad)'}
-{'tuple': '0.38 (Mahesh Atra; [is]; an Ahmedabad resident)'}
-{'tuple': ('the train', 'arrived', 'at the station')}
-{'tuple': ('Gujarat Mail', 'runs', '')}
-{'tuple': ('Mahesh Atra', 'alighted to buy', 'water')}
-{'tuple': ('Mahesh Atra', 'alighted', 'to buy water')}
-{'T': 'when Gujarat Mail, which runs between Mumbai Central and Ahmedabad, arrived on', 'tuple': ('the incident', 'took', 'place', 'T:at 11.15pm', 'T:when Gujarat Mail, which runs between Mumbai Central and Ahmedabad, arrived on')}
-{'tuple': ('A GRP personnel', 'said', 'the incident took place at 11.15pm, when Gujarat Mail, which runs between Mumbai Central and Ahmedabad, arrived on')}
-['11.15pm when Gujarat Mail which runs between Mumbai Central and Ahmedabad arrived', 'Borivli\xe2\x80\x99s platform number 6.\xe2\x80\x9dAfter the train arrived', 'the station Mahesh Atra an Ahmedabad resident alighted to buy water.']
-['the station']
-['11.15pm when Gujarat Mail which runs between Mumbai Central and Ahmedabad arrived on']
-
----------------
-
-He was on his way to BHiwandi for some work when the incident took place.
-{'tuple': ('the incident', 'took', 'place')}
-{'tuple': ('He', 'was', 'on his way to BHiwandi')}
-['his way to BHiwandi for some work when the incident took place.']
-['his way to BHiwandi']
-
----------------
-
 ====================
 
 The incident took place when the deceased, identified as Muntzil (12), was standing with his friends near the sewage treatment plant (STP) in Roopnagar Colony of Badhi Majra and a truck ran over him, crushing him beneath its tyres.
@@ -2137,13 +2034,6 @@ The accident took place when a speeding car rammed into the victims after hittin
 ['the victims after hitting three cars one after the other.']
 ['the victimsafter hitting three cars one after the other']
 ['the victims after hitting three cars one after the other']
-
----------------
-
-The accident took place while people were enjoying the fair of Baba Darshan Singh.
-{'tuple': ('people', 'were enjoying', 'the fair of Baba Darshan Singh')}
-{'T': 'while people were enjoying the fair of Baba Darshan Singh', 'tuple': ('The accident', 'took', 'place', 'T:while people were enjoying the fair of Baba Darshan Singh')}
-[]
 
 ---------------
 
@@ -2474,14 +2364,6 @@ Banjara Hills police said 20-year-old Fasahat Ali, a resident of MLA Colony at J
 
 ---------------
 
-The bus belongs to the Ibrahimpatnam depot and was going towards Srisailam when the accident took place.
-{'tuple': ('the accident', 'took', 'place')}
-{'T': 'when the accident took place', 'tuple': ('The bus', 'was going', 'towards Srisailam', 'T:when the accident took place')}
-{'tuple': ('The bus', 'belongs', 'to the Ibrahimpatnam depot')}
-[]
-
----------------
-
 Three members of a family were killed on the Srisailam highway when their car collided headon with a TSRTC bus on Tuesday evening.
 {'tuple': ('their car', 'collided', 'headon')}
 {'L': 'on the Srisailam highway', 'tuple': ('Three members of a family', 'were killed', 'L:on the Srisailam highway')}
@@ -2584,23 +2466,6 @@ The incident took place on Koodalnagar Bridge.
 
 ---------------
 
-The accident took place at 9am when the victim, a private company employee, was on his way to work.
-{'tuple': ('the victim', 'was', 'on his way to work')}
-{'T': 'when the victim, a private company employee, was on his way to work', 'tuple': ('The accident', 'took', 'place', 'T:at 9am', 'T:when the victim, a private company employee, was on his way to work')}
-['9am when the victim a private company employee was', 'his way to work.']
-['his way to work']
-['his way to work']
-
----------------
-
-In another incident that took place on May 20, 22-year-old Jayanthi was killed after a water tanker hit her cycle.
-{'tuple': ('a water tanker', 'hit', 'her cycle')}
-{'T': 'after a water tanker hit her cycle', 'L': 'In another incident', 'tuple': ('22-year-old Jayanthi', 'was killed', 'T:after a water tanker hit her cycle', 'L:In another incident')}
-{'T': 'on May 20', 'tuple': ('another incident', 'took', 'place', 'T:on May 20')}
-['May 20 22-year-old Jayanthi was killed after a water tanker hit her cycle.']
-
----------------
-
 ====================
 
 A 17-year-old class XI student died and six others got injured when their school autorickshaw collided with a truck near Asaba Weigh Bridge on the outskirts of Anjar town in Kutch on Tuesday.
@@ -2633,29 +2498,6 @@ The accident occurred when the auto collided with the truck coming from the oppo
 ====================
 
 ++++++++++++++++++++++++
-
-An Uber cab driver was robbed of his WagonR by two bike-borne assailants late on Tuesday in Civil Lines area.
-{'tuple': ('An Uber cab driver', 'was robbed', 'of his WagonR')}
-['Tuesday', 'Civil Lines area.']
-
----------------
-
-Though cops managed to recover the car from Sohna after three hours, the accused managed to flee.
-{'tuple': ('the accused', 'managed to flee to flee', '')}
-{'tuple': ('the accused', 'managed', 'to flee')}
-{'T': 'after three hours', 'tuple': ('cops', 'managed to recover', 'the car', 'from Sohna', 'T:after three hours')}
-{'tuple': ('cops', 'managed', 'to recover the car from Sohna after three hours')}
-[]
-
----------------
-
-Jagdeep Kumar, a resident of Lajpat Nagar in Delhi, had gone to Sector 15 to drop a passenger.
-{'tuple': '0.88 (Jagdeep Kumar; [is] a resident of; Lajpat Nagar)'}
-{'tuple': ('Jagdeep Kumar', 'to drop', 'a passenger')}
-{'tuple': ('Jagdeep Kumar', 'had gone', 'to Sector 15', 'to drop a passenger')}
-['Delhi had gone to Sector 15 to drop a passenger.']
-
----------------
 
 ====================
 
@@ -2840,39 +2682,12 @@ The accident took place at 7:30am when Mohammad Ismail was on his way to school 
 
 ---------------
 
-Though no FIR was lodged by the families of the boys, Zain stated the accident took place when the metal barricading fell on the scooter.
-{'T': 'when the metal barricading fell on the scooter', 'tuple': ('the accident', 'took', 'place', 'T:when the metal barricading fell on the scooter')}
-{'tuple': ('Zain', 'stated', 'the accident took place when the metal barricading fell on the scooter')}
-{'tuple': ('the metal barricading', 'fell', 'on the scooter')}
-{'tuple': ('no FIR', 'was lodged', 'by the families of the boys')}
-['the scooter.']
-['the scooter']
-['the scooter']
-['the scooter']
-
----------------
-
-On the basis of preliminary probe, Lucknow Metro Rail Corporation denied the accident took place because of the barricading.
-{'tuple': ('the accident', 'took', 'place', 'because of the barricading')}
-{'tuple': ('Lucknow Metro Rail Corporation', 'denied', 'the accident took place because of the barricading')}
-[]
-
----------------
-
 ====================
 
 The incident took place around 200 meters away from Sadar police station in the early hours of Friday.
 {'L': 'around 200 meters away from Sadar police station in the early hours of Friday', 'tuple': ('The incident', 'took', 'place', 'L:around 200 meters away from Sadar police station in the early hours of Friday')}
 ['200 meters away from Sadar police station', 'the early hours of Friday.']
 ['the early hours of Friday']
-
----------------
-
-The car, driven Maske was heading towards old VCA stadium in Sadar from the direction of Japanese garden when the incident took place.
-{'tuple': ('the incident', 'took', 'place')}
-{'T': 'The car', 'tuple': ('driven Maske', 'was heading', 'towards old VCA stadium in Sadar from the direction of Japanese garden', 'T:The car')}
-['Sadar from the direction of Japanese garden when the incident took place.']
-['Sadar from the direction of Japanese gardenThe car']
 
 ---------------
 
@@ -3229,25 +3044,12 @@ It was raining heavily when the accident occurred.
 
 ---------------
 
-The deceased Somnath Dahiwadkar (38) from Shantinagar in Vadgaon Budruk was not wearing a helmet.
-{'tuple': ('The deceased Somnath Dahiwadkar (38) from Shantinagar in Vadgaon Budruk', 'was not wearing', 'a helmet')}
-['Vadgaon Budruk was not wearing a helmet.']
-
----------------
-
 ====================
 
 The incident took place on Friday afternoon on Jan Mohammed Street in Camp.
 {'T': 'on Friday afternoon on Jan Mohammed Street in Camp', 'tuple': ('The incident', 'took', 'place', 'T:on Friday afternoon on Jan Mohammed Street in Camp')}
 ['Friday afternoon', 'Jan Mohammed Street', 'Camp.']
 ['Jan Mohammed Street', 'Camp']
-
----------------
-
-The entire incident took place in 10 minutes during which time, traffic was disrupted because of the stationary bus.
-{'tuple': ('traffic', 'was disrupted', 'because of the stationary bus')}
-{'T': 'in 10 minutes', 'tuple': ('The entire incident', 'took', 'place', 'T:in 10 minutes')}
-['10 minutes during which time traffic was disrupted because of the stationary bus.']
 
 ---------------
 
@@ -3580,29 +3382,6 @@ Three persons, including a sub-inspector of Haryana police, were killed and two 
 
 ---------------
 
-Deceased were identified as Sub Inspector Dharamvir Singh, who was deployed in the Jind district, his wife Sangeeta Saini and his elder brother’s wife Krishna Saini.
-{'L': "in his elder brother 's wife", 'tuple': ('Sub Inspector Dharamvir Singh', 'was deployed', "L:in his elder brother 's wife")}
-{'tuple': '0.39 (Sangeeta Saini; [is] wife [of]; him)'}
-{'L': 'in his wife', 'tuple': ('Sub Inspector Dharamvir Singh', 'was deployed', 'L:in his wife')}
-{'tuple': '0.38 (Dharamvir Singh; [is] Inspector [of]; Sub)'}
-{'L': 'in the Jind district', 'tuple': ('Sub Inspector Dharamvir Singh', 'was deployed', 'L:in the Jind district')}
-{'tuple': ('Deceased', 'were identified', 'as Sub Inspector Dharamvir Singh')}
-['the Jind district his wife Sangeeta Saini and his elder brother\xe2\x80\x99s wife Krishna Saini.']
-["his elder brother 's wife"]
-['his wife']
-['the Jind district']
-
----------------
-
-While the bodies of Sangeeta and Krishna have been recovered, Dharamvir’s body still needs to be recovered.
-{'tuple': ('the bodies of Krishna', 'have been recovered', '')}
-{'tuple': ("Dharamvir 's body", 'to be recovered', '')}
-{'T': 'still', 'tuple': ("Dharamvir 's body", 'needs', 'to be recovered', 'T:still')}
-{'tuple': ('the bodies of Sangeeta', 'have been recovered', '')}
-[]
-
----------------
-
 ====================
 
 wo youths were killed and seriously injured in a road accident after a lorry hit a two wheeler in which the victims were riding in Trichy on Sunday.
@@ -3672,29 +3451,6 @@ Three persons, including a sub-inspector of Haryana police, were killed and two 
 ['a canal', 'Gohana', 'Sunday .']
 ['a canal', 'Gohanaon Sunday']
 ['a canal', 'Gohana', 'Sunday']
-
----------------
-
-Deceased were identified as Sub Inspector Dharamvir Singh, who was deployed in the Jind district, his wife Sangeeta Saini and his elder brother's wife Krishna Saini.
-{'L': "in his elder brother 's wife", 'tuple': ('Sub Inspector Dharamvir Singh', 'was deployed', "L:in his elder brother 's wife")}
-{'tuple': '0.39 (Sangeeta Saini; [is] wife [of]; him)'}
-{'L': 'in his wife', 'tuple': ('Sub Inspector Dharamvir Singh', 'was deployed', 'L:in his wife')}
-{'tuple': '0.38 (Dharamvir Singh; [is] Inspector [of]; Sub)'}
-{'L': 'in the Jind district', 'tuple': ('Sub Inspector Dharamvir Singh', 'was deployed', 'L:in the Jind district')}
-{'tuple': ('Deceased', 'were identified', 'as Sub Inspector Dharamvir Singh')}
-["the Jind district his wife Sangeeta Saini and his elder brother's wife Krishna Saini."]
-["his elder brother 's wife"]
-['his wife']
-['the Jind district']
-
----------------
-
-While the bodies of Sangeeta and Krishna have been recovered, Dharamvir's body still needs to be recovered.
-{'tuple': ('the bodies of Krishna', 'have been recovered', '')}
-{'tuple': ("Dharamvir 's body", 'to be recovered', '')}
-{'T': 'still', 'tuple': ("Dharamvir 's body", 'needs', 'to be recovered', 'T:still')}
-{'tuple': ('the bodies of Sangeeta', 'have been recovered', '')}
-[]
 
 ---------------
 
@@ -4789,17 +4545,6 @@ The child was crossing the road with her mother when the incident took place.
 
 ---------------
 
-Police said the incident took place around 5pm. -----------.
-{'T': 'around 5pm', 'tuple': ('the incident', 'took', 'place', 'T:around 5pm')}
-{'tuple': ('Police', 'said', 'the incident took place around 5pm')}
-{'tuple': 'Pooja\xe2\x80\x99s father, Shankar, lodged a police complaint.'}
-{'tuple': '0.88 (Shankar; [is] father [of]; Pooja)'}
-{'tuple': ("Pooja's father", 'lodged', 'a police complaint')}
-['5pm. -----------.']
-['5pm']
-
----------------
-
 A speeding car knocked down a year-old toddler, Pooja Pawar, on Santacruz Link Road on Saturday.
 {'L': 'on Santacruz Link Road', 'T': 'on Saturday', 'tuple': ('A speeding car', 'knocked down', 'a year-old toddler', 'L:on Santacruz Link Road', 'T:on Saturday')}
 ['Santacruz Link Road', 'Saturday.']
@@ -5050,19 +4795,6 @@ Further investigations are on, the police said.
 
 ---------------
 
-A 62-year-old woman was found dead in a drainage in Angeripalayam here on Wednesday morning.
-{'L': 'in a drainage in Angeripalayam here on Wednesday morning', 'tuple': ('A 62-year-old woman', 'was found', 'dead', 'L:in a drainage in Angeripalayam here on Wednesday morning')}
-['a drainage', 'Angeripalayam here', 'Wednesday morning.']
-['Angeripalayam here', 'Wednesday morning']
-
----------------
-
-The deceased was identified as K Shenbagavalli of Mariamman Koil Street, Anupparpalayam.
-{'tuple': ('The deceased', 'was identified', 'as K Shenbagavalli of Mariamman Koil Street')}
-[]
-
----------------
-
 ====================
 
 In a horrific crash that brought home the terror of speeding trucks on city roads past midnight, four members of a family and their driver were killed while another person was left battling for life when an out-of control dumper crashed through the central divider on NH24 near Mayur Vihar and fell on an Innova on the opposite carriageway, crushing the SUV beyond recognition.
@@ -5137,22 +4869,6 @@ According to Delhi Police records, 612 fatal accidents took place in the city be
 
 ---------------
 
-Almost 50% of the pedestrian deaths took place either due to lack of designated footpaths in many places or for the reason that the victim was crossing the road at night.
-{'tuple': ('50 % of the pedestrian deaths', 'took', 'place')}
-{'T': 'at night', 'tuple': ('the victim', 'was crossing', 'the road', 'T:at night')}
-{'tuple': ('Almost 50% of the pedestrian deaths', 'took', 'place', 'either due to lack of designated footpaths in many places or for the reason that the victim was crossing the road at night')}
-['many places or for the reason that the victim was crossing the road', 'night.']
-['many places or for the reason that the victim was crossing the road', 'night']
-
----------------
-
-Most of the accidents took place near flyovers and junctions.
-{'L': 'near junctions', 'tuple': ('Most of the accidents', 'took', 'place', 'L:near junctions')}
-{'L': 'near flyovers', 'tuple': ('Most of the accidents', 'took', 'place', 'L:near flyovers')}
-['flyovers and junctions.']
-
----------------
-
 ====================
 
 ++++++++++++++++++++++++
@@ -5210,14 +4926,6 @@ Police sources said more than two dozen critically injured passengers were refer
 
 ---------------
 
-The bus was on way to Pupri while the truck was coming to Sitamarhi.
-{'tuple': ('the truck', 'was coming', 'to Sitamarhi')}
-{'T': 'while the truck was coming to Sitamarhi', 'tuple': ('The bus', 'was', 'on way to Pupri', 'T:while the truck was coming to Sitamarhi')}
-['way to Pupri while the truck was coming to Sitamarhi.']
-['way to Pupriwhile the truck was coming to Sitamarhi']
-
----------------
-
 ====================
 
 The victim has mentioned in his suicide note that he was in a relationship with the woman for nearly 13 years but after she broke up with him he decided to kill himself.
@@ -5263,14 +4971,6 @@ Senior inspector of Sanpada police station, Suraj Padvi, said, “Kakade, a labo
 
 ---------------
 
-A 35-year-old man allegedly committed suicide by hanging himself from a tree in Sanpada on Thursday morning.
-{'tuple': ('A 35-year-old man', 'allegedly committed suicide by hanging', 'himself', 'from a tree in Sanpada on Thursday morning')}
-{'tuple': ('A 35-year-old man', 'allegedly committed', 'suicide')}
-['Sanpada', 'Thursday morning.']
-['Sanpada', 'Thursday morning']
-
----------------
-
 ====================
 
 A speeding vehicle on the Panaji-Old Goa bypass ran into three cows on Thursday just after 6am, killing them on the spot.
@@ -5309,17 +5009,6 @@ In a separate incident, a private luxury bus skidded off the road near Bhidbhanj
 {'L': 'In a separate incident', 'T': 'after the driver lost control over the vehicle', 'tuple': ('a private luxury bus', 'skidded', 'off the road near Bhidbhanjan Hanuman temple', 'L:in Lathi town of Amreli district', 'T:after the driver lost control over the vehicle', 'L:In a separate incident')}
 ['Bhidbhanjan Hanuman temple', 'Lathi town of Amreli district after the driver lost control over the vehicle.']
 ['Bhidbhanjan Hanuman templein Lathi town of Amreli districtafter the driver lost control over the vehicleIn a separate incident']
-
----------------
-
-RAJKOT/AHMEDABAD: Around 35 school children had a providential escape after their bus got stranded in an overflowing causeway near Morbi town on Thursday morning.
-{'L': 'in an overflowing causeway near Morbi town on Thursday morning', 'tuple': ('their bus', 'got stranded', 'L:in an overflowing causeway near Morbi town on Thursday morning')}
-{'tuple': ('their bus', 'got', 'stranded in an overflowing causeway near Morbi town on Thursday morning')}
-{'T': 'after their bus got stranded in an overflowing causeway near Morbi town on Thursday morning', 'tuple': ('Around 35 school children', 'had', 'a providential escape', 'T:after their bus got stranded in an overflowing causeway near Morbi town on Thursday morning')}
-['an overflowing causeway', 'Morbi town', 'Thursday morning.']
-['an overflowing causeway', 'Morbi town', 'Thursday morning']
-['an overflowing causeway', 'Morbi town', 'Thursday morning']
-['an overflowing causeway', 'Morbi town', 'Thursday morning']
 
 ---------------
 
@@ -5835,14 +5524,6 @@ The incident took place at 1.15 am and the car hit the bike with such force that
 
 ---------------
 
-Both were working in private mobile company and were retuning home after work when the accident took place.
-{'tuple': ('the accident', 'took', 'place')}
-{'L': 'in private mobile company', 'tuple': ('Both', 'were working', 'L:in private mobile company')}
-['private mobile company and were retuning home after work when the accident took place.']
-['private mobile company']
-
----------------
-
 A pillion rider was killed on the spot when a car hit the bike he was riding with his colleague early Sunday on Bhattarahalli flyover near Hoskote.
 {'tuple': ('the bike', 'was riding', 'he')}
 {'tuple': ('a car', 'hit', 'the bike he was riding with his colleague early Sunday on Bhattarahalli flyover near Hoskote')}
@@ -5860,14 +5541,6 @@ The incident took place at 1.15 am and the car hit the bike with such force that
 {'tuple': ('the car', 'hit', 'the bike', 'with such force')}
 {'T': 'at 1.15 am', 'tuple': ('The incident', 'took', 'place', 'T:at 1.15 am')}
 ['1.15 am and the car hit the bike with such force that Nitin was hurtled off flyover to the ground.']
-
----------------
-
-Both were working in private mobile company and were retuning home after work when the accident took place.
-{'tuple': ('the accident', 'took', 'place')}
-{'L': 'in private mobile company', 'tuple': ('Both', 'were working', 'L:in private mobile company')}
-['private mobile company and were retuning home after work when the accident took place.']
-['private mobile company']
 
 ---------------
 
@@ -6014,20 +5687,6 @@ The first incident took place around 11pm when a truck rammed a Hyundai Santro a
 {'T': 'when a truck rammed a Hyundai Santro at Madhuban Chowk underpass', 'tuple': ('The first incident', 'took', 'place', 'T:around 11pm', 'T:when a truck rammed a Hyundai Santro at Madhuban Chowk underpass')}
 ['11pm when a truck rammed a Hyundai Santro', 'Madhuban Chowk underpass.']
 ['Madhuban Chowk underpass']
-
----------------
-
-The second crash took place near the Mangolpuri marble market when a speeding Honda City rammed a Maruti Eeco at West Enclave crossing.
-{'tuple': ('a speeding Honda City', 'rammed', 'a Maruti Eeco')}
-{'L': 'near the Mangolpuri marble market', 'T': 'when a speeding Honda City rammed a Maruti Eeco at West Enclave crossing', 'tuple': ('The second crash', 'took', 'place', 'L:near the Mangolpuri marble market', 'T:when a speeding Honda City rammed a Maruti Eeco at West Enclave crossing')}
-['the Mangolpuri marble market when a speeding Honda City rammed a Maruti Eeco', 'West Enclave crossing.']
-['West Enclave crossing']
-
----------------
-
-The crash took place around 11.45pm.
-{'T': 'around 11.45pm', 'tuple': ('The crash', 'took', 'place', 'T:around 11.45pm')}
-['11.45pm.']
 
 ---------------
 
