@@ -15,7 +15,14 @@ def add_spaces(s):
 	# print count
 	return s2
 
+def replace(s):
+	s=s.replace('Mr.', 'Mister')
+	s=s.replace('No.', 'Number')
+	s=s.replace('no.', 'number')
+	return s
+
 def sentence_tokenise(para):
+	para = replace(para)
 	para = add_spaces(para)
 	sentences = sent_tokenize(para)
 
