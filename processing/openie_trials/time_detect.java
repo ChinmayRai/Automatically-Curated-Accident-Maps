@@ -1,3 +1,5 @@
+package time;
+
 import java.util.regex.*;  
 import java.util.*;
 
@@ -11,7 +13,7 @@ class date_time
 
 public class time_detect
 {
-	public static void main(String[] args) {
+	public static String extract(String s) {
 
 		int yyyy = 2018;	int mm = 7;		int dd = 9; //set date of reporting.
 		Calendar cal = Calendar.getInstance();cal.set(Calendar.DAY_OF_MONTH,dd);
@@ -19,8 +21,8 @@ public class time_detect
 		//System.out.println(getDay(cal.get(Calendar.DAY_OF_WEEK))); //prints day of reporting
 		//System.out.println(getInt(Day.monday));
 
-		Scanner sc=new Scanner(System.in);  
-		String s=sc.nextLine();
+		//Scanner sc=new Scanner(System.in);  
+		//String s=sc.nextLine();
 		date_time a=new date_time();
 
 		String day_of_week="([Mm]on(day)?|[Tt]ue(sday)?|[Ww]ed(nesday)?|[Tt]hu(rsday)?|[Ff]ri(day)?|[Ss]at(urday)?|[Ss]un(day)?)";
@@ -77,7 +79,7 @@ public class time_detect
 			Matcher m7=Pattern.compile("([\\d]{1,2})").matcher(s);m7.find();a.date=Integer.valueOf(m7.group(0));	
 		}
 		
-		print(a);
+		return print(a);
 	}
 
 	public static int finder(String s)
@@ -118,16 +120,18 @@ public class time_detect
 		}
 	}
 
-	public static void print(date_time a)
+	public static String print(date_time a)
 	{
+		StringBuilder sb=new StringBuilder("");
 		if(a.hrs+a.min!=0)
 		{
-			System.out.print(a.hrs);if(a.min!=0){System.out.print(":");System.out.print(a.min);}
-			if(a.am)System.out.println(" am");else System.out.println(" pm");
+			sb.append(a.hrs);if(a.min!=0){sb.append(":");sb.append(a.min);}
+			if(a.am)sb.append(" am\n");else sb.append(" pm\n");
 		}
-		if(a.period!=TimePeriod.none)System.out.println(a.period);
-		if(a.day!=null)System.out.println(a.day);
-		System.out.print(a.date+"-"+a.month);
+		if(a.period!=TimePeriod.none){sb.append(a.period);sb.append("\n");}
+		if(a.day!=null){sb.append(a.day);sb.append("\n");}
+		sb.append(a.date+"-"+a.month);
+		return sb.toString();
 	}
 
 	
