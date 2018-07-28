@@ -12,7 +12,8 @@ def clean(s):
 	phrase="they were travelling in"
 	posVerbs=['VB','VBD','VBG','VBN','VBP','VBZ']
 	i=s.find(phrase)
-	if(i!=-1):
+	
+	if(i!=-1 and len(s)>i+len(phrase)+3 ):	# constraint on len(s) so that if phrase comes at end of sentence then no change
 		if (s[i+len(phrase)]!=","):
 			if(s[i+len(phrase)+1]==","):
 				words=(s[i:i+len(phrase)]+", "+s[i+len(phrase)+3:]).split(" ")
@@ -20,9 +21,9 @@ def clean(s):
 				words=(s[i:i+len(phrase)]+", "+s[i+len(phrase)+1:]).split(" ")
 		else :
 			words=s[i:].split(" ")
-		print(words)
+		# print(words)
 		pos=pos_tag(words)
-		print(pos)
+		# print(pos)
 		if(pos[4][1] in posVerbs):
 			s=s[:i]+s[i+len(phrase):]
 	return s
