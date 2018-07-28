@@ -99,7 +99,7 @@ def root_verbs(sentence):
 
 	return rootVerbs
 
-
+# breaks a string at prepositions and returns the list of clauses except the first clause.
 def prep_break(s):
 	delimiters = ["into","in","on","at","near","under","around"]
 	# along(!along with)
@@ -118,7 +118,18 @@ def prep_break(s):
 	return l[1:]
 
 
-file_object = open(r"july2017/july_openie_output.txt","r")
+# infile="july2017/july_openie_output.txt"
+# txtOutfile="july2017/july_sent_selected.txt"
+# jsonOutfile="july2017/july_sent_selected.json"
+
+infile="5day_5articles/july_openie_output.txt"
+txtOutfile="5day_5articles/july_sent_selected.txt"
+jsonOutfile="5day_5articles/july_sent_selected.json"
+
+# whether or not to print the tuples of openie output
+printOpenieTuples = False
+
+file_object = open(infile,"r")
 # month = file_object.read()
 # month = json.loads(month)
 
@@ -153,9 +164,9 @@ for line in lines:
 			for t in sentence[1:]:
 				# t=get_tuple(i)
 				# if(t!=False):
-				if(t[1]=="took" and t[2]=="place"):
+				if(t[1]=="took" and t[2]=="place" and len(t)>3):
 					flag=True
-				elif(t[1]=="met" and t[2][:4]=="with"):
+				elif(t[1]=="met" and t[2][:4]=="with" and len(t)>3):
 					flag=True
 
 			# rootVerbs = extract(sentence)
@@ -211,8 +222,11 @@ for line in lines:
 				# 	print tup['tuple']
 			# sentence.append(posSentence)
 			
-			article.append(sentence+posSentence)
-			
+			# if printOpenieTuples==False then add only the original sentence to the article followed by list of clauses seperated by prepositions
+			if(printOpenieTuples):
+				article.append(sentence+posSentence)
+			else:
+				article.append([sentence[0]]+posSentence)
 
 			# to print intersection of root verbs with key verbs
 			# if(not(flag)):
@@ -279,10 +293,10 @@ for line in lines:
 			sentence.append(line[:-1])	# to remove \n at end of line
 
 # FOR TXT OUTPUT
-file_object = open("july2017/july_sent_selected.txt","w")
+file_object = open(txtOutfile,"w")
 file_object.close()
 
-file_object = open("july2017/july_sent_selected.txt","a")
+file_object = open(txtOutfile,"a")
 for day in month:
 	for article in day:
 		for sentence in article:
@@ -298,6 +312,5 @@ file_object.close()
 
 
 # FOR JSON OUTPUT
-with open('july2017/july_sent_selected.json', 'w+') as outfile:
-# with open('july2017/july_sent_selected.json', 'w+') as outfile:
+with open(jsonOutfile, 'w+') as outfile:
     json.dump(month, outfile)
