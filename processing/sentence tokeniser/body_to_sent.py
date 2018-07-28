@@ -14,7 +14,7 @@ import json
 # 	print i
 
 
-file_object = open(r"may_2017_output.json","r")
+file_object = open(r"july_2017_output.json","r")
 month = file_object.read()
 month = json.loads(month)
 file_object.close()
@@ -38,5 +38,5 @@ for date in month:
 		# print "before add_spaces = ",len(sentences)
 
 
-with open('may_2017_sent_token.json', 'w+') as outfile:
+with open('july_2017_sent_token.json', 'w+') as outfile:
     json.dump(month, outfile)

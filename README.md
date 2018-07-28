@@ -1,10 +1,10 @@
 # SURA
 
 TO DO: 22/7
-1. add boolean in sent_selector telling whether to print tuples or not
 2. run full pipeline on july2017 to get proper inferences on updated results
-3. resolve pending issues - done
 4. run pos/ner on clauses to remove redundant words
+1. add boolean in sent_selector telling whether to print tuples or not - done
+3. resolve pending issues - done
 
 # Pending Pipeline
 1. get pinpointed location and time from clauses between prepositions

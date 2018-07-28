@@ -3,4 +3,3 @@
 #	tokenize the body of articles into sentences : body_to_sent.py
 #	preprocessing before feeding into openie : cleaner.py
 #	filter out relevant sentences from the body : sent_selector5.py
-	
