@@ -86,7 +86,7 @@ public class time_detect
 	{
 
 		String g=s.substring(0,3).toLowerCase();
-		System.out.println(g);
+		//System.out.println(g);
 		if(Pattern.matches("jan",g)) return 1;else if(Pattern.matches("feb",g)) return 2;else if(Pattern.matches("mar",g)) return 3;
 		else if(Pattern.matches("apr",g)) return 4;else if(Pattern.matches("may",g)) return 5;else if(Pattern.matches("jun",g)) return 6;
 		else if(Pattern.matches("jul",g)) return 7;else if(Pattern.matches("aug",g)) return 8;else if(Pattern.matches("sep",g)) return 9;
@@ -126,11 +126,11 @@ public class time_detect
 		if(a.hrs+a.min!=0)
 		{
 			sb.append(a.hrs);if(a.min!=0){sb.append(":");sb.append(a.min);}
-			if(a.am)sb.append(" am\n");else sb.append(" pm\n");
+			if(a.am)sb.append(" am	");else sb.append(" pm	");
 		}
-		if(a.period!=TimePeriod.none){sb.append(a.period);sb.append("\n");}
-		if(a.day!=null){sb.append(a.day);sb.append("\n");}
-		sb.append(a.date+"-"+a.month);
+		if(a.period!=TimePeriod.none){sb.append(a.period);sb.append("	");}
+		if(a.day!=null){sb.append(a.day);sb.append("	");}
+		if(a.date+a.month!=0)sb.append(a.date+"-"+a.month);	
 		return sb.toString();
 	}
 

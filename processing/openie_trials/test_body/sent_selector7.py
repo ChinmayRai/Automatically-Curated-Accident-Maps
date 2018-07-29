@@ -92,7 +92,7 @@ def root_verbs(sentence):
 		while(i<len(lemWords)):
 			word=lemWords[i]
 			l=len(word)
-			if(not( (word[l-2]=='l' and word[l-1]=='y') or (word in stopWords) )):
+			if(l>3 and not( (word[l-2]=='l' and word[l-1]=='y') or (word in stopWords) )):
 				# print word,
 				rootVerbs.append(word)
 			i+=1
@@ -122,9 +122,9 @@ def prep_break(s):
 # txtOutfile="july2017/july_sent_selected.txt"
 # jsonOutfile="july2017/july_sent_selected.json"
 
-infile="5day_5articles/july_openie_output.txt"
-txtOutfile="5day_5articles/july_sent_selected.txt"
-jsonOutfile="5day_5articles/july_sent_selected.json"
+infile="july2017/july_openie_output.txt"
+txtOutfile="july2017/july_sent_selected.txt"
+jsonOutfile="july2017/july_sent_selected.json"
 
 # whether or not to print the tuples of openie output
 printOpenieTuples = False
