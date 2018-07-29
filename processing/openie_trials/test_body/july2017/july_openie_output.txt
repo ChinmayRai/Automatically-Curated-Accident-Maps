@@ -1808,7 +1808,7 @@ He was remanded in judicial custody after being produced before a magistrate cou
 
 ============.
 
-Four people were killed and five others were injured in a road accident when the jeep collided with a mini-truck in Bemetara district on Monday.
+Four people were killed and five others were injured in a road accident when the jeep  collided with a mini-truck in Bemetara district on Monday.
 0.95 (the jeep; collided; with a mini-truck in Bemetara district on Monday; L:a road accident)
 0.90 (five others; were injured; L:in a road accident)
 0.73 (Four people; were killed; )
@@ -5166,10 +5166,12 @@ West Midnapore SP Bharati Ghosh said, "Six months ago, police clamped down on th
 
 -----------.
 
-We rescued the helper and arrested two accused of instigating the mob." -----------.
+We rescued the helper and arrested two accused of instigating the mob.
 0.38 (two; accused; of instigating the mob)
 0.45 (We; arrested; two accused of instigating the mob)
 0.45 (We; rescued; the helper)
+
+" -----------.
 
 West Midnapore Trinamool president Asim Maity said, "Police are probing the incident.
 0.88 (Asim Maity; [is] president [of]; West Midnapore Trinamool)
@@ -5178,10 +5180,10 @@ West Midnapore Trinamool president Asim Maity said, "Police are probing the inci
 
 -----------.
 
-The guilty should be punished."
+The guilty should be punished.
 0.73 (The guilty; should be punished; )
 
------------.
+" -----------.
 
 ============.
 
@@ -5796,10 +5798,10 @@ Additional commissioner of police Lakhbir Singh said that, “The injured are be
 
 +++++++++++++++++++.
 
-Over 30 passengers commuting between Indore and Dewas sustained severe injuries when the bus hit a rotary in Rasulpur under Industrial Area (IA) police station limits of Dewas on Monday evening.
+Over 30 passengers commuting between Indore and Dewas sustained severe injuries when the bus  hit a rotary in Rasulpur under Industrial Area (IA) police station limits of Dewas on Monday evening.
 0.99 (over 30 passengers; sustained; severe injuries)
 0.90 Context(Over 30 passengers commuting between Indore and Dewas sustained,List([0, 63))):(Over 30 passengers; commuting; L:between Indore and Dewas)
-0.97 (Over 30 passengers commuting between Indore and Dewas; sustained; severe injuries; T:when the bus hit a rotary in Rasulpur under Industrial Area)
+0.97 (Over 30 passengers commuting between Indore and Dewas; sustained; severe injuries; T:when the bus  hit a rotary in Rasulpur under Industrial Area)
 0.94 (the bus; hit; a rotary in Rasulpur under Industrial Area)
 
 -----------.
@@ -6332,13 +6334,15 @@ The accused will be arrested soon”, said inspector Anil Kumar, SHO, Manesar po
 
 +++++++++++++++++++.
 
-One person died while two others were injured after a car skidded off the road and fell into a rivulet at Pawlar bridge Navelim, Bicholim, on Tuesday at around 1pm. -----------.
-0.94 (a car; fell; into a rivulet at Pawlar bridge Navelim; on Tuesday at around 1 pm)
-0.95 (two others; were injured; T:after a car fell into a rivulet at Pawlar bridge Navelim , Bicholim , on Tuesday at around 1 pm)
-0.95 (One person; died; T:while two others were injured after a car fell into a rivulet at Pawlar bridge Navelim , Bicholim , on Tuesday at around 1 pm)
-0.90 (a car; skidded; off the road)
-0.90 (two others; were injured; T:after a car skidded off the road)
-0.94 (One person; died; T:while two others were injured after a car skidded off the road)
+One person died while two others were injured after a car in which they were traveling, skidded off the road and fell into a rivulet at Pawlar bridge Navelim, Bicholim, on Tuesday at around 1pm. -----------.
+0.82 (a car in which they were traveling; fell; into a rivulet at Pawlar bridge Navelim; on Tuesday at around 1 pm)
+0.88 (a car; were traveling; they)
+0.91 (two others; were injured; T:after a car in which they were traveling fell into a rivulet at Pawlar bridge Navelim , Bicholim , on Tuesday at around 1 pm)
+0.91 (One person; died; T:while two others were injured after a car in which they were traveling fell into a rivulet at Pawlar bridge Navelim , Bicholim , on Tuesday at around 1 pm)
+0.71 (a car in which they were traveling; skidded; off the road)
+0.67 (they; were traveling; L:a car in which they were traveling , skidded off the road)
+0.90 (two others; were injured; T:after a car)
+0.90 (One person; died; T:while two others were injured after a car)
 
 Bicholim police said the deceased was identified as Shailesh Dasharath Gawas, 20, of Fanaswada, Latambarcem, Bicholim, and was a trainee while the injured person, Aftab Alam Shaikh, of Valpoi, Sattari, was a permanent employee of a company based at Kundaim industrial estate.
 0.95 (Bicholim police; said; was a trainee while the injured person , Aftab Alam Shaikh , of Valpoi , Sattari , was a permanent employee of a company)
@@ -6390,10 +6394,8 @@ The condition of the injured persons is said to be improving, while the body of 
 
 ============.
 
-In another spine-chilling accident, a 20-year-old engineering student died after ramming his i20 into a road divider at high speed near Green Mosque on Road No. -----------.
-0.97 (a 20-year-old engineering student; died; T:after ramming his i20 into a road divider at high speed near Green Mosque on Road No.; L:In another spine-chilling accident)
-
-3, Banjara Hills on Tuesday afternoon.
+In another spine-chilling accident, a 20-year-old engineering student died after ramming his i20 into a road divider at high speed near Green Mosque on Road Number 3, Banjara Hills on Tuesday afternoon.
+0.97 (a 20-year-old engineering student; died; T:after ramming his i20 into a road divider at high speed near Green Mosque on Road Number 3; L:In another spine-chilling accident)
 
 -----------.
 
@@ -7349,11 +7351,11 @@ The jeep driver, who suffered serious injuries, was rushed to Palanpur civil hos
 
 ============.
 
-More than 20 students of a private school were injured when the school bus overturned at Mottur Valavu on Attur-Thammampatti state highway here on Wednesday after the driver lost control over the vehicle while negotiating a blind turn.
-0.82 Context(the driver lost,List([163, 178))):(the driver; lost control over the vehicle negotiating; a blind turn)
+More than 20 students of a private school were injured when the school bus  overturned at Mottur Valavu on Attur-Thammampatti state highway here on Wednesday after the driver lost control over the vehicle while negotiating a blind turn.
+0.82 Context(the driver lost,List([164, 179))):(the driver; lost control over the vehicle negotiating; a blind turn)
 0.90 (the driver; lost; control over the vehicle; T:while negotiating a blind turn)
 0.95 (the school bus; overturned; L:at Mottur Valavu on Attur-Thammampatti state highway; L:here on Wednesday; T:after the driver lost control over the vehicle while negotiating a blind turn)
-0.97 (More than 20 students of a private school; were injured; T:when the school bus overturned at Mottur Valavu on Attur-Thammampatti state highway here on Wednesday)
+0.97 (More than 20 students of a private school; were injured; T:when the school bus  overturned at Mottur Valavu on Attur-Thammampatti state highway here on Wednesday)
 
 -----------.
 
@@ -8157,9 +8159,8 @@ In one accident, a 44-year-old woman, Durgapati, injured in an accident on July 
 
 -----------.
 
-A car, which is yet to be identified by police, hit the bike on which she was travelling with her husband , near Ambience mall.
-0.88 (the bike; was travelling; she)
-0.96 (A car, which is yet to be identified by police; hit; the bike on which she was travelling with her husband , near Ambience mall)
+A car, which is yet to be identified by police, hit the bike with her husband , near Ambience mall.
+0.93 (A car, which is yet to be identified by police; hit; the bike; with her husband)
 0.89 (A car; to be identified; by police)
 0.91 (A car; is; T:yet; to be identified by police)
 
@@ -9603,7 +9604,7 @@ The Amarnath hill shrine, dedicated to Lord Shiva, is located more than 3,800 me
 
 +++++++++++++++++++.
 
-It was a close shave for three youths after the car swerved out of control and fell into Choral dam canal near Chordiya village on Sunday morning.
+It was a close shave for three youths after the car  swerved out of control and fell into Choral dam canal near Chordiya village on Sunday morning.
 0.94 (the car; fell; into Choral dam canal; L:near Chordiya village; T:on Sunday morning)
 0.68 (It; was; a close shave for three youths; T:after the car fell into Choral dam canal near Chordiya village on Sunday morning)
 0.90 (the car; swerved; out of control)
@@ -9659,7 +9660,7 @@ The three persons were on their way to a picnic to Patalpani waterfall.
 
 ============.
 
-It was a close shave for three youths after the car swerved out of control and fell into Choral dam canal near Chordiya village on Sunday morning.
+It was a close shave for three youths after the car  swerved out of control and fell into Choral dam canal near Chordiya village on Sunday morning.
 0.94 (the car; fell; into Choral dam canal; L:near Chordiya village; T:on Sunday morning)
 0.68 (It; was; a close shave for three youths; T:after the car fell into Choral dam canal near Chordiya village on Sunday morning)
 0.90 (the car; swerved; out of control)
@@ -9838,18 +9839,7 @@ The gist of the matter for the French secret service, according to More, is that
 
 -----------.
 
-This implies that he was alive somewhere but not dead in 1947,” said More, quoting the report written for the “Haut Commisariat de France for Indochina”- SDECE -Indochinese Base - BCRI - No. -----------.
-0.13 Context(This implies that he was alive not dead in 1947 said,List([0, 56))):(he; was not dead; T:in 1947)
-0.09 Context(This implies that he was alive not dead in 1947 said,List([0, 56))):(This; implies; that he was alive not dead in 1947)
-0.71 (This implies that he was alive not dead in 1947; said; T:More; quoting the report)
-0.13 Context(This implies that he was alive somewhere dead in 1947 said,List([0, 62))):(he; was somewhere dead; T:in 1947)
-0.09 Context(This implies that he was alive somewhere dead in 1947 said,List([0, 62))):(This; implies; that he was alive somewhere dead in 1947)
-0.71 (This implies that he was alive somewhere dead in 1947; said; T:More; quoting the report)
-0.95 (the report; written; for the " Haut Commisariat de France for Indochina " - SDECE - Indochinese Base - BCRI - No.)
-
-4128/3 cs/ah - Ex No. -----------.
-
-6/16, under the title: “Archival Information on Subhas Chandra Bose.” “In this report, it is clearly stated that he was the exchief of the Indian Independence League and a member of Hikari Kikan, a Japanese organisation.
+This implies that he was alive somewhere but not dead in 1947,” said More, quoting the report written for the “Haut Commisariat de France for Indochina”- SDECE -Indochinese Base - BCRI - Number 4128/3 cs/ah - Ex Number 6/16, under the title: “Archival Information on Subhas Chandra Bose.” “In this report, it is clearly stated that he was the exchief of the Indian Independence League and a member of Hikari Kikan, a Japanese organisation.
 0.38 (he; was a member of; Hikari Kikan)
 
 -----------.
@@ -9958,7 +9948,7 @@ A case has been registered against the bus driver on the basis of truck driver P
 
 ============.
 
-At least 16 Amarnath pilgrims were killed and over 30 sustained injuries after the bus skidded off the Jammu-Srinagar national highway and plunged into a gorge in Jammu and Kashmir’s Ramban district on Sunday.
+At least 16 Amarnath pilgrims were killed and over 30 sustained injuries after the bus  skidded off the Jammu-Srinagar national highway and plunged into a gorge in Jammu and Kashmir’s Ramban district on Sunday.
 0.64 (At least 16; plunged; into a gorge in Kashmir 's Ramban district; T:on Sunday)
 0.64 (At least 16; plunged; into a gorge in Jammu)
 0.99 (over 30 sustained injuries after; skidded; the Jammu-Srinagar national highway)
@@ -9999,7 +9989,7 @@ It plunged into a nearly 200-foot-deep gorge of Nachlana Nullah near an Army cam
 
 ============.
 
-Sixteen Amarnath pilgrims, including 14 men and two women, died when a bus falls into a gorge in J&K's Ramban district.
+Sixteen Amarnath pilgrims, including 14 men and two women, died when a bus  falls into a gorge in J&K's Ramban district.
 0.97 (Sixteen Amarnath pilgrims , including two women; died; T:when a bus falls into a gorge in J&K 's Ramban district)
 0.94 (a bus; falls; into a gorge in J&K 's Ramban district)
 0.97 (Sixteen Amarnath pilgrims , including 14 men; died; T:when a bus falls into a gorge in J&K 's Ramban district)
@@ -10147,7 +10137,7 @@ A case has been registered against the unidentified tempo driver.
 
 ============.
 
-Three persons, including a sub-inspector of Haryana police, were killed and two others were injured when the car rolled into a canal near Gohana on Sunday.
+Three persons, including a sub-inspector of Haryana police, were killed and two others were injured when the car  rolled into a canal near Gohana on Sunday.
 0.92 (the car; rolled; into a canal near Gohana; T:on Sunday)
 0.95 (two others; were injured; T:when the car rolled into a canal near Gohana on Sunday)
 0.86 (Three persons , including a sub-inspector of Haryana police; were killed; )
@@ -10236,9 +10226,8 @@ Divers were put on the search for Dharamvir’s body.
 
 ============.
 
-wo youths were killed and seriously injured in a road accident after a lorry hit a two wheeler in which the victims were riding in Trichy on Sunday.
-0.95 (the victims; were riding; in Trichy; T:on Sunday; L:a two wheeler)
-0.96 (a lorry; hit; a two wheeler in which the victims were riding in Trichy on Sunday)
+wo youths were killed and seriously injured in a road accident after a lorry hit a two wheeler in Trichy on Sunday.
+0.94 (a lorry; hit; a two wheeler; L:in Trichy; T:on Sunday)
 0.71 (youths; were killed; )
 
 -----------.
@@ -10372,7 +10361,7 @@ The bodies were sent to government hospital in Kulithalai for post-mortem.
 
 ============.
 
-Three persons, including a sub-inspector of Haryana police, were killed and two others were injured when the car rolled into a canal near Gohana on Sunday .
+Three persons, including a sub-inspector of Haryana police, were killed and two others were injured when the car  rolled into a canal near Gohana on Sunday .
 0.92 (the car; rolled; into a canal near Gohana; T:on Sunday)
 0.95 (two others; were injured; T:when the car rolled into a canal near Gohana on Sunday)
 0.86 (Three persons , including a sub-inspector of Haryana police; were killed; )
@@ -10512,10 +10501,10 @@ Such expediency can prove fatal.
 
 -----------.
 
-In March, four people were severely injured when the BMW car rammed into four vehicles while driving on the wrong side near RK Puram.
+In March, four people were severely injured when the BMW car  rammed into four vehicles while driving on the wrong side near RK Puram.
 0.93 (the BMW car; driving; L:on the wrong side near RK Puram)
 0.94 (the BMW car; rammed; into four vehicles; T:while driving on the wrong side near RK Puram)
-0.95 (four people; were severely injured; T:when the BMW car rammed into four vehicles; T:In March)
+0.95 (four people; were severely injured; T:when the BMW car  rammed into four vehicles; T:In March)
 
 -----------.
 
@@ -11329,10 +11318,11 @@ When the officials refused they threatened to damage their car.
 
 +++++++++++++++++++.
 
-Four members of two families died while two others were injured after the tyre of an MUV burst on the Mumbai-Nashik highway and the driver lost conrol of the vehicle.
+Four members of two families died while two others were injured after the tyre of an MUV they were travelling in burst on the Mumbai-Nashik highway and the driver lost conrol of the vehicle.
 0.93 (the driver; lost; conrol of the vehicle)
-0.95 (two others; were injured; T:after the tyre of an MUV burst on the Mumbai-Nashik highway)
-0.96 (Four members of two families; died; T:while two others were injured after the tyre of an MUV burst on the Mumbai-Nashik highway)
+0.66 (they; were travelling; in burst on the Mumbai - Nashik highway)
+0.92 (two others; were injured; T:after the tyre of an MUV)
+0.96 (Four members of two families; died; T:while two others were injured after the tyre of an MUV)
 
 -----------.
 
@@ -11684,7 +11674,7 @@ Around 1.30pm on Tuesday, Rohit himself came to the police station and said that
 
 ============.
 
-Eleven persons died and six others were seriously injured on Tuesday when the autorickshaw collided head-on with a bus around 9am near Purani Bazaar under Sarai police station area, 15km from Hajipur in Vaishali district.
+Eleven persons died and six others were seriously injured on Tuesday when the autorickshaw  collided head-on with a bus around 9am near Purani Bazaar under Sarai police station area, 15km from Hajipur in Vaishali district.
 0.92 (the autorickshaw; collided on; with a bus around 9 am near Purani Bazaar under Sarai police station area)
 0.95 (six others; were seriously injured; T:on Tuesday; T:when the autorickshaw collided head - on with a bus around 9 am near Purani Bazaar under Sarai police station area)
 0.79 (Eleven persons; died; )
@@ -13139,7 +13129,7 @@ While, Kadam sustained minor injuries, all the passengers were reported safe.
 
 ============.
 
-Two members of a family, one of them a six month-old baby, were killed and five others injured after the omni van hit the parapet wall of a flyover near Perumanallur in Tirupur district and overturned on Saturday.
+Two members of a family, one of them a six month-old baby, were killed and five others injured after the omni van  hit the parapet wall of a flyover near Perumanallur in Tirupur district and overturned on Saturday.
 0.93 (five others injured; overturned; T:on Saturday)
 0.73 (five others; injured; )
 0.95 (five others; injured; T:after the omni van hit the parapet wall of a flyover near Perumanallur in Tirupur district)
@@ -16934,7 +16924,7 @@ They've both been discharged since.
 
 -----------.
 
-Islam's wife Ruby said he had parked the car to purchase bottled water when the truck overturned and fell over it."
+Islam's wife Ruby said he had parked the car to purchase bottled water when the truck overturned and fell over it.
 0.26 Context(Islam 's wife said he had parked,List([0, 37))):(he; had parked the car to purchase; bottled water the truck overturned and fell over it)
 0.39 Context(Islam 's wife said,List([0, 23))):(he; had parked; the car; to purchase bottled water)
 0.83 (Islam 's wife; said; he had parked the car to purchase bottled water)
@@ -16945,7 +16935,7 @@ Islam's wife Ruby said he had parked the car to purchase bottled water when the 
 0.26 Context(Islam 's wife said,List([0, 23))):(he; had parked; the car; to purchase bottled water; T:when and fell over it)
 0.89 (Islam 's wife; said; he had parked the car to purchase bottled water when and fell over it)
 
------------.
+" -----------.
 
 Locals claimed police took an hour to arrive.
 0.87 Context(Locals claimed,List([0, 14))):(police; took; an hour to arrive)
