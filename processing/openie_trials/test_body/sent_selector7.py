@@ -54,6 +54,7 @@ def get_tuple(s):
 	return tuple(arr)
 
 
+# returns root verbs occuring in all tuples of a sentence
 def root_verbs(sentence):
 	lem = WordNetLemmatizer()
 
