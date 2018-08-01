@@ -1,7 +1,9 @@
 # SURA
 
-TO DO: 22/7
+# TO DO: 22/7
 2. run full pipeline on july2017 to get proper inferences on updated results
+		check difference = git diff ace167 2df79c
+
 4. run pos/ner on clauses to remove redundant words
 1. add boolean in sent_selector telling whether to print tuples or not - done
 3. resolve pending issues - done
@@ -30,6 +32,12 @@ In another spine-chilling accident, a 20-year-old engineering student died after
 
 4. limit the number of sentences that are marked relevant on basis of "took place" to 1.
 	=== implement this == done
+
+
+# Meeting - Prof. Bedathur
+1. Try heidel-time (really good), gu-time tagger
+2. run pos tagger on whole sentence(to give context) and then select location based on tag of words obtained by splitting on prepositions
+3. complete the whole pipeline once (and then check what action leads to what)
 
 
 
