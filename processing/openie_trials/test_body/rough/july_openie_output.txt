@@ -1,0 +1,71 @@
+A driver hit 12 people and eight parked vehicles before hitting a pole in west Delhi's Tilak Nagar on Thursday evening.
+0.90 Context(A driver hit,List([0, 12))):(A driver; hit eight parked vehicles before hitting; a pole; L:in west Delhi 's Tilak Nagar; T:on Thursday evening)
+0.95 (A driver; hit; eight parked vehicles; T:before hitting a pole in west Delhi 's Tilak Nagar on Thursday evening)
+1.00 (A driver; hit; 12 people)
+0.90 Context(A driver hit,List([0, 12))):(A driver; hit 12 people before hitting; a pole; L:in west Delhi 's Tilak Nagar; T:on Thursday evening)
+0.95 (A driver; hit; 12 people; T:before hitting a pole in west Delhi 's Tilak Nagar on Thursday evening)
+
+-----------.
+
+Witnesses said all this happened over a 400-metre stretch.
+0.51 Context(Witnesses said,List([0, 14))):(all this; happened; L:over a 400-metre stretch)
+0.87 (Witnesses; said; all this happened over a 400-metre stretch)
+
+-----------.
+
+Police received a call around 9.30pm, and a team arrived soon after and arrested the driver, Arup Kumar (32).
+0.75 (Police; received; T:after)
+0.82 Context(Police received,List([0, 15))):(Police; received a team arrested; the driver)
+0.87 (Police; received; a team)
+0.88 (Police; arrested; the driver)
+0.89 (Police; received; a call; T:around 9.30 pm)
+
+-----------.
+
+“He first hit two scooters, then a bike, then three e-rickshaws and two cars parked along the road," said a senior police officer.
+0.57 Context(He first hit two scooters said,List([2, 81))):(He; hit; two scooters; T:first)
+0.93 (then a bike two cars; parked; along the road)
+0.57 Context(He first hit two scooters said,List([2, 77))):(He; hit; two scooters; T:first)
+0.61 (He first hit two scooters; said; a senior police officer)
+
+-----------.
+
+The vehicle came to a stop after hitting the pole.
+0.90 (The vehicle; came; to a stop; T:after hitting the pole)
+
+-----------.
+
+As soon as the car stopped, people pulled out Kumar, thrashed him and called the police.
+0.90 (the car; called; the police)
+0.95 (people; pulled out; Kumar; T:As soon as the car stopped)
+0.73 (the car; stopped; )
+
+-----------.
+
+“The injured were all rushed to three different hospitals where they were treated and later discharged,” said DCP (west) Vijay Kumar.
+0.52 (later discharged; said; DCP)
+0.41 Context(The injured were all rushed to three different hospitals said,List([2, 91))):(The injured; were rushed; to three different hospitals)
+0.94 (The injured were all rushed to three different hospitals; said; DCP)
+0.70 (they; were treated; L:three different hospitals)
+
+-----------.
+
+Police said Kumar, a resident of Krishna Park, was quite drunk at the time of incident.
+0.38 (Kumar; [is] a resident of; Krishna Park)
+0.91 Context(Police said,List([0, 11))):(Kumar; was; quite drunk at the time of incident)
+0.93 (Police; said; Kumar, a resident of Krishna Park, was quite drunk at the time of incident)
+
+-----------.
+
+“He is a driver and had dropped a few children at a sports complex in Hari Nagar in the evening," said a senior officer.
+0.97 (had dropped a few children at a sports complex in Hari Nagar in the evening; said; a senior officer)
+0.47 Context(He is a driver said,List([2, 25))):(He; is; a driver)
+0.59 (He is a driver; said; a senior officer)
+
+-----------.
+
+============.
+
+++++++++++++. 
+
+//////////////.
