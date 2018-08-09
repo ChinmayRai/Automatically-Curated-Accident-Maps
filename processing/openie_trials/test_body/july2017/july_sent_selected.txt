@@ -1,3 +1,9 @@
+Ashok Kondiba Thakur, a 61-year-old resident of Bopodi, was killed after the car he was travelling in crashed into the barricades along BRTS (Bus Rapid Transit System) route in Akurdi late on Wednesday night.
+['crashed', 'the barricades along BRTS (Bus Rapid Transit System) route', 'Akurdi late', 'Wednesday night.']
+['crashed', 'the barricades along BRTS (Bus Rapid Transit System) route', 'Akurdi']
+
+---------------
+
 He, however, failed to notice the barricades or the blinkers and crashed into them,” Kharage said.
 ['them\xe2\x80\x9d Kharage said.']
 ['them']
@@ -8,12 +14,6 @@ Thakur, who was severely injured in the accident, was rushed to the Yashwantrao 
 ['the accident was rushed to the Yashwantrao Chavan Memorial Hospital', 'Pimpri where he was declared dead by the doctors Kharage said.']
 ['Pimpri']
 ['the accident']
-
----------------
-
-Ashok Kondiba Thakur, a 61-year-old resident of Bopodi, was killed after the car he was travelling in crashed into the barricades along BRTS (Bus Rapid Transit System) route in Akurdi late on Wednesday night.
-['crashed', 'the barricades along BRTS (Bus Rapid Transit System) route', 'Akurdi late', 'Wednesday night.']
-['crashed', 'the barricades along BRTS (Bus Rapid Transit System) route', 'Akurdi']
 
 ---------------
 
@@ -45,6 +45,12 @@ Two men on scooters were killed in separate accidents in the city on Thursday ni
 
 ---------------
 
+In the first incident, reported from the Nirankari Colony in north-west Delhi’s Mukherjee Nagar, civil service aspirant Sumit Kumar (20) and his friend Naveen (19) were hit by a vehicle at a T-point late on Thursday night.
+['north-west Delhi\xe2\x80\x99s Mukherjee Nagar civil service aspirant Sumit Kumar (20) and his friend Naveen (19) were hit by a vehicle', 'a T-point late', 'Thursday night.']
+["north - west Delhi 's Mukherjee Nagar"]
+
+---------------
+
 They were found lying injured on the road by a PCR team and rushed to the trauma centre in Civil Lines.
 ['the road by a PCR team and rushed to the trauma centre', 'Civil Lines.']
 ['the road']
@@ -52,16 +58,21 @@ They were found lying injured on the road by a PCR team and rushed to the trauma
 
 ---------------
 
-Police said that in both cases the men were travelling with pillion riders who have been critically injured.
-['both cases the men were travelling with pillion riders who have been critically injured.']
-['both cases']
-['both cases the men were travelling with pillion riders']
+====================
+
+A driver hit 12 people and eight parked vehicles before hitting a pole in west Delhi's Tilak Nagar on Thursday evening.
+["west Delhi's Tilak Nagar", 'Thursday evening.']
+["west Delhi 's Tilak Nagar", 'Thursday evening']
+["west Delhi 's Tilak Nagar", 'Thursday evening']
 
 ---------------
 
-====================
-
 Witnesses said all this happened over a 400-metre stretch.
+[]
+
+---------------
+
+“He first hit two scooters, then a bike, then three e-rickshaws and two cars parked along the road," said a senior police officer.
 []
 
 ---------------
@@ -77,6 +88,13 @@ A 30-year-old pedestrian was killed after an unidentified vehicle hit him near H
 The accident happened opposite Essar petrol pump in Harsaru on the Gurgaon-Pataudi road around 11pm. -----------.
 ['Harsaru', 'the Gurgaon-Pataudi road', '11pm. -----------.']
 ['Harsaruon the Gurgaon-Pataudi road', '11pm']
+
+---------------
+
+Cops said the victim died on the spot.
+['the spot.']
+['the spot']
+['the spot']
 
 ---------------
 
@@ -120,6 +138,13 @@ Jackson was in a passenger seat of the luxury car that was travelling westbound 
 
 ====================
 
+A five-year-old girl died after she was run over by a bus near Jhotwara area of the city on Saturday morning.
+['Jhotwara area of the city', 'Saturday morning.']
+['Jhotwara area of the city', 'Saturday morning']
+['Jhotwara area of the city', 'Saturday morning']
+
+---------------
+
 According to police, Jevika was travelling with her parents in the same bus and had alighted near Ram Nagar in Bhatta Basti.
 ['the same bus and had alighted', 'Ram Nagar', 'Bhatta Basti.']
 ['Ram Nagarin Bhatta Basti']
@@ -137,12 +162,30 @@ She was rushed to hospital where she was declared dead upon arrival,” the poli
 
 ====================
 
+Last year more than 20,000 people died in road accidents, a 12-percent drop compared to 2015.
+['road accidents a 12-percent drop compared to 2015.']
+['road accidentsLast year']
+
+---------------
+
+Thirteen people died, two of them children, when a long-haul passenger bus collided with a truck in Russia today, authorities said.
+['Russia today authorities said.']
+
+---------------
+
 The bus was travelling from Samara on the Volga river to Izhevsk, around 900 kilometres (550 miles) east of Moscow, when the accident happened, the Investigative Committee, which probes accidents and disasters, said.
 ['the Volga river to Izhevsk', '900 kilometres (550 miles) east of Moscow when the accident happened the Investigative Committee which probes accidents and disasters said.']
 
 ---------------
 
 ====================
+
+Police believe Karan rammed into the pillar after falling asleep at the wheel.
+['the pillar after falling asleep', 'the wheel.']
+['the pillarafter falling asleep', 'the wheel']
+['the pillar after falling asleep', 'the wheel']
+
+---------------
 
 A 66-year-old woman died while her son, who was driving the car, and her brother sustained injuries after their vehicle rammed the pillar of the bridge at Range Hill Corner on Ganeshkhind Road around 2.20am on Thursday.
 ['Range Hill Corner', 'Ganeshkhind Road', '2.20am', 'Thursday.']
@@ -168,6 +211,12 @@ A source said that the injured, who is in his mid-40s, did not suffer external i
 ['his mid-40s did not suffer external injury but fainted after his two-wheeler was hit by a speeding vehicle.']
 ['his mid-40 s  did not suffer external injury']
 ['his mid-40 s']
+
+---------------
+
+A few minutes of our life can save someone in an emergency,” said CM Rawat.
+['an emergency\xe2\x80\x9d said CM Rawat.']
+['an emergency']
 
 ---------------
 
@@ -198,14 +247,14 @@ On June 9, a 52-year-old woman was killed in an accident when a KMT bus ran her 
 
 ====================
 
-The Mercedes, belonging to a perfume manufacturer, collided with the Gypsy of Jai Kishan Bhargava, ACP in charge of crimes against women’s cell around 2am. -----------.
-['charge of crimes against women\xe2\x80\x99s cell', '2am. -----------.']
+A Mercedes Benz rammed the official Maruti Gypsy of an assistant commissioner of Delhi Police on Sunday morning a few meters ahead of the DND toll plaza on the Noida side.
+['Sunday morning a few meters ahead of the DND toll plaza', 'the Noida side.']
+['Sunday morning']
 
 ---------------
 
-None of them were seriously injured, doctors said, even as the Mercedes has been totally damaged from the front while the police gypsy was damaged at the rear end.“Both the vehicles have been impounded.
-['the rear end.\xe2\x80\x9cBoth the vehicles have been impounded.']
-['the rear end']
+The Mercedes, belonging to a perfume manufacturer, collided with the Gypsy of Jai Kishan Bhargava, ACP in charge of crimes against women’s cell around 2am. -----------.
+['charge of crimes against women\xe2\x80\x99s cell', '2am. -----------.']
 
 ---------------
 
@@ -224,8 +273,10 @@ A former Armyman was killed and his wife critically injured after their speeding
 
 ---------------
 
-Police said Dharampal lost control of his bike while negotiating a turn.
-[]
+The bike rammed into an iron railing on a roadside, adjacent to canal.
+['an iron railing', 'a roadside adjacent to canal.']
+['a roadside']
+['an iron railing', 'a roadside adjacent to canal']
 
 ---------------
 
@@ -235,6 +286,12 @@ Police said Dharampal lost control of his bike while negotiating a turn.
 ---------------
 
 ====================
+
+A speeding truck mowed down two persons near Shivdaspura on late Saturday night.
+['Shivdaspura', 'late Saturday night.']
+['Shivdaspuraon late Saturday night']
+
+---------------
 
 That’s why it lost control and rammed into the bike,” an official told TOI. -----------.
 ['the bike\xe2\x80\x9d an official told TOI. -----------.']
@@ -258,17 +315,24 @@ The return journey from Ahmednagar of a group of 15 software engineers from the 
 
 ---------------
 
-Inspector Sarjerao Patil of the Lonikand police station said the driver of the water tanker, which was going towards Ahmednagar, lost control of the vehicle.
+"The vehicle jumped over the road divider and hit the minibus which was coming from the opposite direction.
 []
 
 ---------------
 
-After hitting the minibus, the tanker went on to collide with a car travelling behind the minibus.
-['to collide with a car travelling behind the minibus.']
+All six victims died on the spot.
+['the spot.']
+['the spot']
 
 ---------------
 
 ====================
+
+A 29-year-old software engineer died in a road mishap in the US.
+['a road mishap', 'the US.']
+['a road mishap', 'the US']
+
+---------------
 
 As per reports, the tragedy occured on his birthday on Sunday.
 ['his birthday', 'Sunday.']
@@ -283,21 +347,11 @@ The vehicle fell into a valley and Pradeep died in the mishap.
 
 ---------------
 
-Four others, including his wife Karthika Chanti, who were said to be injured, were admitted to a hospital.
-[]
-
----------------
-
 ====================
 
 THIRUVANANTHAPURAM: More than 50 people were injured and five were killed in accidents involving KSRTC buses in the district in past one month.
 ['accidents involving KSRTC buses', 'the district', 'past one month.']
 ['accidents']
-
----------------
-
-“The accidents, which involve KSRTC buses, are low when compared to the previous monsoon season, when a large number of accidents occurred during heavy rains,” said P Anil Kumar, CI traffic police (North).
-[]
 
 ---------------
 
@@ -308,11 +362,44 @@ Three persons, including a 13-year-old boy were killed in an accident on June 23
 
 ---------------
 
+In another, accident 49 people were injured when a transport corporation bus overturned at Perayam near Palode, while taking a sharp turn near the forest area.
+['Perayam', 'Palode while taking a sharp turn', 'the forest area.']
+['Perayam', 'Palode']
+['Perayam', 'Palodewhile taking a sharp turn', 'the forest areaIn another']
+
+---------------
+
 ====================
+
+According to V Ajith, superintendent, traffic (South Zone), the rise in accidents could be attributed to the attitude of the riders.“A
+['accidents could be attributed to the attitude of the riders.\xe2\x80\x9cA']
+['the data would show that it was mostly youngsters who were involved', 'most of the accidents\xe2\x80\x9d the SP said.']
+['most of the accidents']
+['most of the accidents']
+
+---------------
+
+Even if their parents suggest safer options, they won’t approve,” the SP said.
+[]
+
+---------------
+
+The SP also said that he has directed the officials concerned to prepare a list of accident victims based on their age.
+['their age.']
+['their age']
+['their age']
+
+---------------
 
 ====================
 
 ++++++++++++++++++++++++
+
+Two stray cattle had died after being hit by a vehicle on Amravati Road in the wee hours of Sunday.
+['Amravati Road', 'the wee hours of Sunday.']
+['Amravati Road', 'the wee hours of Sunday']
+
+---------------
 
 Around 2.30am, a reportedly speeding car collided with stray buffaloes on Amravati Road opposite a car showroom.
 ['Amravati Road opposite a car showroom.']
@@ -324,13 +411,6 @@ The bull had also died but its owner, believed to be staying near Telangkhedi, c
 
 ---------------
 
-While one animal died on the spot, the other sustained severe injuries.
-['the spot the other sustained severe injuries.']
-['the spot']
-['the spot']
-
----------------
-
 ====================
 
 A truck driver was killed after he rammed his truck into a shed of the Maruti plant in Manesar on Saturday night while a 19-year-old was killed after his motorcycle was hit by a canter on Sunday.
@@ -338,6 +418,12 @@ A truck driver was killed after he rammed his truck into a shed of the Maruti pl
 ['Sunday']
 ['Manesaron Saturday nightwhile a 19-year-old was killed after his motorcycle was hit by a canter', 'Sunday']
 ['a shed of the Maruti plant', 'Manesar', 'Saturday night']
+
+---------------
+
+In the first incident, a 23-year-old truck driver, Rajesh, died on spot.
+['spot.']
+['spotIn the first incident']
 
 ---------------
 
@@ -356,6 +442,12 @@ The accident took place when the 22-year-old was going on his bike.
 
 ---------------
 
+Yashrajsinh, son of Rajkot-based hotelier, Dilipsinh Rana died in a road accident near Ghanteshwar village on Jamnagar Road on the outskirts of the city on Monday evening.
+['a road accident', 'Ghanteshwar village', 'Jamnagar Road', 'the outskirts of the city', 'Monday evening.']
+['a road accident', 'Ghanteshwar villageon Jamnagar Roadon Monday evening']
+
+---------------
+
 He was rushed to a private hospital where he succumbed to injuryies during treatment.
 []
 
@@ -367,6 +459,11 @@ A driver, who was drunk, mowed down an 11-year-old boy and injured his mother an
 ['Thiruvalangadu', 'Tiruttani on.']
 ['Tiruttani on']
 ['Tiruttani']
+
+---------------
+
+Witnesses told police that the speeding car hit the trio from behind.
+[]
 
 ---------------
 
@@ -393,6 +490,11 @@ The family was on their way to Amota village in a jeep when it collided with the
 
 ====================
 
+Of the 32 injured, 18 were referred to hospitals -- 14 to the Government Medical College Hospital in Jammu and four to the Udhampur district hospital.
+['Jammu and four to the Udhampur district hospital.']
+
+---------------
+
 Three people were killed and 32 others injured when a matador overturned at the Ramkot belt of Jammu and Kashmir's Kathua district today, the police said.
 ["the Ramkot belt of Jammu and Kashmir's Kathua district today the police said."]
 ["the Ramkot belt of Kashmir 's Kathua district today"]
@@ -402,13 +504,10 @@ Three people were killed and 32 others injured when a matador overturned at the 
 
 ---------------
 
-The deceased were identified as Ajay Singh (19), Hoshiar Singh (21) and Kuldeep Raj (31) -- all from Majalta in Udhampur -- the police said, adding that the accident occurred due to the "rash and negligent" driving of the matador driver.
-['Udhampur -- the police said adding that the accident occurred due to the "rash and negligent" driving of the matador driver.']
-
----------------
-
-Of the 32 injured, 18 were referred to hospitals -- 14 to the Government Medical College Hospital in Jammu and four to the Udhampur district hospital.
-['Jammu and four to the Udhampur district hospital.']
+The driver of the "overloaded" matador, which was on its way from Nagrota Gujjroo in Kathua to Khoon in Udhampur district, lost control of the vehicle, which skidded off the road and overturned at the Challari-Ramkot belt, the police said.
+['its way from Nagrota Gujjroo', 'Kathua to Khoon', 'Udhampur district lost control of the vehicle which skidded off the road and overturned', 'the Challari-Ramkot belt the police said.']
+['the Challari - Ramkot belt']
+['its way from Nagrota Gujjroo', 'Kathua to Khoon', 'Udhampur district']
 
 ---------------
 
@@ -427,10 +526,10 @@ Just one and a half hours later, the other accident occurred near Bajna under Na
 
 ---------------
 
-Talking to TOI, Mant circle officer Sanjay Kumar Sagar said that the first accident on Monday occurred at 4:30 am when the driver of a Hyundai Creta car lost control while heading to Mathura from Noida.
-['Monday occurred', '4:30 am when the driver of a Hyundai Creta car lost control while heading to Mathura from Noida.']
-['4:30 amwhen the driver of a Hyundai Creta car lost control']
-['Monday occurred', '4:30 am']
+Two persons, Gupreet Singh from Amritsar and Shabuddin from Bihar, died on the spot while the driver Waqeel Raza from Bihar sustained injuries.
+['the spot while the driver Waqeel Raza from Bihar sustained injuries.']
+['the spotwhile the driver Waqeel Raza from Bihar sustained injuries']
+['the spotwhile the driver Waqeel Raza from Bihar sustained injuries']
 
 ---------------
 
@@ -494,6 +593,12 @@ Maner SHO Rajeev Kumar said the five along with a driver had gone to Moudehi nea
 
 ====================
 
+A 27-year-old man died after being run over by a truck near Ramapir Crossroads on 150-feet Ring Road, on Tuesday afternoon.
+['Ramapir Crossroads', '150-feet Ring Road', 'Tuesday afternoon.']
+['Ramapir Crossroads', '150-feet Ring Road', 'Tuesday afternoon']
+
+---------------
+
 According to police, when Parmar was riding his motorcycle on 150-feet Ring Road, an autorickshaw hit him and he fell on the road.
 ['150-feet Ring Road an autorickshaw hit him and he fell', 'the road.']
 ['the road']
@@ -550,6 +655,16 @@ Ten people, including two children, sustained injuries when a tempo overturned a
 
 ====================
 
+In a grim reminder of the danger posed by barricades placed by traffic cops on the city streets, a 38-year-old man died on the spot after his two-wheeler rammed into a set of metal drums intended to regulate traffic near the Melmaruvathur bypass road on Tuesday morning.
+['the city streets a 38-year-old man died', 'the spot after his two-wheeler rammed', 'a set of metal drums intended to regulate traffic', 'the Melmaruvathur bypass road', 'Tuesday morning.']
+['the Melmaruvathur bypass road', 'Tuesday morning']
+['a set of metal drums']
+['the spotafter his two-wheeler rammed', 'a set of metal drumsIn a grim reminder of the danger']
+['the city streets']
+['Tuesday morning']
+
+---------------
+
 At least four people have been killed in this manner along this stretch in the last few months.”There
 ['this manner along this stretch', 'the last few months.\xe2\x80\x9dThere']
 ['this manneralong this stretchin the last few months']
@@ -567,15 +682,6 @@ The traffic police and civic authorities should ensure proper lighting to avoid 
 
 ---------------
 
-Police said Loganathan was on his way to visit relatives, along with his wife Poongothai, 35, when he lost control of the two-wheeler and crashed into the barricade placed in the middle of the road.
-['his way to visit relatives along with his wife Poongothai 35 when he lost control of the two-wheeler and crashed', 'the barricade placed', 'the middle of the road.']
-['the barricade']
-['the middle of the road']
-['his way']
-['his way to visit relatives along with his wife']
-
----------------
-
 ====================
 
 Twenty people were injured in Damtal area of Kangra district after a head-on collision between two roadways buses on Pathankot–Jalandhar highway on Tuesday.
@@ -590,23 +696,30 @@ The accident, which occurred around 3.45am, could have been more serious had the
 
 ---------------
 
-According to police, it was the HRTC bus which turned into a ball of fire and charred even the other bus.
-['a ball of fire and charred even the other bus.']
-['a ball of fire']
+According to police officials, the Haryana Roadways bus broke the median barrier and rammed the Himachal Road Transport Corporation (HRTC) which was coming from other side.
+[]
 
 ---------------
 
 ====================
 
+A four-year-old girl died after being hit by a speeding car in northeast Delhi’s Khanjhawala on Saturday.
+['northeast Delhi\xe2\x80\x99s Khanjhawala', 'Saturday.']
+["northeast Delhi's Khanjhawala", 'Saturday']
+
+---------------
+
+The girl, Kajal, was on her way home with her aunt when the speeding white sedan hit her from behind and then ran over her.
+['her way home with her aunt when the speeding white sedan hit her from behind and then ran over her.']
+['her way home']
+['her way homewhen the speeding white sedan hit her from behind']
+
+---------------
+
 She said that the car hit Kajal from behind and she fell on the road.
 ['the road.']
 ['the road']
 ['the road']
-
----------------
-
-The car then ran over her, crushing her under its wheels,” said a senior police officer.
-['its wheels\xe2\x80\x9d said a senior police officer.']
 
 ---------------
 
@@ -627,14 +740,19 @@ Two persons were injured in separate road mishaps on Wednesday.
 
 ---------------
 
-In the first incident, a driver of a tourist car suffered severe injuries after a speeding four-wheeler rammed into him.
+The victim, Amrushi Mane (27), a resident of Chembur, had parked his vehicle and was waiting for a passenger when the speeding car came from behind and rammed into him.
 ['him.']
 ['him']
-['himIn the first incident']
+['him']
 
 ---------------
 
 ====================
+
+The city’s newly opened elevated road saw another accident on Wednesday, just a few hours after two youths on a motorcycle suffered serious injuries after their bike hit a car on Tuesday night.
+['Wednesday just a few hours after two youths', 'a motorcycle suffered serious injuries after their bike hit a car', 'Tuesday night.']
+
+---------------
 
 According to the police, the accident occurred when a speeding Toyota Fortuner rammed a slow-moving dumper driving ahead of it.
 []
@@ -647,12 +765,12 @@ Tomar was returning home from his factory in Ghaziabad when the accident occurre
 
 ---------------
 
-Narayan said, “The accident occurred above the crossing of sectors 21 and 25 when the SUV, which was allegedly speeding, collided with a slow-moving dumper ahead of it.
-[]
+====================
+
+The city’s newly opened elevated road saw another accident on Wednesday, just a few hours after two youths on a motorcycle suffered serious injuries after their bike hit a car on Tuesday night.
+['Wednesday just a few hours after two youths', 'a motorcycle suffered serious injuries after their bike hit a car', 'Tuesday night.']
 
 ---------------
-
-====================
 
 According to the police, the accident occurred when a speeding Toyota Fortuner rammed a slow-moving dumper driving ahead of it.
 []
@@ -662,11 +780,6 @@ According to the police, the accident occurred when a speeding Toyota Fortuner r
 Tomar was returning home from his factory in Ghaziabad when the accident occurred.
 ['Ghaziabad when the accident occurred.']
 ['Ghaziabadwhen the accident occurred']
-
----------------
-
-Narayan said, “The accident occurred above the crossing of sectors 21 and 25 when the SUV, which was allegedly speeding, collided with a slow-moving dumper ahead of it.
-[]
 
 ---------------
 
@@ -677,6 +790,11 @@ Courage and bravery shown by a group of villagers saved the lives of five member
 ['the Sirhind Canal', 'a bridge', 'Gurthali village', 'Khanna', 'Wednesday']
 ['the Sirhind Canal', 'a bridge', 'Gurthali village', 'Khanna', 'Wednesday']
 ['the Sirhind Canalnear a bridge', 'Gurthali village', 'Khanna', 'Wednesday']
+
+---------------
+
+DIG Yurinder Singh Hayer said it was because of timely action taken by sarpanch Ajit Singh that the family was saved.
+[]
 
 ---------------
 
@@ -694,9 +812,9 @@ Singh’s father Sanjay and her mother have been injured in the accident.
 
 ---------------
 
-A 14-year-old boy died and two others were injured after a speeding truck lost control and run over three persons sleeping outside their house in a village near Kotputli in the outskirts of Jaipur on Wednesday morning.
-['a village', 'Kotputli', 'the outskirts of Jaipur', 'Wednesday morning.']
-['a village', 'Kotputli', 'the outskirts of Jaipur', 'Wednesday morning']
+The truck later hit into an electric police.
+['an electric police.']
+['an electric policelater']
 
 ---------------
 
@@ -722,6 +840,11 @@ Out of three persons, two passengers sustained grave injuries and are critical.
 
 ++++++++++++++++++++++++
 
+A cab suddenly applied break and to avoid a collision, Rohra too applied break and took right but was hit by a truck which was coming from behind.
+[]
+
+---------------
+
 A 21-year old woman, Rashmi Rohra, died and her colleagues, Soni Bhatia and Taruna Duseja, suffered injuries after a truck hit their scooter near Mankoli naka on Mumbai-Nashik highway on Thursday.
 ['Mankoli naka', 'Mumbai-Nashik highway', 'Thursday.']
 ['Mankoli naka', 'Mumbai - Nashik highway', 'Thursday']
@@ -733,15 +856,23 @@ A shocked Duseja lost her balance and fell and sustained injuries.
 
 ---------------
 
-Police said trio were headed to work around 10.30am.
-['10.30am.']
-['10.30am']
-['10.30am']
-['10.30am']
+====================
+
+Work is likely to start by month-end,” said Huda administrator Yashpal Yadav, adding the project will reduce jams and ensure smooth flow of traffic at the junction.
+['the junction.']
+['the junction']
 
 ---------------
 
-====================
+“The junction has emerged as an accident spot due to faulty design,” said Sachin Sharma, resident of Sector 50.
+[]
+
+---------------
+
+Sector 66 resident Prabhat Mishra said shifting of the high-tension line has ensured smooth traffic flow, and that they are hoping the authority will complete the new work at the earliest.
+['the earliest.']
+
+---------------
 
 ====================
 
@@ -761,11 +892,9 @@ The state traffic planning cell is coordinating with the road accident data mana
 
 ---------------
 
-The 'Global Report on Urban Health' released by the UN in 2016 said that the number of persons killed per lakh of population in Chennai was the second highest across the major selected cities at 26.6, next to Fortaleza, the capital of the Brazilian state of Ceara.
-["Urban Health' released by the UN", '2016 said that the number of persons killed per lakh of population', 'Chennai was the second highest across the major selected cities', '26.6 next to Fortaleza the capital of the Brazilian state of Ceara.']
-['26.6']
-['Chennai was the second highest across the major selected cities', '26.6 next to Fortaleza']
-['Chennai']
+In the 7,486 accidents reported in Chennai city, at least 1,155 people lost their lives.
+['Chennai city', 'least 1155 people lost their lives.']
+['Chennai city']
 
 ---------------
 
@@ -851,6 +980,17 @@ They topple while crossing the hairpin bends at the ghat road,” a NHAI officia
 
 ---------------
 
+The district administration then approached the forest department to allocate land to lay the new road, which will eliminate hairpin bends.“We
+[]
+
+---------------
+
+“We will uproot trees using earthmovers and will plant them in the nearby forest,” the official said.“We
+['the nearby forest\xe2\x80\x9d the official said.\xe2\x80\x9cWe']
+['a couple of months\xe2\x80\x9d he added.']
+
+---------------
+
 ====================
 
 Police said that the accident took place on Thursday evening around 5.45pm.
@@ -880,6 +1020,11 @@ A 24-year-old woman returning home from a birthday party died in a road accident
 
 ---------------
 
+She had died by the time passersby got her to the hospital in an auto.
+['an auto.']
+
+---------------
+
 Eyewitness Amit Kumar, a resident of Shiv Nagar, was in an auto with some of his friends when the Swift ploughed into the truck.
 ['an auto with some of his friends when the Swift ploughed', 'the truck.']
 ['the truck']
@@ -887,12 +1032,18 @@ Eyewitness Amit Kumar, a resident of Shiv Nagar, was in an auto with some of his
 
 ---------------
 
-The car was badly damaged and both the woman and man were injured and unconscious.
-[]
+====================
+
+A 40-year-old government employee died in an accident at Koyambedu bus terminus on Friday at 5.30am.
+['an accident', 'Koyambedu bus terminus', 'Friday', '5.30am.']
+['an accident', 'Koyambedu bus terminuson Fridayat 5.30am']
 
 ---------------
 
-====================
+Sumathi hit the overhead rod and received severe head injury.
+[]
+
+---------------
 
 Her mother who was accompaning her and another passenger were also injured in the process.
 ['the process.']
@@ -903,9 +1054,62 @@ Her mother who was accompaning her and another passenger were also injured in th
 
 ====================
 
-====================
+Eight persons on board a Sports Utility Vehicle (SUV) died after the SUV was rammed into a speeding truck on Chhuchakwas-Gwalison road, near Maraut village of Jhajjar, during late night hours of Friday.
+['board a Sports Utility Vehicle (SUV) died after the SUV was rammed', 'a speeding truck', 'Chhuchakwas-Gwalison road', 'Maraut village of Jhajjar during late night hours of Friday.']
+['a speeding truckon Chhuchakwas-Gwalison road', 'Maraut village of Jhajjarduring late night hours of Friday']
+['a speeding truck', 'Chhuchakwas-Gwalison road', 'Maraut village of Jhajjar during late night hours of Friday']
+
+---------------
+
+Seven persons including the driver died on the spot.
+['the spot.']
+['the spot']
+
+---------------
+
+One seriously injured person died while on the way to PGIMS Rohtak.
+['the way to PGIMS Rohtak.']
+
+---------------
 
 ====================
+
+I'm doing everything I can to heal faster," Renner said.
+[]
+
+---------------
+
+Renner said visual effects in his movies like Marvel's 'Captain America: Civil War', leave him surprised.
+["his movies like Marvel's 'Captain America: Civil War' leave him surprised."]
+["his movies like Marvel's 'Captain America: Civil War' leave him surprised"]
+
+---------------
+
+Once we're done with principal photography, it goes into editing and the effects are added... -----------.
+['editing and the effects are added... -----------.']
+["editingOnce we 're done with principal photography"]
+
+---------------
+
+====================
+
+Eight persons on board a Sports Utility Vehicle (SUV) died after the SUV rammed into a speeding truck on Chhuchakwas-Gwalison road, near Maraut village of Jhajjar, during late night hours of Friday.
+['board a Sports Utility Vehicle (SUV) died after the SUV rammed', 'a speeding truck', 'Chhuchakwas-Gwalison road', 'Maraut village of Jhajjar during late night hours of Friday.']
+['a speeding truckon Chhuchakwas-Gwalison road', 'Maraut village of Jhajjar']
+['a speeding truck', 'Chhuchakwas-Gwalison road', 'Maraut village of Jhajjarduring late night hours of Friday']
+
+---------------
+
+Seven persons, including the driver, died on the spot.
+['the spot.']
+['the spot']
+
+---------------
+
+One seriously injured person died while on the way to PGIMS Rohtak.
+['the way to PGIMS Rohtak.']
+
+---------------
 
 ====================
 
@@ -925,8 +1129,9 @@ The mob vandalised the vehicles at Baba Haridass Nagar on Friday night and relea
 
 ---------------
 
-“Three persons who sustained some injuries were examined and released from hospital.
-[]
+Some died after being injured in the melee.
+['the melee.']
+['the melee']
 
 ---------------
 
@@ -947,7 +1152,33 @@ Three persons were killed and three others got injured when a state transport bu
 
 ---------------
 
+All three deceased died on the spot, police added.
+['the spot police added.']
+['the spot']
+
+---------------
+
 ====================
+
+A 20-year-old youth died in a road accident near Mahavir Hall on Ajwa Road when he was on his way to take an exam at a computer class on his two-wheeler with his friend on Saturday morning.
+['a road accident', 'Mahavir Hall', 'Ajwa Road when he was', 'his way to take an exam', 'a computer class', 'his two-wheeler with his friend', 'Saturday morning.']
+['his way']
+['a road accident', 'Mahavir Hallon Ajwa Roadwhen he was', 'his way']
+
+---------------
+
+The deceased identified as Ashok Rajput, was on his way to a computer class on Waghodia Road with his friend Dhruv Joshi when a pick-up van driver hit them near Mahavir Hall on Ajwa Road.
+['his way to a computer class', 'Waghodia Road with his friend Dhruv Joshi when a pick-up van driver hit them', 'Mahavir Hall', 'Ajwa Road.']
+['his way to a computer class', 'Waghodia Roadwhen a pick-up van driver hit them', 'Mahavir Hall', 'Ajwa Road']
+
+---------------
+
+Police said that the duo were flung into air.
+['air.']
+['air']
+['air']
+
+---------------
 
 ====================
 
@@ -963,6 +1194,11 @@ The next moment, a car went rushing past the house, crushed the child under its 
 
 ---------------
 
+The accused will be arrested soon,” said inspector Gaurav Phogat, SHO, Sushant Lok police station.
+[]
+
+---------------
+
 ====================
 
 As per police sources, the driver may have been left bamboozled by something in a fraction of second for which he had to drastically turn the car on the wrong side when it dashed against the parapet of the bridge.
@@ -972,14 +1208,15 @@ As per police sources, the driver may have been left bamboozled by something in 
 
 ---------------
 
-Moundekar, who was least injured among the four, alerted one of his friends Harshad Parasgaonkar who rushed to help them.
-[]
+After hitting the parapet on the left side, the car moved across the road on the right to first hit a billboard which was uprooted and then rammed into the side wall.
+['the left side the car moved across the road', 'the right to first hit a billboard which was uprooted and then rammed', 'the side wall.']
+['the side wallthen']
+['the rightAfter hitting the parapet', 'the left side']
 
 ---------------
 
-One person succumbed to death while three others were injured after the car in met with an accident on the Chinchbhuvan Bridge, considered a tricky stretch for motorists and bikers, in the early hours of Saturday.
-['met with an accident', 'the Chinchbhuvan Bridge considered a tricky stretch for motorists and bikers', 'the early hours of Saturday.']
-['the Chinchbhuvan Bridge']
+Moundekar, who was least injured among the four, alerted one of his friends Harshad Parasgaonkar who rushed to help them.
+[]
 
 ---------------
 
@@ -988,6 +1225,17 @@ One person succumbed to death while three others were injured after the car in m
 A mob burnt 11 sand-laden trucks at West Midnapore's Gurguripal on Friday night after a truck carrying sand knocked down a biker in the area.
 ["West Midnapore's Gurguripal", 'Friday night after a truck carrying sand knocked down a biker', 'the area.']
 ['the area']
+
+---------------
+
+He was returning home when the truck hit him and ran him over.
+[]
+
+---------------
+
+Ghosh died on the spot.
+['the spot.']
+['the spot']
 
 ---------------
 
@@ -1055,6 +1303,12 @@ The accident occurred around 8.15am on Saturday.
 
 ====================
 
+The first accident was reported from Churu where an uncontrolled dumper truck rammed into a stationary bus on Sadlpur-Churu road.
+['a stationary bus', 'Sadlpur-Churu road.']
+['a stationary bus', 'Sadlpur-Churu roadChuru']
+
+---------------
+
 Three women died in the accident whereas several others were reportedly injured in the mishap.“The
 ['the accident whereas several others were reportedly injured', 'the mishap.\xe2\x80\x9cThe']
 ['the mishap']
@@ -1064,17 +1318,9 @@ Three women died in the accident whereas several others were reportedly injured 
 
 ---------------
 
-Monika was tossed up in the area and fell on road, the truck run over her,” the police official said.
-['the area and fell', 'road the truck run over her\xe2\x80\x9d the police official said.']
-['road']
-['the area']
-
----------------
-
-The driver fled from the scene while Monika was killed on the spot.
-['the spot.']
-['the spot']
-['the spot']
+In another accident in Shahpura in Jaipur rural, a 20-year-old girl died after an overloaded truck hit her on Saturday morning.
+['Shahpura', 'Jaipur rural a 20-year-old girl died after an overloaded truck hit her', 'Saturday morning.']
+['Saturday morningIn another accident', 'Shahpura', 'Jaipur rural']
 
 ---------------
 
@@ -1089,6 +1335,19 @@ One solution being offered by lawyers to smash the broker menace in police stati
 ['IS radar']
 ['IS radar']
 ['IS radar']
+
+---------------
+
+It is a clear subversion of judicial process," he said.
+[]
+
+---------------
+
+It is common knowledge in motor accident claims tri bunal circles that the top 10 lawyers dealing in such cases have a big network of brokers, and they also keep police stations in good humour by paying even advance money ranging from `2 lakh to `3 lakh.“It is not possible to independently walk into a police station and come out with all relevant papers, unless we are assisted by the brokers who are always present in police stations, or lawyers `attached' to such stations,“ said a veteran lawyer.
+['motor accident claims tri bunal circles that the top 10 lawyers dealing', 'such cases have a big network of brokers and they also keep police stations', 'good humour by paying even advance money ranging from `2 lakh to `3 lakh.\xe2\x80\x9cIt is not possible to independently walk', 'a police station and come out with all relevant papers unless we are assisted by the brokers who are always present', "police stations or lawyers `attached' to such stations\xe2\x80\x9c said a veteran lawyer."]
+['police stations']
+['such cases']
+['motor accident claims tri bunal circles']
 
 ---------------
 
@@ -1112,6 +1371,12 @@ Since a flyover is being constructed on that route, the truck toppled after hitt
 ['the spot']
 ['the spot']
 ['the spot']
+
+---------------
+
+Mahaveer Singh, station house officer (SHO) of Hapur (rural), said: “The incident took place at 9am on Sunday when the truck, full of waste wood, was passing from Garh Road.
+['9am', 'Sunday when the truck full of waste wood was passing from Garh Road.']
+['9am', 'Sunday']
 
 ---------------
 
@@ -1139,19 +1404,31 @@ The incident took place when the bus was heading towards Dewas from Indore.
 
 ---------------
 
-Passengers seated on the right side of the bus were severely injured in the incident,” said IA police station in-charge Shailendra Singh Mukati.
-['the right side of the bus were severely injured', 'the incident\xe2\x80\x9d said IA police station in-charge Shailendra Singh Mukati.']
-['the incident']
-['the right side of the bus']
-
----------------
-
 The driver of the bus was also severely injured.
 []
 
 ---------------
 
+Over 30 passengers commuting between Indore and Dewas sustained severe injuries when the bus  hit a rotary in Rasulpur under Industrial Area (IA) police station limits of Dewas on Monday evening.
+['Rasulpur', 'Industrial Area (IA) police station limits of Dewas', 'Monday evening.']
+['Rasulpur', 'Industrial Area']
+['Rasulpur', 'Industrial Area']
+
+---------------
+
 ====================
+
+A 35-year-old woman was run over by a speeding truck near Adalaj on Sunday night.
+['Adalaj', 'Sunday night.']
+['Adalajon Sunday night']
+
+---------------
+
+As per investigators, Babli Saroj, working at a farm house near Khoraj-Khodiar container depot, was passing from the road towards SP Ring Road along with her husband and daughter on Sunday night when she was hit by a truck carrying iron rods.
+['a farm house', 'Khoraj-Khodiar container depot was passing from the road towards SP Ring Road along with her husband and daughter', 'Sunday night when she was hit by a truck carrying iron rods.']
+['a farm house', 'Khoraj - Khodiar container depot']
+
+---------------
 
 She fell down on road after she was hit by the iron rods after which she was run over by the rear wheels of the truck.
 ['road after she was hit by the iron rods after which she was run over by the rear wheels of the truck.']
@@ -1160,16 +1437,21 @@ She fell down on road after she was hit by the iron rods after which she was run
 
 ====================
 
-A 36-year-old woman was killed in a head-on collision on the Ribandar-Old Goa bypass on Monday evening after the scooter she was riding collided with a water tanker that was proceeding to Panaji, Old Goa police said.
-['a head-on collision', 'the Ribandar-Old Goa bypass', 'Monday evening after the scooter she was riding collided with a water tanker that was proceeding to Panaji Old Goa police said.']
-['a head-on collision', 'the Ribandar-Old Goa bypass', 'Monday evening after the scooter']
-['a head-on collision', 'the Ribandar-Old Goa bypass', 'Monday evening after the scooter; said; Old Goa police)']
-
----------------
-
 The accident occurred late in the evening as the victim, identified as Mahirunissha Bi Naik, was proceeding towards Old Goa.
 ['the evening as the victim identified as Mahirunissha Bi Naik was proceeding towards Old Goa.']
 ['the eveningas the victim']
+
+---------------
+
+Naik, a resident of Bainguinim, died on the spot.
+['the spot.']
+['the spot']
+
+---------------
+
+A 36-year-old woman was killed in a head-on collision on the Ribandar-Old Goa bypass on Monday evening after the scooter she was riding collided with a water tanker that was proceeding to Panaji, Old Goa police said.
+['a head-on collision', 'the Ribandar-Old Goa bypass', 'Monday evening after the scooter she was riding collided with a water tanker that was proceeding to Panaji Old Goa police said.']
+['a head-on collision', 'the Ribandar-Old Goa bypass', 'Monday evening after the scooter']
 
 ---------------
 
@@ -1208,12 +1490,15 @@ While returning home, he met with the mishap and died on the spot, police said.
 
 ---------------
 
-As he falling, his head banged against the pillar Balanagar 18A.
-[]
+A 21-year-old youth, who was returning home after watching a movie at KPHB, died after he rammed his two-wheeler into a Metro pillar near Moosapet station on Sunday night.
+['KPHB died after he rammed his two-wheeler', 'a Metro pillar', 'Moosapet station', 'Sunday night.']
+['Moosapet stationon Sunday night']
+['a Metro pillar', 'Moosapet station', 'Sunday night']
+['KPHBafter he rammed his two-wheeler', 'a Metro pillar', 'Moosapet station', 'Sunday night']
 
 ---------------
 
-He lost balance.
+As he falling, his head banged against the pillar Balanagar 18A.
 []
 
 ---------------
@@ -1248,6 +1533,12 @@ Two youths, including the brother of a local councillor, were killed in an accid
 
 ---------------
 
+Both of them died on the spot but the driver of the canter managed to flee, leaving his vehicle on the spot.
+['the spot but the driver of the canter managed to flee leaving his vehicle', 'the spot.']
+['the spot']
+
+---------------
+
 According to police, the accident occurred ahead of the NSG camp gate on NH-8 around 4 pm when both the boys were returning from their work from National Brain Research Centre (NBRC) in Manesar.
 ['NH-8', '4 pm when both the boys were returning from their work from National Brain Research Centre (NBRC)', 'Manesar.']
 ['Manesar']
@@ -1255,17 +1546,16 @@ According to police, the accident occurred ahead of the NSG camp gate on NH-8 ar
 
 ---------------
 
-The duo were on their way to home when a mini truck coming from the Jaipur side lost control and jumped the divider, banging the vehicle into the bike of the boys.
-['their way to home when a mini truck coming from the Jaipur side lost control and jumped the divider banging the vehicle', 'the bike of the boys.']
-['the bike of the boys']
-['their way to homewhen a mini truck jumped the divider  banging the vehicle', 'the bike of the boys']
-['their way to homewhen a mini truck coming from the Jaipur side lost control']
-
----------------
-
 ====================
 
 ++++++++++++++++++++++++
+
+Gawas died as he was trapped in the car under water.
+['the car', 'water.']
+['the car']
+['the car', 'water']
+
+---------------
 
 One person died while two others were injured after a car in which they were traveling, skidded off the road and fell into a rivulet at Pawlar bridge Navelim, Bicholim, on Tuesday at around 1pm. -----------.
 ['which they were traveling skidded off the road and fell', 'a rivulet', 'Pawlar bridge Navelim Bicholim', 'Tuesday', 'around 1pm. -----------.']
@@ -1286,6 +1576,28 @@ The car driver lost control over the vehicle which skidded off the road when it 
 ---------------
 
 ====================
+
+In another spine-chilling accident, a 20-year-old engineering student died after ramming his i20 into a road divider at high speed near Green Mosque on Road Number 3, Banjara Hills on Tuesday afternoon.
+['a road divider', 'high speed', 'Green Mosque', 'Road Number 3 Banjara Hills', 'Tuesday afternoon.']
+['a road divider', 'high speed', 'Green Mosque', 'Road Number 3In another spine-chilling accident']
+
+---------------
+
+Fasahat Ali, a second year engineering student of Muffakham Jah College of Engineering, who was at the wheel, died on the spot, while two other occupants escaped with injuries.
+['the wheel died', 'the spot while two other occupants escaped with injuries.']
+['the spotwhile two other occupants escaped with injuries']
+['the wheel']
+
+---------------
+
+Banjara Hills police said 20-year-old Fasahat Ali, a resident of MLA Colony at Jubilee Hills, and two of his friends - Danish Javed and Syed Waiz Hussain - left their college campus in the i20 during lunch break to have food at a restaurant.
+['Jubilee Hills and two of his friends - Danish Javed and Syed Waiz Hussain - left their college campus', 'the i20 during lunch break to have food', 'a restaurant.']
+['the i20 during lunch break']
+['the i20 during lunch break']
+['Jubilee Hills Syed Waiz Hussain - left their college campus', 'the i20 during lunch break']
+['Jubilee Hills - Danish Javed Waiz Hussain - left their college campus', 'the i20 during lunch break']
+
+---------------
 
 ====================
 
@@ -1318,15 +1630,15 @@ Two people were killed in separate hit-and-run accidents on Sunday night.
 
 ---------------
 
-In another accident, 29-year-old Ravi, who was driving from his grandmother’s home in Garhi Harsaru to his home in Delhi at around 12.30am, was killed after his car was hit by a truck.
-['Garhi Harsaru to his home', 'Delhi', 'around 12.30am was killed after his car was hit by a truck.']
-['Garhi Harsaruto his home', 'Delhiat', '12.30am']
+In one accident, a security guard who had completed his shift, was run over by a truck while he was asleep at a construction site.
+['a construction site.']
+['a construction siteIn one accident']
 
 ---------------
 
-A speeding truck hit the tailing car, which hit Ravi’s car from behind, turned turtle over Ravi’s car and came to a halt in front.
-['front.']
-['front']
+In another accident, 29-year-old Ravi, who was driving from his grandmother’s home in Garhi Harsaru to his home in Delhi at around 12.30am, was killed after his car was hit by a truck.
+['Garhi Harsaru to his home', 'Delhi', 'around 12.30am was killed after his car was hit by a truck.']
+['Garhi Harsaruto his home', 'Delhiat', '12.30am']
 
 ---------------
 
@@ -1352,21 +1664,22 @@ But as soon as she went inside the house, Aarab fell into the drain,” said Sar
 
 ====================
 
-The pillion rider suffered grievous injuries and has been admitted at the Coimbatore Medical College and Hospital (CMCH).
-['the Coimbatore Medical College and Hospital (CMCH).']
-['the Coimbatore Medical Hospital']
-['the Coimbatore Medical College']
+A man died on the spot after his moped was hit by a truck at Sungam on Tuesday.
+['the spot after his moped was hit by a truck', 'Sungam', 'Tuesday.']
+['Sungam']
+['the spotafter his moped was hit by a truck', 'Sungam', 'Tuesday']
 
 ---------------
 
-The pillion rider Ganeshan fell on the road and suffered grievous injuries.
-['the road and suffered grievous injuries.']
-['the road']
+He was running a silver smithery unit at Ukkadam.
+['Ukkadam.']
 
 ---------------
 
-When they reached Sungam, a speeding truck laden with teak woods, heading towards Perur hit the vehicle from behind.
-[]
+Kumar came under the wheels of the truck and died on the spot.
+['the wheels of the truck and died', 'the spot.']
+['the spot']
+['the wheels of the truck']
 
 ---------------
 
@@ -1403,18 +1716,18 @@ The accident occurred when the auto collided with the truck coming from the oppo
 
 ====================
 
+A bus ran over a homemaker, who had just dropped her son to school minutes before, at Salt Lake on Wednesday morning.
+['Salt Lake', 'Wednesday morning.']
+
+---------------
+
+The death sparked chaos on the road as guardians of other schoolchildren hit the streets to protest against rash driving and police inaction against such negligent drivers.
+['the road as guardians of other schoolchildren hit the streets to protest against rash driving and police inaction against such negligent drivers.']
+
+---------------
+
 The two had dropped off their respective wards and was returning home when the accident happened.
 []
-
----------------
-
-Sonali fell from the bike.
-[]
-
----------------
-
-The bus, in breakneck speed, ran over her, crushing her body abdomen down.
-['breakneck speed ran over her crushing her body abdomen down.']
 
 ---------------
 
@@ -1441,9 +1754,9 @@ They were travelling in a jeep while the ambulance was on way to Satlasna.
 
 ====================
 
-The bus overturned and a few students sitting near windows were thrown off the bus,” the police said.
-['windows were thrown off the bus\xe2\x80\x9d the police said.']
-['windows']
+Traffic was hit on the stretch for an hour.
+['the stretch for an hour.']
+['the stretchfor an hour']
 
 ---------------
 
@@ -1504,9 +1817,19 @@ No one was injured in the accident, but the driver of the truck is missing.
 
 ====================
 
-The head constable added that he suffers from bouts of giddiness and is being treated for the condition,” said PSI DabhiThe number of incidents involving cops creating a ruckus while inebriated are on the rise.
-['the rise.']
-['the rise']
+On Wednesday morning, head constable Ramesh Kharadi of Shaherkotda police station, allegedly ramming his car into a cyclist near the Meldi Mata temple in Behrampura while drunk.
+['a cyclist', 'the Meldi Mata temple', 'Behrampura while drunk.']
+['the Meldi Mata templein BehrampuraOn Wednesday morning']
+
+---------------
+
+According to complaint lodged by Vaghela, when he was passing near Meldi Mata temple early on Monday morning, Vaghela at full speed, rammed his car into him.
+['Meldi Mata temple early', 'Monday morning Vaghela', 'full speed rammed his car', 'him.']
+
+---------------
+
+Police sources said they have lodged a complaint against the head constable and have arrested him.
+[]
 
 ---------------
 
@@ -1535,9 +1858,8 @@ Two youngsters were killed after a car hit a signage before crashing into a road
 
 ---------------
 
-The car, driven Maske was heading towards old VCA stadium in Sadar from the direction of Japanese garden when the incident took place.
-['Sadar from the direction of Japanese garden when the incident took place.']
-['Sadar from the direction of Japanese gardenThe car']
+"The police personnel ran towards the spot after hearing the bang.
+[]
 
 ---------------
 
@@ -1552,22 +1874,23 @@ Nine persons, including five women passengers, were killed after a TNSTC bus ram
 
 ---------------
 
-As many as 25 passengers sustained injuries and have been admitted to the Thanjavur government medical college hospital.
+However, the front right tyre of the bus burst and subsequently rammed against the truck pushing it back to a certain distance.
 []
 
 ---------------
 
-According to police sources, the TNSTC bus was heading towards Kumbakonam from Tiruppur carrying around 60 passengers.
-['60 passengers.']
+Under the impact, seven people including bus driver Ravichandran, truck driver Sathishkumar and five women passengers died on the spot.
+['the spot.']
+['the spotUnder the impact']
+['the spotUnder the impact']
+['the spotUnder the impact']
 
 ---------------
 
 ====================
 
-Two people were killed in separate hit-and-run accidents, police said.
-['separate hit-and-run accidents police said.']
-['separate hit - run accidents']
-['separate hit - accidents']
+A car, which is yet to be identified by police, hit the bike with her husband , near Ambience mall.
+['Ambience mall.']
 
 ---------------
 
@@ -1577,9 +1900,10 @@ In the second instance, 40-year-old Rajender Bahadur, who was driving a truck, w
 
 ---------------
 
-In one accident, a 44-year-old woman, Durgapati, injured in an accident on July 8, succumbed to her injuries on Wednesday in a hospital.
-['an accident', 'July 8 succumbed to her injuries', 'Wednesday', 'a hospital.']
-['an accidenton July 8']
+According to Deepu Bahadur, his nephew, he and Rajender were near the toll plaza when another truck hit them from the right side.
+['the toll plaza when another truck hit them from the right side.']
+['the toll plazawhen another truck hit them from the right side']
+['the toll plazawhen another truck hit them from the right side']
 
 ---------------
 
@@ -1592,7 +1916,28 @@ Chandigarh Commission for Protection of Child Rights (CCPCR) had recently asked 
 
 ---------------
 
+So, they cannot run away .““If
+[]
+
+---------------
+
+He said, “Schools do not have technical knowledge to check if buses are in the required conditions.
+['the required conditions.']
+['the required conditions']
+['the required conditions']
+['the required conditions']
+
+---------------
+
 ====================
+
+Two youngsters died while their friend who was behind the wheel is fighting for life at a private hospital in city after their speeding car hit a signage on the footpath before ramming into a tree shortly before midnight on Thursday.
+['a private hospital', 'city after their speeding car hit a signage', 'the footpath before ramming', 'a tree shortly before midnight', 'Thursday.']
+['a tree shortly before midnight', 'Thursday']
+['a treeshortly before midnighton Thursday']
+['a private hospital', 'city after their speeding car hit a signage', 'the footpath before ramming', 'a tree shortly before midnight', 'Thursday']
+
+---------------
 
 The accident happened in front of railway quarters, around 200 meters from Sadar police station.
 ['front of railway quarters', '200 meters from Sadar police station.']
@@ -1600,18 +1945,9 @@ The accident happened in front of railway quarters, around 200 meters from Sadar
 
 ---------------
 
-Mhaske, the one behind the wheel, was supposed to leave for Pune on Friday to take admission into an engineering college, after losing an year in HSC.
-['Friday to take admission', 'an engineering college after losing an year', 'HSC.']
-['HSC']
-['an engineering college after losing an year', 'HSC']
-['Friday']
-
----------------
-
-It is, however, not known what led to the accident, apart from the fact that the car was at high speed when Mhaske lost control over it.
-['high speed when Mhaske lost control over it.']
-['high speedwhen Mhaske lost control over it']
-['high speed']
+The car first veered towards the extreme left and hit a signage on a concrete base on the footpath outside the gate of the railway quarters.
+['a concrete base', 'the footpath outside the gate of the railway quarters.']
+['the footpath outside the gate of the railway quarters']
 
 ---------------
 
@@ -1632,15 +1968,19 @@ The car driver Thiagarajan, and the occupants Hemarathna, 55, son Girish, 25, we
 
 ---------------
 
-Police said one of the occupants Sundaramurthy was killed, while his wife Ramani and car driver Silambarasan escaped with minor injuries.
-[]
+In one of the accidents, at least three people travelling in a car were killed after the vehicle rammed into a lorry at Kalathur near Kancheepuram.
+['least three people travelling', 'a car were killed after the vehicle rammed', 'a lorry', 'Kalathur', 'Kancheepuram.']
+['a lorry', 'Kalathur', 'Kancheepuram']
+['a lorry', 'Kalathur', 'KancheepuramIn one of the accidents']
 
 ---------------
 
 ====================
 
-“I was shocked when the serious charge (Section 304 IPC) was dropped against Utsav as not only had I lost my best friend, but a family had lost a son,” he said.
-[]
+Kshitij, the brother of 22-year-old Anuj who died in 2008 following an accident with a BMW, opened up about him following the verdict sentencing Utsav Bhasin, the accused, to two years in jail.“He was two years younger than me.
+['2008 following an accident with a BMW opened up about him following the verdict sentencing Utsav Bhasin the accused to two years', 'jail.\xe2\x80\x9cHe was two years younger than me.']
+['jail."He was two years younger than me']
+['2008following an accident with a BMW']
 
 ---------------
 
@@ -1649,18 +1989,12 @@ Police said one of the occupants Sundaramurthy was killed, while his wife Ramani
 
 ---------------
 
-I was driving, but I never broke any traffic rules.”During
-[]
+It was his birthday on September 5 and he was with us on that day,” he said.
+['September 5 and he was with us', 'that day\xe2\x80\x9d he said.']
 
 ---------------
 
 ====================
-
-Three Jaish-e-Mohammad terrorists, including one Pakistani national, were killed in an encounter with security forces at Satura forests of Tral in Pulwama district on Saturday, the police said.
-['an encounter with security forces', 'Satura forests of Tral', 'Pulwama district', 'Saturday the police said.']
-['an encounter with security forces', 'Satura forests of Tral', 'Pulwama district', 'Saturday']
-
----------------
 
 An Indian soldier was killed in ceasefire violation in Rajouri district while a paramilitary officer was injured in a grenade attack in Kulgam district on Saturday afternoon.
 ['ceasefire violation', 'Rajouri district while a paramilitary officer was injured', 'a grenade attack', 'Kulgam district', 'Saturday afternoon.']
@@ -1669,10 +2003,15 @@ An Indian soldier was killed in ceasefire violation in Rajouri district while a 
 
 ---------------
 
-Sources said terrorists used a cave as their hideout but were later killed in the firing.
-['the firing.']
-['the firinglater']
-['the firing']
+Thirty-fiveyear-old Lance Naik Mohammed Naseer was hit during the Pakistani firing on a forward post.
+['a forward post.']
+['a forward post']
+
+---------------
+
+Three Jaish-e-Mohammad terrorists, including one Pakistani national, were killed in an encounter with security forces at Satura forests of Tral in Pulwama district on Saturday, the police said.
+['an encounter with security forces', 'Satura forests of Tral', 'Pulwama district', 'Saturday the police said.']
+['an encounter with security forces', 'Satura forests of Tral', 'Pulwama district', 'Saturday']
 
 ---------------
 
@@ -1684,12 +2023,25 @@ According to the police, the accident took place at 4.30pm near Gobind Hospital 
 
 ---------------
 
-She was critically injured and the nearby people rushed her to the hospital but she was declared brought dead.
+In a hit and run accident, a 50-year-old woman was mowed down by a vehicle in Badshapur on Friday evening while crossing the road.
+['Badshapur', 'Friday evening while crossing the road.']
+['Badshapuron Friday eveningwhile crossing the roadIn run accident']
+['Badshapuron Friday eveningwhile crossing the roadIn a hit']
+
+---------------
+
+The woman was hit from behind by an unidentified vehicle after which the diver fled the spot.
 []
 
 ---------------
 
 ====================
+
+A 25-year-old pedestrian died after being knocked down by a Thane Municipal Transport (TMT) bus on the Station Area Traffic Improvement Scheme (SATIS) Bridge on Saturday morning.
+['the Station Area Traffic Improvement Scheme (SATIS) Bridge', 'Saturday morning.']
+['the Station Area Traffic Improvement Scheme (SATIS) Bridge', 'Saturday morning']
+
+---------------
 
 Police said the accident occurred at around 9am when the Diva-based Vaibhav Tankar, was walking on the bridge from the station towards Dada Patil Wadi when the TMT bus rammed into him from behind, injuring him severely.
 ['around 9am when the Diva-based Vaibhav Tankar was walking', 'the bridge from the station towards Dada Patil Wadi when the TMT bus rammed', 'him from behind injuring him severely.']
@@ -1699,8 +2051,10 @@ Police said the accident occurred at around 9am when the Diva-based Vaibhav Tank
 
 ---------------
 
-Though passersby rushed him to civil hospital, he succumbed to his injuries.
-[]
+Prashant Londhe, senior inspector at Naupada police station said, “Tankar was bleeding profusely and was in pain.
+['Naupada police station said \xe2\x80\x9cTankar was bleeding profusely and was', 'pain.']
+['pain']
+['pain']
 
 ---------------
 
@@ -1715,6 +2069,11 @@ The accident took place on July 13 and the bodies will arrive at Rajiv Gandhi In
 Two people from Telangana died when their car collided head-on with another vehicle in South Africa.
 ['South Africa.']
 ['South Africa']
+
+---------------
+
+Chitti Babu, an official in the general administration (NRI) department, said transport has been arranged to shift the bodies from the airport to their native places.
+['the general administration (NRI) department said transport has been arranged to shift the bodies from the airport to their native places.']
 
 ---------------
 
@@ -1799,18 +2158,13 @@ Jammu and Kashmir government also issued helpline numbers (0191-2560401, 0191-25
 
 ---------------
 
-At least sixteen Amarnath pilgrims were killed and 26 seriously injured when the bus plunged into a gorge in Jammu and Kashmir's Ramban district on Sunday, police said.
-['a gorge', "Jammu and Kashmir's Ramban district", 'Sunday police said.']
-['a gorge', "Kashmir 's Ramban district", 'Sunday']
-['a gorge', "Kashmir 's Ramban districton Sunday"]
-['a gorge', 'Jammu']
-['a gorge', 'Jammu']
+Meanwhile, PM Modi has also announced an ex gratia of Rs 2 lakhs for next of kin of those killed and Rs 50,000 for those seriously injured.
+[]
 
 ---------------
 
-""Sixteen pilgrims were killed on the spot while 26 others have been injured," a police officer said.
-['the spot while 26 others have been injured" a police officer said.']
-['the spotwhile 26 others have been injured']
+This is the second tragedy to hit the Amarnath pilgrimage since  killing eight people.
+[]
 
 ---------------
 
@@ -1831,11 +2185,8 @@ It fell of the road and into the canal.
 
 ---------------
 
-When the car arrived near a culvert just after a sharp turn, the driver couldn’t comprehend the turn and lost control of the car.
-['a culvert just after a sharp turn the driver couldn\xe2\x80\x99t comprehend the turn and lost control of the car.']
-['a culvert just after a sharp turn']
-['a culvert just after a sharp turn']
-['a culvertjust after a sharp turn']
+The front of the car hit the canal wall and there was a loud collision.
+[]
 
 ---------------
 
@@ -1854,11 +2205,8 @@ It fell of the road and into the canal.
 
 ---------------
 
-When the car arrived near a culvert just after a sharp turn, the driver couldn’t comprehend the turn and lost control of the car.
-['a culvert just after a sharp turn the driver couldn\xe2\x80\x99t comprehend the turn and lost control of the car.']
-['a culvert just after a sharp turn']
-['a culvert just after a sharp turn']
-['a culvertjust after a sharp turn']
+The front of the car hit the canal wall and there was a loud collision.
+[]
 
 ---------------
 
@@ -1876,14 +2224,33 @@ A senior citizen from Dapoli, Ratnagiri, was killed on the Mumbai-Pune expresswa
 
 ---------------
 
-Khalapur police sub-inspector R M Pawar said, “The car’s driver may have lost control and crashed into an electrical pole.
-['an electrical pole.']
-['an electrical pole']
-['an electrical pole']
+Mulla was on the rear seats and was hit badly.
+['the rear seats and was hit badly.']
+['the rear seats']
 
 ---------------
 
 ====================
+
+Paris-based historian J B P More, who recently stumbled upon a brief French secret service report dated December 11, 1947 at the National Archives of France, has come up with a finding that Bose didn’t die in an air crash and was still alive in 1947.
+['the National Archives of France has come up with a finding that Bose didn\xe2\x80\x99t die', 'an air crash and was still alive', '1947.']
+['an air crash']
+
+---------------
+
+“It is not stated in the document that Subhas Chandra Bose died in the air crash in Taiwan.
+['the document that Subhas Chandra Bose died', 'the air crash', 'Taiwan.']
+['the air crashin Taiwan']
+['the document']
+
+---------------
+
+The gist of the matter for the French secret service, according to More, is that Bose did not die in the air crash on August 18, 1945, as commonly held.
+['the air crash', 'August 18 1945 as commonly held.']
+['the air crashon August 18']
+['the air crash', 'August 18']
+
+---------------
 
 ====================
 
@@ -1943,12 +2310,24 @@ The PM announced a compensation of Rs 2 lakh for the next of kin of those killed
 
 ---------------
 
-Police said helpline numbers (0191-2560401, 0191-2542000) have been set up by the J&K government to enquire about the pilgrims travelling in the ill-fated bus.
-['the ill-fated bus.']
+The toll may rise as several of the injured are critical, an official said.
+[]
 
 ---------------
 
 ====================
+
+A 21-year-old biker who was returning home after attending a job interview died in a hit-and-run at Jogeshwari (west) around 3 pm on Saturday .
+['a hit-and-run', 'Jogeshwari (west)', '3 pm', 'Saturday .']
+['hit - and - run', 'Jogeshwari ( west )', '3 pmon Saturday']
+['a and - run', 'Jogeshwari']
+
+---------------
+
+“A few passing motorists only noticed a white tempo hitting the victim's bike.
+[]
+
+---------------
 
 The police said Sahil Mishra, who was on his way home after the interview, was run over by a speeding tempo that collided with his bike on Balasaheb Thackeray flyover.
 ['his way home after the interview was run over by a speeding tempo that collided with his bike', 'Balasaheb Thackeray flyover.']
@@ -1973,14 +2352,14 @@ wo youths were killed and seriously injured in a road accident after a lorry hit
 
 ---------------
 
-The driver of the motorcycle allegedly lost control after strong winds pushed the vehicle to the middle of the road.
-[]
+The speeding motorcycle, which was on the left side of the road, was suddenly pushed to the middle of the road and at the same time a lorry that was coming from Chennai to Trichy hit the bike from behind.
+['the left side of the road was suddenly pushed to the middle of the road and', 'the same time a lorry that was coming from Chennai to Trichy hit the bike from behind.']
+['the left side of the road']
 
 ---------------
 
-Around 12.30pm, when they were returning from Samayapuram, the driver allegedly lost control of the motorcycle following strong winds between No 1 Tollgate and Kondayampettai on the Trichy-Chennai national highway.
-['the Trichy-Chennai national highway.']
-['the Trichy-Chennai national highwayAround 12.30pmwhen they were returning from Samayapuram']
+The driver of the motorcycle allegedly lost control after strong winds pushed the vehicle to the middle of the road.
+[]
 
 ---------------
 
@@ -1998,9 +2377,11 @@ The accident occurred when Praveen was riding a motorcycle to drop Parameswari a
 
 ---------------
 
-The duo, who fell down on the bridge died on the spot after sustaining head injuries.
-['the bridge died', 'the spot after sustaining head injuries.']
-['the spotafter sustaining head injuries']
+When the bike was going on bridge, Praveen tried to avoid hitting a sand-laden truck coming in the opposite direction.
+['bridge Praveen tried to avoid hitting a sand-laden truck coming', 'the opposite direction.']
+['the opposite direction']
+['bridge']
+['the opposite direction']
 
 ---------------
 
@@ -2030,11 +2411,15 @@ The driver explained that he was in a hurry to reach his destination and had los
 
 ---------------
 
+“There are no U-turns till Chhatra Marg and it is easier for me drive this way for a few metres,” said Kumar, rather unapologetically.
+[]
+
+---------------
+
 ====================
 
 A bus ferrying Amarnath passengers that fell into the gorge in Ramban district of J&K has claimed 16 pilgrims, including three from Rajasthan.
 ['the gorge', 'Ramban district of J&K has claimed 16 pilgrims including three from Rajasthan.']
-['the gorge', 'Ramban district of J&K; has claimed; 16 pilgrims)']
 ['the gorge', 'Ramban district of J&K']
 ['the gorge', 'Ramban district of J&K']
 
@@ -2084,15 +2469,15 @@ A sessions court here has convicted and sentenced a truck driver from Chaskaman 
 
 ---------------
 
+Four persons died.
+[]
+
+---------------
+
 The girl, Priya Chavan, was killed on the spot while her mother, Pratibha, died at a hospital in Pune.
 ['the spot while her mother Pratibha died', 'a hospital', 'Pune.']
 ['a hospital', 'Pune']
 ['the spotwhile her mother Pratibha died', 'a hospital', 'Pune']
-
----------------
-
-Her husband Sundar, a carpenter by profession, was badly injured.
-[]
 
 ---------------
 
@@ -2124,16 +2509,16 @@ A youth, identified as Nitin Sharma (24) was killed after his car was hit by a t
 
 ---------------
 
-An FIR has been registered at the Badshahpur police station under sections 297 (rash driving), 337 (causing hurt by endangering life and safety of others) and 304A (death by negligence).
-['the Badshahpur police station', 'sections 297 (rash driving) 337 (causing hurt by endangering life and safety of others) and 304A (death by negligence).']
-['the Badshahpur police station', 'sections 297']
-['the Badshahpur police station', 'sections 297']
+When they were near Badshahpur, a trailer truck came onto the road suddenly and rammed into their car.
+['Badshahpur a trailer truck came onto the road suddenly and rammed', 'their car.']
+['their car']
+['Badshahpur']
 
 ---------------
 
-In another case, a 35-year-old man, identified as Prem was killed after he was run over by a car on Saturday.
-['Saturday.']
-['SaturdayIn another case']
+Sharma died on the spot.
+['the spot.']
+['the spot']
 
 ---------------
 
@@ -2148,14 +2533,14 @@ A BSES engineer was killed and four of his colleagues were injured when their ca
 
 ---------------
 
-It overturned and hit a tree,” said a BSES official.
-[]
-
----------------
-
 Singh, 28, was killed on the spot while the others, including Wasim, were critically injured.
 ['the spot while the others including Wasim were critically injured.']
 ['the spotwhile the others including Wasim were critically injured']
+
+---------------
+
+“He lost control of the vehicle.
+[]
 
 ---------------
 
@@ -2176,12 +2561,22 @@ Four members of two families died while two others were injured after the tyre o
 
 ---------------
 
+The police said the deceased have been identified as Parveen Nasruddin Hudda (55) Afseen Moeez Hudda (25), Bahadur Mushabai Lakhani (55) and Gulshan Bahadur Lakhani (53).
+[]
+
+---------------
+
 ====================
 
 Under the impact, the cart broke into pieces killing one of the bullocks on the spot.
 ['pieces killing one of the bullocks', 'the spot.']
 ['the spot']
 ['piecesUnder the impact']
+
+---------------
+
+In the meantime, a Coimbatore-bound car from Trichy rammed against the lorry from behind.
+[]
 
 ---------------
 
@@ -2193,12 +2588,20 @@ A septuagenarian was killed while four others including a woman sustained injuri
 
 ---------------
 
-Vinoth and Kamrudeen sustained injuries.
-[]
+====================
+
+Two youth, natives of Odisha, died in a road accident on Tuesday after the bike they were riding on rammed into a parked truck on National Highway 17-B at Shantinagar, Vasco.
+['a road accident', 'Tuesday after the bike they were riding', 'rammed', 'a parked truck', 'National Highway 17-B', 'Shantinagar Vasco.']
+['a parked truck']
+['a road accidenton Tuesdayafter the bike they were riding', 'rammed', 'a parked truck', 'National Highway 17-B', 'Shantinagar']
 
 ---------------
 
-====================
+When they reached Shantinagar, they rammed into a parked truck.
+['a parked truck.']
+['a parked truckWhen they reached Shantinagar']
+
+---------------
 
 Police suspect that they were riding at very high speed when the incident occurred.
 ['very high speed when the incident occurred.']
@@ -2206,22 +2609,23 @@ Police suspect that they were riding at very high speed when the incident occurr
 
 ---------------
 
-The bike collided with the truck and both the rider and pillion were killed on the spot.
-['the spot.']
-['the spot']
-['the spot']
-
----------------
-
-The accident occurred while dropping Daud to the train station.
-[]
-
----------------
-
 ====================
+
+Their motorcycle was rammed by a Tata tempo from behind very near the spot where Sumit was waiting.“I was waiting for the two near the mandir when their mobike was hit by a Tata tempo from behind.
+['the spot where Sumit was waiting.\xe2\x80\x9cI was waiting for the two', 'the mandir when their mobike was hit by a Tata tempo from behind.']
+
+---------------
 
 The collision was so powerful that the two were seriously injured.
 []
+
+---------------
+
+While the incident raised questions on the Noida police’s compliance with the Supreme Court’s guidelines which stipulate that people who held victims of road accidents and other calamities should not be harassed in any manner, the police said the 19-year-old Sumit Kumar was brought to the police station for his own safety.
+['the Noida police\xe2\x80\x99s compliance with the Supreme Court\xe2\x80\x99s guidelines which stipulate that people who held victims of road accidents and other calamities should not be harassed', 'any manner the police said the 19-year-old Sumit Kumar was brought to the police station for his own safety.']
+['any manner']
+['any manner']
+["the Noida police 's compliance with the Supreme Court 's guidelines"]
 
 ---------------
 
@@ -2234,22 +2638,37 @@ Eleven persons died and six others were seriously injured on Tuesday when the au
 
 ---------------
 
+She said nine passengers died on the spot.
+['the spot.']
+['the spot']
+['the spot']
+
+---------------
+
 “The speeding bus was crossing through the busy market on NH-77 when the autorickshaw collided,” the SHO said, adding the bus driver escaped.
 ['NH-77 when the autorickshaw collided\xe2\x80\x9d the SHO said adding the bus driver escaped.']
 ['NH-77']
 
 ---------------
 
-The CO said the cheque for Rs4 lakh as ex gratia was handed over to the family of each of the nine killed on the spot.
-['the spot.']
-['the spot']
+====================
+
+Their motorcycle was rammed by a Tata tempo from behind very near the spot where Sumit was waiting.“I was waiting for the two near the mandir when their mobike was hit by a Tata tempo from behind.
+['the spot where Sumit was waiting.\xe2\x80\x9cI was waiting for the two', 'the mandir when their mobike was hit by a Tata tempo from behind.']
 
 ---------------
 
-====================
-
 The collision was so powerful that the two were seriously injured.
 []
+
+---------------
+
+While the incident raised questions on the Noida police’s compliance with the Supreme Court’s guidelines which stipulate that people who held victims of road accidents and other calamities should not be harassed in any manner, the police said 19-year-old Sumit Kumar was brought to the police station for his own safety.
+['the Noida police\xe2\x80\x99s compliance with the Supreme Court\xe2\x80\x99s guidelines which stipulate that people who held victims of road accidents and other calamities should not be harassed', 'any manner the police said 19-year-old Sumit Kumar was brought to the police station for his own safety.']
+['any manner']
+["the Noida police 's compliance with the Supreme Court 's guidelines"]
+['any manner']
+["the Noida police 's compliance with the Supreme Court 's guidelines"]
 
 ---------------
 
@@ -2264,14 +2683,14 @@ Bhattacharya@timesgroup.comNew Delhi: A BSES engineer was killed and four of his
 
 ---------------
 
-It overturned and hit a tree,” said a BSES official.
-[]
-
----------------
-
 Singh, 28, was killed on the spot while the others, including Wasim, were critically injured.
 ['the spot while the others including Wasim were critically injured.']
 ['the spotwhile the others including Wasim were critically injured']
+
+---------------
+
+“He lost control of the vehicle.
+[]
 
 ---------------
 
@@ -2308,12 +2727,14 @@ A 40-year-old truck driver from Rajasthan was crushed to death while a car drive
 
 ---------------
 
-The impact totally crushed the cabin of the speeding truck, as well as Balai, who was stuck inside.
-[]
+After hitting the car, the truck went ahead and rammed into another truck parked in front of the car.
+['another truck parked', 'front of the car.']
+['front of the car']
+['another truckAfter hitting the car']
 
 ---------------
 
-It took over two-and-a-half hours if effort to remove Balai from the crushed truck cabin.“We
+The impact totally crushed the cabin of the speeding truck, as well as Balai, who was stuck inside.
 []
 
 ---------------
@@ -2327,11 +2748,11 @@ A 28-year-old Kharegaon resident, Ajay Sharma was killed after a speeding SUV cr
 
 ---------------
 
-The impact of the crash was such that both the bike-borne men were flung in the air before crashing on the streets,” said an official from the Kalwa police station.“We
-['the air before crashing', 'the streets\xe2\x80\x9d said an official from the Kalwa police station.\xe2\x80\x9cWe']
-['the air before crashing', 'the streets']
-['the streets']
-['the airbefore crashing', 'the streets']
+The two had arrived at the toll post and slowed down when the SUV rammed into them from behind.
+['the toll post and slowed down when the SUV rammed', 'them from behind.']
+['themfrom behind']
+['them from behind']
+['the toll post']
 
 ---------------
 
@@ -2348,14 +2769,6 @@ The driver of an Ola cab has been arrested for allegedly escaping after abandoni
 
 ---------------
 
-Assistant police inspector Chandrasen Godse said that Khan’s cab knocked down Surve near Diwale village when the biker was on his way home from Thane where he was employed with a private company.“Surve
-['Diwale village when the biker was', 'his way home from Thane where he was employed with a private company.\xe2\x80\x9cSurve']
-['his way home from Thane']
-['Diwale village']
-['his way home from Thane']
-
----------------
-
 She enquired with a few autorickshaw drivers who told her that the biker had been injured in an accident involving a cab and that the driver had taken him to hospital.
 ['an accident involving a cab and that the driver had taken him to hospital.']
 ['an accident']
@@ -2363,24 +2776,32 @@ She enquired with a few autorickshaw drivers who told her that the biker had bee
 
 ---------------
 
+The cabbie allegedly dumped the injured biker at a desolate spot on the road where he lay bleeding for nearly 12 hours, said the police.
+['a desolate spot', 'the road where he lay bleeding for nearly 12 hours said the police.']
+['the roadfor nearly 12 hours']
+
+---------------
+
 ====================
 
 ++++++++++++++++++++++++
 
+A mob set a motorcycle on fire in Sohna area on Thursday afternoon after it rammed into kanwariyas.
+['fire', 'Sohna area', 'Thursday afternoon after it rammed', 'kanwariyas.']
+['kanwariyas']
+['Sohna areaon Thursday afternoonafter it rammed', 'kanwariyas']
+
+---------------
+
+The incident happened around 11.30am when a motorcycle, carrying three men, rammed into a group of kanwariyas in the market area.
+['11.30am when a motorcycle carrying three men rammed', 'a group of kanwariyas', 'the market area.']
+['a group of kanwariyas', 'the market area']
+
+---------------
+
 The altercation betwen them soon turned into a brawl.
 ['a brawl.']
 ['a brawlsoon']
-
----------------
-
-Two of the kanwariyas suffered injuries in the accident and an argument ensued.
-['the accident and an argument ensued.']
-['the accident']
-
----------------
-
-They were heading towards Tauru in Mewat district.
-['Mewat district.']
 
 ---------------
 
@@ -2410,10 +2831,11 @@ Drunk driving snuffed out the lives of two more youngsters in city on Thursday w
 
 ---------------
 
-After landing on the median, the car went into a tailspin and crashed into metro pillar,“ Saroornagar inspector S Lingaiah said.
-['the median the car went', 'a tailspin and crashed', 'metro pillar\xe2\x80\x9c Saroornagar inspector S Lingaiah said.']
-['metro pillarAfter landing', 'the median']
-['a tailspinAfter landing', 'the median']
+Chaitanya who was sitting in the back seat died on the spot and Srinath who was sitting next to him succumbed to inju ries a few hours later while undergoing treatment at a nearby hospital.
+['the back seat died', 'the spot and Srinath who was sitting next to him succumbed to inju ries a few hours later while undergoing treatment', 'a nearby hospital.']
+['a nearby hospital']
+['the spot']
+['the back seat']
 
 ---------------
 
@@ -2438,8 +2860,8 @@ All of them had been returning from Haridwar when their vehicle collided with a 
 
 ---------------
 
-According to eyewitnesses, the collision was so intense that the victims’ vehicle hopped about 50 meters off the road and those on front seats crushed to death on the spot.
-['front seats crushed to death', 'the spot.']
+Those who died have been identified as Durgaram Choudhary and Rewatlal Paliwal, who is a relative of a BJP Youth Morcha (District) president Nathmal Paliwal.
+[]
 
 ---------------
 
@@ -2457,8 +2879,8 @@ All of them had been returning from Haridwar when their vehicle collided with a 
 
 ---------------
 
-According to eyewitnesses, the collision was so intense that the victims’ vehicle hopped about 50 meters off the road and those on front seats crushed to death on the spot.
-['front seats crushed to death', 'the spot.']
+Those who died have been identified as Durgaram Choudhary and Rewatlal Paliwal, who is a relative of a BJP Youth Morcha (District) president Nathmal Paliwal.
+[]
 
 ---------------
 
@@ -2477,14 +2899,8 @@ A 26-year-old man riding pillion was killed after the motorcyclist, who was spee
 
 ---------------
 
-Salunke said the impact was such that Sarvade received multiple injuries on his head while Bhosale sustained injuries on the face and legs.
-['his head while Bhosale sustained injuries', 'the face and legs.']
-['the legs']
-['the legs']
-['his head']
-['his head']
-['the face']
-['the face']
+The deceased Namdev Vitthal Sarvade (26) from Baner and injured Anil Hanumant Bhosale (22) from Aundh were not wearing helmets, Khadki police said.
+[]
 
 ---------------
 
@@ -2523,7 +2939,7 @@ The father fell from the bike and was soon run over by a truck carrying kanwariy
 
 ---------------
 
-“The father, who was riding pillion, fell to the right side of the bike while the son fell a little away due to the impact of the collision with another bike,” said Verma.
+Soon after the accident, a scuffle had broken out between Shamshad and the kanwariyas who ran away before the police arrived.
 []
 
 ---------------
@@ -2560,6 +2976,17 @@ The incident took place at 6 pm when the brakes of his bus failed near Ulhas riv
 
 ---------------
 
+An alert bus driver, Hanumant Kadam, of Kalyan-Dombivli Municipal Transport (KDMT) saved lives of 80 passengers, after he rammed his bus into a compound wall deliberately.
+['a compound wall deliberately.']
+['a compound wall deliberately']
+
+---------------
+
+On one side of the road was a ravine and Ulhas river and on the other side ran a railway track.
+['the other side ran a railway track.']
+
+---------------
+
 ====================
 
 The accident took place while they were returning after offering prayers at Guruvayur temple in Kerala.
@@ -2580,10 +3007,10 @@ Two members of a family, one of them a six month-old baby, were killed and five 
 
 ---------------
 
-When they reached near Perumanallur on their way back, the driver lost control over the vehicle, which then rammed the parapet wall of the flyover and overturned.
-['Perumanallur', 'their way back the driver lost control over the vehicle which then rammed the parapet wall of the flyover and overturned.']
-['Perumanallur', 'their way back']
-['Perumanallur']
+Dharmesh and Prema died on the spot.
+['the spot.']
+['the spot']
+['the spot']
 
 ---------------
 
@@ -2641,6 +3068,12 @@ She died on the spot, while Mamta’s legs were crushed under the truck’s whee
 
 ---------------
 
+Police said the girls belonged to Pakistani Hindu refugee families living in resettlement JJ colony in Adarsh Nagar and had shifted to Delhi two years ago.
+['resettlement JJ colony', 'Adarsh Nagar and had shifted to Delhi two years ago.']
+['resettlement JJ colony', 'Adarsh Nagar']
+
+---------------
+
 ====================
 
 The accident took place on Saturday morning when a speeding trailer crashed into the bus carrying some 55 pilgrims from behind.
@@ -2655,8 +3088,8 @@ Those killed belong to Ahmedabad, Dehgam and Bhavnagar.
 
 ---------------
 
-Those killed include the motorcyclist, Prakash Sharma, a resident of Udaipur; Pune-resident Pankaj Yadav and a Gujarat resident, Gaffarbhai (45).
-[]
+Due to the impact, the bus ran over a biker and a man driving a gearless scooter in front of it and was thrown about five feet off the road.
+['front of it and was thrown about five feet off the road.']
 
 ---------------
 
@@ -2692,16 +3125,12 @@ A 13-year-old died and her 9-year-old sister was among 12 others injured after t
 
 ---------------
 
-Police said Karthik picked up the 13 children from Kelambakkam, Vandalur, Kolapakkam, Melakottaiyur and nearby areas and was proceeding to Velammal Vidyashram in Mambakkam when the accident occurred on Vengambakkam Koot Road, off Vandalur-Kelambakkam Road, around 8am. -----------.
-['Mambakkam when the accident occurred', 'Vengambakkam Koot Road off Vandalur-Kelambakkam Road', '8am. -----------.']
-['Vengambakkam Koot Road']
-['Mambakkam when the accident occurred', 'Vengambakkam Koot Road  off Vandalur - Kelambakkam Road ', '8 am']
-['Vengambakkam Koot Road']
-['witness accounts police said the driver was trying to overtake a lorry but came too close to the heavier vehicle and panicked.']
+The van ran over a pothole and toppled.
+[]
 
 ---------------
 
-The van ran over a pothole and toppled.
+He then swerved violently to the right and lost control of the vehicle.
 []
 
 ---------------
@@ -2735,10 +3164,9 @@ The car was going from Kullu to Manali when the driver lost control over the veh
 
 ---------------
 
-“We also do not know how many people were exactly travelling in the car.
-['the car.']
-['the car']
-['the car']
+The identity of the body that has been recovered is yet to be ascertained, said a policeman on the spot who did not wish to be named.
+['the spot who did not wish to be named.']
+['the spot']
 
 ---------------
 
@@ -2780,12 +3208,33 @@ On Saturday evening, a speeding car, driven by an inebriated man, rammed into th
 
 ---------------
 
-Cops said after breaking the door of the house, the car dragged Ramji on the bonnet for some distance, killing him on the spot.
-['the bonnet for some distance killing him', 'the spot.']
+Police officials Ashok Kumar had lost control of his vehicle near the house and rammed the vehicle into the gate of the house, where the kids were playing.
+['the house and rammed the vehicle', 'the gate of the house where the kids were playing.']
+['the house']
 
 ---------------
 
 ====================
+
+The driver of the Audi who had allegedly mowed down a man on Bahadur Shah Zafar Marg on Saturday night was tracked down and arrested on Monday after a manhunt across Delhi and Haryana.
+['Bahadur Shah Zafar Marg', 'Saturday night was tracked down and arrested', 'Monday after a manhunt across Delhi and Haryana.']
+['Mondayafter a manhunt across Haryana']
+['Mondayafter a manhunt across Delhi']
+['Bahadur Shah Zafar Margon Saturday night']
+
+---------------
+
+He told the cops about the white-coloured car hitting Manoj.
+[]
+
+---------------
+
+We finished work around 10.30pm, but as I had some work on the way, I asked him to leave without me,” said Lalit, the victim’s uncle.
+['10.30pm but as I had some work', 'the way I asked him to leave without me\xe2\x80\x9d said Lalit the victim\xe2\x80\x99s uncle.']
+['the way']
+['the way']
+
+---------------
 
 ====================
 
@@ -2798,17 +3247,14 @@ A 54-year-old woman riding pillion on a bike with her husband was killed in a hi
 
 ---------------
 
-Police said the accident occurred when the couple was returning to their residence after offering prayers at Iskon temple near Khadi Machine Chowk.
-['Iskon temple', 'Khadi Machine Chowk.']
-['Iskon temple', 'Khadi Machine Chowk']
-['Iskon temple', 'Khadi Machine Chowk']
-['Khadi Machine Chowk']
-['Iskon temple', 'Khadi Machine Chowk']
+“The woman died on the spot.
+['the spot.']
+['the spot']
 
 ---------------
 
-Police said the impact of the accident was such that the man fell off the bike while the container hit the woman who also feel of the two-wheeler.
-[]
+Her husband, Vijay (64), has sustained injuries and is undergoing treatment at a private hospital.
+['a private hospital.']
 
 ---------------
 
@@ -2829,6 +3275,11 @@ A 19-year-old student was killed and his friend sustained serious head injury wh
 
 ---------------
 
+Police shifted the injured to the Pilibhit district hospital, where his condition is said to be critical.
+[]
+
+---------------
+
 ====================
 
 ++++++++++++++++++++++++
@@ -2838,7 +3289,14 @@ A property dealer who knocked down a juice vendor with his speeding Audi on Satu
 
 ---------------
 
-A source said the Malhotra admitted that he was drunk and was returning from a party when he lost control of the vehicle and hit the man.
+The victim was hit at the Bahadur Shah Zafar Marg and had died on the spot.
+['the Bahadur Shah Zafar Marg and had died', 'the spot.']
+['the spot']
+['the Bahadur Shah Zafar Marg']
+
+---------------
+
+However, police said that they were looking for further legal options.
 []
 
 ---------------
@@ -2846,6 +3304,11 @@ A source said the Malhotra admitted that he was drunk and was returning from a p
 ====================
 
 ++++++++++++++++++++++++
+
+Further investigations are on, the police said.
+['the police said.']
+
+---------------
 
 ====================
 
@@ -2855,18 +3318,15 @@ In a horrific crash that brought home the terror of speeding trucks on city road
 
 ---------------
 
-Police said the dumper truck flipped in the air after hitting the divider and fell upside down on the Innova.
-['the air after hitting the divider and fell upside down', 'the Innova.']
-['the air fell upside down', 'the Innova']
-['the air']
-['the airafter hitting the divider']
-
----------------
-
 Under the impact, the SUV turned turtle while the truck flipped again, coming to rest on its wheels.
 ['its wheels.']
 ['its wheels']
 ['its wheelsUnder the impact']
+
+---------------
+
+Five of them had died by the time they were brought out of the car.
+[]
 
 ---------------
 
@@ -2886,9 +3346,8 @@ A 45-year-old heart patient was killed when the ambulance carrying him was ramme
 
 ---------------
 
-The oxygen cylinder kept beside my uncle fell on his chest and he died almost immediately,” said Naresh.
-['his chest and he died almost immediately\xe2\x80\x9d said Naresh.']
-['his chest']
+As soon as the ambulance reached Delhi Gate and was taking a turn from the Ambedkar Stadium side towards Daryaganj, the car coming from ITO rammed the left side of the emergency vehicle.“There
+[]
 
 ---------------
 
@@ -2911,6 +3370,17 @@ The Panchkula-Barwala highway was closed for about two hours and the traffic div
 
 ---------------
 
+One of the commuters Shubash Kalra, said that, “I had to go to Derabassi first for coming to Panchkula due to the road closure.”
+[]
+['and they helped the pedestrians cross the road.']
+
+---------------
+
+Ramgarh police post incharge, SI Sushil Kumar, said that, “The road was closed for sometime.
+[]
+
+---------------
+
 ====================
 
 Four persons were killed and 27 others were injured when a loaded truck collied head on with a bus near Bhup-Bhairow Chowk on NH-104 under Dumra police station in Sitamarhi district.
@@ -2919,7 +3389,23 @@ Four persons were killed and 27 others were injured when a loaded truck collied 
 
 ---------------
 
+Police sources said more than two dozen critically injured passengers were referred to SKMCH in Muzaffarpur as Sitamarhi district doctors are on indefinite strike following frequent assault on doctors.
+['Muzaffarpur as Sitamarhi district doctors are', 'indefinite strike following frequent assault', 'doctors.']
+['indefinite strikefollowing frequent assault', 'doctors']
+['Muzaffarpur as Sitamarhi district doctors are', 'indefinite strike following frequent assault', 'doctors']
+['indefinite strike']
+
+---------------
+
 ====================
+
+The victim has mentioned in his suicide note that he was in a relationship with the woman for nearly 13 years but after she broke up with him he decided to kill himself.
+['his suicide note that he was', 'a relationship with the woman for nearly 13 years but after she broke up with him he decided to kill himself.']
+['a relationship with the woman for nearly 13 years']
+['his suicide notehe was', 'a relationship with the woman for nearly 13 years but after she broke up with him']
+['his suicide note that but after she broke up with him he decided to kill himself']
+
+---------------
 
 Senior inspector of Sanpada police station, Suraj Padvi, said, “Kakade, a labour contractor, has said in the suicide note that he is ending his life because of a woman who has left him for another man.”The
 ['the suicide note that he is ending his life because of a woman who has left him for another man.\xe2\x80\x9dThe']
@@ -2933,15 +3419,13 @@ Senior inspector of Sanpada police station, Suraj Padvi, said, “Kakade, a labo
 
 ---------------
 
-The victim has mentioned in his suicide note that he was in a relationship with the woman for nearly 13 years but after she broke up with him he decided to kill himself.
-['his suicide note that he was', 'a relationship with the woman for nearly 13 years but after she broke up with him he decided to kill himself.']
-['a relationship with the woman for nearly 13 years']
-['his suicide notehe was', 'a relationship with the woman for nearly 13 years but after she broke up with him']
-['his suicide note that but after she broke up with him he decided to kill himself']
+====================
+
+A speeding vehicle on the Panaji-Old Goa bypass ran into three cows on Thursday just after 6am, killing them on the spot.
+['the Panaji-Old Goa bypass ran', 'three cows', 'Thursday just after 6am killing them', 'the spot.']
+['three cowson Thursdayjust after 6am']
 
 ---------------
-
-====================
 
 A week ago, three cattle were killed at the Chimbel-Ribandar junction near Our Lady of Conception chapel at Chinchwada, Chimbel.
 ['the Chimbel-Ribandar junction', 'Our Lady of Conception chapel', 'Chinchwada Chimbel.']
@@ -2952,12 +3436,6 @@ A week ago, three cattle were killed at the Chimbel-Ribandar junction near Our L
 Three cattle were injured and one killed in an accident a fortnight ago near Sai Baba temple.
 ['an accident a fortnight ago', 'Sai Baba temple.']
 ['an accident a fortnight ago', 'Sai Baba temple']
-
----------------
-
-“Cattle are being killed regularly on this bypass road and it is high time the Chimbel panchayat set up a cattle pound behind the panchayat premises,” Tukaram Kunkolkar, a local resident said.
-['this bypass road and it is high time the Chimbel panchayat set up a cattle pound behind the panchayat premises\xe2\x80\x9d Tukaram Kunkolkar a local resident said.']
-['this bypass road']
 
 ---------------
 
@@ -2976,12 +3454,43 @@ In a separate incident, a private luxury bus skidded off the road near Bhidbhanj
 
 ====================
 
+A woman, driving a hatchback in an allegedly drunken state, hit a road divider at the Chingrighata crossing on EM Bypass near Beliaghata traffic post on Wednesday night.
+['an allegedly drunken state hit a road divider', 'the Chingrighata crossing', 'EM Bypass', 'Beliaghata traffic post', 'Wednesday night.']
+['Beliaghata traffic post', 'Wednesday night']
+
+---------------
+
 The police they didn’t lodge any case in the matter as no one was injured.
 ['the matter as no one was injured.']
 
 ---------------
 
+Witnesses said, the car, with a press sticker on it, was moving towards EM Bypass at 12.15am when it hit the divider.
+['it was moving towards EM Bypass', '12.15am when it hit the divider.']
+
+---------------
+
 ====================
+
+He was hit by a PMPML bus.
+[]
+
+---------------
+
+People said the bus driver had jumped the signal and the crowd was busy yelling at him but no one bothered to help the victim,” Budukh, who lives in Karvenagar, said.
+['him but no one bothered to help the victim\xe2\x80\x9d Budukh who lives', 'Karvenagar said.']
+['Karvenagar']
+['Karvenagar']
+['him']
+['him']
+['him']
+
+---------------
+
+So we decided to go with him,” Kulkarni said.
+[]
+
+---------------
 
 ====================
 
@@ -3038,29 +3547,30 @@ A speeding van ploughed into a group of pilgrims from Cuddalore district underta
 
 ---------------
 
+She was taken to a government hospital in Perambalur where she died without responding to treatment.
+['Perambalur where she died without responding to treatment.']
+['Perambalur']
+['Perambalur']
+
+---------------
+
 Four more devotees injured in the accident were also admitted to the hospital.
 ['the accident were also admitted to the hospital.']
 ['the accident']
 
 ---------------
 
-Most of the accidents occurred in the night hours and in the early hours of the day due to the poor visibility.
-['the night hours and', 'the early hours of the day due to the poor visibility.']
-['the early hours of the day']
-['the night hours due to the poor visibility']
+====================
+
+A 25-year-old car driver died on the spot after the vehicle, carrying schoolchildren, plunged into a 90 feet deep gorge near Lovedale in Ooty on Friday.
+['the spot after the vehicle carrying schoolchildren plunged', 'a 90 feet deep gorge', 'Lovedale', 'Ooty', 'Friday.']
+['the spotafter the vehicle']
 
 ---------------
-
-====================
 
 Five schoolchildren were seriously injured in the incident.
 ['the incident.']
 ['the incident']
-
----------------
-
-The five children were seriously injured,” a police officer said.
-[]
 
 ---------------
 
@@ -3078,8 +3588,14 @@ Two men were killed after their motorcycles collided on Pollachi–Pallada Road 
 
 ---------------
 
-Police said both of them suffered severe head injuries after they were thrown off their motorcycles.
-[]
+He did not noticed Shanmugam’s motorcycle coming from the opposite direction and rammed it near Thookampatti bus stop and both of them were thrown off their vehicles.
+['Thookampatti bus stop and both of them were thrown off their vehicles.']
+
+---------------
+
+While Vellingiri died on the way to the hospital, doctors at government hospital declared Shanmugam brought dead.
+['the way to the hospital doctors', 'government hospital declared Shanmugam brought dead.']
+['the way to the hospital']
 
 ---------------
 
@@ -3093,14 +3609,14 @@ The 26-year-old Dongri resident, arrested for rash and negligent driving and kil
 
 ---------------
 
-The car first hit the labourers and then fell off the bridge.
-[]
+Kapadia, who runs a travel agency in Byculla, had planned an outing with his girlfriend.
+['Byculla had planned an outing with his girlfriend.']
+['Byculla']
 
 ---------------
 
-“Eyewitnesses said Kapadia tried to overtake the bus when he lost control and the car hit two labourers repairing a hoarding on the bridge,” Bandra police senior inspector Pandit Thakare said.
-['the bridge\xe2\x80\x9d Bandra police senior inspector Pandit Thakare said.']
-['the bridge']
+The car first hit the labourers and then fell off the bridge.
+[]
 
 ---------------
 
@@ -3110,6 +3626,14 @@ An official of IIM, Lalit Bhalla informed that the bus was on its way to the hos
 ['its way to the hostel when the accident occurred.']
 ['its way to the hostelwhen the accident occurred']
 ['its way to the hostel']
+
+---------------
+
+He told as the bus carrying around fifty students reached near the Hartej Hospital, an over speeding Swift car hit the bus.
+['fifty students reached', 'the Hartej Hospital an over speeding Swift car hit the bus.']
+['the Hartej Hospital']
+['fifty students']
+['fifty students']
 
 ---------------
 
@@ -3128,6 +3652,19 @@ The third accident took place around 2.40 pm when an unidentified biker - aged a
 
 ---------------
 
+Police suspect the victim missed a sharp turn and hit a crash barrier before falling in to a ditch.
+['to a ditch.']
+['to a ditch']
+['to a ditch']
+
+---------------
+
+Rajkumar Das (48), a resident of Chingrihata, was run over by an unidentified vehicle around 5.30 am on Thursday.
+['5.30 am', 'Thursday.']
+['5.30 am', 'Thursday']
+
+---------------
+
 ====================
 
 ++++++++++++++++++++++++
@@ -3140,27 +3677,35 @@ A truck driver died while another was injured in an accident which occurred on t
 
 ---------------
 
-However, in the process it hit another truck travelling on the opposite side injuring its driver,” Anand Dev Mishra, SHO, Ecotech 1, told TOI. -----------.
-['the process it hit another truck travelling', 'the opposite side injuring its driver\xe2\x80\x9d Anand Dev Mishra SHO Ecotech 1 told TOI. -----------.']
-['the opposite sidein the process']
-['the opposite side']
-['the accident.']
-['the accident']
-['the accident']
-['the accident']
+The driver, Chanderpal, a resident of Aligarh, died on the spot when a high-way tanker approaching the zero point from Noida-Agra carriageway hit him from behind.
+['the spot when a high-way tanker approaching the zero point from Noida-Agra carriageway hit him from behind.']
+['the spot']
+
+---------------
+
+He was standing on the road when a tanker approaching the zero point hit him.“The
+['the road when a tanker approaching the zero point hit him.\xe2\x80\x9cThe']
+['the roadwhen a tanker approaching the zero point hit him']
 
 ---------------
 
 ====================
 
-The bodies were crushed as they were stuck between the two vehicles.
+Two men, including a cab driver, died on the spot after their car rammed a truck parked on KIA (Kempegowda International Airport) expressway in Yelahanka late on Friday night.
+['the spot after their car rammed a truck parked', 'KIA (Kempegowda International Airport) expressway', 'Yelahanka late', 'Friday night.']
+['KIA (Kempegowda International Airport) expressway', 'Yelahanka']
+['KIA (Kempegowda International Airport) expressway', 'Yelahanka']
+['the spotafter their car rammed a truck parked', 'KIA (Kempegowda International Airport) expressway', 'Yelahanka late', 'Friday night']
+
+---------------
+
+"The truck driver had parked his vehicle after it ran out of fuel.
 []
 
 ---------------
 
-The accident occurred around 11.30pm when Umesh was heading to the airport, where he works.
-['11.30pm when Umesh was heading to the airport where he works.']
-['11.30pmwhen Umesh was heading to the airport']
+The bodies were crushed as they were stuck between the two vehicles.
+[]
 
 ---------------
 
@@ -3175,15 +3720,13 @@ Three people were injured after a speeding jeep hit their car from the rear on t
 
 ---------------
 
-The car hit the divider and overturned.
-[]
+When he reached the sector 9-10 dividing road, the jeep hit them around 11.30 pm.
+['11.30 pm.']
 
 ---------------
 
-Police have registered a case under sections 279 (rash driving or riding on a public way) and 337 (causing hurt by act endangering life or personal safety of others) of the Indian Penal Code (IPC) at the Sector 5 police station.
-['sections 279 (rash driving or riding', 'a public way) and 337 (causing hurt by act endangering life or personal safety of others) of the Indian Penal Code (IPC)', 'the Sector 5 police station.']
-['sections 279 rash driving or riding', 'a public way ) and']
-['sections 279']
+The car hit the divider and overturned.
+[]
 
 ---------------
 
@@ -3202,7 +3745,7 @@ When it reached Bithauli crossing, one of its tyre burst and it hit an e-ricksha
 
 ---------------
 
-Islam's wife Ruby said he had parked the car to purchase bottled water when the truck overturned and fell over it.
+He suffered multiple fractures and was taken to KGMU Trauma Centre.
 []
 
 ---------------
@@ -3243,9 +3786,11 @@ Four persons, including an 84-year-old woman, were killed after a private bus co
 
 ---------------
 
-Six passengers, all residents of Malegaon, were travelling in the auto, said cops.
-['the auto said cops.']
-['the auto']
+Auto driver Gajendra Chandurkar (45), and two auto passengers Umesh Dahikar (36) and 84-year-old Kamla Palekar died on the spot.
+['the spot.']
+['the spot']
+['the spot']
+['the spot']
 
 ---------------
 
@@ -3289,9 +3834,39 @@ Nitin (24) was killed and his colleague Manjunath (24) was injured when a Honda 
 
 ====================
 
+A man returning home after burying his kin was run over by a government bus hours after the burial and less than 500 metres from the burial ground at Prince Anwar Shah Road on Saturday night.
+['Prince Anwar Shah Road', 'Saturday night.']
+['Prince Anwar Shah Road', 'Saturday night']
+['Saturday night']
+
+---------------
+
+Md Zahid, 48, was among the family members who went to the Prince Gulam Muhammad Shah Muslim Burial Ground at Rajendra Prasad Colony off Prince Anwar Shah Road to attend the cremation of Tollygunge resident Md Shahnawaz, who had died of cancer earlier in the day.
+['Rajendra Prasad Colony off Prince Anwar Shah Road to attend the cremation of Tollygunge resident Md Shahnawaz who had died of cancer earlier', 'the day.']
+['Rajendra Prasad Colony off Prince Anwar Shah Roadto attend the cremation of Tollygunge resident Md Shahnawaz']
+['the day']
+
+---------------
+
+Zahid was on his way back home and was crossing the Prince Anwar Shah Road when an AC bus of route AC1 (Jadavpur – Howrah) ran him over at the Lake Gardens flyover crossing around 10.30pm.
+['his way back home and was crossing the Prince Anwar Shah Road when an AC bus of route AC1 (Jadavpur \xe2\x80\x93 Howrah) ran him over', 'the Lake Gardens flyover crossing', '10.30pm.']
+['the Lake Gardens']
+['his way back homewhen an AC bus of route AC1 ( Jadavpur - Howrah ) ran him over', 'the Lake Gardens']
+
+---------------
+
 ====================
 
 ++++++++++++++++++++++++
+
+A speeding container truck created a panic situation after it rammed into a car and a multi-utility vehicle at Vadgaon bridge on the Katraj–Dehu Road bypass on Sunday evening.
+['a car and a multi-utility vehicle', 'Vadgaon bridge', 'the Katraj\xe2\x80\x93Dehu Road bypass', 'Sunday evening.']
+['a multi-utility vehicle', 'Vadgaon bridge', 'the Katraj - Dehu Road bypass', 'Sunday evening']
+['a multi-utility vehicle', 'Vadgaon bridge', 'the Katraj - Dehu Road bypass', 'Sunday evening']
+['a caron Sunday evening']
+['a car', 'Sunday evening']
+
+---------------
 
 No one was injured in the accident.
 ['the accident.']
@@ -3299,14 +3874,9 @@ No one was injured in the accident.
 
 ---------------
 
-According to Sinhagad Road police officers, the container truck was heading towards Mumbai from Satara.
-[]
-
----------------
-
-The driver lost control over the heavy vehicle and it first rammed into the car heading in the same direction around 5.30pm.
-['the car heading', 'the same direction', '5.30pm.']
-['the carfirst']
+The container then rammed into the MUV and drag-pushed it for a few metres.
+['the MUV and drag-pushed it for a few metres.']
+['dragthen']
 
 ---------------
 
@@ -3331,20 +3901,20 @@ When the bus was crossing Talwana bridge loacted about 40 km from the Jamui dist
 
 ====================
 
-Due to the impact of the collision, Devi, who was riding pillion, slipped, fell under the truck and was crushed by its rear wheels.
-['the truck and was crushed by its rear wheels.']
-['the truck']
+Two youths including a woman died in two different accidents in Tirupur district on Saturday.
+['two different accidents', 'Tirupur district', 'Saturday.']
+['two different accidents', 'Tirupur districton Saturday']
 
 ---------------
 
-Her father sustained grievous injuries, the police said.
+When they reached the state highway 19, a sand-laden truck hit their vehicle.
 []
 
 ---------------
 
-Vignesh, who was in the back seat sustained fatal injuries and he died on the way to the hospital.
-['the back seat sustained fatal injuries and he died', 'the way to the hospital.']
-['the back seat']
+Due to the impact of the collision, Devi, who was riding pillion, slipped, fell under the truck and was crushed by its rear wheels.
+['the truck and was crushed by its rear wheels.']
+['the truck']
 
 ---------------
 
@@ -3375,11 +3945,8 @@ A man was killed in Vile Parle east after a BMW rammed into the tempo he was dri
 
 ---------------
 
-In his complaint, tempo cleaner Rajan Jaiswal (27) stated, “We were heading to deliver milk at centres when the speeding car rammed into our vehicle, injuring the driver.
-['centres when the speeding car rammed', 'our vehicle injuring the driver.']
-['centres']
-['centresIn his complaint']
-['our vehicle']
+Tempo driver Sunil Jaiswal (27) was taken to a hospital, but died due to severe head injuries.
+[]
 
 ---------------
 
@@ -3395,8 +3962,8 @@ An eyewitness, Suresh, told cops that Salem and he were sitting outside the godo
 
 ---------------
 
-A speeding truck came from behind and hit the bike killing him on the spot.
-['the spot.']
+Suresh also told the police that Ajay, the driver of the other truck, had personal enmity with him earlier, which could have urged him to mow down th fellow trucker.
+[]
 
 ---------------
 
@@ -3404,6 +3971,22 @@ A speeding truck came from behind and hit the bike killing him on the spot.
 
 Chauhan’s nephew then went to a nearby hospital seeking help but he was turned away by a security guard.
 []
+
+---------------
+
+Sources said that fire broke out in one of the cars due to short-circuit and engulfed the one parked adjacent to it too.
+['one of the cars due to short-circuit and engulfed the one parked adjacent to it too.']
+['one of the cars due to short - circuit']
+['one of the cars due to short - circuit']
+
+---------------
+
+“We requested them to give a fire extinguisher which they had in their car but they refused saying that the bottle is small and it would help us in dousing the large blaze,” said Chauhan.
+['their car but they refused saying that the bottle is small and it would help us', 'dousing the large blaze\xe2\x80\x9d said Chauhan.']
+['dousing the large blaze']
+['dousing the large blaze']
+['their car']
+['their car']
 
 ---------------
 
@@ -3444,10 +4027,28 @@ On Sunday a 10-year-old boy was killed after a speeding truck ran over him in Ka
 
 ---------------
 
+The child was running back to his house with sweets when a truck coming from Jaipur ran over him.
+[]
+
+---------------
+
 ====================
 
 The incident took place around 10:30pm on Saturday.
 ['10:30pm', 'Saturday.']
+
+---------------
+
+A man, who was returning home after burying his relative at a cemetery ne ar Anwar Shah Road, was run over by a govern ment bus.
+['a cemetery ne ar Anwar Shah Road was run over by a govern ment bus.']
+['a cemetery ne ar Anwar Shah Road']
+
+---------------
+
+Zahid was crossing the Prince Anwar Shah Road on his way back when an AC 1, a Jadavpur-Howrah route bus, ran him over at the Lake Gardens flyover crossing.
+['his way back when an AC 1 a Jadavpur-Howrah route bus ran him over', 'the Lake Gardens flyover crossing.']
+['the Lake Gardens']
+['the Lake Gardens']
 
 ---------------
 
