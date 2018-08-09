@@ -37,8 +37,8 @@ In another spine-chilling accident, a 20-year-old engineering student died after
 # Meeting - Prof. Bedathur
 1. Try heidel-time (really good), gu-time tagger
 2. run pos tagger on whole sentence(to give context) and then select location based on tag of words obtained by splitting on prepositions
-3. complete the whole pipeline once (and then check what action leads to what)
-
+3. complete the whole pipeline once, seperately create a manually labelled set -> compare what fraction of features is our pipeline able to extract, to be able to quote a figure)
+4. make your own classifiers to improve pipeline
 
 
 # Negative Examples(May 2017):
