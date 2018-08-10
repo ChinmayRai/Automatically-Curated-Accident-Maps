@@ -104,9 +104,19 @@ def root_verbs(sentence):
 
 # breaks a string at prepositions and returns the list of clauses except the first clause.
 def prep_break(s):
-	delimiters = ["into","in","on","at","near","under","around"]
-	# along(!along with)
+	delimiters = ["into","in","on","at","near","under","around","along"]
+
+	# preprocessing the sentence
 	s=s.replace(',','')
+	# s=s.lower()
+	# to remove full stop at the end of sentence
+	if(s[-1]=='.'):
+		s=s[:-1]
+
+	alongWithMarker="xcode1awx"
+	s=s.replace("along with", alongWithMarker);
+
+	# replacing prepositions by a delimiter
 	token="xdelimx"
 	for i in delimiters:
 		delim=" "+i+" "
@@ -117,9 +127,10 @@ def prep_break(s):
 			l[:len(delim)]=list(token)
 			s=''.join(l)
 
+	s=s.replace(alongWithMarker, "along with");
+
 	l=s.split("xdelimx")
 	return l[1:]
-
 
 # infile="july2017/july_openie_output.txt"
 # txtOutfile="july2017/july_sent_selected.txt"
