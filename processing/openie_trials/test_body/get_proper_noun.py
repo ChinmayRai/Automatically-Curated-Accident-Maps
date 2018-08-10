@@ -5,6 +5,8 @@ from nltk import word_tokenize,pos_tag
 def pos(x):
 	text=word_tokenize(x)
 	k=pos_tag(text)
+	for i in range(len(k)):
+		k[i] = tuple([k[i][0].lower(), k[i][1]]);
 	return k
 
 #gives the POS tag of word s from list l
@@ -25,6 +27,7 @@ month = file_object.read()
 month = json.loads(month)
 file_object.close()
 
+selectedTags=['NNP', 'NNPS']
 for day in month:
 	for article in day:
 		for sent in article:
