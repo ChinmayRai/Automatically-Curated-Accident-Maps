@@ -4,10 +4,10 @@ def prep_break(s):
 
 	# preprocessing the sentence
 	s=s.replace(',','')
-	# s=s.lower()
+	s=s.lower()
 	# to remove full stop at the end of sentence
-	if(s[-1]=='.'):
-		s=s[:-1]
+	# if(s[-1]=='.'):
+	# 	s=s[:-1]
 
 	alongWithMarker="xcode1awx"
 	s=s.replace("along with", alongWithMarker);

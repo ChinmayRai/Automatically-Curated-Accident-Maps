@@ -230,8 +230,8 @@ for line in lines:
 			posSentence.append(prep_break(sentence[0]))
 			for tup in sentence[1:]:
 				s="".join(tup['tuple'][2:])
-				s=s.replace("T:","")
-				s=s.replace("L:","")
+				s=s.replace("T:"," ")
+				s=s.replace("L:"," ")
 				
 				l=prep_break(s)
 				if(l!=[]):
