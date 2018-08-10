@@ -8,24 +8,26 @@ enum TimePeriod{	none,early_morning,late_night,noon,evening;   }
 class date_time
 {
 	public int hrs,min;	public boolean am; public TimePeriod period; public int date; public int month; public Day day;
+	public String date_of_happening="";
 	public date_time(){}
 }
 
 public class time_detect
 {
-	public static String extract(String s) {
+	public static String extract(String s,int dd,int mm,int yy) {
 
-		int yyyy = 2018;	int mm = 7;		int dd = 9; //set date of reporting.
+
 		Calendar cal = Calendar.getInstance();cal.set(Calendar.DAY_OF_MONTH,dd);
-		cal.set(Calendar.MONTH,mm-1);cal.set(Calendar.YEAR,yyyy);
-		//System.out.println(getDay(cal.get(Calendar.DAY_OF_WEEK))); //prints day of reporting
-		//System.out.println(getInt(Day.monday));
+		cal.set(Calendar.MONTH,mm-1);cal.set(Calendar.YEAR,yy);
 
-		//Scanner sc=new Scanner(System.in);  
-		//String s=sc.nextLine();
+		int reporting_day=cal.get(Calendar.DAY_OF_WEEK);
+		//System.out.println(getDay(cal.get(Calendar.DAY_OF_WEEK)));
+
+
+
 		date_time a=new date_time();
 
-		String day_of_week="([Mm]on(day)?|[Tt]ue(sday)?|[Ww]ed(nesday)?|[Tt]hu(rsday)?|[Ff]ri(day)?|[Ss]at(urday)?|[Ss]un(day)?)";
+		String day_of_week="([Mm]onday|[Tt]uesday|[Ww]ednesday|[Tt]hursday|[Ff]riday|[Ss]aturday|[Ss]unday)";
 		String num_time="([\\d]{1,2}[[\\.:][\\d]{2}]*[\\s]{0,1}[ap][\\.]{0,1}[m][\\.]{0,1})";
 		String late="("+day_of_week+" midnight|late on "+day_of_week+"( night){0,1}|"+day_of_week+" night|late night on "+day_of_week+"|late night hours of "+day_of_week+")";
 		String early="((wee|early) hours of "+day_of_week+"|((early|wee) on ){0,1}"+day_of_week+" morning|(early|wee) on "+day_of_week+")";
@@ -79,6 +81,15 @@ public class time_detect
 			Matcher m7=Pattern.compile("([\\d]{1,2})").matcher(s);m7.find();a.date=Integer.valueOf(m7.group(0));	
 		}
 		
+
+		if(a.day!=null)
+		{
+			int diff=0; 
+			if(getInt(a.day)!=0){diff=getInt(a.day)-reporting_day;if(diff>0)diff-=7;}
+			cal.add(Calendar.DAY_OF_MONTH,diff);
+			a.date_of_happening=cal.get(Calendar.DAY_OF_MONTH)+"/"+(cal.get(Calendar.MONTH)+1)+"/"+cal.get(Calendar.YEAR);
+		}
+
 		return print(a);
 	}
 
@@ -123,6 +134,7 @@ public class time_detect
 	public static String print(date_time a)
 	{
 		StringBuilder sb=new StringBuilder("");
+		if(a.date_of_happening!=""){sb.append(a.date_of_happening);sb.append("	");}
 		if(a.hrs+a.min!=0)
 		{
 			sb.append(a.hrs);if(a.min!=0){sb.append(":");sb.append(a.min);}
