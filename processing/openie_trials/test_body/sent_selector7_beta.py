@@ -61,6 +61,7 @@ def root_verbs(sentence):
 	stopWords = ["get","have","'s","up","down","towards","off","to","have","also","over","after","outside","near","the","a"]
 	rootVerbs = []
 
+	# print sentence
 	for tup in sentence:
 		# tup=get_tuple(line)
 
@@ -77,6 +78,7 @@ def root_verbs(sentence):
 			except Exception as e:
 				continue
 		# printing part which lies after "be" part of verb
+		
 		i=0;
 		while(i<len(lemWords)):
 			if(lemWords[i]=="be"):
@@ -101,22 +103,6 @@ def root_verbs(sentence):
 	return rootVerbs
 
 # breaks a string at prepositions and returns the list of clauses except the first clause.
-# def prep_break(s):
-# 	delimiters = ["into","in","on","at","near","under","around"]
-# 	# along(!along with)
-# 	s=s.replace(',','')
-# 	token="xdelimx"
-# 	for i in delimiters:
-# 		delim=" "+i+" "
-# 		s=s.replace(delim,token)
-# 		delim=i+" "
-# 		if(s[:len(delim)]==delim):
-# 			l=list(s)
-# 			l[:len(delim)]=list(token)
-# 			s=''.join(l)
-
-# 	l=s.split("xdelimx")
-# 	return l[1:]
 def prep_break(s):
 	delimiters = ["into","in","on","at","near","under","around","along"]
 
@@ -150,9 +136,9 @@ def prep_break(s):
 # txtOutfile="july2017/july_sent_selected.txt"
 # jsonOutfile="july2017/july_sent_selected.json"
 
-infile="july2017/july_openie_output.txt"
-txtOutfile="july2017/july_sent_selected.txt"
-jsonOutfile="july2017/july_sent_selected.json"
+infile="rough/july_openie_output.txt"
+txtOutfile="rough/july_sent_selected.txt"
+jsonOutfile="rough/july_sent_selected.json"
 
 # whether or not to print the tuples of openie output
 printOpenieTuples = False
@@ -187,7 +173,10 @@ month=[]
 for line in lines:
 	if(line[0]=='-'):
 		if(len(sentence)>0):
-
+			print(" entered a sentence = ")
+			
+			for x in sentence:
+				print x
 			flag=False
 			for t in sentence[1:]:
 				# t=get_tuple(i)
@@ -199,7 +188,7 @@ for line in lines:
 
 			# rootVerbs = extract(sentence)
 			rootVerbs=root_verbs(sentence[1:])
-			
+			print "rootVerbs = ",rootVerbs
 			if(flag):
 				# assigning max score to this sentence so that it is always taken unless there are more than maxSentFromArticle number of such sentences
 				score.append(sys.maxint)
@@ -210,6 +199,10 @@ for line in lines:
 				inter2=intersection(rootVerbs,keyVerbs2)
 				inter3=intersection(rootVerbs,keyVerbs3)
 				
+				print "inter1=",inter1
+				print "inter2=",inter2
+				print "inter3=",inter3
+
 				currScore += len(inter1)*score1
 				currScore += len(inter2)*score2
 				currScore += len(inter3)*score3
@@ -218,6 +211,8 @@ for line in lines:
 					currScore /= l
 
 				score.append(currScore)
+
+			print score
 
 			# sentence.append(rootVerbs)
 			for i in range(len(sentence[1:])):
@@ -273,6 +268,8 @@ for line in lines:
 		if(len(article)<=maxSentFromArticle):
 			selectedSentences=article
 		else:
+			print(score)
+
 			tookPlaceFlag = False
 			for iter in range(maxSentFromArticle):
 				max = -sys.maxint - 1
@@ -315,6 +312,7 @@ for line in lines:
 
 	elif(line[0]!='\n'):
 		tup=get_tuple(line)
+		# print line, "==>", tup
 		if(tup!=False and tup[1][0]!='['):
 			sentence.append(tup)
 		else:
