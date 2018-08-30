@@ -1,6 +1,5 @@
 # SURA
 
-
 # TO DO: 22/7
 2. run full pipeline on july2017 to get proper inferences on updated results
 		check difference = git diff ace167 2df79c
