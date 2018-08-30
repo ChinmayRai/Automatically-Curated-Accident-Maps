@@ -8,6 +8,14 @@
 1. add boolean in sent_selector telling whether to print tuples or not - done
 3. resolve pending issues - done
 
+
+# Meeting - Prof. Mausam:
+1. mail mausam and sangnie - where openie fails
+2. get causualty using coreference resolution
+3. complete the pipeline
+4. get precision, recall numbers by creating a golden set
+
+
 # Pending Pipeline
 1. get pinpointed location and time from clauses between prepositions
 2. get number of casualities by analysing the subject part of sentences and developing a similar procedure for casualities
@@ -39,7 +47,6 @@ In another spine-chilling accident, a 20-year-old engineering student died after
 2. run pos tagger on whole sentence(to give context) and then select location based on tag of words obtained by splitting on prepositions
 3. complete the whole pipeline once, seperately create a manually labelled set -> compare what fraction of features is our pipeline able to extract, to be able to quote a figure)
 4. make your own classifiers to improve pipeline
-
 
 # Negative Examples(May 2017):
 1. Woman who lost kin in road accident made Swachh ambassador
