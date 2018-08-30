@@ -1,6 +1,6 @@
 # SURA
 
-# TO DO: 22/7
+# TO DO: 30/8
 2. run full pipeline on july2017 to get proper inferences on updated results
 		check difference = git diff ace167 2df79c
 
@@ -8,6 +8,7 @@
 1. add boolean in sent_selector telling whether to print tuples or not - done
 3. resolve pending issues - done
 
+sent_selector7.py and sent_selector7_beta.py are same except that beta version also prints certain things
 
 # Meeting - Prof. Mausam:
 1. mail mausam and sangnie - where openie fails

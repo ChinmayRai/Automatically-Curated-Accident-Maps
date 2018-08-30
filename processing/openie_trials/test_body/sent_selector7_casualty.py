@@ -181,6 +181,7 @@ for line in lines:
 				if(len(inter1)>0 or len(inter2)>0):
 					selectedTuples.append(tup[0])
 			if(len(selectedTuples)>0):
+				selectedTuples=list(set(selectedTuples))	# to remove duplicates
 				article.append(selectedTuples)
 				selectedTuples=[]
 			sentence=[]
@@ -237,6 +238,8 @@ for line in lines:
 			sentence.append(tup)
 		else:
 			sentence.append(line[:-1])	# to remove \n at end of line
+
+
 
 # FOR TXT OUTPUT
 file_object = open(txtOutfile,"w")
