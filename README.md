@@ -1,12 +1,21 @@
 # SURA
 
-# TO DO: 22/7
+# TO DO: 30/8
 2. run full pipeline on july2017 to get proper inferences on updated results
 		check difference = git diff ace167 2df79c
 
 4. run pos/ner on clauses to remove redundant words
 1. add boolean in sent_selector telling whether to print tuples or not - done
 3. resolve pending issues - done
+
+sent_selector7.py and sent_selector7_beta.py are same except that beta version also prints certain things
+
+# Meeting - Prof. Mausam:
+1. mail mausam and sangnie - where openie fails
+2. get causualty using coreference resolution
+3. complete the pipeline
+4. get precision, recall numbers by creating a golden set
+
 
 # Pending Pipeline
 1. get pinpointed location and time from clauses between prepositions
@@ -39,7 +48,6 @@ In another spine-chilling accident, a 20-year-old engineering student died after
 2. run pos tagger on whole sentence(to give context) and then select location based on tag of words obtained by splitting on prepositions
 3. complete the whole pipeline once, seperately create a manually labelled set -> compare what fraction of features is our pipeline able to extract, to be able to quote a figure)
 4. make your own classifiers to improve pipeline
-
 
 # Negative Examples(May 2017):
 1. Woman who lost kin in road accident made Swachh ambassador
