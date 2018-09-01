@@ -1,6 +1,6 @@
 # SURA
 
-# TO DO: 30/8
+# TO DO: 31/8
 2. run full pipeline on july2017 to get proper inferences on updated results
 		check difference = git diff ace167 2df79c
 
@@ -15,6 +15,11 @@ sent_selector7.py and sent_selector7_beta.py are same except that beta version a
 2. get causualty using coreference resolution
 3. complete the pipeline
 4. get precision, recall numbers by creating a golden set
+
+
+# Golden Set Results :
+Location : 
+1. 
 
 
 # Pending Pipeline
