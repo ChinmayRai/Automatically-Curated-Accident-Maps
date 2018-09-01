@@ -16,10 +16,20 @@ sent_selector7.py and sent_selector7_beta.py are same except that beta version a
 3. complete the pipeline
 4. get precision, recall numbers by creating a golden set
 
+# Ques for next meeting:
+1. how to automate the process of calc. accuracy - simply matching output with golden set wont work
+2. 
 
-# Golden Set Results :
+
+# Golden Set Evaluation :
 Location : 
-1. 
+1. failures at "east of Moscow"
+2. location is not detected as noun thereby gets rejected
+3. add 'of' to prepositions - at many places we have <so and so place> of <so and so area>
+4. 
+
+Time :
+1. sentences with time are not selected
 
 
 # Pending Pipeline

@@ -102,7 +102,7 @@ def root_verbs(sentence):
 
 # breaks a string at prepositions and returns the list of clauses except the first clause.
 def prep_break(s):
-	delimiters = ["into","in","on","at","near","under","around","along"]
+	delimiters = ["into","in","on","at","near","under","around","along","opposite"]
 
 	# preprocessing the sentence
 	s=s.replace(',','')

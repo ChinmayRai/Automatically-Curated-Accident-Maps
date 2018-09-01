@@ -27,7 +27,7 @@ month = file_object.read()
 month = json.loads(month)
 file_object.close()
 
-# selects the word that is a noun from the list of clauses
+# selects the word that is a noun from the list of july_prep_clauses_merged
 
 selectedTags=['NNP', 'NNPS']
 for day in month:
