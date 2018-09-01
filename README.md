@@ -26,7 +26,9 @@ Location :
 1. failures at "east of Moscow"
 2. location is not detected as noun thereby gets rejected
 3. add 'of' to prepositions - at many places we have <so and so place> of <so and so area>
-4. 
+4. add 'ahead' to preposition list - eg. "According to police, the accident occurred ahead of the NSG camp gate on NH-8 around 4 pm when both the boys were returning from their work from National Brain Research Centre (NBRC) in Manesar."  -> nh-8, manesar ( NSG camp is not detected )
+5. 
+
 
 Time :
 1. sentences with time are not selected
