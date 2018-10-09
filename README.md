@@ -1,5 +1,8 @@
 # SURA
 
+#TO DO: 8/10
+1. try - carto, google maps API, mapbox
+
 # TO DO: 31/8
 2. run full pipeline on july2017 to get proper inferences on updated results
 		check difference = git diff ace167 2df79c
