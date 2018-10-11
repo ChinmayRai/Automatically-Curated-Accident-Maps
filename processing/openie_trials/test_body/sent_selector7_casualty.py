@@ -77,6 +77,7 @@ def root_verbs(sentence):
 			except Exception as e:
 				continue
 		# printing part which lies after "be" part of verb
+
 		i=0;
 		while(i<len(lemWords)):
 			if(lemWords[i]=="be"):
@@ -170,12 +171,11 @@ month=[]
 
 for line in lines:
 	if(line[0]=='-'):
-		if(len(sentence)>0):
 
+		if(len(sentence)>0):
 			selectedTuples=[]
 			for tup in sentence[1:]:
 				rootVerbs=root_verbs([tup])
-			
 				inter1=intersection(rootVerbs,keyVerbs1)
 				inter2=intersection(rootVerbs,keyVerbs2)
 				if(len(inter1)>0 or len(inter2)>0):
@@ -240,7 +240,6 @@ for line in lines:
 			sentence.append(line[:-1])	# to remove \n at end of line
 
 
-
 # FOR TXT OUTPUT
 file_object = open(txtOutfile,"w")
 file_object.close()
@@ -254,7 +253,7 @@ for day in month:
 			# file_object.write(str(sentence[0])+"\n\n")
 			# l=sentence[-1]
 			# file_object.write(str(l[1:])+"\n")
-			file_object.write("\n---------------\n\n")
+			# file_object.write("\n---------------\n\n")
 		file_object.write("====================\n\n")
 	file_object.write("++++++++++++++++++++++++\n\n")
 file_object.close()

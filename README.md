@@ -1,8 +1,5 @@
 # SURA
 
-#TO DO: 8/10
-1. try - carto, google maps API, mapbox
-
 # TO DO: 31/8
 2. run full pipeline on july2017 to get proper inferences on updated results
 		check difference = git diff ace167 2df79c
@@ -21,7 +18,8 @@ sent_selector7.py and sent_selector7_beta.py are same except that beta version a
 
 # Ques for next meeting:
 1. how to automate the process of calc. accuracy - simply matching output with golden set wont work
-2. 
+2. show graphs
+3. how to get no. of casualties, cause of accident
 
 
 # Golden Set Evaluation & Observations :
@@ -42,8 +40,8 @@ Time Accuracy = 63.29 %
 1. get pinpointed location and time from clauses between prepositions
 2. get number of casualities by analysing the subject part of sentences and developing a similar procedure for casualities
 3. integrate the processes of getting loc, time and casualities
-4. getting coordinated from location names
-5. data plotting
+4. getting coordinates from location names - done
+5. data plotting - done
 
 
 # Pending Issues:
