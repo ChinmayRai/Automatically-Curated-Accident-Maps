@@ -1,0 +1,55 @@
+1. Casualty -
+	a.	works for:
+
+		Singular pronoun : he/she
+		Singular proper noun
+		A noun
+		The duo
+
+		(hardcoding certain key words eg. couple, duo)
+
+	- if there are multiple numbers separated by and split them heuristically at and
+
+		Person and n others
+		Person and his/her relative(s)
+		Person and n of his colleagues/relatives
+		No one
+
+	We also need to decide whether the subject is animate before deciding
+		N people, including m children/women
+		They
+		Person name, age
+		A n-year old man/woman
+
+	b. inanimate objects - (the car, the truck ) have to be excluded
+
+	- if number is associated with year then discard it
+		by specific rules? ( ____ year old ;
+							 <name>, ____, was killed ... )
+
+	- if number is followed by a Person noun (you can check it in Wordnet) and has right plurality
+		is this only for confirmation?
+
+
+
+
+2. Cause
+
+3. testing
+
+		golden set = 100 articles
+
+		Accuracy in Location Detection = 77.8% 
+		Accuracy in Time Detection = 63.29% 
+
+		a. time clause  - trigger verbs not effective
+
+		b. automate?
+
+
+
+4. Plotting
+
+
+
+
