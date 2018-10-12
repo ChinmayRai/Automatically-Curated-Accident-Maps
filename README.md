@@ -1,25 +1,10 @@
 # SURA
 
-# TO DO: 31/8
-2. run full pipeline on july2017 to get proper inferences on updated results
-		check difference = git diff ace167 2df79c
-
-4. run pos/ner on clauses to remove redundant words
-1. add boolean in sent_selector telling whether to print tuples or not - done
-3. resolve pending issues - done
-
-sent_selector7.py and sent_selector7_beta.py are same except that beta version also prints certain things
-
-# Meeting - Prof. Mausam:
-1. mail mausam and sangnie - where openie fails
-2. get causualty using coreference resolution
-3. complete the pipeline
-4. get precision, recall numbers by creating a golden set
-
-# Ques for next meeting:
-1. how to automate the process of calc. accuracy - simply matching output with golden set wont work
-2. show graphs
-3. how to get no. of casualties, cause of accident
+# TO DO: 12/10
+1. No. of casualties - Work on inference engine
+2. Testing - automate using fraction matched
+3. Plotting - debug why geotagged to US
+4.* Report - Complete Report
 
 
 # Golden Set Evaluation & Observations :
@@ -42,6 +27,9 @@ Time Accuracy = 63.29 %
 3. integrate the processes of getting loc, time and casualities
 4. getting coordinates from location names - done
 5. data plotting - done
+
+# Notes to self
+1. sent_selector7.py and sent_selector7_beta.py are same except that beta version also prints certain things
 
 
 # Pending Issues:
