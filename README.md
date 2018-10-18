@@ -4,7 +4,7 @@
 1. No. of casualties : inference engine
 - [x] identify and convert word to numbers
 - [x] add supporting rules to improve accuracy
-- [ ] integrate with existing pipeline
+- [x] integrate with existing pipeline
 
 2. Testing - automate using fraction matched
 - [ ] add code for fractional matching
@@ -16,7 +16,7 @@
 - [ ] include reasons and solutions in report
 
 4. ** Report - Complete Report
-- [ ] add casualty part
+- [x] add casualty part
 - [ ] report accuracy figures
 - [ ] add graphs
 - [ ] formatting
@@ -140,5 +140,12 @@ http://opennlp.sourceforge.net/models-1.5/
 
 ssh baadalvm@10.17.51.49
 password : acam123
+
+
+## Authors
+* [Chinmay Rai](https://github.com/ChinmayRai)
+* [Samarth Aggarwal](https://github.com/samarthaggarwal)
+
+Summer Research Project under [**Prof. Mausam**](http://homes.cs.washington.edu/~mausam/) and [**Prof. Rijurekha**](http://www.cse.iitd.ernet.in/~rijurekha/)
 
 

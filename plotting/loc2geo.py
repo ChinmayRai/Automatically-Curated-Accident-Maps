@@ -3,6 +3,8 @@ import json
 
 
 inFile="location.json"
+jsonOutfile="coordinates.json"
+
 
 file_object = open(inFile,"r")
 locations = file_object.read()
@@ -29,7 +31,6 @@ for i in locations:
 		print r.status_code
 		print i
 
-jsonOutfile="coordinates.json"
 file_object = open(jsonOutfile,"w+")
 file_object.close()
 
