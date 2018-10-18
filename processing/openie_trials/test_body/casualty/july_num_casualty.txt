@@ -1,810 +1,810 @@
 he
-[(1, 0)]
+1
 those
-[]
+1
 two others
-[(2, 0)]
+2
 she
-[(1, 0)]
+1
 two persons
-[(2, 0)]
+2
 the driver
-[]
+1
 two people
-[(2, 0)]
+2
 one person
-[(1, 0)]
+1
 nitin
-[]
+1
 three others
-[(3, 0)]
+3
 bose
-[]
+1
 five others
-[(5, 0)]
+5
 her mother
-[]
+1
 a man
-[]
+1
 three persons
-[(3, 0)]
+3
 the victim
-[]
+1
 no one
-[(1, 1)]
+1
 four people
-[(4, 0)]
+4
 four of his colleagues
-[(4, 0)]
+4
 his wife
-[]
+1
 kiyan
-[]
+1
 the car
-[]
+1
 three cattle
-[(3, 0)]
+3
 others
-[]
+1
 the pillion
-[]
+1
 her daughter
-[]
+1
 ten people, including two children
-[(10, 0), (2, 3)]
+10
 four persons
-[(4, 0)]
+4
 jaswant singh
-[]
+1
 a pedestrian
-[]
+1
 randhir singh
-[]
+1
 a pillion rider
-[]
+1
 the two
-[(2, 1)]
+2
 they
-[]
+1
 the woman
-[]
+1
 another
-[]
+1
 one man
-[(1, 0)]
+1
 one
-[(1, 0)]
+1
 his colleague
-[]
+1
 a speeding truck
-[]
+1
 three persons, who were standing on a road divider
-[(3, 0)]
+3
 singh
-[]
+1
 anamika
-[]
+1
 a 25-year-old man
-[]
+1
 three people
-[(3, 0)]
+3
 mane
-[]
+1
 two youngsters
-[(2, 0)]
+2
 a 46-year-old truck driver
-[]
+1
 three persons , including a sub-inspector of haryana police
-[(3, 0)]
+3
 ten people
-[(10, 0)]
+10
 six others
-[(6, 0)]
+6
 a sports utility vehicle
-[]
+1
 two women
-[(2, 0)]
+2
 the others, including wasim
-[]
+1
 one seriously injured person
-[(1, 0)]
+1
 a bses engineer
-[]
+1
 his friend
-[]
+1
 at least 16 amarnath pilgrims
-[(16, 2)]
+16
 both of them
-[]
+2
 a truck driver
-[]
+1
 vignesh
-[]
+1
 b vignesh kumar of royapettah
-[]
+1
 her son , who was driving the car
-[]
+1
 two stray cattle
-[(2, 0)]
+2
 balvant
-[]
+1
 even the accused, nair khan
-[]
+1
 a 20-year-old engineering student
-[]
+1
 two youths, including the brother of a local councillor
-[(2, 0)]
+2
 over 20 passengers
-[(20, 1)]
+20
 one woman
-[(1, 0)]
+1
 40-year-old rajender bahadur
-[]
+1
 a college student
-[]
+1
 sonu
-[]
+1
 manvi ( 5
-[(5, 2)]
+5
 two more constables , identified as roshan nimbarte , posted at kotwali police station respectively
-[(2, 0)]
+2
 the man's carelessness
-[]
+1
 a 44-year-old woman, durgapati, injured in an accident on july 8
-[(8, 12)]
+8
 dsp) shilakshi bhardwaj
-[]
+1
 pillion riders
-[]
+1
 manimegalai
-[]
+1
 a nine - year - old boy
-[(9, 1)]
+1
 13 people
-[(13, 0)]
+13
 at least 15,642 people
-[]
+1
 some 20 persons
-[(20, 1)]
+20
 the occupant kathirvel , 70 , of trichy
-[]
+1
 poongothai
-[]
+1
 pandi
-[]
+1
 naik
-[]
+1
 a one-and-a-half year-old boy
-[(1, 1)]
+1
 ashok
-[]
+1
 twelve others
-[]
+1
 a be student
-[]
+1
 rastogi
-[]
+1
 two auto passengers
-[(2, 0)]
+2
 a 21 - year old woman
-[(21, 1)]
+1
 a 66 - year - old woman
-[(66, 1)]
+1
 subramani
-[]
+1
 thirteen people
-[]
+1
 a pune resident
-[]
+1
 both the woman
-[]
+2
 tempo driver
-[]
+1
 the biker
-[]
+1
 sections 297
-[(297, 1)]
+297
 a speeding van
-[]
+1
 several others
-[]
+1
 337
-[(337, 0)]
+337
 none of them
-[]
+1
 sundaramurthy
-[]
+1
 relatives of the the deceased bagyalaxmi
-[]
+1
 a driver , allegedly drunk
-[]
+1
 the other
-[]
+1
 saravanan 's co-passengers
-[]
+1
 seven persons including the driver
-[(7, 0)]
+7
 the two others
-[(2, 1)]
+2
 vellingiri
-[]
+1
 eight others
-[(8, 0)]
+8
 a 13-year-old
-[]
+1
 the driver of the second truck
-[]
+1
 vijaya
-[]
+1
 two youth
-[(2, 0)]
+2
 two children
-[(2, 0)]
+2
 seven persons, including the driver
-[(7, 0)]
+7
 narmadaben ambalal
-[]
+1
 nineteen
-[]
+1
 gokila
-[]
+1
 son-in-law
-[]
+1
 kumar
-[]
+1
 a septuagenarian
-[]
+1
 a 38-year-old motorcyclist
-[]
+1
 the women
-[]
+1
 both the four - wheelers
-[(4, 2)]
+2
 their driver
-[]
+1
 a 25-year-old car driver
-[]
+1
 pieces
-[]
+1
 the biker who is yet to be identified
-[]
+1
 the pillion rider
-[]
+1
 the 26 - year - old dongri resident
-[(26, 1)]
+1
 two youths including a woman
-[(2, 0)]
+2
 both the man
-[]
+2
 manikandan
-[]
+1
 sharwan
-[]
+1
 qumar
-[]
+1
 her father
-[]
+1
 its helper
-[]
+1
 moundekar
-[]
+1
 32 others
-[(32, 0)]
+32
 youths
-[]
+1
 seven people including bus truck driver sathishkumar
-[(7, 0)]
+7
 the speeding bus
-[]
+1
 75,000 to two students
-[(2, 2)]
+2
 a 19 - year - old student
-[(19, 1)]
+1
 rajesh bhalchandra chakare
-[]
+1
 a 21 - year - old biker who was returning home after attending a job interview
-[(21, 1)]
+1
 her husband
-[]
+1
 a 60 - year - old man
-[(60, 1)]
+1
 the acp
-[]
+1
 25
-[(25, 0)]
+25
 26
-[(26, 0)]
+26
 a 29-year-old software engineer
-[]
+1
 gawas
-[]
+1
 the tmt bus
-[]
+1
 his uncle
-[]
+1
 three members of a family
-[(3, 0)]
+3
 two men
-[(2, 0)]
+2
 two people from telangana
-[(2, 0)]
+2
 23 people
-[(23, 0)]
+23
 the truck
-[]
+1
 a 38-year-old man
-[]
+1
 zain
-[]
+1
 a five-year-old girl
-[]
+1
 his relative
-[]
+1
 serious injuries
-[]
+1
 four others
-[(4, 0)]
+4
 my wife
-[]
+1
 eight pilgrims
-[(8, 0)]
+8
 her mother who was accompaning her
-[]
+1
 the six
-[(6, 1)]
+6
 rajathi
-[]
+1
 his companion
-[]
+1
 three friends
-[(3, 0)]
+3
 chaitanya
-[]
+1
 ajay sharma
-[]
+1
 a 15 - year - old boy -- who is yet to be identified
-[(15, 1)]
+1
 a 45-year-old heart patient
-[]
+1
 five of them
-[(5, 0)]
+5
 a 54 - year - old woman riding pillion on a bike with her husband
-[(54, 1)]
+1
 the girl
-[]
+1
 over 30
-[(30, 1)]
+30
 a speeding car , driven by an inebriated man
-[]
+1
 the pilgrims
-[]
+1
 over 30 passengers commuting between indore and dewas
-[(30, 1)]
+30
 eight amarnath yatris
-[(8, 0)]
+8
 four members of a family and their driver
-[(4, 0)]
+4
 a 21-year-old youth, who was returning home after watching a movie at kphb
-[]
+1
 more than 50 people
-[(50, 2)]
+50
 a 40-year-old government employee
-[]
+1
 three jaish-e-mohammad terrorists, including one pakistani national
-[(3, 0), (1, 6)]
+3
 at least 15642 people
-[(15642, 2)]
+15642
 a 20-year-old girl
-[]
+1
 his friend riding pillion
-[]
+1
 two persons , identified as bhanwarlal ( 32 )
-[(2, 0), (32, 7)]
+2
 six of them
-[(6, 0)]
+6
 manvi 's mother
-[]
+1
 two men on scooters
-[(2, 0)]
+2
 the woman, who worked as a school teacher
-[]
+1
 bharathi priya
-[]
+1
 a tempo
-[]
+1
 the kid
-[]
+1
 her mother who was accompaning another passenger
-[]
+1
 sixteen amarnath pilgrims , including two women
-[(2, 5)]
+2
 seven people including bus driver ravichandran
-[(7, 0)]
+7
 mukunth madavan
-[]
+1
 a 35-year-old man, identified as prem
-[]
+1
 the drivers of both vehicles
-[]
+2
 singh 's father
-[]
+1
 ankush mishra
-[]
+1
 all three deceased
-[(3, 1)]
+3
 three persons, including a 13-year-old boy
-[(3, 0)]
+3
 her son , who was driving her brother
-[]
+1
 one of the injured, brijnandan pandit
-[(1, 0)]
+1
 all six victims
-[(6, 1)]
+6
 murugan
-[]
+1
 29-year-old ravi
-[]
+1
 dehgam residents
-[]
+1
 at least three people travelling in a car
-[(3, 2)]
+3
 bhosale
-[]
+1
 a 26 - year - old man
-[(26, 1)]
+1
 eleven persons
-[]
+1
 four persons , including an 84 - year - old woman
-[(4, 0), (84, 5)]
+4
 an accident
-[]
+1
 as many as two people , including a five - year - old girl
-[(2, 3), (5, 8)]
+2
 a driver of a tourist car
-[]
+1
 a 17 - year - old class xi student
-[(17, 1)]
+1
 mehrazuddin
-[]
+1
 prema
-[]
+1
 the car driver
-[]
+1
 gowtham
-[]
+1
 a 25-year-old pedestrian
-[]
+1
 more than 20,000 people
-[]
+1
 a person
-[]
+1
 ashok kondiba thakur
-[]
+1
 two passengers
-[(2, 0)]
+2
 a 24-year-old woman returning home from a birthday party
-[]
+1
 the speeding car
-[]
+1
 a paramilitary officer
-[]
+1
 sunil
-[]
+1
 rajesh
-[]
+1
 a 40-year-old man
-[]
+1
 at least four people
-[(4, 2)]
+4
 indumati
-[]
+1
 four others including a woman
-[(4, 0)]
+4
 a 36-year-old woman
-[]
+1
 the injured , who is in his mid-40 s
-[(40, 8)]
+40
 nobody inside the vehicles
-[]
+1
 cattle
-[]
+1
 as many as two people , including a 15 - year - old boy
-[(2, 3), (15, 8)]
+2
 a 44-year-old woman
-[]
+1
 a woman
-[]
+1
 tollygunge resident md shahnawaz
-[]
+1
 a driver
-[]
+1
 two more constables , identified as pankaj masram , posted at kotwali police station respectively
-[(2, 0)]
+2
 two persons , including the bike rider
-[(2, 0)]
+2
 two members of a family
-[(2, 0)]
+2
 the 32
-[(32, 1)]
+32
 25 passengers
-[(25, 0)]
+25
 kunal
-[]
+1
 at least sixteen amarnath pilgrims
-[]
+1
 three women who were residents of gurabandha
-[(3, 0)]
+3
 11 others
-[(11, 0)]
+11
 five schoolchildren
-[(5, 0)]
+5
 four members of two families
-[(4, 0), (2, 3)]
+4
 dilipsinh rana
-[]
+1
 s
-[]
+1
 twenty people
-[]
+1
 a truck
-[]
+1
 medhavi kumar
-[]
+1
 three women who were residents of maubhandar
-[(3, 0)]
+3
 denish
-[]
+1
 sixteen pilgrims
-[]
+1
 over 30 passengers
-[(30, 1)]
+30
 22-year-old jayanthi
-[]
+1
 her son
-[]
+1
 five youths
-[(5, 0)]
+5
 three women
-[(3, 0)]
+3
 a two-year-old boy
-[]
+1
 the three persons
-[(3, 1)]
+3
 the other animal
-[]
+1
 dharmesh
-[]
+1
 murugayi
-[]
+1
 two more constables , identified as pankaj masram , posted at nandanvan police station respectively
-[(2, 0)]
+2
 a 52-year-old woman
-[]
+1
 27 others
-[(27, 0)]
+27
 a 20-year-old youth
-[]
+1
 at least six people
-[(6, 2)]
+6
 her nine - year - old friend
-[(9, 1)]
+1
 archana
-[]
+1
 the latter
-[]
+1
 a 26 - year - old man riding pillion
-[(26, 1)]
+1
 alimuddin
-[]
+1
 the theory
-[]
+1
 the driver of the bus
-[]
+1
 as many as 25 passengers
-[(25, 3)]
+25
 an 18 - year - old class xii student of colvin taluqdars ' college
-[(18, 1)]
+1
 a 19-year-old
-[]
+1
 one of his friends
-[(1, 0)]
+1
 persons
-[]
+1
 conductors
-[]
+1
 an indian soldier
-[]
+1
 the container truck driver
-[]
+1
 i
-[]
+1
 45 others , including seven minors
-[(45, 0), (7, 4)]
+45
 the jeep driver
-[]
+1
 geetha
-[]
+1
 relatives of the manickam
-[]
+1
 three women who were residents of asanboni
-[(3, 0)]
+3
 a 23-year-old truck driver
-[]
+1
 gupreet singh from shabuddin from bihar
-[]
+1
 a 27-year-old man
-[]
+1
 jitender
-[]
+1
 thakur
-[]
+1
 her colleagues
-[]
+1
 valsinh
-[]
+1
 at least 28
-[(28, 2)]
+28
 a 10 - year - old girl
-[(10, 1)]
+1
 three persons including a three-month boy
-[(3, 0), (3, 4)]
+3
 even the drivers
-[]
+1
 two men, including a cab driver
-[(2, 0)]
+2
 the driver of the e-rickshaw
-[]
+1
 12 others
-[(12, 0)]
+12
 chaurasia
-[]
+1
 five
-[(5, 0)]
+5
 monika
-[]
+1
 the car driver thiagarajan
-[]
+1
 an unknown person
-[]
+1
 a former armyman
-[]
+1
 while returning home
-[]
+1
 a senior citizen from dapoli
-[]
+1
 ganesh
-[]
+1
 nine passengers
-[(9, 0)]
+9
 one animal
-[(1, 0)]
+1
 a 14 - year - old boy
-[(14, 1)]
+1
 sivaganga district
-[]
+1
 some
-[]
+1
 26 others
-[(26, 0)]
+26
 some occupants of the bus
-[]
+1
 a 39 - year - old woman
-[(39, 1)]
+1
 sharma
-[]
+1
 udaipur / ahmedabad
-[]
+1
 the opposite side
-[]
+1
 rickshaw driver
-[]
+1
 two persons , identified as vikas ( 21 )
-[(2, 0), (21, 7)]
+2
 four more devotees
-[(4, 0)]
+4
 17 others
-[(17, 0)]
+17
 the document
-[]
+1
 a 10-year-old boy
-[]
+1
 her husband sundar
-[]
+1
 a youth, identified as nitin sharma (24)
-[]
+1
 five persons including two women
-[(5, 0), (2, 3)]
+5
 a 33-year-old man travelling on bike
-[]
+1
 11 others in the muv
-[(11, 0)]
+11
 his girlfriend
-[]
+1
 the five children
-[(5, 1)]
+5
 terrorists
-[]
+1
 a 5-year-old boy
-[]
+1
 two of the kanwariyas
-[(2, 0)]
+2
 others in the car including sai kumar
-[]
+1
 pillion rider nirmalkumar
-[]
+1
 sixteen amarnath pilgrims , including 14 men
-[(14, 5)]
+14
 a one - and - half - year - old boy
-[(1, 1)]
+1
 the brother of 22-year-old anuj
-[]
+1
 as many as four persons
-[(4, 3)]
+4
 karamjeet
-[]
+1
 a sessions court here
-[]
+1
 a class ii girl
-[]
+1
 the condition of four
-[(4, 3)]
+4
 the cheque for rs4 lakh
-[]
+1
 auto driver gajendra chandurkar
-[]
+1
 more than 20 students of a private school
-[(20, 2)]
+20
 nine people, including seven pilgrims from various cities of gujarat
-[(9, 0), (7, 3)]
+9
 pradeep
-[]
+1
 accident 49 people
-[(49, 1)]
+49
 an 83-year-old woman from pune
-[]
+1
 the occupants hemarathna , 55 , son girish
-[]
+1
 two more constables , identified as roshan nimbarte , posted at nandanvan police station respectively
-[(2, 0)]
+2
 nine persons, including five women passengers
-[(9, 0), (5, 3)]
+9
 three other passengers from kolhapur
-[(3, 0)]
+3
 another man in the tempo
-[]
+1
 the spot
-[]
+1
 a six-month-old boy
-[(6, 1)]
+6
 seven people including bus five women passengers
-[(7, 0), (5, 4)]
+7
 a 30-year-old pedestrian
-[]
+1
 kamrudeen
-[]
+1
 vinoth
-[]
+1
 pappu
-[]
+1
 a two - year - old girl
-[(2, 1)]
+1
 the duo, who fell down on the bridge
-[]
+1
 passengers seated on the right side of the bus
-[]
+1
 a kid
-[]
+1
 a four-year-old girl
-[]
+1
 sarvade
-[]
+1
 both the rider
-[]
+2
 the bull
-[]
+1
 fasahat ali
-[]
+1
 ghosh
-[]
+1
 84 - year - old kamla palekar
-[(84, 0)]
+1

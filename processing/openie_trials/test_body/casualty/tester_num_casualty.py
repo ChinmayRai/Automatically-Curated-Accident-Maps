@@ -19,13 +19,19 @@ file_object = open(txtOutfile,"w")
 file_object.close()
 
 file_object = open(txtOutfile,"a")
-print(len(month))
+count=0
 for i in range(len(month)):
-    file_object.write(month[i][0] + "\n")
-    num=num_casualty(month[i][0])
-    # if(num!=[]):
-    file_object.write(str(num) + "\n")
+	file_object.write(month[i][0] + "\n")
+	num=num_casualty(month[i][0])
+	if(num!=[]):
+		file_object.write(str(num[0]) + "\n")
+	else:
+		file_object.write("----- \n")
+	if(num==[]):
+		count=count+1
 
+# print(len(month))
+# print count
 
 # # FOR JSON OUTPUT
 # with open(jsonOutfile, 'w+') as outfile:
