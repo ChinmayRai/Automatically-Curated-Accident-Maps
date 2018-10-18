@@ -1,21 +1,28 @@
 # SURA
 
-## TO DO: 15/10
-- [ ] No. of casualties - Work on inference engine
-		[x] identify and convert word to numbers
-		[x] add supporting rules to improve accuracy
-		[ ] integrate with existing pipeline
-- [ ] Testing - automate using fraction matched
-		[ ] add code for fractional matching
-		[ ] find results for a larger dataset ( for report )
-- [ ] Plotting - debug why geotagged to US
-		[ ] identify reason of error
-		[ ] include reasons and solutions in report
-- [ ] ** Report - Complete Report
-		[ ] add casualty part
+### TO DO: 18/10
+1. No. of casualties : inference engine
+- [x] identify and convert word to numbers
+- [x] add supporting rules to improve accuracy
+- [ ] integrate with existing pipeline
+
+2. Testing - automate using fraction matched
+- [ ] add code for fractional matching
+- [ ] add testing for casualty part
+- [ ] find results for a larger dataset ( for report )
+
+3. Plotting - debug why geotagged to US
+- [ ] identify reason of error
+- [ ] include reasons and solutions in report
+
+4. ** Report - Complete Report
+- [ ] add casualty part
+- [ ] report accuracy figures
+- [ ] add graphs
+- [ ] formatting
 
 
-### Golden Set Evaluation & Observations :
+#### Golden Set Evaluation & Observations :
 Location : 
 1. failures at "east of Moscow"
 2. location is not detected as noun thereby gets rejected
@@ -29,18 +36,18 @@ Time :
 Location Accuracy = 77.84 %
 Time Accuracy = 63.29 %
 
-### Pending Pipeline
+#### Pending Pipeline
 1. get pinpointed location and time from clauses between prepositions
 2. get number of casualities by analysing the subject part of sentences and developing a similar procedure for casualities
 3. integrate the processes of getting loc, time and casualities
 4. getting coordinates from location names - done
 5. data plotting - done
 
-### Notes to self
+#### Notes to self
 1. sent_selector7.py and sent_selector7_beta.py are same except that beta version also prints certain things
 
 
-### Pending Issues:
+#### Pending Issues:
 1. body output - may 2017 - day11, article 0 - body has numbers 1 to 6 in it.
 	=== solve after rerunning pipeline on may 2017
 	
@@ -58,13 +65,13 @@ In another spine-chilling accident, a 20-year-old engineering student died after
 	=== implement this == done
 
 
-#### Meeting - Prof. Bedathur
+##### Meeting - Prof. Bedathur
 1. Try heidel-time (really good), gu-time tagger11
 2. run pos tagger on whole sentence(to give context) and then select location based on tag of words obtained by splitting on prepositions
 3. complete the whole pipeline once, seperately create a manually labelled set -> compare what fraction of features is our pipeline able to extract, to be able to quote a figure)
 4. make your own classifiers to improve pipeline
 
-#### Negative Examples(May 2017):
+##### Negative Examples(May 2017):
 1. Woman who lost kin in road accident made Swachh ambassador
 2. Man claims his car was stolen on SG Road
 3. On the road: Prevent a car blaze, get vehicle serviced at right place
@@ -124,12 +131,12 @@ openNLP pretrained models -
 http://opennlp.sourceforge.net/models-1.5/
 
 
-### Access of internal server:
+#### Access of internal server:
 	riju@10.208.23.195
 	riju
 
 
-### Baadal VM access:
+#### Baadal VM access:
 
 ssh baadalvm@10.17.51.49
 password : acam123
