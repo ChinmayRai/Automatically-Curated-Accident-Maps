@@ -1,6 +1,7 @@
 import json
 import sys
 from nltk.stem.wordnet import WordNetLemmatizer
+from num_casualty import num_casualty
 # from root_verb_extractor import extract
 
 # returns the common elements in the 2 lists
@@ -132,12 +133,14 @@ def prep_break(s):
 	return l[1:]
 
 # infile="july2017/july_openie_output.txt"
-# txtOutfile="july2017/july_sent_selected.txt"
-# jsonOutfile="july2017/july_sent_selected.json"
+# txtCasualtyClause="july2017/july_sent_selected.txt"
+# jsonCasualtyClause="july2017/july_sent_selected.json"
 
 infile="july2017/july_openie_output.txt"
-txtOutfile="july2017/july_sent_selected_casualty.txt"
-jsonOutfile="july2017/july_sent_selected_casualty.json"
+txtCasualtyClause="july2017/july_sent_selected_casualty.txt"
+jsonCasualtyClause="july2017/july_sent_selected_casualty.json"
+txtCasualtyNum="july2017/num_casualty.txt"
+jsonCasualtyNum="july2017/num_casualty.json"
 
 # whether or not to print the tuples of openie output
 printOpenieTuples = False
@@ -241,10 +244,10 @@ for line in lines:
 
 
 # FOR TXT OUTPUT
-file_object = open(txtOutfile,"w")
+file_object = open(txtCasualtyClause,"w")
 file_object.close()
 
-file_object = open(txtOutfile,"a")
+file_object = open(txtCasualtyClause,"a")
 for day in month:
 	for article in day:
 		for sentence in article:
@@ -260,5 +263,45 @@ file_object.close()
 
 
 # FOR JSON OUTPUT
-with open(jsonOutfile, 'w+') as outfile:
+with open(jsonCasualtyClause, 'w+') as outfile:
     json.dump(month, outfile)
+
+
+# FOR TXT OUTPUT
+file_object = open(txtCasualtyNum,"w")
+file_object.close()
+
+file_object = open(txtCasualtyNum,"a")
+
+monthCasualty=[]
+for day in month:
+	dayCasualty=[]
+	for article in day:
+		max=1
+		for sentence in article:
+			# file_object.write("new sentence\n")
+			for line in sentence:
+				file_object.write(str(line)+"\n")
+				num=num_casualty(str(line))
+				# file_object.write(str(num)+"\n")
+				if(num>max):
+					max=num
+		file_object.write("#casualties="+str(max)+"\n")
+		dayCasualty.append(max)
+		file_object.write("====================\n")
+	monthCasualty.append(dayCasualty)
+	file_object.write("++++++++++++++++++++++++\n\n")
+file_object.close()
+
+
+# FOR JSON OUTPUT
+with open(jsonCasualtyNum, 'w+') as outfile:
+    json.dump(monthCasualty, outfile)
+
+
+
+
+
+
+
+

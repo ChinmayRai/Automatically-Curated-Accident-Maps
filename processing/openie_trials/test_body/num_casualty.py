@@ -4,7 +4,7 @@ import re
 def num_casualty(s):
 	s=s.lower()
 	s=s.replace('-',' ')
-	s=re.sub(' +',' ',s)
+	s=re.sub(' +',' ',s) # removes extra spaces
 	# print s
 	l=s.split(' ')
 	ans=[]
@@ -24,7 +24,9 @@ def num_casualty(s):
 			ans.append(num)
 	# default number is 1
 	if(ans==[]):
-		ans.append(1)
-	return ans
+		# ans.append(1)
+		return 1
+	else:
+		return ans[0]
 
 
