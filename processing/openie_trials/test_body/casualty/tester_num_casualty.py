@@ -21,10 +21,10 @@ file_object.close()
 file_object = open(txtOutfile,"a")
 print(len(month))
 for i in range(len(month)):
-    # file_object.write(month[i][0] + "\n")
+    file_object.write(month[i][0] + "\n")
     num=num_casualty(month[i][0])
-    if(num!=[]):
-	    file_object.write(str(num) + "\n")
+    # if(num!=[]):
+    file_object.write(str(num) + "\n")
 
 
 # # FOR JSON OUTPUT
