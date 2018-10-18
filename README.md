@@ -2,9 +2,17 @@
 
 ## TO DO: 15/10
 - [ ] No. of casualties - Work on inference engine
+		[x] identify and convert word to numbers
+		[x] add supporting rules to improve accuracy
+		[ ] integrate with existing pipeline
 - [ ] Testing - automate using fraction matched
+		[ ] add code for fractional matching
+		[ ] find results for a larger dataset ( for report )
 - [ ] Plotting - debug why geotagged to US
+		[ ] identify reason of error
+		[ ] include reasons and solutions in report
 - [ ] ** Report - Complete Report
+		[ ] add casualty part
 
 
 ### Golden Set Evaluation & Observations :
