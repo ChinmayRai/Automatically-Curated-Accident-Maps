@@ -27,4 +27,4 @@ I think the demo should contain the following:
 
 	Regarding improvement of accuracy of geotagger, we dont have any starting point on how to proceed.
 
-	We were also thinking on building some GUI to show the openIE output.
+	 We were also thinking on building some GUI to show the openIE output, since we are going to give a demo and It will not look nice if we are running everything from command line. The Interface will be made up of Simple html page with JS functionality. It will enable us to provide an article, command the tool to process it and display the corresponding attribute. 
