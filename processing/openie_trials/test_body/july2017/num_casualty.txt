@@ -1,996 +1,1531 @@
 Ashok Kondiba Thakur
+1
 Thakur
+1
 Rajesh Bhalchandra Chakare
-#casualties=1
-====================
+1
+#cas=1====================
+
 the driver
-#casualties=1
-====================
+1
+#cas=1====================
+
 Two men on scooters
+2
 pillion riders
+1
 They
-#casualties=2
-====================
-#casualties=1
-====================
+1
+#cas=2====================
+
+#cas=1====================
+
 A 30-year-old pedestrian
+1
 the victim
-#casualties=1
-====================
+1
+#cas=1====================
+
 ++++++++++++++++++++++++
 
 One person
+1
 11 others
+11
 11 others in the MUV
+11
 Balvant
+1
 the condition of four
-#casualties=11
-====================
-#casualties=1
-====================
+4
+#cas=11====================
+
+#cas=1====================
+
 A five-year-old girl
-#casualties=1
-====================
+1
+#cas=1====================
+
 Thirteen people
+1
 more than 20,000 people
-#casualties=1
-====================
+1
+#cas=1====================
+
 her son , who was driving her brother
+1
 A 66 - year - old woman
+1
 her son , who was driving the car
+1
 Her son
-#casualties=1
-====================
+1
+#cas=1====================
+
 the injured , who is in his mid-40 s
-#casualties=40
-====================
+40
+#cas=40====================
+
 ++++++++++++++++++++++++
 
 The woman, who worked as a school teacher
+1
 she
+1
 a woman
+1
 a 52-year-old woman
+1
 She
-#casualties=1
-====================
+1
+#cas=1====================
+
 the three persons
+3
 The ACP
+1
 None of them
-#casualties=3
-====================
+1
+#cas=3====================
+
 A former Armyman
+1
 his wife
+1
 Karamjeet
-#casualties=1
-====================
+1
+#cas=1====================
+
 two persons , identified as Bhanwarlal ( 32 )
+2
 two persons , identified as Vikas ( 21 )
-#casualties=2
-====================
+2
+#cas=2====================
+
 six of them
+6
 All six victims
-#casualties=6
-====================
+6
+#cas=6====================
+
 A 29-year-old software engineer
+1
 Pradeep
+1
 his wife
-#casualties=1
-====================
+1
+#cas=1====================
+
 More than 50 people
+50
 five
+5
 Three persons, including a 13-year-old boy
+3
 three persons
+3
 accident 49 people
+49
 23 people
-#casualties=50
-====================
-#casualties=1
-====================
+23
+#cas=50====================
+
+#cas=1====================
+
 ++++++++++++++++++++++++
 
 Two stray cattle
+2
 the other
+1
 one animal
+1
 the other animal
+1
 The bull
-#casualties=2
-====================
+1
+#cas=2====================
+
 A truck driver
+1
 a 19-year-old
+1
 a 23-year-old truck driver
+1
 he
-#casualties=1
-====================
+1
+#cas=1====================
+
 Dilipsinh Rana
+1
 he
-#casualties=1
-====================
+1
+#cas=1====================
+
 A driver
-#casualties=1
-====================
+1
+#cas=1====================
+
 five others
+5
 Four people
-#casualties=5
-====================
+4
+#cas=5====================
+
 32 others
+32
 Three people
+3
 Those
+1
 the 32
-#casualties=32
-====================
+32
+#cas=32====================
+
 As many as four persons
+4
 one
+1
 Two persons
+2
 the driver
+1
 Gupreet Singh from Shabuddin from Bihar
+1
 Sonu
+1
 Alimuddin
-#casualties=4
-====================
+1
+#cas=4====================
+
 ++++++++++++++++++++++++
 
-#casualties=1
-====================
+#cas=1====================
+
 Five youths
+5
 Sharwan
+1
 Pappu
+1
 the spot
+1
 Rajesh
+1
 the driver
-#casualties=5
-====================
+1
+#cas=5====================
+
 A 27-year-old man
-#casualties=1
-====================
+1
+#cas=1====================
+
 ten people
+10
 Ten people, including two children
-#casualties=10
-====================
+10
+#cas=10====================
+
 ten people
+10
 Ten people, including two children
-#casualties=10
-====================
+10
+#cas=10====================
+
 a 38-year-old man
+1
 Poongothai
+1
 At least four people
-#casualties=4
-====================
+4
+#cas=4====================
+
 Twenty people
+1
 even the drivers
+1
 conductors
-#casualties=1
-====================
+1
+#cas=1====================
+
 A four-year-old girl
-#casualties=1
-====================
+1
+#cas=1====================
+
 ++++++++++++++++++++++++
 
 Two persons
+2
 a driver of a tourist car
+1
 Mane
+1
 Even the accused, Nair Khan
+1
 a pedestrian
+1
 Mane
-#casualties=2
-====================
-#casualties=1
-====================
-#casualties=1
-====================
-#casualties=1
-====================
+1
+#cas=2====================
+
+#cas=1====================
+
+#cas=1====================
+
+#cas=1====================
+
 A 14 - year - old boy
+1
 two others
+2
 Singh 's father
+1
 her mother
-#casualties=2
-====================
+1
+#cas=2====================
+
 three others
+3
 Five persons including two women
+5
 Three women who were residents of Gurabandha
+3
 Three women who were residents of Maubhandar
+3
 Three women who were residents of Asanboni
+3
 two passengers
-#casualties=5
-====================
+2
+#cas=5====================
+
 ++++++++++++++++++++++++
 
 her colleagues
+1
 A 21 - year old woman
-#casualties=1
-====================
-#casualties=1
-====================
+1
+#cas=1====================
+
+#cas=1====================
+
 At least 15,642 people
+1
 at least 15642 people
+15642
 persons
-#casualties=15642
-====================
+1
+#cas=15642====================
+
 his girlfriend
+1
 A 26 - year - old man
-#casualties=1
-====================
+1
+#cas=1====================
+
 A 39 - year - old woman
+1
 A two - year - old girl
+1
 two persons , including the bike rider
+2
 her mother
+1
 Rajathi
+1
 S
+1
 her daughter
+1
 Manikandan
+1
 Gokila
+1
 pillion rider Nirmalkumar
-#casualties=2
-====================
+1
+#cas=2====================
+
 Two persons
-#casualties=2
-====================
+2
+#cas=2====================
+
 ++++++++++++++++++++++++
 
-#casualties=1
-====================
+#cas=1====================
+
 the biker who is yet to be identified
+1
 she
-#casualties=1
-====================
+1
+#cas=1====================
+
 A 24-year-old woman returning home from a birthday party
+1
 She
+1
 both the woman
+2
 both the man
+2
 The man's carelessness
-#casualties=2
-====================
+1
+#cas=2====================
+
 A 40-year-old government employee
+1
 the woman
+1
 Her mother who was accompaning another passenger
+1
 Her mother who was accompaning her
-#casualties=1
-====================
+1
+#cas=1====================
+
 a Sports Utility Vehicle
+1
 Seven persons including the driver
+7
 One seriously injured person
+1
 others
-#casualties=7
-====================
-#casualties=1
-====================
+1
+#cas=7====================
+
+#cas=1====================
+
 a Sports Utility Vehicle
+1
 Seven persons, including the driver
+7
 One seriously injured person
+1
 others
-#casualties=7
-====================
+1
+#cas=7====================
+
 ++++++++++++++++++++++++
 
 Three persons
+3
 He
+1
 Some
+1
 He
-#casualties=3
-====================
+1
+#cas=3====================
+
 Three persons
+3
 three others
+3
 All three deceased
-#casualties=3
-====================
+3
+#cas=3====================
+
 A 20-year-old youth
-#casualties=1
-====================
+1
+#cas=1====================
+
 a one - and - half - year - old boy
-#casualties=1
-====================
+1
+#cas=1====================
+
 One person
+1
 three others
+3
 Moundekar
-#casualties=3
-====================
+1
+#cas=3====================
+
 Ghosh
-#casualties=1
-====================
+1
+#cas=1====================
+
 A 40-year-old man
+1
 13 people
-#casualties=13
-====================
+13
+#cas=13====================
+
 the latter
-#casualties=1
-====================
+1
+#cas=1====================
+
 two others
+2
 One man
-#casualties=2
-====================
+1
+#cas=2====================
+
 Three women
+3
 several others
+1
 a 20-year-old girl
+1
 Monika
-#casualties=3
-====================
+1
+#cas=3====================
+
 ++++++++++++++++++++++++
 
-#casualties=1
-====================
+#cas=1====================
+
 As many as two people , including a 15 - year - old boy
+2
 As many as two people , including a five - year - old girl
+2
 a 15 - year - old boy -- who is yet to be identified
-Manvi ( 5
+1
+Manvi ( 55
 Manvi 's mother
-#casualties=5
-====================
+1
+#cas=5====================
+
 a kid
+1
 Two women
+2
 Twelve others
+1
 The kid
-#casualties=2
-====================
+1
+#cas=2====================
+
 ++++++++++++++++++++++++
 
 Over 30 passengers commuting between Indore and Dewas
+30
 over 30 passengers
+30
 they
+1
 Passengers seated on the right side of the bus
+1
 The driver of the bus
+1
 Its helper
-#casualties=30
-====================
-#casualties=1
-====================
+1
+#cas=30====================
+
+#cas=1====================
+
 A 36-year-old woman
+1
 Naik
-#casualties=1
-====================
+1
+#cas=1====================
+
 serious injuries
+1
 Two more constables , identified as Roshan Nimbarte , posted at Nandanvan police station respectively
+2
 Two more constables , identified as Pankaj Masram , posted at Kotwali police station respectively
+2
 Two more constables , identified as Roshan Nimbarte , posted at Kotwali police station respectively
+2
 Two more constables , identified as Pankaj Masram , posted at Nandanvan police station respectively
-#casualties=2
-====================
+2
+#cas=2====================
+
 A 21-year-old youth, who was returning home after watching a movie at KPHB
+1
 While returning home
-#casualties=1
-====================
+1
+#cas=1====================
+
 two others
+2
 One man
+1
 The speeding bus
+1
 Saravanan 's co-passengers
+1
 Some occupants of the bus
-#casualties=2
-====================
+1
+#cas=2====================
+
 Two youths, including the brother of a local councillor
+2
 Both of them
+2
 two children
-#casualties=2
-====================
+2
+#cas=2====================
+
 ++++++++++++++++++++++++
 
 One person
+1
 two others
+2
 Gawas
-#casualties=2
-====================
+1
+#cas=2====================
+
 a 20-year-old engineering student
+1
 Fasahat Ali
-#casualties=1
-====================
+1
+#cas=1====================
+
 Three members of a family
+3
 two people
-#casualties=3
-====================
+2
+#cas=3====================
+
 Two people
+2
 a truck
+1
 29-year-old Ravi
-#casualties=2
-====================
+1
+#cas=2====================
+
 A one-and-a-half year-old boy
-#casualties=1
-====================
+1
+#cas=1====================
+
 A man
+1
 The pillion rider
+1
 Kumar
+1
 The pillion
-#casualties=1
-====================
+1
+#cas=1====================
+
 A 33-year-old man travelling on bike
+1
 Pandi
+1
 a Class II girl
+1
 the victim
+1
 22-year-old Jayanthi
+1
 Murugan
-#casualties=1
-====================
+1
+#cas=1====================
+
 six others
+6
 A 17 - year - old class XI student
+1
 The six
+6
 Kunal
-#casualties=6
-====================
+1
+#cas=6====================
+
 ++++++++++++++++++++++++
 
-#casualties=1
-====================
+#cas=1====================
+
 my wife
-#casualties=1
-====================
+1
+#cas=1====================
+
 Three persons including a three-month boy
+3
 Valsinh
+1
 The jeep driver
-#casualties=3
-====================
+1
+#cas=3====================
+
 More than 20 students of a private school
-#casualties=20
-====================
+20
+#cas=20====================
+
 A two-year-old boy
+1
 he
+1
 Denish
+1
 Kiyan
+1
 Kiyan
-#casualties=1
-====================
+1
+#cas=1====================
+
 ++++++++++++++++++++++++
 
 No one
-#casualties=1
-====================
+1
+#cas=1====================
+
 he
-#casualties=1
-====================
+1
+#cas=1====================
+
 An 18 - year - old class XII student of Colvin Taluqdars ' College
+1
 his friend riding pillion
+1
 He
+1
 Zain
-#casualties=1
-====================
+1
+#cas=1====================
+
 Two youngsters
-#casualties=2
-====================
+2
+#cas=2====================
+
 ++++++++++++++++++++++++
 
 Nine persons, including five women passengers
+9
 As many as 25 passengers
+25
 25 passengers
+25
 seven people including bus driver Ravichandran
+7
 seven people including bus five women passengers
+7
 seven people including bus truck driver Sathishkumar
+7
 Two others
+2
 the women
-#casualties=25
-====================
+1
+#cas=25====================
+
 Two people
+2
 a 44-year-old woman, Durgapati, injured in an accident on July 8
+8
 a 44-year-old woman
+1
 40-year-old Rajender Bahadur
-#casualties=8
-====================
+1
+#cas=8====================
+
 75,000 to two students
-#casualties=2
-====================
+2
+#cas=2====================
+
 Two youngsters
+2
 Ankush Mishra
+1
 three friends
-#casualties=3
-====================
+3
+#cas=3====================
+
 ++++++++++++++++++++++++
 
 Four people
+4
 at least three people travelling in a car
+3
 The car driver Thiagarajan
+1
 the occupants Hemarathna , 55 , son Girish
+1
 Sundaramurthy
-#casualties=4
-====================
+1
+#cas=4====================
+
 the brother of 22-year-old Anuj
+1
 I
-#casualties=1
-====================
+1
+#cas=1====================
+
 Three Jaish-e-Mohammad terrorists, including one Pakistani national
+3
 a paramilitary officer
+1
 An Indian soldier
+1
 terrorists
-#casualties=3
-====================
+1
+#cas=3====================
+
 She
-#casualties=1
-====================
+1
+#cas=1====================
+
 A 25-year-old pedestrian
+1
 the TMT bus
+1
 he
-#casualties=1
-====================
+1
+#cas=1====================
+
 Two people from Telangana
-#casualties=2
-====================
+2
+#cas=2====================
+
 An 83-year-old woman from Pune
+1
 three other passengers from Kolhapur
+3
 Indumati
+1
 the driver
+1
 son-in-law
+1
 Her daughter
-#casualties=3
-====================
+1
+#cas=3====================
+
 A 38-year-old motorcyclist
-#casualties=1
-====================
-#casualties=1
-====================
+1
+#cas=1====================
+
+#cas=1====================
+
 over 30
+30
 At least 16 Amarnath pilgrims
+16
 nineteen
+1
 Eight pilgrims
-#casualties=30
-====================
+8
+#cas=30====================
+
+26
 26
 At least sixteen Amarnath pilgrims
+1
 26 others
+26
 Sixteen pilgrims
+1
 those
-#casualties=26
-====================
+1
+#cas=26====================
+
 ++++++++++++++++++++++++
 
-#casualties=1
-====================
-#casualties=1
-====================
+#cas=1====================
+
+#cas=1====================
+
 A senior citizen from Dapoli
+1
 He
-#casualties=1
-====================
+1
+#cas=1====================
+
 Bose
+1
 he
+1
 Bose
+1
 the document
+1
 the theory
+1
 Bose
+1
 Bose
-#casualties=1
-====================
+1
+#cas=1====================
+
 17 others
+17
 Two women
+2
 Two persons
+2
 one person
-#casualties=17
-====================
+1
+#cas=17====================
+
 At least 16 Amarnath pilgrims
+16
 eight Amarnath yatris
-#casualties=16
-====================
+8
+#cas=16====================
+
 Sixteen Amarnath pilgrims , including 14 men
+14
 Sixteen Amarnath pilgrims , including two women
+2
 those
-#casualties=14
-====================
+1
+#cas=14====================
+
 A 21 - year - old biker who was returning home after attending a job interview
-#casualties=1
-====================
+1
+#cas=1====================
+
 Three persons , including a sub-inspector of Haryana police
+3
 two others
-#casualties=3
-====================
+2
+#cas=3====================
+
 youths
+1
 Gowtham
-#casualties=1
-====================
+1
+#cas=1====================
+
 a BE student
+1
 The duo, who fell down on the bridge
-#casualties=1
-====================
+1
+#cas=1====================
+
 Three persons , including a sub-inspector of Haryana police
+3
 two others
-#casualties=3
-====================
+2
+#cas=3====================
+
 four people
-#casualties=4
-====================
+4
+#cas=4====================
+
 those
+1
 those
+1
 those
+1
 those
+1
 another
-#casualties=1
-====================
+1
+#cas=1====================
+
 ++++++++++++++++++++++++
 
 A 60 - year - old man
+1
 his relative
+1
 Sivaganga district
+1
 Over 20 passengers
-#casualties=20
-====================
+20
+#cas=20====================
+
 A sessions court here
+1
 an accident
+1
 Four persons
+4
 her mother
+1
 The girl
+1
 Her husband Sundar
-#casualties=4
-====================
+1
+#cas=4====================
+
 A Pune resident
+1
 four others
-#casualties=4
-====================
+4
+#cas=4====================
+
 A youth, identified as Nitin Sharma (24)
+1
 Sunil
+1
 Jitender
+1
 Sharma
+1
 sections 297
+297
 a 35-year-old man, identified as Prem
+1
 An unknown person
+1
 The truck
-#casualties=297
-====================
+1
+#cas=297====================
+
 A BSES engineer
+1
 four of his colleagues
+4
 Singh
+1
 the others, including Wasim
-#casualties=4
-====================
+1
+#cas=4====================
+
 ++++++++++++++++++++++++
 
 Four members of two families
+4
 two others
-#casualties=4
-====================
+2
+#cas=4====================
+
 A septuagenarian
+1
 four others including a woman
+4
 pieces
+1
 Vinoth
+1
 Kamrudeen
+1
 the occupant Kathirvel , 70 , of Trichy
+1
 relatives of the the deceased Bagyalaxmi
+1
 relatives of the Manickam
-#casualties=4
-====================
+1
+#cas=4====================
+
 Two youth
+2
 both the rider
+2
 the pillion
-#casualties=2
-====================
+1
+#cas=2====================
+
 the two
-#casualties=2
-====================
+2
+#cas=2====================
+
 six others
+6
 Eleven persons
+1
 nine passengers
+9
 One of the injured, Brijnandan Pandit
+1
 a six-month-old boy
+6
 the cheque for Rs4 lakh
-#casualties=9
-====================
+1
+#cas=9====================
+
 the two
-#casualties=2
-====================
+2
+#cas=2====================
+
 A BSES engineer
+1
 four of his colleagues
+4
 Singh
+1
 the others, including Wasim
-#casualties=4
-====================
+1
+#cas=4====================
+
 ++++++++++++++++++++++++
 
 A college student
+1
 One of his friends
+1
 He
+1
 he
+1
 Vignesh
-#casualties=1
-====================
-#casualties=1
-====================
+1
+#cas=1====================
+
+#cas=1====================
+
 Ajay Sharma
+1
 His friend
-#casualties=1
-====================
+1
+#cas=1====================
+
 the biker
-#casualties=1
-====================
+1
+#cas=1====================
+
 ++++++++++++++++++++++++
 
 Two of the kanwariyas
-#casualties=2
-====================
+2
+#cas=2====================
+
 DSP) Shilakshi Bhardwaj
+1
 she
-#casualties=1
-====================
+1
+#cas=1====================
+
 the car
+1
 Chaitanya
+1
 Others in the car including Sai Kumar
+1
 Ganesh
-#casualties=1
-====================
+1
+#cas=1====================
+
 five others
+5
 Two persons
+2
 Those
-#casualties=5
-====================
+1
+#cas=5====================
+
 five others
+5
 Two persons
+2
 Those
-#casualties=5
-====================
+1
+#cas=5====================
+
 ++++++++++++++++++++++++
 
 A 26 - year - old man riding pillion
+1
 Bhosale
+1
 Sarvade
-#casualties=1
-====================
+1
+#cas=1====================
+
 One person
+1
 three others
+3
 The two others
+2
 The container truck driver
+1
 a tempo
-#casualties=3
-====================
-#casualties=1
-====================
+1
+#cas=3====================
+
+#cas=1====================
+
 ++++++++++++++++++++++++
 
 Nine people, including seven pilgrims from various cities of Gujarat
+9
 Some 20 persons
+20
 two others
-#casualties=20
-====================
-#casualties=1
-====================
+2
+#cas=20====================
+
+#cas=1====================
+
 five others
+5
 Two members of a family
+2
 Prema
+1
 Dharmesh
+1
+25
 25
 Vijaya
+1
 Bharathi Priya
+1
 Mukunth Madavan
+1
 Ashok
+1
 Geetha
-#casualties=25
-====================
+1
+#cas=25====================
+
 A man
+1
 Rastogi
-#casualties=1
-====================
+1
+#cas=1====================
+
 Both the four - wheelers
+2
 nobody inside the vehicles
-#casualties=2
-====================
+1
+#cas=2====================
+
 her nine - year - old friend
+1
 A 10 - year - old girl
+1
 She
-#casualties=1
-====================
+1
+#cas=1====================
+
 Udaipur / Ahmedabad
+1
 at least 28
+28
 Those
+1
 Those
+1
 the pilgrims
+1
 Dehgam residents
+1
 Narmadaben Ambalal
+1
 those
-#casualties=28
-====================
+1
+#cas=28====================
+
 he
+1
 Chaurasia
-#casualties=1
-====================
+1
+#cas=1====================
+
 ++++++++++++++++++++++++
 
 A 13-year-old
+1
 12 others
-#casualties=12
-====================
-#casualties=1
-====================
+12
+#cas=12====================
+
+#cas=1====================
+
 A person
-#casualties=1
-====================
+1
+#cas=1====================
+
 A driver , allegedly drunk
+1
 Anamika
+1
 He
+1
 Anamika
-#casualties=1
-====================
+1
+#cas=1====================
+
 ++++++++++++++++++++++++
 
 a 5-year-old boy
+1
 a speeding car , driven by an inebriated man
+1
 the car
-#casualties=1
-====================
-#casualties=1
-====================
+1
+#cas=1====================
+
+#cas=1====================
+
 A 54 - year - old woman riding pillion on a bike with her husband
+1
 Her husband
+1
 The woman
-#casualties=1
-====================
+1
+#cas=1====================
+
 A 19 - year - old student
+1
 his friend
-#casualties=1
-====================
+1
+#cas=1====================
+
 ++++++++++++++++++++++++
 
 The victim
-#casualties=1
-====================
+1
+#cas=1====================
+
 ++++++++++++++++++++++++
 
-#casualties=1
-====================
+#cas=1====================
+
 their driver
+1
 four members of a family and their driver
+4
 Five of them
+5
 Qumar
+1
 Mehrazuddin
-#casualties=5
-====================
+1
+#cas=5====================
+
 A 45-year-old heart patient
+1
 he
+1
 his uncle
-#casualties=1
-====================
-#casualties=1
-====================
+1
+#cas=1====================
+
+#cas=1====================
+
 ++++++++++++++++++++++++
 
-#casualties=1
-====================
+#cas=1====================
+
 27 others
+27
 Four persons
-#casualties=27
-====================
+4
+#cas=27====================
+
 he
+1
 he
-#casualties=1
-====================
+1
+#cas=1====================
+
 three cattle
+3
 Three cattle
+3
 one
+1
 Cattle
-#casualties=3
-====================
-#casualties=1
-====================
+1
+#cas=3====================
+
+#cas=1====================
+
 no one
-#casualties=1
-====================
-#casualties=1
-====================
+1
+#cas=1====================
+
+#cas=1====================
+
 Three persons, who were standing on a road divider
+3
 Jaswant Singh
+1
 Randhir Singh
-#casualties=3
-====================
+1
+#cas=3====================
+
 Three persons, who were standing on a road divider
+3
 Jaswant Singh
+1
 Randhir Singh
-#casualties=3
-====================
+1
+#cas=3====================
+
 ++++++++++++++++++++++++
 
 A speeding van
+1
 Manimegalai
+1
 Murugayi
+1
 she
+1
 Four more devotees
-#casualties=4
-====================
+4
+#cas=4====================
+
 A 25-year-old car driver
+1
 Five schoolchildren
+5
 The five children
-#casualties=5
-====================
+5
+#cas=5====================
+
 Two men
+2
 both of them
+2
 Vellingiri
-#casualties=2
-====================
+1
+#cas=2====================
+
 The 26 - year - old Dongri resident
-#casualties=1
-====================
+1
+#cas=1====================
+
 Medhavi Kumar
-#casualties=1
-====================
-#casualties=1
-====================
+1
+#cas=1====================
+
+#cas=1====================
+
 ++++++++++++++++++++++++
 
 A truck driver
+1
 another
+1
 The driver
+1
 the driver of the second truck
+1
 the opposite side
-#casualties=1
-====================
+1
+#cas=1====================
+
 Two men, including a cab driver
-#casualties=2
-====================
+2
+#cas=2====================
+
 Three people
+3
 337
-#casualties=337
-====================
+337
+#cas=337====================
+
 rickshaw driver
+1
 He
+1
 The driver of the e-rickshaw
-#casualties=1
-====================
+1
+#cas=1====================
+
 A pedestrian
-#casualties=1
-====================
+1
+#cas=1====================
+
 Four persons , including an 84 - year - old woman
+4
 two auto passengers
+2
 84 - year - old Kamla Palekar
+1
 Auto driver Gajendra Chandurkar
+1
 Archana
-#casualties=4
-====================
+1
+#cas=4====================
+
 A pillion rider
+1
 Nitin
+1
 his colleague
+1
 Nitin
-#casualties=1
-====================
+1
+#cas=1====================
+
 A pillion rider
+1
 Nitin
+1
 his colleague
+1
 Nitin
-#casualties=1
-====================
+1
+#cas=1====================
+
 Tollygunge resident Md Shahnawaz
-#casualties=1
-====================
+1
+#cas=1====================
+
 ++++++++++++++++++++++++
 
 No one
-#casualties=1
-====================
+1
+#cas=1====================
+
 One woman
+1
 45 others , including seven minors
+45
 those
-#casualties=45
-====================
+1
+#cas=45====================
+
 Two youths including a woman
+2
 Her father
+1
 B Vignesh Kumar of Royapettah
+1
 Vignesh
+1
 he
+1
 Subramani
-#casualties=2
-====================
+1
+#cas=2====================
+
 At least six people
+6
 The car driver
+1
 his companion
+1
 The drivers of both vehicles
-#casualties=6
-====================
+2
+#cas=6====================
+
 A man
+1
 Another man in the tempo
+1
 Tempo driver
+1
 the speeding car
-#casualties=1
-====================
+1
+#cas=1====================
+
 A 46-year-old truck driver
+1
 he
+1
 a 25-year-old man
+1
 A speeding truck
-#casualties=1
-====================
-#casualties=1
-====================
+1
+#cas=1====================
+
+#cas=1====================
+
 A nine - year - old boy
+1
 eight others
-#casualties=8
-====================
+8
+#cas=8====================
+
 a 10-year-old boy
-#casualties=1
-====================
-#casualties=1
-====================
+1
+#cas=1====================
+
+#cas=1====================
+
 two people
+2
 Two people
+2
 A 46-year-old truck driver
+1
 he
+1
 a 25-year-old man
+1
 A speeding truck
-#casualties=2
-====================
+1
+#cas=2====================
+
 ++++++++++++++++++++++++
 

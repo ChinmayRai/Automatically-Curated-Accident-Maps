@@ -1,6 +1,6 @@
 # SURA
 
-### TO DO: 21/10
+### TO DO: 26/10
 1. No. of casualties : inference engine
 - [x] identify and convert word to numbers
 - [x] add supporting rules to improve accuracy
@@ -19,11 +19,13 @@
 - [x] add casualty part
 - [x] cause detection ( we have not done this but will add it in report)
 - [x] testing mechanism
-- [ ] report accuracy figures (to be calculated for larger dataset, can also say in presentation that we improved on the accuracy from the time of making this report)
+- [ ] report accuracy figures (include #cas, cause accuracy figures)
+(to be calculated for larger dataset, can also say in presentation that we improved on the accuracy from the time of making this report)
 - [x] geotagging/plotting mechanism
-- [ ] add graphs
-- [ ] add examples whereever reqd, add freq dist snippets, add images
-- [ ] final report formatting
+- [x] add graphs
+- [x] add examples whereever reqd, add freq dist snippets, add images
+- [x] final report formatting
+
 
 
 #### Golden Set Evaluation & Observations :
