@@ -1,6 +1,6 @@
 # SURA
 
-### TO DO: 1/12
+### TO DO: 2/12
 1. ICTD
 - [ ] convert codes to work on single article
 - [ ] setup openie on local machine
@@ -165,6 +165,6 @@ password : acam123
 * [Chinmay Rai](https://github.com/ChinmayRai)
 * [Samarth Aggarwal](https://github.com/samarthaggarwal)
 
-Summer Research Project under [**Prof. Mausam**](http://homes.cs.washington.edu/~mausam/) and [**Prof. Rijurekha**](http://www.cse.iitd.ernet.in/~rijurekha/)
+Summer Research Project under [**Prof. Mausam**](http://homes.cs.washington.edu/~mausam/) and [**Prof. Rijurekha Sen**](http://www.cse.iitd.ernet.in/~rijurekha/)
 
 
