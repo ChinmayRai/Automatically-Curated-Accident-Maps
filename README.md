@@ -1,30 +1,43 @@
 # SURA
 
-### TO DO: 26/10
-1. No. of casualties : inference engine
+### TO DO: 1/12
+1. ICTD
+- [ ] convert codes to work on single article
+- [ ] setup openie on local machine
+- [ ] mod1 - given a link, classifies and crawls articles, preprocess for openie
+- [ ] mod2 - run openie (send to baadal, run openie, return to local machine)
+- [ ] mod3 - extract location from openie output, plots on map
+- [ ] mod4 - extract time from openie output, plots on map
+- [ ] mod5 - extract number of casualties from openie output, plots on map
+- [ ] integrate all modules
+- [ ] make posters
+- [ ] mod6 - extract cause
+
+2. Plotting - debug why geotagged to US
+- [ ] add code for interactive map == CHINMAY
+- [ ] identify/correct reason of error in geocoding
+
+3. No. of casualties : inference engine
 - [x] identify and convert word to numbers
 - [x] add supporting rules to improve accuracy
 - [x] integrate with existing pipeline
+- [ ] improving accuracy - add rules for exceptions where output is a very large number
 
-2. Testing - automate using fraction matched
+4. Testing - automate using fraction matched
 - [ ] add code for fractional matching
 - [ ] add testing for casualty part
 - [ ] find results for a larger dataset ( for report )
 
-3. Plotting - debug why geotagged to US
-- [ ] identify reason of error
-- [ ] include reasons and solutions in report
+5. Cause Detection - develop from scratch
+- [ ] identify sentences containing cause
+- [ ] Add cause detection classifier
+- [ ] add plotting code
+- [ ] integrate with existing code
 
-4. ** Report - Complete Report
-- [x] add casualty part
+6. ** Report - not important now
 - [x] cause detection ( we have not done this but will add it in report)
-- [x] testing mechanism
 - [ ] report accuracy figures (include #cas, cause accuracy figures)
 (to be calculated for larger dataset, can also say in presentation that we improved on the accuracy from the time of making this report)
-- [x] geotagging/plotting mechanism
-- [x] add graphs
-- [x] add examples whereever reqd, add freq dist snippets, add images
-- [x] final report formatting
 
 
 
