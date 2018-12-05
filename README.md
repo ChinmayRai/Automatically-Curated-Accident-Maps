@@ -1,10 +1,10 @@
 # SURA
 
-### TO DO: 2/12
+### TO DO: 5/12
 1. ICTD
 - [ ] convert codes to work on single article
-- [ ] setup openie on local machine
-- [ ] mod1 - given a link, classifies and crawls articles, preprocess for openie
+- [x] setup openie on local machine - 2min20sec for 1 articles (test_article.txt)
+- [ ] mod1 - given a link, classifies and crawls articles, preprocess for openie (start from web_crawling folder)
 - [ ] mod2 - run openie (send to baadal, run openie, return to local machine)
 - [ ] mod3 - extract location from openie output, plots on map
 - [ ] mod4 - extract time from openie output, plots on map
@@ -65,6 +65,9 @@ Time Accuracy = 63.29 %
 #### Notes to self
 1. sent_selector7.py and sent_selector7_beta.py are same except that beta version also prints certain things
 
+#### OpenIE fallacies
+1. The cat woke up the dog.
+2. Cheers to all my fans!
 
 #### Pending Issues:
 1. body output - may 2017 - day11, article 0 - body has numbers 1 to 6 in it.
