@@ -1,6 +1,6 @@
 # SURA
 
-### TO DO: 5/12
+### TO DO: 31/12
 1. ICTD
 - [ ] convert codes to work on single article
 - [x] setup openie on local machine - 2min20sec for 1 articles (test_article.txt)
@@ -10,11 +10,11 @@
 - [ ] mod4 - extract time from openie output, plots on map
 - [ ] mod5 - extract number of casualties from openie output, plots on map
 - [ ] integrate all modules
-- [ ] make posters
+- [ ] make posters - only maps have to be added
 - [ ] mod6 - extract cause
 
 2. Plotting - debug why geotagged to US
-- [ ] add code for interactive map == CHINMAY
+- [ ] add code for interactive map
 - [ ] identify/correct reason of error in geocoding
 
 3. No. of casualties : inference engine
