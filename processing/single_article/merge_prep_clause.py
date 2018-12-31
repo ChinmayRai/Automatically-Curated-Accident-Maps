@@ -1,5 +1,4 @@
-
-# from the list of clauses broken up on prepositions, this function deduplicates them and converts them to utf-8 encoding
+# DESCRIPTION : from the list of clauses broken up on prepositions, this function deduplicates them and converts them to utf-8 encoding
 
 import json
 
