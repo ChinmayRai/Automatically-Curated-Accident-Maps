@@ -144,6 +144,7 @@ jsonCasualtyNum="num_casualty.json"
 
 # whether or not to print the tuples of openie output
 printOpenieTuples = False
+printTxtOutput = False
 
 file_object = open(infile,"r")
 # month = file_object.read()
@@ -169,8 +170,8 @@ sentence=[]
 score=[]
 article=[]
 selectedSentences=[]
-day=[]
-month=[]
+# day=[]
+# month=[]
 
 for line in lines:
 	if(line[0]=='-'):
@@ -189,51 +190,51 @@ for line in lines:
 				selectedTuples=[]
 			sentence=[]
 
-	elif(line[0]=='='):
-		# usedIndices=[]
-		# if(len(article)<=maxSentFromArticle):
-		# 	selectedSentences=article
-		# else:
-		# 	tookPlaceFlag = False
-		# 	for iter in range(maxSentFromArticle):
-		# 		max = -sys.maxint - 1
-		# 		for i in range(len(score)):
-		# 			if(i in usedIndices):
-		# 				continue
-		# 			elif(max<score[i]):
-		# 				max=score[i]
-		# 				maxIndex=i
-		# 		if(max==0):
-		# 			break 	# not selecting sentences with score<=0
-		# 		elif(max==sys.maxint and tookPlaceFlag==False):
-		# 			tookPlaceFlag=True
-		# 			usedIndices.append(maxIndex)
-		# 			# print len(article), maxIndex
-		# 			selectedSentences.append(article[maxIndex])
-		# 		elif(max!=sys.maxint):
-		# 			usedIndices.append(maxIndex)
-		# 			# print len(article), maxIndex
-		# 			selectedSentences.append(article[maxIndex])
-		# 		else:
-		# 			usedIndices.append(maxIndex)
-		# 			# when max=sys.maxint and tookPlaceFlag=True then just add maxIndex to usedIndices
+	# elif(line[0]=='='):
+	# 	# usedIndices=[]
+	# 	# if(len(article)<=maxSentFromArticle):
+	# 	# 	selectedSentences=article
+	# 	# else:
+	# 	# 	tookPlaceFlag = False
+	# 	# 	for iter in range(maxSentFromArticle):
+	# 	# 		max = -sys.maxint - 1
+	# 	# 		for i in range(len(score)):
+	# 	# 			if(i in usedIndices):
+	# 	# 				continue
+	# 	# 			elif(max<score[i]):
+	# 	# 				max=score[i]
+	# 	# 				maxIndex=i
+	# 	# 		if(max==0):
+	# 	# 			break 	# not selecting sentences with score<=0
+	# 	# 		elif(max==sys.maxint and tookPlaceFlag==False):
+	# 	# 			tookPlaceFlag=True
+	# 	# 			usedIndices.append(maxIndex)
+	# 	# 			# print len(article), maxIndex
+	# 	# 			selectedSentences.append(article[maxIndex])
+	# 	# 		elif(max!=sys.maxint):
+	# 	# 			usedIndices.append(maxIndex)
+	# 	# 			# print len(article), maxIndex
+	# 	# 			selectedSentences.append(article[maxIndex])
+	# 	# 		else:
+	# 	# 			usedIndices.append(maxIndex)
+	# 	# 			# when max=sys.maxint and tookPlaceFlag=True then just add maxIndex to usedIndices
 
 
-		# day.append(selectedSentences)
-		day.append(article)
-		article=[]
-		# selectedSentences=[]
-		# score=[]
-		# should not be reqd but adding it as sometimes openIE output is not as expected.
-		sentence=[]
-	elif(line[0]=='+'):
-		month.append(day)
-		day=[]
-		# should not be reqd but adding it as sometimes openIE output is not as expected.
-		article=[]
-		sentence=[]
-		selectedSentences=[]
-		score=[]
+	# 	# day.append(selectedSentences)
+	# 	day.append(article)
+	# 	article=[]
+	# 	# selectedSentences=[]
+	# 	# score=[]
+	# 	# should not be reqd but adding it as sometimes openIE output is not as expected.
+	# 	sentence=[]
+	# elif(line[0]=='+'):
+	# 	month.append(day)
+	# 	day=[]
+	# 	# should not be reqd but adding it as sometimes openIE output is not as expected.
+	# 	article=[]
+	# 	sentence=[]
+	# 	selectedSentences=[]
+	# 	score=[]
 
 	elif(line[0]!='\n'):
 		tup=get_tuple(line)
@@ -244,59 +245,59 @@ for line in lines:
 
 
 # FOR TXT OUTPUT
-file_object = open(txtCasualtyClause,"w")
-file_object.close()
+if(printTxtOutput):
+	file_object = open(txtCasualtyClause,"w")
+	file_object.close()
 
-file_object = open(txtCasualtyClause,"a")
-for day in month:
-	for article in day:
-		for sentence in article:
-			for line in sentence:
-				file_object.write(str(line)+"\n")
-			# file_object.write(str(sentence[0])+"\n\n")
-			# l=sentence[-1]
-			# file_object.write(str(l[1:])+"\n")
-			# file_object.write("\n---------------\n\n")
-		file_object.write("====================\n\n")
-	file_object.write("++++++++++++++++++++++++\n\n")
-file_object.close()
+	file_object = open(txtCasualtyClause,"a")
+	# for day in month:
+		# for article in day:
+	for sentence in article:
+		for line in sentence:
+			file_object.write(str(line)+"\n")
+	file_object.write("====================\n")
+		# file_object.write("++++++++++++++++++++++++\n\n")
+	file_object.close()
 
 
 # FOR JSON OUTPUT
 with open(jsonCasualtyClause, 'w+') as outfile:
-    json.dump(month, outfile)
+    json.dump(article, outfile)
 
 
 # FOR TXT OUTPUT
-file_object = open(txtCasualtyNum,"w")
-file_object.close()
+if(printTxtOutput):
+	file_object = open(txtCasualtyNum,"w")
+	file_object.close()
+	file_object = open(txtCasualtyNum,"a")
 
-file_object = open(txtCasualtyNum,"a")
+# monthCasualty=[]
+# for day in month:
+	# dayCasualty=[]
+	# for article in day:
+max=1
+for sentence in article:
+	# file_object.write("new sentence\n")
+	for line in sentence:
+		if(printTxtOutput):
+			file_object.write(str(line)+"\n")
+		num=num_casualty(str(line))
+		# file_object.write(str(num)+"\n")
+		if(num>max):
+			max=num
 
-monthCasualty=[]
-for day in month:
-	dayCasualty=[]
-	for article in day:
-		max=1
-		for sentence in article:
-			# file_object.write("new sentence\n")
-			for line in sentence:
-				file_object.write(str(line)+"\n")
-				num=num_casualty(str(line))
-				# file_object.write(str(num)+"\n")
-				if(num>max):
-					max=num
-		file_object.write("#casualties="+str(max)+"\n")
-		dayCasualty.append(max)
-		file_object.write("====================\n")
-	monthCasualty.append(dayCasualty)
-	file_object.write("++++++++++++++++++++++++\n\n")
-file_object.close()
+if(printTxtOutput):
+	file_object.write("#casualties="+str(max)+"\n")
+	# dayCasualty.append(max)
+	file_object.write("====================\n")
+		# monthCasualty.append(dayCasualty)
+		# file_object.write("++++++++++++++++++++++++\n\n")
+	file_object.close()
 
 
 # FOR JSON OUTPUT
 with open(jsonCasualtyNum, 'w+') as outfile:
-    json.dump(monthCasualty, outfile)
+    json.dump(max, outfile)
 
 
 
