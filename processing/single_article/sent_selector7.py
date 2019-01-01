@@ -143,6 +143,7 @@ jsonOutfile="sent_selected.json"
 
 # whether or not to print the tuples of openie output
 printOpenieTuples = False
+printTxtOutput = False
 
 file_object = open(infile,"r")
 # month = file_object.read()
@@ -311,32 +312,21 @@ for line in lines:
 			sentence.append(line[:-1])	# to remove \n at end of line
 
 # FOR TXT OUTPUT
-file_object = open(txtOutfile,"w")
-file_object.close()
+if(printTxtOutput):
+	file_object = open(txtOutfile,"w")
+	file_object.close()
 
-file_object = open(txtOutfile,"a")
-# for day in month:
-# 	for article in day:
-# 		for sentence in article:
-# 			for line in sentence:
-# 				file_object.write(str(line)+"\n")
-# 			# file_object.write(str(sentence[0])+"\n\n")
-# 			# l=sentence[-1]
-# 			# file_object.write(str(l[1:])+"\n")
-# 			file_object.write("\n---------------\n\n")
-# 		file_object.write("====================\n\n")
-# 	file_object.write("++++++++++++++++++++++++\n\n")
-# file_object.close()
+	file_object = open(txtOutfile,"a")
 
-for sentence in selectedSentences:
-	for line in sentence:
-		file_object.write(str(line)+"\n")
-	# file_object.write(str(sentence[0])+"\n\n")
-	# l=sentence[-1]
-	# file_object.write(str(l[1:])+"\n")
-	file_object.write("\n---------------\n\n")
-file_object.write("====================\n")
-file_object.close()
+	for sentence in selectedSentences:
+		for line in sentence:
+			file_object.write(str(line)+"\n")
+		# file_object.write(str(sentence[0])+"\n\n")
+		# l=sentence[-1]
+		# file_object.write(str(l[1:])+"\n")
+		file_object.write("\n---------------\n\n")
+	file_object.write("====================\n")
+	file_object.close()
 
 
 # FOR JSON OUTPUT

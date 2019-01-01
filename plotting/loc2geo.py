@@ -3,7 +3,7 @@ import json
 
 
 inFile="location.json"
-jsonOutfile="coordinates.json"
+jsonOutfile="test.json"
 
 
 file_object = open(inFile,"r")
