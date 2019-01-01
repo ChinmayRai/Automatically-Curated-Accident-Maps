@@ -1,15 +1,16 @@
 # SURA
 
-### TO DO: 31/12
+### TO DO: 1/1
 1. ICTD
-- [ ] convert codes to work on single article
+- [x] convert codes to work on single article
 - [x] setup openie on local machine - 2min20sec for 1 articles (test_article.txt)
 - [ ] mod1 - given a link, classifies and crawls articles, preprocess for openie (start from web_crawling folder)
-- [ ] mod2 - run openie (send to baadal, run openie, return to local machine)
-- [ ] mod3 - extract location from openie output, plots on map
-- [ ] mod4 - extract time from openie output, plots on map
-- [ ] mod5 - extract number of casualties from openie output, plots on map
-- [ ] integrate all modules
+- [x] mod2 - run openie (send to baadal, run openie, return to local machine)
+- [x] mod3 - extract location from openie output
+- [x] mod4 - extract time from openie output
+- [x] mod5 - extract number of casualties from openie output
+- [x] integrate all modules
+- [ ] map plotting
 - [ ] make posters - only maps have to be added
 - [ ] mod6 - extract cause
 
