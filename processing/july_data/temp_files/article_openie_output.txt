@@ -1,61 +1,43 @@
-Ashok Kondiba Thakur, a 61-year-old resident of Bopodi, was killed after the car he was travelling in crashed into the barricades along BRTS (Bus Rapid Transit System) route in Akurdi late on Wednesday night.
-0.61 (he; was travelling; in crashed into the barricades along BRTS (Bus Rapid Transit System) route in Akurdi)
-0.92 (Ashok Kondiba Thakur; was killed; T:after the car)
+
+One person was killed and 11 others injured following collision between a state transport bus and a multi-utility vehicle (MUV) carrying about a dozen passengers near Sursangda village of Kalavad taluka of Jamnagar on Saturday morning.
+0.94 (a multi-utility vehicle; carrying; about a dozen passengers near Sursangda village of Kalavad taluka of Jamnagar; T:on Saturday morning)
+0.96 (a state transport bus; carrying; about a dozen passengers near Sursangda village of Kalavad taluka of Jamnagar; T:on Saturday morning)
+0.73 (11 others; injured; )
+0.73 (One person; was killed; )
 
 -----------.
 
-Car driver Yogesh Surve (29) of Bopodi, who was arrested by the Nigdi police on charges of drunk and rash driving, was produced in the court on Friday.
-0.96 (Car driver Yogesh Surve ( 29 ) of Bopodi; was arrested; by the Nigdi police on charges of rash driving)
-0.96 (Car driver Yogesh Surve ( 29 ) of Bopodi; was produced; L:in the court; T:on Friday)
-0.96 (Car driver Yogesh Surve ( 29 ) of Bopodi; was arrested; by the Nigdi police on charges of drunk driving)
+The deceased was identified as Balvant Bhikabhai (26) of Khanderi in Jamnagar.
+0.72 (The deceased; was identified; as Balvant Bhikabhai (26) of Khanderi in Jamnagar)
 
 -----------.
 
-Surve was later released on bail.
-0.80 (Surve; was released; T:later)
+According to police, the accident occurred when a state transport bus first collided with a tanker and the speeding MUV going towards Rajkot dashed into the bus and fell off a small bridge into a dry river bed near Sursangda village.
+0.95 (a state transport bus; collided; with the speeding MUV going towards Rajkot; T:first)
+0.95 (the accident; occurred; T:when a state transport bus first collided with the speeding MUV going towards Rajkot)
+0.93 (a tanker; fell; off a small bridge)
+0.97 (a state transport bus; collided; with a tanker fell off a small bridge into a dry river bed near Sursangda village; T:first)
+0.95 (the accident; occurred; T:when a state transport bus first collided with a tanker fell off a small bridge into a dry river bed near Sursangda village)
+0.90 (a tanker; dashed; into the bus)
+0.94 (a state transport bus; collided; with a tanker; T:first)
+0.94 (the accident; occurred; T:when a state transport bus first collided with a tanker)
 
 -----------.
 
-Assistant inspector G B Kharage of Nigdi police told TOI that Thakur and Surve are neighbours.
-0.90 Context(Assistant inspector G B Kharage of Nigdi police told,List([0, 52))):(Surve; are; neighbours)
-0.91 (Assistant inspector G B Kharage of Nigdi police; told; TOI; that Surve are neighbours)
-0.90 Context(Assistant inspector G B Kharage of Nigdi police told,List([0, 52))):(Thakur; are; neighbours)
-0.91 (Assistant inspector G B Kharage of Nigdi police; told; TOI; that Thakur are neighbours)
+Police said that Balvant died on the spot, while 11 others in the MUV were hurt and rushed to hospital in Kalavad.
+0.95 Context(Police said,List([0, 11))):(Balvant; died; L:on the spot; T:while 11 others in the MUV were rushed to hospital in Kalavad)
+0.95 (11 others in the MUV; were rushed; to hospital in Kalavad)
+0.92 Context(Police said,List([0, 11))):(Balvant; died; L:on the spot; T:while 11 others in the MUV were hurt)
+0.75 (Police; said; that Balvant died on the spot)
+0.83 (11 others in the MUV; were hurt; )
 
 -----------.
 
-On Wednesday night, both of them had gone out for dinner to a restaurant near Bhaki-Shakti Chowk.
-0.87 (both of them; had gone out; for dinner to a restaurant near Bhaki-Shakti Chowk; T:On Wednesday night)
-
------------.
-
-“On their way back while travelling through the service road along the Pune-Mumbai highway, Surve tried to enter the BRTS route.
-0.91 Context(Surve tried,List([92, 103))):(Surve; tried to enter; the BRTS route)
-0.94 (Surve; tried; to enter the BRTS route; T:On their way back while travelling through the service road along the Pune-Mumbai highway)
-
------------.
-
-He, however, failed to notice the barricades or the blinkers and crashed into them,” Kharage said.
-0.36 Context(He , however , failed to notice the barricades or the blinkers and crashed into them said,List([0, 97))):(He; failed; to notice the barricades or the blinkers)
-0.91 (He, however, failed to notice the barricades or the blinkers and crashed into them; said; Kharage)
-0.27 (He; crashed; into them)
-0.41 (He; to notice; the barricades or the blinkers)
-
------------.
-
-Thakur, who was severely injured in the accident, was rushed to the Yashwantrao Chavan Memorial Hospital in Pimpri where he was declared dead by the doctors, Kharage said.
-0.90 Context(Thakur , who was severely injured in the accident , was rushed to the Yashwantrao Chavan Memorial Hospital in Pimpri said,List([0, 170))):(Thakur; was rushed; to the Yashwantrao Chavan Memorial Hospital in Pimpri)
-0.98 (Thakur, who was severely injured in the accident, was rushed to the Yashwantrao Chavan Memorial Hospital in Pimpri; said; Kharage)
-0.91 (Thakur; was severely injured; L:in the accident)
-
------------.
-
-On June 11, the driver of a speeding car escaped with injuries after his vehicle dashed against a crash barrier that broke and pierced through the four-wheeler at Kamshet on the Pune-Mumbai expressway around 5pm on Sunday.
-
------------.
-
-Rajesh Bhalchandra Chakare (32) sustained minor injuries.
-0.92 (Rajesh Bhalchandra Chakare; sustained; minor injuries)
+Police added the condition of four injured was said to be critical.
+0.75 Context(Police added,List([0, 12))):(the condition of four injured; was said; )
+0.92 (Police; added; the condition of four injured was said to be critical)
+0.79 (the condition of four injured; to be; critical)
+0.77 (the condition of four; injured; )
 
 -----------.
 

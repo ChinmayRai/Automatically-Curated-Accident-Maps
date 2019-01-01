@@ -1,15 +1,11 @@
 import json
 from jpype import *
+import sys
+
 cpopt="-Djava.class.path=%s" % ("/Users/samarthaggarwal/Documents/SURA/processing/openie_trials")
 startJVM(getDefaultJVMPath(),"-ea",cpopt)
 td = JClass('time.time_detect')
 ext=td.extract
-
-
-j=1	#date
-mon=7
-year=2017
-
 
 def deduplicate(l):
 	l1=[]
@@ -29,6 +25,11 @@ article = json.loads(article)
 file_object.close()
 
 
+# j=1	#date
+date=int(sys.argv[1])
+mon=int(sys.argv[2])
+year=int(sys.argv[3])
+
 # for j in range(0,len(month)):
 	# day=month[j]
 	# for article in day:
@@ -40,7 +41,7 @@ for i in range(0,len(article)):
 	loc=[]
 	nonTime=[]
 	for c in sents[1]:
-		temp = ext(c,j+1,mon,year)
+		temp = ext(c,date,mon,year)
 		if (len(temp)>0):
 			loc.append(temp)
 		else:

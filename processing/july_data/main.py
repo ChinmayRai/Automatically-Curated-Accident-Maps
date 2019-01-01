@@ -1,3 +1,7 @@
+# DESCRIPTION : top level function that processes entire month's data
+# input - openie output of month, raw body in json
+# output - features formatted for mapping
+
 import json
 import os
 from formater import format
@@ -20,12 +24,17 @@ file_object.close()
 startLine=0
 endLine=0
 
+date=0
+mon=7
+year=2017
+
 geojson = dict()
 geojson['type'] = "FeatureCollection"
 geojson['features'] = []
 
 for d in range(len(month)):
 	day=month[d]
+	date=d+1
 	for a in range(len(day)):
 		article=day[a]
 		
@@ -49,19 +58,22 @@ for d in range(len(month)):
 		    json.dump(article, outfile)
 
 	    # running pipeline for a single article
-		os.system("./run_single_article.sh")
+		command="./run_single_article.sh "+str(date)+" "+str(mon)+" "+str(year)
+		os.system(command)
 
+		# formating outputs from different files into a single data structure
 		newFeature=format()
 		geojson['features'].append(newFeature);
 
-		break
+		# break
 
 	while(lines[endLine][0]!="+"):
 		endLine+=1
 	endLine+=1
 
-	break
+	# break
 
+# JSON OUTPUT
 with open(outFile, 'w+') as outfile:
 	json.dump(geojson, outfile)
 
