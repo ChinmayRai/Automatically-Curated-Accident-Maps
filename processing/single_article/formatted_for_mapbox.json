@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "RepLoc": "Pune",
+                "Time": "7/11/2018, late_night, wednesday",
+                "Casualty": 1,
+                "Address": [
+                    "akurdi late",
+                    "akurdi",
+                    "pimpri"
+                ]
+            }
+        }
+    ]
+}

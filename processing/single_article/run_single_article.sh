@@ -8,3 +8,6 @@ echo "time done, reduced the set of clauses"
 
 python get_proper_noun.py
 echo "location done"
+
+python formater.py
+echo "formating done, check file formatted_for_mapbox.json"

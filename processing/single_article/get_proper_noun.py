@@ -57,9 +57,9 @@ for sent in article:
 	sent[1]=l2
 
 
-file_object = open(jsonOutfile,"w+")
-file_object.close()
+# file_object = open(jsonOutfile,"w+")
+# file_object.close()
 
 
 with open(jsonOutfile, 'w+') as outfile:
-    json.dump(article, outfile)	
+    json.dump(article, outfile)
