@@ -6,7 +6,7 @@ td = JClass('time.time_detect')
 ext=td.extract
 
 
-j=500	#date
+j=1	#date
 mon=7
 year=2017
 
