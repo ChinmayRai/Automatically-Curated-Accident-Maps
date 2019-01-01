@@ -1,43 +1,89 @@
 
-One person was killed and 11 others injured following collision between a state transport bus and a multi-utility vehicle (MUV) carrying about a dozen passengers near Sursangda village of Kalavad taluka of Jamnagar on Saturday morning.
-0.94 (a multi-utility vehicle; carrying; about a dozen passengers near Sursangda village of Kalavad taluka of Jamnagar; T:on Saturday morning)
-0.96 (a state transport bus; carrying; about a dozen passengers near Sursangda village of Kalavad taluka of Jamnagar; T:on Saturday morning)
-0.73 (11 others; injured; )
-0.73 (One person; was killed; )
+Two people were killed in separate accidents within 24 hours in the city.
+0.99 (two people; were killed within; 24 hours in the city)
+0.99 (Two people; were killed within; within 24 hours)
+0.90 (Two people; were killed; L:in separate accidents; T:within 24 hours in the city)
 
 -----------.
 
-The deceased was identified as Balvant Bhikabhai (26) of Khanderi in Jamnagar.
-0.72 (The deceased; was identified; as Balvant Bhikabhai (26) of Khanderi in Jamnagar)
+A 46-year-old truck driver, Abdul Salem, was killed by a fellow trucker who rammed his truck into him late on Friday outside Jaipur Golder godown in Naurangpur.
+0.85 (a fellow trucker; rammed; his truck; into him; T:late; T:on Friday)
+0.93 (A 46-year-old truck driver; was killed; by a fellow trucker)
 
 -----------.
 
-According to police, the accident occurred when a state transport bus first collided with a tanker and the speeding MUV going towards Rajkot dashed into the bus and fell off a small bridge into a dry river bed near Sursangda village.
-0.95 (a state transport bus; collided; with the speeding MUV going towards Rajkot; T:first)
-0.95 (the accident; occurred; T:when a state transport bus first collided with the speeding MUV going towards Rajkot)
-0.93 (a tanker; fell; off a small bridge)
-0.97 (a state transport bus; collided; with a tanker fell off a small bridge into a dry river bed near Sursangda village; T:first)
-0.95 (the accident; occurred; T:when a state transport bus first collided with a tanker fell off a small bridge into a dry river bed near Sursangda village)
-0.90 (a tanker; dashed; into the bus)
-0.94 (a state transport bus; collided; with a tanker; T:first)
-0.94 (the accident; occurred; T:when a state transport bus first collided with a tanker)
+An eyewitness, Suresh, told cops that Salem and he were sitting outside the godown when the accused, Ajay, drove his truck towards them and mowed down Salem, killing him on the spot.
+0.93 (An eyewitness; told; cops Salem)
+0.80 Context(An eyewitness told,List([0, 29))):(Salem and he were sitting outside the godown; mowed down; Salem)
+0.89 (An eyewitness; told; cops; Salem and he were sitting outside the godown mowed down Salem)
+0.87 (An eyewitness; told; cops; T:Salem and he were sitting outside the godown)
+0.27 (he; killing; him; L:on the spot)
+0.45 (he; were sitting; outside the godown)
+0.88 (the accused , Ajay; drove; his truck; towards them)
+0.46 (he; were sitting; outside the godown; T:when the accused , Ajay , drove his truck towards them)
+0.91 (An eyewitness; told; cops)
 
 -----------.
 
-Police said that Balvant died on the spot, while 11 others in the MUV were hurt and rushed to hospital in Kalavad.
-0.95 Context(Police said,List([0, 11))):(Balvant; died; L:on the spot; T:while 11 others in the MUV were rushed to hospital in Kalavad)
-0.95 (11 others in the MUV; were rushed; to hospital in Kalavad)
-0.92 Context(Police said,List([0, 11))):(Balvant; died; L:on the spot; T:while 11 others in the MUV were hurt)
-0.75 (Police; said; that Balvant died on the spot)
-0.83 (11 others in the MUV; were hurt; )
+Suresh also told the police that Ajay, the driver of the other truck had a personal quarrel with him earlier, which could have provoked the action.
+0.39 (Ajay; [is] the driver of; the other truck)
+0.90 Context(Suresh told,List([0, 16))):(Ajay; had; a personal quarrel with him earlier, which could have provoked the action)
+0.79 (Suresh; told; the police; that Ajay, the driver of the other truck had a personal quarrel with him earlier)
+0.69 (a personal quarrel with him earlier; could have provoked; the action)
 
 -----------.
 
-Police added the condition of four injured was said to be critical.
-0.75 Context(Police added,List([0, 12))):(the condition of four injured; was said; )
-0.92 (Police; added; the condition of four injured was said to be critical)
-0.79 (the condition of four injured; to be; critical)
-0.77 (the condition of four; injured; )
+An FIR under sections 279 (rash driving), 336 (endangering life sand safety) and 304A (death by negligence) of the IPC was registered at the Kherki Daula police station on Saturday and Ajay was arrested.
+0.97 (304A ( death by negligence ) of the IPC; was registered; at the Kherki Daula police station on Ajay)
+0.86 (304A ( death by negligence ) of the IPC; was arrested; )
+0.97 (304A ( death by negligence ) of the IPC; was registered; at the Kherki Daula police station on Saturday)
+0.55 (336; was registered; at the Kherki Daula police station on Ajay)
+0.85 (An FIR under sections 279 ( rash driving; was arrested; )
+0.96 (An FIR under sections 279 ( rash driving; was registered; at the Kherki Daula police station on Saturday)
+0.56 (rash; driving; )
+
+-----------.
+
+He was produced in court on Sunday and sent to judicial custody.
+0.45 (He; was sent; to judicial custody)
+0.50 (He; was produced; L:in court; T:on Sunday)
+
+-----------.
+
+In another incident, a 25-year-old man, Randhawa Singh, died after a speeding truck hit him near Dhankot toll on Saturday.
+0.90 (a speeding truck; hit; him; L:near Dhankot toll; T:on Saturday)
+0.96 (a 25-year-old man; died; T:after a speeding truck hit him near Dhankot toll on Saturday; L:In another incident)
+
+-----------.
+
+According to the deceased’s brother, Surjeet Singh, the accident happened around 3.30pm when Randhawa was heading towards the toll on his bike.
+0.86 (Randhawa; was heading; towards the toll on his bike)
+0.91 (the accident; happened; T:around 3.30pm; T:when Randhawa was heading towards the toll on his bike)
+
+-----------.
+
+A speeding truck came from behind and hit the bike killing him on the spot.
+0.81 Context(A speeding truck hit,List([0, 20))):(A speeding truck; hit the bike killing; him; L:on the spot)
+0.91 (A speeding truck; hit; the bike)
+0.78 (A speeding truck; came; from behind)
+
+-----------.
+
+The errant driver immediately fled with his truck.
+0.88 (The errant driver; fled; T:immediately)
+
+-----------.
+
+An FIR was registered under sections 279 (rash driving) and 304A (death by negligence) of the IPC at the Rajender park police station.
+0.99 (An FIR; was registered under; under sections 279)
+0.56 (rash; driving; )
+0.93 (An FIR; was registered; L:under sections 279)
+
+-----------.
+
+The police have recovered the truck but the driver is still absconding.
+0.76 (the driver; is absconding; T:still)
+0.90 (The police; have recovered; the truck)
 
 -----------.
 
