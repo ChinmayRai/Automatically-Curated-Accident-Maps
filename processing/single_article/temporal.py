@@ -1,6 +1,6 @@
 import json
 from jpype import *
-cpopt="-Djava.class.path=%s" % ("../openie_trials")
+cpopt="-Djava.class.path=%s" % ("/Users/samarthaggarwal/Documents/SURA/processing/openie_trials")
 startJVM(getDefaultJVMPath(),"-ea",cpopt)
 td = JClass('time.time_detect')
 ext=td.extract
@@ -20,8 +20,8 @@ def deduplicate(l):
 	return l1
 
 infile="prep_clauses_merged.json"
-jsonOutfile="time.json"
-
+jsonTimeOutfile="time.json"
+jsonReducedClauseOutFile="prep_clauses_merged_reduced.json"
 
 file_object = open(infile,"r")
 article = file_object.read()
@@ -32,14 +32,21 @@ file_object.close()
 # for j in range(0,len(month)):
 	# day=month[j]
 	# for article in day:
+updatedArticle=[]
 for i in range(0,len(article)):
 	sents=article[i]
-
+	newSentence=[]
+	newSentence.append(sents[0])
 	loc=[]
+	nonTime=[]
 	for c in sents[1]:
-		if (len(ext(c,j+1,mon,year))>0):
-			loc.append(ext(c,j+1,mon,year))
-
+		temp = ext(c,j+1,mon,year)
+		if (len(temp)>0):
+			loc.append(temp)
+		else:
+			nonTime.append(c)
+	newSentence.append(nonTime)
+	updatedArticle.append(newSentence)
 	sent=sents[0]
 	sents=[]
 	sents.append(sent)
@@ -62,11 +69,16 @@ article.append(deduplicate(time))
 
 
 
-file_object = open(jsonOutfile,"w+")
-file_object.close()
+# file_object = open(jsonTimeOutfile,"w+")
+# file_object.close()
 
-with open(jsonOutfile, 'w+') as outfile:
+with open(jsonTimeOutfile, 'w+') as outfile:
     json.dump(article, outfile)	
 
+# file_object = open(jsonReducedClauseOutFile,"w+")
+# file_object.close()
+
+with open(jsonReducedClauseOutFile, 'w+') as outfile:
+    json.dump(updatedArticle, outfile)	
 
 shutdownJVM()

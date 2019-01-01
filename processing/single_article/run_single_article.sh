@@ -1,3 +1,10 @@
-python sent_selector7.py 
-python merge_prep_clause.py 
-python get_proper_noun.py 
+python sent_selector7_casualty.py
+echo "casualty done"
+
+python sent_selector7.py
+python merge_prep_clause.py
+python3 temporal.py
+echo "time done, reduced the set of clauses"
+
+python get_proper_noun.py
+echo "location done"

@@ -145,6 +145,7 @@ jsonCasualtyNum="num_casualty.json"
 # whether or not to print the tuples of openie output
 printOpenieTuples = False
 printTxtOutput = False
+printCasualtyClause = False
 
 file_object = open(infile,"r")
 # month = file_object.read()
@@ -261,8 +262,9 @@ if(printTxtOutput):
 
 
 # FOR JSON OUTPUT
-with open(jsonCasualtyClause, 'w+') as outfile:
-    json.dump(article, outfile)
+if(printCasualtyClause):
+	with open(jsonCasualtyClause, 'w+') as outfile:
+	    json.dump(article, outfile)
 
 
 # FOR TXT OUTPUT

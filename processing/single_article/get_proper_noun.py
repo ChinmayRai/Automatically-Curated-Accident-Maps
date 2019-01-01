@@ -22,7 +22,7 @@ def tag(l,s):
 	else:
 		return sr
 
-inFile="prep_clauses_merged.json"
+inFile="prep_clauses_merged_reduced.json"
 jsonOutfile="prop_noun_clauses.json"
 
 file_object = open(inFile,"r")
@@ -31,6 +31,7 @@ article = json.loads(article)
 file_object.close()
 
 selectedTags=['NNP', 'NNPS']
+verbTags=['VB','VBD','VBG','VBN','VBP','VBZ']
 # for day in month:
 # 	for article in day:
 for sent in article:
@@ -46,6 +47,9 @@ for sent in article:
 			for r in ll:
 				if (tag(l,r)=='NNP' or  tag(l,r)=='NNPS'):
 					n=1
+			for r in ll:
+				if(tag(l,r) in verbTags):
+					n=0
 
 			if (n==1):
 				l2.append(e)
