@@ -3,7 +3,7 @@ import json
 
 
 inFile="location.json"
-jsonOutfile="test.json"
+jsonOutfile="coordinates.json"
 
 
 file_object = open(inFile,"r")
@@ -12,7 +12,8 @@ locations = json.loads(locations)
 file_object.close()
 
 coordinates=[]
-API_KEY="AIzaSyABji3II-_zS0WWLrDvCvU5zrfsw3IX9_0"
+API_KEY="AIzaSyDx3cH2CoYlfM-Z1p8cHKYGrkXpqRIBMpc"
+       #"AIzaSyABji3II-_zS0WWLrDvCvU5zrfsw3IX9_0"
 
 for i in locations:
 	l=i['loc']
