@@ -36,14 +36,10 @@ On Wednesday night, both of them had gone out for dinner to a restaurant near Bh
 -----------.
 
 He, however, failed to notice the barricades or the blinkers and crashed into them,” Kharage said.
-0.36 Context(He , however , failed to notice the blinkers said,List([0, 61))):(He; failed; to notice the blinkers)
-0.83 (He , however , failed to notice the blinkers; said; Kharage)
-0.41 (He; to notice; the blinkers)
-0.36 Context(He , however , failed to notice the barricades said,List([0, 63))):(He; failed; to notice the barricades)
-0.83 (He , however , failed to notice the barricades; said; Kharage)
-0.41 (He; to notice; the barricades)
-0.26 Context(He crashed into them said,List([0, 37))):(He; crashed; into them)
-0.76 (He crashed into them; said; Kharage)
+0.36 Context(He , however , failed to notice the barricades or the blinkers and crashed into them said,List([0, 97))):(He; failed; to notice the barricades or the blinkers)
+0.91 (He, however, failed to notice the barricades or the blinkers and crashed into them; said; Kharage)
+0.27 (He; crashed; into them)
+0.41 (He; to notice; the barricades or the blinkers)
 
 -----------.
 
@@ -64,4 +60,3 @@ Rajesh Bhalchandra Chakare (32) sustained minor injuries.
 -----------.
 
 ============.
-
