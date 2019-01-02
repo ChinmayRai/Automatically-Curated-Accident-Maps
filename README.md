@@ -16,7 +16,7 @@
 
 2. Plotting - debug why geotagged to US
 - [ ] add code for interactive map
-- [ ] identify/correct reason of error in geocoding
+- [x] identify/correct reason of error in geocoding
 
 3. No. of casualties : inference engine
 - [x] identify and convert word to numbers
