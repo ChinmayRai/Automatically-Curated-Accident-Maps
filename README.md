@@ -1,10 +1,10 @@
 # SURA
 
-### TO DO: 1/1
+### TO DO: 2/1
 1. ICTD
 - [x] convert codes to work on single article
 - [x] setup openie on local machine - 2min20sec for 1 articles (test_article.txt)
-- [ ] mod1 - given a link, classifies and crawls articles, preprocess for openie (start from web_crawling folder)
+- [x] mod1 - given a link, classifies and crawls articles, preprocess for openie (start from web_crawling folder)
 - [x] mod2 - run openie (send to baadal, run openie, return to local machine)
 - [x] mod3 - extract location from openie output
 - [x] mod4 - extract time from openie output
@@ -16,7 +16,7 @@
 
 2. Plotting - debug why geotagged to US
 - [ ] add code for interactive map
-- [ ] identify/correct reason of error in geocoding
+- [x] identify/correct reason of error in geocoding
 
 3. No. of casualties : inference engine
 - [x] identify and convert word to numbers
