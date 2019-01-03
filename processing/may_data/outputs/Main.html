@@ -2,80 +2,93 @@
 <html lang="en">
 <head>
 
-	<meta charset="utf-8">
+    <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-	<link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/1-col-portfolio.css" rel="stylesheet">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.51.0/mapbox-gl.css' rel='stylesheet' />
-
-
-    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.51.0/mapbox-gl.js'></script>
- 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     
     <style type="text/css">
-        #map { 
-            width: 1370px;
-            height: 880px;
-            position: absolute;  
-            left:10px;
-            border: 3px solid #4285f4;
-        }
-        .marker {
-		  background-image: url('marker.png');
-		  background-size: cover;
-		  width: 50px;
-		  height: 50px;
-		  border-radius: 50%;
-		  cursor: pointer;
-		}
+      /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+      #map {
+        height: 100%;
+      }
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
     </style>
 
     
-	<title>User Home</title>
+    <title>Map</title>
 </head>
-<body
+<body>
 
-    <div class="container-fluid">
-	    <div class="row">
-	    	<div class="col-sm-12">
-	    		<link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.3.0/mapbox-gl-geocoder.css' type='text/css' />
-				<script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.3.0/mapbox-gl-geocoder.min.js'></script>	
-    			<div id="map"></div>
-    		</div>
-    	
-    	</div>
-    </div>
     
-     
+        <div id="map"></div>        
+    
         <script type="text/javascript">
-        var map;
-        initmap();
-        mark();
-        function initmap() {
-            mapboxgl.accessToken = 'pk.eyJ1IjoiY2hpbm1heTAxIiwiYSI6ImNqb3h3ZTRwajBzd2gzcXBjNzB1dGdnbXoifQ.aBpr98CTJrR3AaWbhP8BQg';
-            map = new mapboxgl.Map({container: 'map', style: 'mapbox://styles/mapbox/streets-v9',zoom: 2});
-			map.addControl(new MapboxGeocoder({ accessToken: mapboxgl.accessToken}));
-			map.addControl(new mapboxgl.NavigationControl());
-        }
-        function mark(){
-        	
-        	var el = document.createElement('div');
-			el.className = 'marker';
-			  // make a marker for each feature and add to the map
-			  new mapboxgl.Marker(el).setLngLat([28.5503288,77.1912467]).addTo(map);
-        	//var latLngs = [ marker.getLatLng() ];
-  			//var markerBounds = L.latLngBounds(latLngs);
-  			//map.fitBounds(markerBounds);
-  			console.log(1)
-        }
-               
-        
-    	</script>
 
-	</body>
+        var geojson;
+        var requestURL = 'file:///home/chinmay/Documents/SURA/processing/may_data/outputs/geojson.json'
+        var request = new XMLHttpRequest();
+        request.open('GET', requestURL);
+        request.responseType = 'json';
+        request.send();
+        request.onload = function() {
+          geojson = request.response;
+        }
+        
+
+        function initMap() {
+
+            var loc = {lat: 28.4166164, lng: 76.9731229};
+
+            var map = new google.maps.Map(document.getElementById('map'), {
+              zoom: 3.5,
+              center: loc
+            });
+
+
+            var infowindow = new google.maps.InfoWindow();
+            var  marker,i;
+            var contentString = new Array();
+
+            for (i = 0; i < geojson.features.length; i++) {  
+                var location = geojson.features[i];
+
+                if(location.properties.latlng){
+                  marker = new google.maps.Marker({
+                    position: location.properties.latlng,
+                    map: map
+                  });
+
+                contentString[i] = '<div id="content"><p>'+location.properties.Time+'</p><p>Reporting City :'+ location.properties.RepLoc+ '</p> <p>Casualty :'+ location.properties.Casualty +'</p><p>Address :'+ location.properties.Address + '</p><p>Road :'+ location.properties.Road + '</p></div>';
+
+
+                //console.log(contentString);
+                  google.maps.event.addListener(marker, 'click', (function(marker, i) {
+                    return function() {
+                      infowindow.setContent(contentString[i]);
+                      infowindow.open(map, marker);
+                    }
+                  })(marker, i));
+                };
+            }
+
+          }
+        </script>
+        <script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDx3cH2CoYlfM-Z1p8cHKYGrkXpqRIBMpc&callback=initMap">
+        </script>
+        
+        
+
+    </body>
 </html>
