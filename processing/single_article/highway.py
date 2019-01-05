@@ -1,7 +1,7 @@
 import json
 
 
-inFile="formated_for_mapping.json"
+inFile="formatted_for_mapping.json"
 jsonOutfile="data.json"
 
 

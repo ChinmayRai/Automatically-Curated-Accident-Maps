@@ -6,13 +6,13 @@ echo "\n\n======================================================================
 
 echo "2) Converting the body of the article to sentences\n"
 python body_to_sent.py
-cat article_sent_token.json
-echo "\n\n================================================================================================================================================================================\n"
+# cat article_sent_token.json
+echo "\n================================================================================================================================================================================\n"
 
 echo "3) Formatting sentences according to the input format of OpenIE\n"
 python sent_to_openie.py
-cat article_openie_input.txt
-echo "\n\n================================================================================================================================================================================\n"
+# cat article_openie_input.txt
+echo "\n================================================================================================================================================================================\n"
 
 echo "4) Processing the sentences with OpenIE\n"
 cd ~/Documents/softwares/OpenIE-standalone/
@@ -42,5 +42,14 @@ echo "\n\n======================================================================
 
 echo "8) Formatting the output features for mapping\n"
 python formater.py
-cat formatted_for_mapbox.json
+cat formatted_for_mapping.json
 echo "\n\n================================================================================================================================================================================\n"
+
+echo "9) Plotting the data point\n"
+echo "Location to be plotted ="
+python highway.py
+python geocoding.py
+open -a firefox -g file:///Users/samarthaggarwal/Documents/SURA/processing/single_article/Main.html
+echo "\n\n================================================================================================================================================================================\n"
+
+

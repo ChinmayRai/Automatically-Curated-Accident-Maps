@@ -6,7 +6,7 @@ bodyFile = "article_body.json"
 numCasualtyFile = "num_casualty.json"
 timeFile = "time.json"
 locationFile = "prop_noun_clauses.json"
-jsonOutfile = "formatted_for_mapbox.json"
+jsonOutfile = "formatted_for_mapping.json"
 
 # READING INPUT
 file_object = open(bodyFile,"r")
