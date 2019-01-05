@@ -6,9 +6,9 @@ td = JClass('time.time_detect')
 ext=td.extract
 
 
-j=1	#date
-mon=7
-year=2017
+# j=1	#date
+# mon=7
+# year=2017
 
 
 def deduplicate(l):
@@ -20,8 +20,19 @@ def deduplicate(l):
 	return l1
 
 infile="prep_clauses_merged.json"
+originalBodyFile="article_body.json"
 jsonTimeOutfile="time.json"
 jsonReducedClauseOutFile="prep_clauses_merged_reduced.json"
+
+# getting date, month and year from the original file
+file_object = open(originalBodyFile,"r")
+originalArticle = file_object.read()
+originalArticle = json.loads(originalArticle)
+file_object.close()
+
+j=int(originalArticle["date"])
+mon=int(originalArticle["month"])
+year=int(originalArticle["year"])
 
 file_object = open(infile,"r")
 article = file_object.read()
