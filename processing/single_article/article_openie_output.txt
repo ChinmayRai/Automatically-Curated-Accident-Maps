@@ -1,65 +1,46 @@
-Ashok Kondiba Thakur, a 61-year-old resident of Bopodi, was killed after the car he was travelling in crashed into the barricades along BRTS (Bus Rapid Transit System) route in Akurdi late on Wednesday night.
-0.61 (he; was travelling; in crashed into the barricades along BRTS (Bus Rapid Transit System) route in Akurdi)
-0.92 (Ashok Kondiba Thakur; was killed; T:after the car)
+JAUNPUR: Two persons were killed and five others injured in a collision between two cars in Uttar Pradesh's Fatehgarh town on Saturday, police said.
+0.94 Context(five others injured in a collision between two cars in Uttar Pradesh 's Fatehgarh town on Saturday said,List([0, 112))):(five others; injured; L:in a collision between two cars in Uttar Pradesh 's Fatehgarh town on Saturday)
+0.98 (five others injured in a collision between two cars in Uttar Pradesh 's Fatehgarh town on Saturday; said; police)
+0.69 Context(Two persons were killed said,List([10, 47))):(Two persons; were killed; )
+0.93 (Two persons were killed; said; police)
 
 -----------.
 
-Car driver Yogesh Surve (29) of Bopodi, who was arrested by the Nigdi police on charges of drunk and rash driving, was produced in the court on Friday.
-0.96 (Car driver Yogesh Surve ( 29 ) of Bopodi; was arrested; by the Nigdi police on charges of rash driving)
-0.96 (Car driver Yogesh Surve ( 29 ) of Bopodi; was produced; L:in the court; T:on Friday)
-0.96 (Car driver Yogesh Surve ( 29 ) of Bopodi; was arrested; by the Nigdi police on charges of drunk driving)
+The accident took place at the Rae Bareli-Jaunpur highway in Fatehganj at around 6 am, they said.
+0.90 Context(The accident took place at the Rae Bareli - Jaunpur highway in Fatehganj at around 6 am said,List([0, 96))):(The accident; took; place; L:at the Rae Bareli-Jaunpur highway; L:in Fatehganj; T:at around 6 am)
+0.97 (The accident took place at the Rae Bareli-Jaunpur highway in Fatehganj at around 6 am; said; they)
 
 -----------.
 
-Surve was later released on bail.
-0.80 (Surve; was released; T:later)
+'The deceased have been identified as Sandeep Srivastava (38) and his wife Meenakshi (34), who were returning to Azamgarh from Lucknow along with their six-year-old son,' Additional Superintendent of Police (City) Anil Kumar Pandey said.
+0.89 (Meenakshi; [is] wife [of]; him)
+0.90 (his wife Meenakshi ( 34 ) , who were returning to Azamgarh from Lucknow along with their six - year - old son , ' Additional Superintendent of Police ( City ) Anil Kumar Pandey; said; )
+0.64 (his wife; were returning; to Azamgarh; from Lucknow)
+0.56 Context(The deceased have been identified as Sandeep Srivastava said,List([2, 136))):(The deceased; have been identified; as Sandeep Srivastava)
+0.98 (The deceased have been identified as Sandeep Srivastava; said; Additional Superintendent of Police ( City ) Anil Kumar Pandey)
 
 -----------.
 
-Assistant inspector G B Kharage of Nigdi police told TOI that Thakur and Surve are neighbours.
-0.90 Context(Assistant inspector G B Kharage of Nigdi police told,List([0, 52))):(Surve; are; neighbours)
-0.91 (Assistant inspector G B Kharage of Nigdi police; told; TOI; that Surve are neighbours)
-0.90 Context(Assistant inspector G B Kharage of Nigdi police told,List([0, 52))):(Thakur; are; neighbours)
-0.91 (Assistant inspector G B Kharage of Nigdi police; told; TOI; that Thakur are neighbours)
+The minor boy sustained injuries in the collision.
+0.91 (The minor boy; sustained; injuries in the collision)
 
 -----------.
 
-On Wednesday night, both of them had gone out for dinner to a restaurant near Bhaki-Shakti Chowk.
-0.87 (both of them; had gone out; for dinner to a restaurant near Bhaki-Shakti Chowk; T:On Wednesday night)
+Four occupants of the other car were also injured, Pandey said.
+0.76 Context(Four occupants of the other car were also injured said,List([0, 62))):(Four occupants of the other car; were also injured; )
+0.96 (Four occupants of the other car were also injured; said; Pandey)
 
 -----------.
 
-“On their way back while travelling through the service road along the Pune-Mumbai highway, Surve tried to enter the BRTS route.
-0.91 Context(Surve tried,List([92, 103))):(Surve; tried to enter; the BRTS route)
-0.94 (Surve; tried; to enter the BRTS route; T:On their way back while travelling through the service road along the Pune-Mumbai highway)
+All the injured were admitted to the district hospital, he added.
+0.54 Context(All the injured were admitted to the district hospital added,List([0, 64))):(All the injured; were admitted; to the district hospital)
+0.92 (All the injured were admitted to the district hospital; added; he)
 
 -----------.
 
-He, however, failed to notice the barricades or the blinkers and crashed into them,” Kharage said.
-0.36 Context(He , however , failed to notice the blinkers said,List([0, 61))):(He; failed; to notice the blinkers)
-0.83 (He , however , failed to notice the blinkers; said; Kharage)
-0.41 (He; to notice; the blinkers)
-0.36 Context(He , however , failed to notice the barricades said,List([0, 63))):(He; failed; to notice the barricades)
-0.83 (He , however , failed to notice the barricades; said; Kharage)
-0.41 (He; to notice; the barricades)
-0.26 Context(He crashed into them said,List([0, 37))):(He; crashed; into them)
-0.76 (He crashed into them; said; Kharage)
-
------------.
-
-Thakur, who was severely injured in the accident, was rushed to the Yashwantrao Chavan Memorial Hospital in Pimpri where he was declared dead by the doctors, Kharage said.
-0.90 Context(Thakur , who was severely injured in the accident , was rushed to the Yashwantrao Chavan Memorial Hospital in Pimpri said,List([0, 170))):(Thakur; was rushed; to the Yashwantrao Chavan Memorial Hospital in Pimpri)
-0.98 (Thakur, who was severely injured in the accident, was rushed to the Yashwantrao Chavan Memorial Hospital in Pimpri; said; Kharage)
-0.91 (Thakur; was severely injured; L:in the accident)
-
------------.
-
-On June 11, the driver of a speeding car escaped with injuries after his vehicle dashed against a crash barrier that broke and pierced through the four-wheeler at Kamshet on the Pune-Mumbai expressway around 5pm on Sunday.
-
------------.
-
-Rajesh Bhalchandra Chakare (32) sustained minor injuries.
-0.92 (Rajesh Bhalchandra Chakare; sustained; minor injuries)
+The bodies of the deceased have been sent for a post mortem examination, the police said.
+0.91 Context(The bodies of the deceased have been sent for a post mortem examination said,List([0, 88))):(The bodies of the deceased; have been sent; for a post mortem examination)
+0.97 (The bodies of the deceased have been sent for a post mortem examination; said; the police)
 
 -----------.
 
