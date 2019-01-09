@@ -1,21 +1,21 @@
 # SURA
 
-### TO DO: 2/12
-1. ICTD
-- [ ] convert codes to work on single article
-- [ ] setup openie on local machine
-- [ ] mod1 - given a link, classifies and crawls articles, preprocess for openie
-- [ ] mod2 - run openie (send to baadal, run openie, return to local machine)
-- [ ] mod3 - extract location from openie output, plots on map
-- [ ] mod4 - extract time from openie output, plots on map
-- [ ] mod5 - extract number of casualties from openie output, plots on map
-- [ ] integrate all modules
-- [ ] make posters
-- [ ] mod6 - extract cause
+### TO DO: 8/1
+0. Final ppt
+- [ ] cause detection
+- [ ] accuracy figures
+- [ ] prac presentation
 
-2. Plotting - debug why geotagged to US
-- [ ] add code for interactive map == CHINMAY
-- [ ] identify/correct reason of error in geocoding
+1. Cause Detection - develop from scratch
+- [ ] identify sentences containing cause
+- [ ] Add cause detection classifier
+- [ ] add plotting code
+- [ ] integrate with existing code
+
+2. Report
+- [x] cause detection ( we have not done this but will add it in report)
+- [ ] report accuracy figures (include #cas, cause accuracy figures)
+(to be calculated for larger dataset, can also say in presentation that we improved on the accuracy from the time of making this report)
 
 3. No. of casualties : inference engine
 - [x] identify and convert word to numbers
@@ -27,17 +27,6 @@
 - [ ] add code for fractional matching
 - [ ] add testing for casualty part
 - [ ] find results for a larger dataset ( for report )
-
-5. Cause Detection - develop from scratch
-- [ ] identify sentences containing cause
-- [ ] Add cause detection classifier
-- [ ] add plotting code
-- [ ] integrate with existing code
-
-6. ** Report - not important now
-- [x] cause detection ( we have not done this but will add it in report)
-- [ ] report accuracy figures (include #cas, cause accuracy figures)
-(to be calculated for larger dataset, can also say in presentation that we improved on the accuracy from the time of making this report)
 
 
 
@@ -56,15 +45,14 @@ Location Accuracy = 77.84 %
 Time Accuracy = 63.29 %
 
 #### Pending Pipeline
-1. get pinpointed location and time from clauses between prepositions
-2. get number of casualities by analysing the subject part of sentences and developing a similar procedure for casualities
-3. integrate the processes of getting loc, time and casualities
-4. getting coordinates from location names - done
-5. data plotting - done
+
 
 #### Notes to self
 1. sent_selector7.py and sent_selector7_beta.py are same except that beta version also prints certain things
 
+#### OpenIE fallacies
+1. The cat woke up the dog.
+2. Cheers to all my fans!
 
 #### Pending Issues:
 1. body output - may 2017 - day11, article 0 - body has numbers 1 to 6 in it.

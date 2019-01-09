@@ -1,0 +1,40 @@
+
+As many as seven people died and four were injured after their SUV collided with a container on Kashipur-Dhampur highway (NH-74) in the small hours of Thursday.
+0.39 (four; were injured; T:after their SUV)
+0.79 (As many as seven people; died; )
+
+-----------.
+
+The family was returning after attending a wedding.
+0.89 (The family; after attending; a wedding)
+0.90 (The family; was returning; T:after attending a wedding)
+
+-----------.
+
+According to local sources, the accident took place near Sherkot region of Bijnor.
+0.92 (the accident; took; place; L:near Sherkot region of Bijnor)
+
+-----------.
+
+According to Rakesh Kumar, station incharge, Sherkot police station, “Most of the occupants of the vehicle were teachers who were going back after attending a wedding.
+0.94 (Most of the occupants of the vehicle; were; teachers who were going back after attending a wedding)
+
+-----------.
+
+Soon after getting the news, a Dial 100 vehicle reached the spot and transferred the seriously injured to the community health centre and later to the district hospital.”
+0.99 (100 vehicle; reached; the spot)
+0.89 (the spot; seriously injured; to the community health centre)
+0.96 (a Dial 100 vehicle; reached; the spot; T:Soon after getting the news)
+
+Those who died were identified as Gaj Ram 65, Gopal Singh, 40, Mohan Singh, 29, Atar Singh, 61, Nakli Ram, 40 and Hari Mohan, 37. -----------.
+0.64 (Those who died; were identified; as Hari Mohan)
+0.64 (Those who died; were identified; as , Nakli Ram)
+0.64 (Those who died; were identified; as Gaj Ram 65)
+0.23 (Those; died; )
+
+Dharm Anand, 26, the container driver, also died in the accident.
+0.91 (Dharm Anand; also died; L:in the accident)
+
+-----------.
+
+============.

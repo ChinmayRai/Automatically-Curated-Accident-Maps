@@ -1,0 +1,28 @@
+
+At least 14 persons were injured when a Gujarat State Road Transport Corporation (GSTRC) bus veered off the road in the hilly area between Navavas and Dhundhiya village near Danta on Tuesday.
+0.96 (At least 14 persons; were injured; T:when a Gujarat State Road Transport Corporation (GSTRC) bus veered off the road in the hilly area between Navavas and Dhundhiya village near Danta on Tuesday)
+
+-----------.
+
+A 19-year-old woman Rajeshwari Jadhav was referred to Palanpur Civil Hospital with serious wounds while others were taken to Danta.
+0.91 (others; were taken; to Danta)
+0.94 (A 19-year-old woman; was referred; to Palanpur Civil Hospital; T:while others were taken to Danta)
+
+-----------.
+
+The bus carrying 16 passengers was coming to Palanpur from Khedbrahma.
+0.94 (The bus carrying 16 passengers; was coming; to Palanpur; from Khedbrahma)
+0.90 (The bus; carrying; 16 passengers)
+
+-----------.
+
+Sources said that the driver lost control while descending on the hilly road of Dhundhiya Ghata as the steering got locked.
+0.85 Context(Sources said the driver lost,List([0, 33))):(the driver; lost control descending; on the hilly road of Dhundhiya Ghata)
+0.92 Context(Sources said,List([0, 12))):(the driver; lost; control; T:while descending on the hilly road of Dhundhiya Ghata)
+0.82 (Sources; said; that the driver lost control while descending on the hilly road of Dhundhiya Ghata)
+0.73 (the steering; got locked; )
+0.81 (the steering; got; locked)
+
+-----------.
+
+============.
