@@ -32,11 +32,12 @@
 
     
         <div id="map"></div>        
-    
+        
+        <script src="./key.txt"></script>
         <script type="text/javascript">
 
         var geojson;
-        var requestURL = 'file:///Users/samarthaggarwal/Documents/SURA/plotting/interactive_plot/geojson.json'
+        var requestURL = './geojson.json'
         var request = new XMLHttpRequest();
         request.open('GET', requestURL);
         request.responseType = 'json';
@@ -59,6 +60,7 @@
             var infowindow = new google.maps.InfoWindow();
             var  marker,i;
             var contentString = new Array();
+
 
             for (i = 0; i < geojson.features.length; i++) {  
                 var location = geojson.features[i];
@@ -83,10 +85,21 @@
             }
 
           }
+
         </script>
-        <script async defer
-        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDx3cH2CoYlfM-Z1p8cHKYGrkXpqRIBMpc&callback=initMap">
+
+
+        <!-- <script async  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD7_Ju4eLwXYhjC1hGK6SG3hNxpe4GGrSY&callback=initMap">
+          
+        </script> -->
+
+        <script type="text/javascript"> 
+            var JSElement = document.createElement('script');
+            JSElement.src = text;
+            document.getElementsByTagName('body')[0].appendChild(JSElement);
         </script>
+
+        
         
         
 
